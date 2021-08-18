@@ -1,1 +1,474 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Chinese" tvg-id="8Tv" tvg-name="8Tv", 8TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709904
 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Chinese" tvg-id="108" tvg-name="108", 8TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709916
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese" tvg-id="" tvg-name="", AOD HD(TEST)
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AEC HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709924
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AvOnvu.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Aec(TEST)
+http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 351 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709925
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 352 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709926
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 353 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709927
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 354 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709928
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 355 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709929
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="Chinese" tvg-id="" tvg-name="", Astro AOD CH353
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="Chinese" tvg-id="" tvg-name="", Astro AOD CH354
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="Chinese" tvg-id="" tvg-name="", Astro AOD CH355
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Hua Hee Dai HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709930
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO iQIYI HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709931
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Quan Jia ?? CH308
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Quan Jia HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709932
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png" group-title="Chinese" tvg-id="" tvg-name="", Astro QUAN JIA(TEST)
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Shuang Xing ??? CH307
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="Astro Shuang Xing HD" tvg-name="Astro Shuang Xing HD", Astro Shuang Xing HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709905
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Shuang Xing HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709933
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13GGwSbn/Astro-Hua-Hee.png" group-title="Chinese" tvg-id="" tvg-name="", Astro SHUANG XING(TEST)
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Astro Wah Lai Toi
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709934
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Chinese" tvg-id="Astro Xiao Tai Yang HD" tvg-name="Astro Xiao Tai Yang HD", Astro Xiao Tai Yang HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709906
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Xiao Tai Yang HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709935
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Xiao Tai Yang HD 2[Backup]
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_(2019).png" group-title="Chinese" tvg-id="" tvg-name="", Astro XiAO TAI YANG(TEST)
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Xuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Chinese" tvg-id="ATV" tvg-name="ATV", ATV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709907
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Chinese" tvg-id="CCM" tvg-name="CCM", CCM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709908
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Chinese" tvg-id="" tvg-name="", CCTV 4
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Chinese" tvg-id="" tvg-name="", CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Chinese" tvg-id="" tvg-name="", CCTV 5+
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="Chinese" tvg-id="CCTV4 HD" tvg-name="CCTV4 HD", CCTV4 HD
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" group-title="Chinese" tvg-id="" tvg-name="", Celestial classic
+http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Classic Movies
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709937
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="Chinese" tvg-id="" tvg-name="", Celestial Classic Movies [HEVC]
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Classic Movies.
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709938
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Movies
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709939
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Movies HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709940
+
+#EXTINF:-1 tvg-logo="https://thesmartlocal.com/reviews/media/reviews/photos/original/14/d6/80/_1-1350748353.jpg" group-title="Chinese" tvg-id="" tvg-name="", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", CTI Asia
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709941
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="FZTV" tvg-name="FZTV", FZTV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709910
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="KBS World" tvg-name="KBS World", KBS World
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709911
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", KBS World HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709942
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png" group-title="Chinese" tvg-id="233" tvg-name="233", Now Jelli HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709917
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="" tvg-name="", OH!K
+http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="" tvg-name="", OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="Chinese" tvg-id="Oh!K HD" tvg-name="Oh!K HD", Oh!K HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709913
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Chinese" tvg-id="ONE HD" tvg-name="ONE HD", ONE HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709912
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", One HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709943
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/874539ddef10ee6460824.png" group-title="Chinese" tvg-id="" tvg-name="", One HD CH393
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png" group-title="Chinese" tvg-id="228" tvg-name="228", SCM HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709918
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="Chinese" tvg-id="226" tvg-name="226", SCM Legend HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709919
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png" group-title="Chinese" tvg-id="209" tvg-name="209", SETI
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709920
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", SetOne [HEVC]
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606511620151r.png" group-title="Chinese" tvg-id="232" tvg-name="232", Star Chinese Channel HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709921
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB Classic
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709946
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB E-News
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709947
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB Jade HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709948
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="TVB Xing He HD" tvg-name="TVB Xing He HD", TVB Xing He HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709914
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB Xing He HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709949
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Chinese" tvg-id="" tvg-name="", tvN HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709915
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Chinese" tvg-id="211" tvg-name="211", tvN HD (Unifi)
+http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", tvN Movies
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709953
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="Chinese" tvg-id="201" tvg-name="201", tvN Movies HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709923
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", tVN movies HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709954
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", WLT JADE
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709955
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="Indian" tvg-id="" tvg-name="", Adithya CH214
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Adithya
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709890
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil", Astro Vaanavil
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709880
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Vaanavil HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709891
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="" tvg-name="", Astro Vaanavil(TEST)
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ec1b2e4750ff1c7af2546.png" group-title="Indian" tvg-id="" tvg-name="", Astro Vinmeen CH202
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Vinmeen HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709892
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/AstroTV.de.png" group-title="Indian" tvg-id="" tvg-name="", Astro Vinmeen(TEST)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Zee Tamil HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709893
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", BollyOne HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709894
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Chutti TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/330px-Colors_tv2017.png" group-title="Indian" tvg-id="" tvg-name="", Color Hd(TEST)
+http://iptv.tvmalaysia.cc/penang172/penang172/6769
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="341" tvg-name="341", Colors
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709881
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709882
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Colors Cineplex
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709896
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png" group-title="Indian" tvg-id="" tvg-name="", Colors Cineplex(TEST)
+http://iptv.tvmalaysia.cc:80/139664/139664/6768
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Colors HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709897
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/813e66c2f879d71fe0151.png" group-title="Indian" tvg-id="" tvg-name="", Colors Tamil CH222
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png" group-title="Indian" tvg-id="311" tvg-name="311", Colors Tamil HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709883
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="313" tvg-name="313", Jaya Max
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709884
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Jaya Max
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709898
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png" group-title="Indian" tvg-id="312" tvg-name="312", Polimer
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709885
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony Gem
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709899
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png" group-title="Indian" tvg-id="331" tvg-name="331", Sony Max
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709886
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony One
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709900
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="342" tvg-name="342", Sony SAB
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709887
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony SAB
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709901
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="Indian" tvg-id="343" tvg-name="343", Sony SET
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709888
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709902
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sun Music
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709903
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="Indian" tvg-id="301" tvg-name="301", Yupp Thirai HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709889
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Zee Classic
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Zee Classic
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0d0afc349f8d45f458547.jpg" group-title="Indian" tvg-id="" tvg-name="", Zee Tamil HD CH223
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="Indian" tvg-id="" tvg-name="", Zee tamil(TEST)
+http://iptv.tvmalaysia.cc/penang172/penang172/6742
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Arena ( B )
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709977
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO Arena HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709978
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO Cricket
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709979
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 2 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709980
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 3 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709981
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 4 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709982
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709983
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="ASTRO SUPERSPORTS 2 HD" tvg-name="ASTRO SUPERSPORTS 2 HD", ASTRO SUPERSPORTS 2 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709956
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN MAX
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709984
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN MAX 2
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709985
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN Sports
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709986
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eleven Sport 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eleven Sport 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1", Eleven Sports 1
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709957
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="Sports" tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2", Eleven Sports 2
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709958
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Euro Sport 2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eurosport 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="EUROSPORT HD" tvg-name="EUROSPORT HD", EUROSPORT HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709959
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Eurosport HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709987
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports" tvg-id="FightBox" tvg-name="FightBox", FightBox
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709960
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="Sports" tvg-id="" tvg-name="", FightBox
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="Sports" tvg-id="" tvg-name="", FightBox
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Sports" tvg-id="FOX SPORTS 1 HD" tvg-name="FOX SPORTS 1 HD", FOX SPORTS 1 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709961
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Sports" tvg-id="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD", FOX SPORTS 2 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709962
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png" group-title="Sports" tvg-id="707" tvg-name="707", FOX Sports 2 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709969
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports 2 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709988
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Sports" tvg-id="FOX SPORTS 3 HD" tvg-name="FOX SPORTS 3 HD", FOX SPORTS 3 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709963
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png" group-title="Sports" tvg-id="708" tvg-name="708", FOX Sports 3 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709970
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports 3 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709989
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png" group-title="Sports" tvg-id="706" tvg-name="706", FOX Sports HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709971
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709990
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Golf Channel
+http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports" tvg-id="Golf Channel HD" tvg-name="Golf Channel HD", Golf Channel HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709964
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Sports" tvg-id="" tvg-name="", Golf hd
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Sports" tvg-id="" tvg-name="", Golf hd
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports" tvg-id="" tvg-name="", Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sports" tvg-id="RedBull TV" tvg-name="RedBull TV", RedBull TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709965
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", RTM Sports
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709991
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Rugby Pass TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709992
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="" tvg-name="", Sukan
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="Sports" tvg-id="T Sports" tvg-name="T Sports", T Sports
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709966
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports" tvg-id="Tennis Channel" tvg-name="Tennis Channel", Tennis Channel
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709967
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Fox Sport2
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709993
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Fox Sport3
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709994
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Tennis HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709995
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | True Sport HD4
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709996
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Sports" tvg-id="TVRI Sport" tvg-name="TVRI Sport", TVRI Sport
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709968
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="Sports" tvg-id="" tvg-name="", TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="Sports" tvg-id="" tvg-name="", TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709180917156kdl.png" group-title="Sports" tvg-id="701" tvg-name="701", unifi Sports 1 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709972
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/202107091805315962ck.png" group-title="Sports" tvg-id="702" tvg-name="702", unifi Sports 2 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709973
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709052952183il3.png" group-title="Sports" tvg-id="703" tvg-name="703", unifi Sports 3 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709974
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png" group-title="Sports" tvg-id="704" tvg-name="704", unifi Sports 4 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709975
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png" group-title="Sports" tvg-id="705" tvg-name="705", unifi Sports 5 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709976
