@@ -1,432 +1,432 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Animax
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Animax
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709816
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Animax
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=”” tvg-name=””, Animax
 http://iptv.tvmalaysia.cc:80/139664/139664/6696
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Aniplus HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=”” tvg-name=””, Aniplus HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6697
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Aniplus HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Aniplus HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709817
 
-#EXTINF:-1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png" group-title="Kids" tvg-id="" tvg-name="", Astro Ceria (TEST)
+#EXTINF:-1 tvg-logo=https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png group-title=”Kids” tvg-id=”” tvg-name=””, Astro Ceria (TEST)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kids" tvg-id="" tvg-name="", Astro Ceria [HEVC]
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png group-title=”Kids” tvg-id=”” tvg-name=””, Astro Ceria [HEVC]
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="Kids" tvg-id="" tvg-name="", Astro Ceria CH611
+#EXTINF:-1 tvg-logo=https://telegra.ph/file/413372fcca791b2904f78.jpg group-title=”Kids” tvg-id=”” tvg-name=””, Astro Ceria CH611
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", ASTRO Ceria HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, ASTRO Ceria HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709818
 
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA" group-title="Kids" tvg-id="562" tvg-name="562", Baby TV HD
+#EXTINF:-1 tvg-logo=https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA group-title=”Kids” tvg-id=”562” tvg-name=”562”, Baby TV HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709811
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="Kids" tvg-id="Boomerang" tvg-name="Boomerang", Boomerang
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png group-title=”Kids” tvg-id=”Boomerang” tvg-name=”Boomerang”, Boomerang
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709808
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png" group-title="Kids" tvg-id="555" tvg-name="555", Boomerang HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png group-title=”Kids” tvg-id=”555” tvg-name=”555”, Boomerang HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709812
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Cartoon Network FHD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Cartoon Network FHD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709819
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="Kids" tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD", Cartoon Network HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png group-title=”Kids” tvg-id=”Cartoon Network HD” tvg-name=”Cartoon Network HD”, Cartoon Network HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709809
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Cartoon Network HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Cartoon Network HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709820
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="Kids" tvg-id="553" tvg-name="553", CBeebies HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png group-title=”Kids” tvg-id=”553” tvg-name=”553”, CBeebies HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709813
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Kids" tvg-id="Disney Jr" tvg-name="Disney Jr", Disney Jr
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png group-title=”Kids” tvg-id=”Disney Jr” tvg-name=”Disney Jr”, Disney Jr
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709810
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nick Jr
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Nick Jr
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709821
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png" group-title="Kids" tvg-id="552" tvg-name="552", Nick Jr.
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png group-title=”Kids” tvg-id=”552” tvg-name=”552”, Nick Jr.
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709814
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png" group-title="Kids" tvg-id="554" tvg-name="554", Nickelodeon
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png group-title=”Kids” tvg-id=”554” tvg-name=”554”, Nickelodeon
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709815
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nickelodeon
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Nickelodeon
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709822
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nickelodeon HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Nickelodeon HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709823
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nicktoons FHD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Nicktoons FHD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709824
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Tom & Jerry HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Tom & Jerry HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709826
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Universal Kids FHD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Kids” tvg-id=““ tvg-name=““, Universal Kids FHD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709827
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", (DP) DW (English) _USEETV
+#EXTINF:-1 tvg-logo=https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13 group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, (DP) DW (English) _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Animal Planet
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Animal Planet
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709854
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD", Animal Planet HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png group-title=”Lifestyle & Documentary” tvg-id=”Animal Planet HD” tvg-name=”Animal Planet HD”, Animal Planet HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709829
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Animal Planet HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Animal Planet HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709855
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Asia Food Network
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Asia Food Network
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709856
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Asian Food Channel
+#EXTINF:-1 tvg-logo=https://mncvision.id/userfiles/image/channel/channel_240.jpg group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, Asian Food Channel
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="Lifestyle & Documentary" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Network HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png group-title=”Lifestyle & Documentary” tvg-id=”Asian Food Network HD” tvg-name=”Asian Food Network HD”, Asian Food Network HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709830
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Asian Food Network HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Asian Food Network HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709857
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", BBC Earth
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, BBC Earth
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709831
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", BBC Earth
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, BBC Earth
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709858
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" group-title="Lifestyle & Documentary" tvg-id="501" tvg-name="501", BBC Earth HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png group-title=”Lifestyle & Documentary” tvg-id=”501” tvg-name=”501”, BBC Earth HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709846
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", BBC Lifestyle
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, BBC Lifestyle
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709832
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", BBC Lifestyle
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, BBC Lifestyle
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709859
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle & Documentary" tvg-id="512" tvg-name="512", BBC Lifestyle HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png group-title=”Lifestyle & Documentary” tvg-id=”512” tvg-name=”512”, BBC Lifestyle HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709847
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", CGTN Documentary
+#EXTINF:-1 tvg-logo=https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Lifestyle & Documentary" tvg-id="CGTN Documentary" tvg-name="CGTN Documentary", CGTN Documentary
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png group-title=”Lifestyle & Documentary” tvg-id=”CGTN Documentary” tvg-name=”CGTN Documentary”, CGTN Documentary
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709833
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", CGTN Documentary
+#EXTINF:-1 tvg-logo=https://mantul.org/logo/cgtndoc.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery Asia
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Discovery Asia
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709862
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Discovery Asia HD" tvg-name="Discovery Asia HD", Discovery Asia HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=”Discovery Asia HD” tvg-name=”Discovery Asia HD”, Discovery Asia HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709834
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery Asia.
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Discovery Asia.
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709863
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD", Discovery Channel HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png group-title=”Lifestyle & Documentary” tvg-id=”Discovery Channel HD” tvg-name=”Discovery Channel HD”, Discovery Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709835
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery Channel HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Discovery Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709864
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Discovery HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709865
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery Science HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Discovery Science HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709866
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" group-title="Lifestyle & Documentary" tvg-id="642" tvg-name="642", DW
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png group-title=”Lifestyle & Documentary” tvg-id=”642” tvg-name=”642”, DW
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709848
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bmLNjpD/dw.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", DW English
+#EXTINF:-1 tvg-logo=https://i.ibb.co/bmLNjpD/dw.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bmLNjpD/dw.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", DW English
+#EXTINF:-1 tvg-logo=https://i.ibb.co/bmLNjpD/dw.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", DW HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, DW HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709867
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", eGG Network
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, eGG Network
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709868
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Fashion Tv
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Fashion Tv
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709836
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", fashion tv
+#EXTINF:-1 tvg-logo=https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1 group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, fashion tv
 http://dituduhmaling.xyz/US33T4/fashiontv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Fashion Tv Film
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Fashion Tv Film
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709837
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", fashion tv Midnight 2
+#EXTINF:-1 tvg-logo=https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1 group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, fashion tv Midnight 2
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Food Network HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Food Network HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709869
 
-#EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
+#EXTINF:-1 tvg-logo=http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", HGTV
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, HGTV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709870
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
+#EXTINF:-1 tvg-logo=https://mantul.org/logo/hgtv.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
+#EXTINF:-1 tvg-logo=https://mantul.org/logo/hgtv.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", HGTV HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, HGTV HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709871
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", History FHD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, History FHD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709872
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Lifestyle & Documentary" tvg-id="History HD" tvg-name="History HD", History HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png group-title=”Lifestyle & Documentary” tvg-id=”History HD” tvg-name=”History HD”, History HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709838
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", History HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, History HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709873
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Love Nature
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Love Nature
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709839
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="502" tvg-name="502", Love Nature HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg group-title=”Lifestyle & Documentary” tvg-id=”502” tvg-name=”502”, Love Nature HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709849
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", NASA TV
+#EXTINF:-1 tvg-logo=https://i.imgur.com/iJldO7U.jpg group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Lifestyle & Documentary" tvg-id="Nasa TV" tvg-name="Nasa TV", Nasa TV
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png group-title=”Lifestyle & Documentary” tvg-id=”Nasa TV” tvg-name=”Nasa TV”, Nasa TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709840
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png" group-title="Lifestyle & Documentary" tvg-id="511" tvg-name="511", Nat Geo People HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png group-title=”Lifestyle & Documentary” tvg-id=”511” tvg-name=”511”, Nat Geo People HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709850
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Nat Geo People HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Nat Geo People HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709874
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Nat Geo Wild
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, Nat Geo Wild
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Lifestyle & Documentary" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD", Nat Geo Wild HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png group-title=”Lifestyle & Documentary” tvg-id=”Nat Geo Wild HD” tvg-name=”Nat Geo Wild HD”, Nat Geo Wild HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709842
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG" group-title="Lifestyle & Documentary" tvg-id="509" tvg-name="509", Nat Geo Wild HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG group-title=”Lifestyle & Documentary” tvg-id=”509” tvg-name=”509”, Nat Geo Wild HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709851
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Nat Geo Wild HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Nat Geo Wild HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709875
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", NatGeo People
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, NatGeo People
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709876
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", National Geographic Channel
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, National Geographic Channel
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="Lifestyle & Documentary" tvg-id="National Geographic HD" tvg-name="National Geographic HD", National Geographic HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png group-title=”Lifestyle & Documentary” tvg-id=”National Geographic HD” tvg-name=”National Geographic HD”, National Geographic HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709841
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png" group-title="Lifestyle & Documentary" tvg-id="508" tvg-name="508", National Geographic HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png group-title=”Lifestyle & Documentary” tvg-id=”508” tvg-name=”508”, National Geographic HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709852
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", National Geographic HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, National Geographic HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709877
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Nature
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, Nature
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1e26d24e-0585-11eb-82fe-0242ac110002&deviceId=5be1c3f9851dd5632e2c91b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", TH | HGTV
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, TH | HGTV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709878
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Lifestyle & Documentary" tvg-id="TLC HD" tvg-name="TLC HD", TLC HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png group-title=”Lifestyle & Documentary” tvg-id=”TLC HD” tvg-name=”TLC HD”, TLC HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709843
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="Travel Channel" tvg-name="Travel Channel", Travel Channel
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png group-title=”Lifestyle & Documentary” tvg-id=”Travel Channel” tvg-name=”Travel Channel”, Travel Channel
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709845
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", Travel Channel HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png group-title=”Lifestyle & Documentary” tvg-id=”521” tvg-name=”521”, Travel Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709853
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Travel Channel HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, Travel Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709879
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", TV5 Monde Asie
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png group-title=”Lifestyle & Documentary” tvg-id=”” tvg-name=””, TV5 Monde Asie
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", TV5 MONDE STYLE
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png group-title=”Lifestyle & Documentary” tvg-id=““ tvg-name=““, TV5 MONDE STYLE
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709844
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Arena ( B )
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, Arena ( B )
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709977
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO Arena HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, ASTRO Arena HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709978
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO Cricket
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, ASTRO Cricket
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709979
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, ASTRO SUPERSPORT 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709980
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, ASTRO SUPERSPORT 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709981
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, ASTRO SUPERSPORT 4 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709982
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, ASTRO SUPERSPORT HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709983
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="ASTRO SUPERSPORTS 2 HD" tvg-name="ASTRO SUPERSPORTS 2 HD", ASTRO SUPERSPORTS 2 HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png group-title=”Sports” tvg-id=”ASTRO SUPERSPORTS 2 HD” tvg-name=”ASTRO SUPERSPORTS 2 HD”, ASTRO SUPERSPORTS 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709956
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN MAX
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, beIN MAX
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709984
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN MAX 2
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, beIN MAX 2
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709985
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN Sports
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, beIN Sports
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709986
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eleven Sport 1
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=”” tvg-name=””, Eleven Sport 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eleven Sport 2
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=”” tvg-name=””, Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1", Eleven Sports 1
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png group-title=”Sports” tvg-id=”Eleven Sports 1” tvg-name=”Eleven Sports 1”, Eleven Sports 1
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709957
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="Sports" tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2", Eleven Sports 2
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png group-title=”Sports” tvg-id=”Eleven Sports 2” tvg-name=”Eleven Sports 2”, Eleven Sports 2
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709958
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Euro Sport 2
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=”” tvg-name=””, Euro Sport 2
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eurosport 1
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=”” tvg-name=””, Eurosport 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="EUROSPORT HD" tvg-name="EUROSPORT HD", EUROSPORT HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png group-title=”Sports” tvg-id=”EUROSPORT HD” tvg-name=”EUROSPORT HD”, EUROSPORT HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709959
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Eurosport HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, Eurosport HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709987
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports" tvg-id="FightBox" tvg-name="FightBox", FightBox
+#EXTINF:-1 tvg-logo=https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png group-title=”Sports” tvg-id=”FightBox” tvg-name=”FightBox”, FightBox
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709960
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="Sports" tvg-id="" tvg-name="", FightBox
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png group-title=”Sports” tvg-id=”” tvg-name=””, FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="Sports" tvg-id="" tvg-name="", FightBox
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png group-title=”Sports” tvg-id=”” tvg-name=””, FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Sports" tvg-id="FOX SPORTS 1 HD" tvg-name="FOX SPORTS 1 HD", FOX SPORTS 1 HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png group-title=”Sports” tvg-id=”FOX SPORTS 1 HD” tvg-name=”FOX SPORTS 1 HD”, FOX SPORTS 1 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709961
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Sports" tvg-id="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD", FOX SPORTS 2 HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png group-title=”Sports” tvg-id=”FOX SPORTS 2 HD” tvg-name=”FOX SPORTS 2 HD”, FOX SPORTS 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709962
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png" group-title="Sports" tvg-id="707" tvg-name="707", FOX Sports 2 HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png group-title=”Sports” tvg-id=”707” tvg-name=”707”, FOX Sports 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709969
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports 2 HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, FOX Sports 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709988
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Sports" tvg-id="FOX SPORTS 3 HD" tvg-name="FOX SPORTS 3 HD", FOX SPORTS 3 HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png group-title=”Sports” tvg-id=”FOX SPORTS 3 HD” tvg-name=”FOX SPORTS 3 HD”, FOX SPORTS 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709963
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png" group-title="Sports" tvg-id="708" tvg-name="708", FOX Sports 3 HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png group-title=”Sports” tvg-id=”708” tvg-name=”708”, FOX Sports 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709970
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports 3 HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, FOX Sports 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709989
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png" group-title="Sports" tvg-id="706" tvg-name="706", FOX Sports HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png group-title=”Sports” tvg-id=”706” tvg-name=”706”, FOX Sports HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709971
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, FOX Sports HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709990
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Golf Channel
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=”” tvg-name=””, Golf Channel
 http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports" tvg-id="Golf Channel HD" tvg-name="Golf Channel HD", Golf Channel HD
+#EXTINF:-1 tvg-logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png group-title=”Sports” tvg-id=”Golf Channel HD” tvg-name=”Golf Channel HD”, Golf Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709964
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Sports" tvg-id="" tvg-name="", Golf hd
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png group-title=”Sports” tvg-id=”” tvg-name=””, Golf hd
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Sports" tvg-id="" tvg-name="", Golf hd
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png group-title=”Sports” tvg-id=”” tvg-name=””, Golf hd
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Red Bull TV
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=”” tvg-name=””, Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports" tvg-id="" tvg-name="", Red Bull TV (1080p)
+#EXTINF:-1 tvg-logo=https://i.imgur.com/7NeBmWX.jpg group-title=”Sports” tvg-id=”” tvg-name=””, Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sports" tvg-id="RedBull TV" tvg-name="RedBull TV", RedBull TV
+#EXTINF:-1 tvg-logo=https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv group-title=”Sports” tvg-id=”RedBull TV” tvg-name=”RedBull TV”, RedBull TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709965
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", RTM Sports
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, RTM Sports
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709991
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Rugby Pass TV
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, Rugby Pass TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709992
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="" tvg-name="", Sukan
+#EXTINF:-1 tvg-logo=https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg group-title=”Sports” tvg-id=”” tvg-name=””, Sukan
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="Sports" tvg-id="T Sports" tvg-name="T Sports", T Sports
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/tt/t_sports.png group-title=”Sports” tvg-id=”T Sports” tvg-name=”T Sports”, T Sports
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709966
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports" tvg-id="Tennis Channel" tvg-name="Tennis Channel", Tennis Channel
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png group-title=”Sports” tvg-id=”Tennis Channel” tvg-name=”Tennis Channel”, Tennis Channel
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709967
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Fox Sport2
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, TH | Fox Sport2
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709993
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Fox Sport3
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, TH | Fox Sport3
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709994
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Tennis HD
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, TH | Tennis HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709995
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | True Sport HD4
+#EXTINF:-1 tvg-logo=”noimage.png” group-title=”Sports” tvg-id=““ tvg-name=““, TH | True Sport HD4
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709996
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Sports" tvg-id="TVRI Sport" tvg-name="TVRI Sport", TVRI Sport
+#EXTINF:-1 tvg-logo=https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png group-title=”Sports” tvg-id=”TVRI Sport” tvg-name=”TVRI Sport”, TVRI Sport
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709968
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="Sports" tvg-id="" tvg-name="", TVRI Sports
+#EXTINF:-1 tvg-logo=https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg group-title=”Sports” tvg-id=”” tvg-name=””, TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="Sports" tvg-id="" tvg-name="", TVRI Sports
+#EXTINF:-1 tvg-logo=https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg group-title=”Sports” tvg-id=”” tvg-name=””, TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709180917156kdl.png" group-title="Sports" tvg-id="701" tvg-name="701", unifi Sports 1 HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709180917156kdl.png group-title=”Sports” tvg-id=”701” tvg-name=”701”, unifi Sports 1 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709972
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/202107091805315962ck.png" group-title="Sports" tvg-id="702" tvg-name="702", unifi Sports 2 HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/202107091805315962ck.png group-title=”Sports” tvg-id=”702” tvg-name=”702”, unifi Sports 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709973
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709052952183il3.png" group-title="Sports" tvg-id="703" tvg-name="703", unifi Sports 3 HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709052952183il3.png group-title=”Sports” tvg-id=”703” tvg-name=”703”, unifi Sports 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709974
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png" group-title="Sports" tvg-id="704" tvg-name="704", unifi Sports 4 HD
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png group-title=”Sports” tvg-id=”704” tvg-name=”704”, unifi Sports 4 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709975
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png" group-title="Sports" tvg-id="705" tvg-name="705", unifi Sports 5 HD
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709976
+#EXTINF:-1 tvg-logo=https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png group-title=”Sports” tvg-id=”705” tvg-name=”705”, unifi Sports 5 HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709976 
