@@ -8,25 +8,25 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709916
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese" tvg-id="" tvg-name="", AOD HD(TEST)
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AEC HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO AEC HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709924
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AvOnvu.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Aec(TEST)
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 351 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO AOD 351 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709925
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 352 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO AOD 352 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709926
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 353 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO AOD 353 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709927
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 354 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO AOD 354 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709928
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO AOD 355 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO AOD 355 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709929
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="Chinese" tvg-id="" tvg-name="", Astro AOD CH353
@@ -38,16 +38,16 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="Chinese" tvg-id="" tvg-name="", Astro AOD CH355
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Hua Hee Dai HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO Hua Hee Dai HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709930
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO iQIYI HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO iQIYI HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709931
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Quan Jia ?? CH308
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Quan Jia HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO Quan Jia HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709932
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png" group-title="Chinese" tvg-id="" tvg-name="", Astro QUAN JIA(TEST)
@@ -59,19 +59,19 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="Astro Shuang Xing HD" tvg-name="Astro Shuang Xing HD", Astro Shuang Xing HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709905
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Shuang Xing HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO Shuang Xing HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709933
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13GGwSbn/Astro-Hua-Hee.png" group-title="Chinese" tvg-id="" tvg-name="", Astro SHUANG XING(TEST)
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Astro Wah Lai Toi
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Wah Lai Toi
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709934
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Chinese" tvg-id="Astro Xiao Tai Yang HD" tvg-name="Astro Xiao Tai Yang HD", Astro Xiao Tai Yang HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709906
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", ASTRO Xiao Tai Yang HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", ASTRO Xiao Tai Yang HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709935
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Xiao Tai Yang HD 2[Backup]
@@ -104,25 +104,25 @@ https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" group-title="Chinese" tvg-id="" tvg-name="", Celestial classic
 http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Classic Movies
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", Celestial Classic Movies
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709937
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="Chinese" tvg-id="" tvg-name="", Celestial Classic Movies [HEVC]
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Classic Movies.
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", Celestial Classic Movies.
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709938
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Movies
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", Celestial Movies
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709939
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", Celestial Movies HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", Celestial Movies HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709940
 
 #EXTINF:-1 tvg-logo="https://thesmartlocal.com/reviews/media/reviews/photos/original/14/d6/80/_1-1350748353.jpg" group-title="Chinese" tvg-id="" tvg-name="", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", CTI Asia
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", CTI Asia
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709941
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="FZTV" tvg-name="FZTV", FZTV
@@ -131,7 +131,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709910
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="KBS World" tvg-name="KBS World", KBS World
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709911
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", KBS World HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", KBS World HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709942
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png" group-title="Chinese" tvg-id="233" tvg-name="233", Now Jelli HD
@@ -149,7 +149,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709913
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Chinese" tvg-id="ONE HD" tvg-name="ONE HD", ONE HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709912
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", One HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", One HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709943
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/874539ddef10ee6460824.png" group-title="Chinese" tvg-id="" tvg-name="", One HD CH393
@@ -170,19 +170,19 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606511620151r.png" group-title="Chinese" tvg-id="232" tvg-name="232", Star Chinese Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709921
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB Classic
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", TVB Classic
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709946
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB E-News
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", TVB E-News
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709947
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB Jade HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", TVB Jade HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709948
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="TVB Xing He HD" tvg-name="TVB Xing He HD", TVB Xing He HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709914
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", TVB Xing He HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", TVB Xing He HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709949
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Chinese" tvg-id="" tvg-name="", tvN HD
@@ -191,16 +191,16 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709915
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Chinese" tvg-id="211" tvg-name="211", tvN HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", tvN Movies
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", tvN Movies
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709953
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="Chinese" tvg-id="201" tvg-name="201", tvN Movies HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709923
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", tVN movies HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", tVN movies HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709954
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="Dummy" tvg-name="Dummy", WLT JADE
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese" tvg-id="" tvg-name="", WLT JADE
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709955
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment" tvg-id="B4U Music" tvg-name="B4U Music", B4U Music
@@ -212,7 +212,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709998
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="Entertainment" tvg-id="MTV" tvg-name="MTV", MTV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709999
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment" tvg-id="Dummy" tvg-name="Dummy", MTV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment" tvg-id="" tvg-name="", MTV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710005
 
 #EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/HkjTz25S/MTV.png" group-title="Entertainment" tvg-id="" tvg-name="", MTV
@@ -230,43 +230,43 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Entertainment" tvg-id="Retro Music TV" tvg-name="Retro Music TV", Retro Music TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710002
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment" tvg-id="Dummy" tvg-name="Dummy", Thrill
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment" tvg-id="" tvg-name="", Thrill
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710006
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE" group-title="Entertainment" tvg-id="100" tvg-name="100", unifi TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710004
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Arena ( B )
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Arena ( B )
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709977
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO Arena HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ASTRO Arena HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709978
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO Cricket
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ASTRO Cricket
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709979
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ASTRO SUPERSPORT 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709980
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ASTRO SUPERSPORT 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709981
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ASTRO SUPERSPORT 4 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709982
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", ASTRO SUPERSPORT HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ASTRO SUPERSPORT HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709983
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="ASTRO SUPERSPORTS 2 HD" tvg-name="ASTRO SUPERSPORTS 2 HD", ASTRO SUPERSPORTS 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709956
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN MAX
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", beIN MAX
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709984
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN MAX 2
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", beIN MAX 2
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709985
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", beIN Sports
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", beIN Sports
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709986
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eleven Sport 1
@@ -290,7 +290,7 @@ http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="EUROSPORT HD" tvg-name="EUROSPORT HD", EUROSPORT HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709959
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Eurosport HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Eurosport HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709987
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports" tvg-id="FightBox" tvg-name="FightBox", FightBox
@@ -311,7 +311,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709962
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png" group-title="Sports" tvg-id="707" tvg-name="707", FOX Sports 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709969
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports 2 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FOX Sports 2 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709988
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Sports" tvg-id="FOX SPORTS 3 HD" tvg-name="FOX SPORTS 3 HD", FOX SPORTS 3 HD
@@ -320,13 +320,13 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709963
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png" group-title="Sports" tvg-id="708" tvg-name="708", FOX Sports 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709970
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports 3 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FOX Sports 3 HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709989
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png" group-title="Sports" tvg-id="706" tvg-name="706", FOX Sports HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709971
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", FOX Sports HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FOX Sports HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709990
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Golf Channel
@@ -350,10 +350,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sports" tvg-id="RedBull TV" tvg-name="RedBull TV", RedBull TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709965
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", RTM Sports
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", RTM Sports
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709991
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", Rugby Pass TV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", Rugby Pass TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709992
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="" tvg-name="", Sukan
@@ -365,16 +365,16 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709966
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports" tvg-id="Tennis Channel" tvg-name="Tennis Channel", Tennis Channel
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709967
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Fox Sport2
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", TH | Fox Sport2
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709993
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Fox Sport3
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", TH | Fox Sport3
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709994
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | Tennis HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", TH | Tennis HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709995
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="Dummy" tvg-name="Dummy", TH | True Sport HD4
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", TH | True Sport HD4
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709996
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Sports" tvg-id="TVRI Sport" tvg-name="TVRI Sport", TVRI Sport
@@ -428,7 +428,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710014
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio" tvg-id="ERA FM" tvg-name="ERA FM", ERA FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710015
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="Dummy" tvg-name="Dummy", Era FM
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="" tvg-name="", Era FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710054
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/era-fm-sabah.jpg" group-title="Radio" tvg-id="ERA SABAH" tvg-name="ERA SABAH", ERA SABAH
@@ -446,7 +446,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710018
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ FM" tvg-name="HITZ FM", HITZ FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710020
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="Dummy" tvg-name="Dummy", Hitz FM
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="" tvg-name="", Hitz FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710055
 
 #EXTINF:-1 tvg-logo="https://radiomalaysia.net/radio/thumbs/18193hitz-fm-sabah.jpg" group-title="Radio" tvg-id="HITZ SABAH" tvg-name="HITZ SABAH", HITZ SABAH
@@ -458,7 +458,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710022
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio" tvg-id="HOT FM" tvg-name="HOT FM", HOT FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710023
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="Dummy" tvg-name="Dummy", Hot FM
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="" tvg-name="", Hot FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710056
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" tvg-id="INDIA BEAT" tvg-name="INDIA BEAT", INDIA BEAT
@@ -536,7 +536,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710047
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio" tvg-id="SINAR FM" tvg-name="SINAR FM", SINAR FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710048
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="Dummy" tvg-name="Dummy", Sinar FM
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio" tvg-id="" tvg-name="", Sinar FM
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710057
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN" group-title="Radio" tvg-id="CHN" tvg-name="CHN", Suria FM
@@ -980,7 +980,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948
 #EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="" tvg-name="", Movies Now
 http://iptv.tvmalaysia.cc:80/139664/139664/8999
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="Dummy" tvg-name="Dummy", Movies Now
+#EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="" tvg-name="", Movies Now
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709734
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="" tvg-name="", Movies Now
@@ -1139,7 +1139,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", ASTRO Ceria HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6715
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", ASTRO Ceria HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", ASTRO Ceria HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709818
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA" group-title="Kids" tvg-id="562" tvg-name="562", Baby TV HD
@@ -1169,7 +1169,7 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7198
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nick Jr
 http://iptv.tvmalaysia.cc:80/139664/139664/6813
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nick Jr
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nick Jr
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709821
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png" group-title="Kids" tvg-id="552" tvg-name="552", Nick Jr.
@@ -1181,34 +1181,34 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7201
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png" group-title="Kids" tvg-id="554" tvg-name="554", Nickelodeon
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709815
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nickelodeon
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nickelodeon
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709822
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nickelodeon HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6814
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nickelodeon HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nickelodeon HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709823
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nicktoons FHD
 http://iptv.tvmalaysia.cc:80/139664/139664/7202
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Nicktoons FHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Nicktoons FHD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709824
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="Dummy" tvg-name="Dummy", Tom & Jerry HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709826
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="Indian" tvg-id="" tvg-name="", Adithya CH214
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Adithya
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", ASTRO Adithya
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709890
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil", Astro Vaanavil
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709880
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Vaanavil HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", ASTRO Vaanavil HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709891
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="" tvg-name="", Astro Vaanavil(TEST)
@@ -1217,19 +1217,19 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/ec1b2e4750ff1c7af2546.png" group-title="Indian" tvg-id="" tvg-name="", Astro Vinmeen CH202
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Vinmeen HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", ASTRO Vinmeen HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709892
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/AstroTV.de.png" group-title="Indian" tvg-id="" tvg-name="", Astro Vinmeen(TEST)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", ASTRO Zee Tamil HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", ASTRO Zee Tamil HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709893
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", BollyOne HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", BollyOne HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709894
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Chutti TV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Chutti TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709895
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/330px-Colors_tv2017.png" group-title="Indian" tvg-id="" tvg-name="", Color Hd(TEST)
@@ -1241,13 +1241,13 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709881
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709882
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Colors Cineplex
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Colors Cineplex
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709896
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png" group-title="Indian" tvg-id="" tvg-name="", Colors Cineplex(TEST)
 http://iptv.tvmalaysia.cc:80/139664/139664/6768
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Colors HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Colors HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709897
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/813e66c2f879d71fe0151.png" group-title="Indian" tvg-id="" tvg-name="", Colors Tamil CH222
@@ -1259,34 +1259,34 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709883
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="313" tvg-name="313", Jaya Max
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709884
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Jaya Max
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Jaya Max
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709898
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png" group-title="Indian" tvg-id="312" tvg-name="312", Polimer
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709885
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony Gem
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Sony Gem
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709899
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png" group-title="Indian" tvg-id="331" tvg-name="331", Sony Max
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709886
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony One
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Sony One
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709900
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="342" tvg-name="342", Sony SAB
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709887
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony SAB
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Sony SAB
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709901
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="Indian" tvg-id="343" tvg-name="343", Sony SET
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709888
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sony TV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Sony TV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709902
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="Dummy" tvg-name="Dummy", Sun Music
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Indian" tvg-id="" tvg-name="", Sun Music
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709903
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="Indian" tvg-id="301" tvg-name="301", Yupp Thirai HD
@@ -1310,7 +1310,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Asia Food Network
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Asia Food Network
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709856
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle & Documentary" tvg-id="709" tvg-name="709", Asian Food Channel
@@ -1331,10 +1331,10 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709833
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Discovery HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709865
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Discovery Science HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Discovery Science HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709866
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" group-title="Lifestyle & Documentary" tvg-id="642" tvg-name="642", DW
@@ -1346,31 +1346,31 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bmLNjpD/dw.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", DW HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", DW HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709867
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", eGG Network
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", eGG Network
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709868
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Fashion Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Tv
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709836
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", fashion tv
 http://dituduhmaling.xyz/US33T4/fashiontv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Fashion Tv Film
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Tv Film
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709837
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", fashion tv Midnight 2
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Food Network HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Food Network HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709869
 
 #EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", HGTV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709870
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
@@ -1379,19 +1379,19 @@ http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", HGTV HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", HGTV HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709871
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", History FHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", History FHD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709872
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Lifestyle & Documentary" tvg-id="History HD" tvg-name="History HD", History HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709838
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", History HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", History HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709873
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Love Nature
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Love Nature
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709839
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="502" tvg-name="502", Love Nature HD
@@ -1406,10 +1406,10 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709840
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png" group-title="Lifestyle & Documentary" tvg-id="710" tvg-name="710", Nat Geo People HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Nat Geo People HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Nat Geo People HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709874
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", NatGeo People
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", NatGeo People
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709876
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3aLG5QF" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Nat Geo Wild
@@ -1427,13 +1427,13 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709841
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png" group-title="Lifestyle & Documentary" tvg-id="508" tvg-name="508", National Geographic HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709852
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", National Geographic HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", National Geographic HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709877
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Nature
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1e26d24e-0585-11eb-82fe-0242ac110002&deviceId=5be1c3f9851dd5632e2c91b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", TH | HGTV
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", TH | HGTV
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709878
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="Travel Channel" tvg-name="Travel Channel", Travel Channel
@@ -1442,16 +1442,16 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709845
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", Travel Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709853
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", Travel Channel HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Travel Channel HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709879
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", TV5 Monde Asie
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="Lifestyle & Documentary" tvg-id="Dummy" tvg-name="Dummy", TV5 MONDE STYLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", TV5 MONDE STYLE
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709844
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", -Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", -Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710058
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", -Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
@@ -1463,7 +1463,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 10 Tips Tipu Bini (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7308.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 10 Tips Tipu Bini (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 10 Tips Tipu Bini (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710059
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ej2EOP.jpg" group-title="VOD" tvg-id="" tvg-name="", 12.ARMAGEDDON TALES (2021-Action)
@@ -1475,7 +1475,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 15 Puasa (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6989.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 15 Puasa (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 15 Puasa (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710060
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aaSQ6kx.jpg" group-title="VOD" tvg-id="" tvg-name="", 15.Space Sweepers (2021-Action)
@@ -1484,7 +1484,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 16 Puasa (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6990.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 16 Puasa (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 16 Puasa (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710061
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXUUaVs.jpg" group-title="VOD" tvg-id="" tvg-name="", 16.Master (2021-Action)
@@ -1493,13 +1493,13 @@ https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 17 Puasa (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6991.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 17 Puasa (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 17 Puasa (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710062
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 18 Puasa Di Kampung Pisang
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7334.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 18 Puasa Di Kampung Pisang
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 18 Puasa Di Kampung Pisang
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710063
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KOVVg3r.jpg" group-title="VOD" tvg-id="" tvg-name="", 20.Just Noise (2021-Action)
@@ -1544,7 +1544,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/297.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 3 Idiots (2009)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/297.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 3 Idiots (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 3 Idiots (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710064
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAdzX3L.jpg" group-title="VOD" tvg-id="" tvg-name="", 3.Nobody (2021-Action)
@@ -1559,7 +1559,7 @@ http://srv18.nf21.net/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 7 Perhentian (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6988.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", 7 Perhentian (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", 7 Perhentian (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710065
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNEYhbK.jpg" group-title="VOD" tvg-id="" tvg-name="", 7.Thunder Force (2021-Action)
@@ -1571,25 +1571,25 @@ https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", A Babysitter''''''''s Guide to Monster Hunting (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6664.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", A Babysitter''s Guide to Monster Hunting (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", A Babysitter''s Guide to Monster Hunting (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710066
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", A Deadly Place (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7274.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", A Deadly Place (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", A Deadly Place (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710067
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", A Night of Horror: Nightmare Radio (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6665.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", A Night of Horror: Nightmare Radio (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", A Night of Horror: Nightmare Radio (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710068
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Abang Beduk (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6992.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Abang Beduk (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Abang Beduk (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710069
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV2H44Q/Abominable-2019.jpg" group-title="VOD" tvg-id="" tvg-name="", Abominable (2019)
@@ -1640,7 +1640,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Active Shooter (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7268.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Active Shooter (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Active Shooter (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710070
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtWKDtp/Aeronauts-2019.jpg" group-title="VOD" tvg-id="" tvg-name="", Aeronauts (2019)
@@ -1652,7 +1652,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/765fe317fe865d87591c90f94268f734/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Aku Kaya The Movie (2003)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/423.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Aku Kaya The Movie (2003)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Aku Kaya The Movie (2003)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710071
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq1ZVQJ/alaspati-rev20april.jpg" group-title="VOD" tvg-id="" tvg-name="", Alas Pati (2018)
@@ -1664,13 +1664,13 @@ https://cdn3ii.diebutx.com/own2hls/2020/152ef54c67176235476369796aba7dc5/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Alien Invasion (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7119.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Alien Invasion (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Alien Invasion (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710072
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Always and Forever (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7269.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Always and Forever (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Always and Forever (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710073
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", American Thief (2020)
@@ -1682,19 +1682,19 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/298.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Amulet (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/298.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Amulet (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Amulet (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710074
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Anak Perjanjian Syaitan (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6993.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Anak Perjanjian Syaitan (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Anak Perjanjian Syaitan (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710075
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Angela''''''''s Christmas Wish (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7120.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Angela''s Christmas Wish (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Angela''s Christmas Wish (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710076
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Anthropocene (2020)
@@ -1703,13 +1703,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/335.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Anthropocene (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/335.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Anthropocene (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Anthropocene (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710077
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Antidote (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6644.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Antidote (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Antidote (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710078
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zFX1KSS/ari.jpg" group-title="VOD" tvg-id="" tvg-name="", Arini (2018)
@@ -1724,7 +1724,7 @@ http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Baik Punya Cilok (2005)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6994.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Baik Punya Cilok (2005)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Baik Punya Cilok (2005)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jGqR1BZ/Bajaj-Bajuri-The-Movie.jpg" group-title="VOD" tvg-id="" tvg-name="", Bajaj Bajuri: The Movie (2014)
@@ -1733,13 +1733,13 @@ http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Banglasia 2.0 (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6995.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Banglasia 2.0 (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Banglasia 2.0 (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710080
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ben 10 Versus the Universe: The Movie (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6666.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Ben 10 Versus the Universe: The Movie (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ben 10 Versus the Universe: The Movie (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710081
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2QWh3t/biang.jpg" group-title="VOD" tvg-id="" tvg-name="", Benyamin Biang Kerok (2018)
@@ -1748,31 +1748,31 @@ http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bhoothnath (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6567.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bhoothnath (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bhoothnath (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710082
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bhoothnath Returns (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6568.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bhoothnath Returns (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bhoothnath Returns (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710083
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Biar Betul (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6996.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Biar Betul (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Biar Betul (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710084
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bigfoot Family (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/339.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bigfoot Family (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bigfoot Family (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710085
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bikers Kental (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6997.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bikers Kental (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bikers Kental (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710086
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bikers Kental 2 (2019)
@@ -1781,13 +1781,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/6998.mkv
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bikers Kental 2 (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6998.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bikers Kental 2 (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bikers Kental 2 (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710087
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bini Aku Dari Neraka Raya (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7093.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bini Aku Dari Neraka Raya (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bini Aku Dari Neraka Raya (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710088
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD" tvg-id="" tvg-name="", Birds of Prey (2020)
@@ -1796,13 +1796,13 @@ https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Black Beauty (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7270.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Black Beauty (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Black Beauty (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710089
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", BLACKPINK: Light Up the Sky (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6667.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", BLACKPINK: Light Up the Sky (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", BLACKPINK: Light Up the Sky (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710090
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Bloody Hell (2020)
@@ -1811,7 +1811,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/d3f2a83d7c24d05aa367550112447a17/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", BoBoiBoy Movie 2 (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/336.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", BoBoiBoy Movie 2 (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", BoBoiBoy Movie 2 (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710091
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rpDMSfQ/ugal.jpg" group-title="VOD" tvg-id="" tvg-name="", Bodyguard Ugal-Ugalan (2018)
@@ -1823,31 +1823,31 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/299.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Borat Subsequent Moviefilm (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/299.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Borat Subsequent Moviefilm (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Borat Subsequent Moviefilm (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710092
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bravo 5 (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bravo 5 (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710093
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Broil (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Broil (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710094
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Budok Kuba (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6999.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Budok Kuba (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Budok Kuba (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710095
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bukan Cerita Cinta Kita (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7094.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Bukan Cerita Cinta Kita (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Bukan Cerita Cinta Kita (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710096
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cagefighter: Worlds Collide (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7122.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cagefighter: Worlds Collide (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cagefighter: Worlds Collide (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710097
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ZVDqZf/Cek-Toko-Sebelah-2016.jpg" group-title="VOD" tvg-id="" tvg-name="", Cek Toko Sebelah (2016)
@@ -1856,13 +1856,13 @@ http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Chalte Chalte (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/329.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Chalte Chalte (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Chalte Chalte (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710098
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Chick Fight (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7271.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Chick Fight (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Chick Fight (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710099
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cine Acci?n-1
@@ -1967,31 +1967,31 @@ http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/72004
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cinta Kolestrol (2002)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/424.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cinta Kolestrol (2002)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cinta Kolestrol (2002)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710100
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cinta Paling Agung (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7000.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cinta Paling Agung (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cinta Paling Agung (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710101
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cinta Sticky Note (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7095.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cinta Sticky Note (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cinta Sticky Note (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710102
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Clouds (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6645.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Clouds (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Clouds (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710103
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Clownery (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6669.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Clownery (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Clownery (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710104
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Code of Thieves (2020)
@@ -2000,25 +2000,25 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/425.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Code of Thieves (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/425.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Code of Thieves (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Code of Thieves (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710105
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Combat Wombat (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7118.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Combat Wombat (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Combat Wombat (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710106
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Come Away (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6670.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Come Away (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Come Away (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710107
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Come Play (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7272.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Come Play (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Come Play (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710108
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMSv0bK/Contagion-2011.jpg" group-title="VOD" tvg-id="" tvg-name="", Contagion (2011)
@@ -2033,10 +2033,10 @@ https://cdn3ii.diebutx.com/own2hls/2020/cd04110c5ff453faadaa98fe8c59abec/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cruise Cinta (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7096.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cruise Cinta (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cruise Cinta (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710109
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cuci (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cuci (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710110
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cult Films-1
@@ -2045,19 +2045,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cult Films-2
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cun! (2011)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cun! (2011)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710111
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cut Throat City (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6671.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cut Throat City (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cut Throat City (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710112
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cuties (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6646.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Cuties (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Cuties (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710113
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Dalil Cinta ( 2010 )
@@ -2066,19 +2066,19 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7002.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Darbar (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6565.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Darbar (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Darbar (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710114
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Dead Earth (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/300.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Dead Earth (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Dead Earth (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710115
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Deadlocked (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7124.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Deadlocked (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Deadlocked (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710116
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Death of Me (2020)
@@ -2087,7 +2087,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/340.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Death of Me (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/340.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Death of Me (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Death of Me (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710117
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7QB1b8b/Doctor-Strange-2016.jpg" group-title="VOD" tvg-id="" tvg-name="", Doctor Strange (2016)
@@ -2099,7 +2099,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7125.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Don''''''''t Tell a Soul (2020)
 https://cdn3ii.diebutx.com/own2hls/2020/fb83af3f0aafb980ae4e7bdac7cadc48/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Don''t Listen (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Don''t Listen (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710118
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon The Movie - Nobita Dan Kerajaan Robot
@@ -2108,31 +2108,31 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7026.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7089.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710119
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Steel Troops (1986)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7088.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Doraemon: Nobita and the Steel Troops (1986)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Steel Troops (1986)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710296
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Windmasters (2003)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7027.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Doraemon: Nobita and the Windmasters (2003)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Windmasters (2003)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710120
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Winged Braves (2001)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7025.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Doraemon: Nobita and the Winged Braves (2001)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita and the Winged Braves (2001)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710121
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7085.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710122
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita The Great New Adventure Into The Underworld
@@ -2141,13 +2141,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7087.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita''''''''s Dinosaur (2006)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7086.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Doraemon: Nobita''s Dinosaur (2006)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Doraemon: Nobita''s Dinosaur (2006)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710123
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Drag Me to Hell (2009)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/341.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Drag Me to Hell (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Drag Me to Hell (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710124
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Dragon Ball
@@ -2162,13 +2162,13 @@ https://cdn3ii.diebutx.com/own2hls/2020/2066b558ed198474e48854ecd7cf6275/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Dune Drifter (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7126.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Dune Drifter (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Dune Drifter (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710125
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Echo Boomers (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7275.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Echo Boomers (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Echo Boomers (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710126
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Edward Scissorhands (1990)
@@ -2177,7 +2177,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/296.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Edward Scissorhands (1990)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/296.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Edward Scissorhands (1990)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Edward Scissorhands (1990)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710297
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2pYGdN/Extinction-2018.jpg" group-title="VOD" tvg-id="" tvg-name="", Extinction (2018)
@@ -2189,7 +2189,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/8977.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Fatman (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7018.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Fatman (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Fatman (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710127
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Filmstream-1
@@ -2204,13 +2204,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/334.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Final Voyage (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/334.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Final Voyage (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Final Voyage (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710128
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Fishbowl (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6672.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Fishbowl (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Fishbowl (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710129
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x33gbgq/555.jpg" group-title="VOD" tvg-id="" tvg-name="", Flight 555 (2018)
@@ -2219,19 +2219,19 @@ http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Flypaper (2011)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/342.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Flypaper (2011)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Flypaper (2011)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710130
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Freaky (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Freaky (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710131
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Gabbar Is Back (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/311.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Gabbar Is Back (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Gabbar Is Back (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710132
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Gadoh (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Gadoh (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710133
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXHJt8/Galih-dan-Ratna.jpg" group-title="VOD" tvg-id="" tvg-name="", Galih Dan Ratna (2017)
@@ -2243,7 +2243,7 @@ http://s0lc.net:8080/Michelle/Michelle/16969
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Gemerlapan (1997)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6980.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Gemerlapan (1997)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Gemerlapan (1997)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710298
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Geo-Disaster (2017)
@@ -2252,7 +2252,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/302.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Geo-Disaster (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/302.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Geo-Disaster (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Geo-Disaster (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710134
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ghosts of War (2020)
@@ -2261,13 +2261,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/310.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ghosts of War (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/310.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Ghosts of War (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ghosts of War (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710135
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ginny Weds Sunny (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6673.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Ginny Weds Sunny (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ginny Weds Sunny (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710136
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Go Wild (2020)
@@ -2279,13 +2279,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7332.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Godzilla vs. Kong (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7332.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Godzilla vs. Kong (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Godzilla vs. Kong (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710137
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Greenland (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7019.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Greenland (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Greenland (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710138
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hachi: A Dog''''''''''''''''''''''''''''''''s Tale (2009)
@@ -2294,31 +2294,31 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7128.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hachi: A Dog''''''''s Tale (2009)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7128.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hachi: A Dog''s Tale (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hachi: A Dog''s Tale (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710139
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Halahal (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6674.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Halahal (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Halahal (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710140
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hancock (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7129.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hancock (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hancock (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710141
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hantu Bonceng 2.0 (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7283.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hantu Bonceng 2.0 (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hantu Bonceng 2.0 (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710142
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hantu Rumah Sakit Jiwa (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7097.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hantu Rumah Sakit Jiwa (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hantu Rumah Sakit Jiwa (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710143
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GCHj6R5/hanum.jpg" group-title="VOD" tvg-id="" tvg-name="", Hanum & Rangga: Faith & The City (2018)
@@ -2354,19 +2354,19 @@ http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/68216
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Harta Karun Tok Kie (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7098.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Harta Karun Tok Kie (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Harta Karun Tok Kie (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710144
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hilang Akal (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6981.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hilang Akal (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hilang Akal (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710145
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hingga Hujung Nyawa (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6982.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hingga Hujung Nyawa (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hingga Hujung Nyawa (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710146
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", History FHD
@@ -2378,7 +2378,7 @@ https://www.googleapis.com/drive/v3/files/1gR27s335-aR9fbkyxfugtP8DkcOEwONd?alt=
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Holidate (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6647.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Holidate (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Holidate (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710147
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQ9vYm3/Horrible-Bosses-2011.jpg" group-title="VOD" tvg-id="" tvg-name="", Horrible Bosses (2011)
@@ -2402,25 +2402,25 @@ https://cdn3ii.diebutx.com/own2hls/2020/9e3f8a0f2e6419fd68b1395268188817/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hot Fuzz (2007)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/312.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Hot Fuzz (2007)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Hot Fuzz (2007)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710148
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", I Am Legend (2007)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/313.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", I Am Legend (2007)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", I Am Legend (2007)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710149
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Iman Ke Syurga (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7099.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Iman Ke Syurga (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Iman Ke Syurga (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710150
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", In Bruges (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/314.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", In Bruges (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", In Bruges (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710151
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Inc. (2001)
@@ -2429,7 +2429,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7134.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Inc. (2001)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7134.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Inc. (2001)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Inc. (2001)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710152
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfQDDQb/sah.jpg" group-title="VOD" tvg-id="" tvg-name="", Insya Allah Sah 2 (2018)
@@ -2438,7 +2438,7 @@ http://srv24.nf21.net/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Intimate Enemies (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7130.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Intimate Enemies (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Intimate Enemies (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710153
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Iron Man (2008)
@@ -2447,13 +2447,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/315.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Iron Man (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/315.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Iron Man (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Iron Man (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710154
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Istanbul Aku Datang! (2012)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7100.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Istanbul Aku Datang! (2012)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Istanbul Aku Datang! (2012)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710155
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Isteriku CEO ( 2018 )
@@ -2462,31 +2462,31 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/6984.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", It Cuts Deep (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7273.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", It Cuts Deep (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", It Cuts Deep (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710156
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jebat (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6985.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Jebat (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jebat (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710157
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jejaka Terhangat (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6986.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Jejaka Terhangat (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jejaka Terhangat (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710158
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jingle Jangle: A Christmas Journey (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7131.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Jingle Jangle: A Christmas Journey (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jingle Jangle: A Christmas Journey (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710159
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jiu Jitsu (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7276.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Jiu Jitsu (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Jiu Jitsu (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710160
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z6X7Fmq/Jumanji-Welcome-To-The-Jungle-2017.jpg" group-title="VOD" tvg-id="" tvg-name="", Jumanji: Welcome To The Jungle (2017)
@@ -2498,40 +2498,40 @@ http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kabhi Alvida Naa Kehna (2006)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7132.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kabhi Alvida Naa Kehna (2006)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kabhi Alvida Naa Kehna (2006)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710161
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kalut Nak Raya (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kalut Nak Raya (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710162
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kampong Pisang Musikal Raya Istimewa (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/8976.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kampong Pisang Musikal Raya Istimewa (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kampong Pisang Musikal Raya Istimewa (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710163
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kawan Aku Mati Dalam Rumah Sewa (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/427.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kawan Aku Mati Dalam Rumah Sewa (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kawan Aku Mati Dalam Rumah Sewa (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710164
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kelaster (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7020.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kelaster (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kelaster (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710165
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kerantung (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7101.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kerantung (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kerantung (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710166
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Khalifahkan Aku
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7102.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kick (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kick (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710167
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Kids: Chico Bon Bon and the Very Berry Holiday (2020)
@@ -2552,7 +2552,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/200447cd05c30e6cf57b2b39f677f3f1/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kimchi Untuk Awak (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7004.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kimchi Untuk Awak (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kimchi Untuk Awak (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710168
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kingsman: The Secret Service (2014)
@@ -2561,31 +2561,31 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/316.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kingsman: The Secret Service (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/316.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Kingsman: The Secret Service (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Kingsman: The Secret Service (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710169
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", KL Special Force (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7103.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", KL Special Force (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", KL Special Force (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710170
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Lamaran Perfect (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7104.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Lamaran Perfect (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Lamaran Perfect (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710171
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Laskar Pelangi 2: Edensor (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7105.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Laskar Pelangi 2: Edensor (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Laskar Pelangi 2: Edensor (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710172
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Last Three Days (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7277.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Last Three Days (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Last Three Days (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710173
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Legacy (2020)
@@ -2594,19 +2594,19 @@ https://cdn3ii.diebutx.com/own2hls/2020/fad3d8a846ff9cf7de680bab92b3d87b/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Léon: The Professional (1994)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/303.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Léon: The Professional (1994)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Léon: The Professional (1994)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710299
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Lif & AJK (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/8975.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Lif & AJK (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Lif & AJK (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710174
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Loco (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7278.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Loco (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Loco (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710175
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBThgRX/london.jpg" group-title="VOD" tvg-id="" tvg-name="", London Love Story 3 (2018)
@@ -2621,19 +2621,19 @@ https://www.googleapis.com/drive/v3/files/1HLJS3d6O_ahqX2JW01BpCJAOu3eRW9dy?alt=
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Love and Monsters (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6676.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Love and Monsters (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Love and Monsters (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710176
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mael Totey: The Movie (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/304.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Mael Totey: The Movie (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mael Totey: The Movie (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710177
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Magika (2010)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7005.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Magika (2010)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Magika (2010)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710178
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Malam Ini Aku Menangis ( 2018 )
@@ -2645,7 +2645,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/305.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Maleficent: Mistress of Evil (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/305.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Maleficent: Mistress of Evil (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Maleficent: Mistress of Evil (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710179
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mama Tak Akan Sama
@@ -2657,7 +2657,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/337.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Manap Karaoke (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/331.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Manap Karaoke (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Manap Karaoke (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710180
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Marionette (2020)
@@ -2666,7 +2666,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/306.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Marionette (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/306.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Marionette (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Marionette (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710181
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Matilah Nak Pontianak
@@ -2678,13 +2678,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7133.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Max Winslow and The House of Secrets (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7136.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Max Winslow and The House of Secrets (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Max Winslow and The House of Secrets (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710182
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Meet Joe Black (1998)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/343.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Meet Joe Black (1998)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Meet Joe Black (1998)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710300
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Miss India (2020)
@@ -2693,7 +2693,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/6641.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Miss Peregrine''''''''s Home for Peculiar Children (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/317.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Miss Peregrine''s Home for Peculiar Children (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Miss Peregrine''s Home for Peculiar Children (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710184
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lh0SBp8/Mission-Impossible-Fallout-2018.jpg" group-title="VOD" tvg-id="" tvg-name="", Mission Impossible: Fallout (2018)
@@ -2705,7 +2705,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/bc2989da9ed05f2c03fa8e14d02a3307/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mon dan Jin Pakai Toncit (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6983.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Mon dan Jin Pakai Toncit (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mon dan Jin Pakai Toncit (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710185
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Mother Gamer (2020)
@@ -2726,13 +2726,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/307.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mulan (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/307.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Mulan (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mulan (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710186
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Munich (2005)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7135.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Munich (2005)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Munich (2005)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710187
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Mutant X 1
@@ -2756,13 +2756,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/318.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Need for Speed (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/318.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Need for Speed (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Need for Speed (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710188
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Neighbors 2: Sorority Rising (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/330.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Neighbors 2: Sorority Rising (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Neighbors 2: Sorority Rising (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710189
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", News of the World (2020)
@@ -2771,13 +2771,13 @@ https://cdn3ii.diebutx.com/own2hls/2020/2b73714381607322a18f8aba0ee64055/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Nobody Sleeps in the Woods Tonight (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6677.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Nobody Sleeps in the Woods Tonight (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Nobody Sleeps in the Woods Tonight (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710190
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Nocturne (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6678.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Nocturne (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Nocturne (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710191
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ombak Rindu (2011)
@@ -2786,28 +2786,28 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7006.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ombak Rindu (2011)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7006.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Ombak Rindu (2011)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ombak Rindu (2011)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710192
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Over the Moon (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6679.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Over the Moon (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Over the Moon (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710193
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Pahuna: The Little Visitors (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pahuna: The Little Visitors (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710194
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pak Dogo (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6680.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Pak Dogo (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pak Dogo (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710195
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Paku Pontianak (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7007.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Paku Pontianak (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Paku Pontianak (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710196
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6s9Qh7/Partikelir-2018.jpg" group-title="VOD" tvg-id="" tvg-name="", Partikelir (2018)
@@ -2816,49 +2816,49 @@ http://srv19.nf21.net/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Payback (1999)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7138.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Payback (1999)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Payback (1999)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710301
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pet (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/344.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Pet (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pet (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710197
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Phineas and Ferb The Movie: Candace Against the Universe (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6648.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Phineas and Ferb The Movie: Candace Against the Universe (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Phineas and Ferb The Movie: Candace Against the Universe (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710198
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pisau Cukur (2009)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7008.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Pisau Cukur (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Pisau Cukur (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710199
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", PK (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7310.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", PK (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", PK (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710200
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Playhouse (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7280.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Playhouse (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Playhouse (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710201
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", PONTIANAK DAN DOT DOT (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7110.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", PONTIANAK DAN DOT DOT (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", PONTIANAK DAN DOT DOT (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710202
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Possessor Uncut (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6649.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Possessor Uncut (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Possessor Uncut (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710203
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", PPV CINEMA FHD | CINEMA 1
@@ -2906,61 +2906,61 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/327.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Project Power (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/327.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Project Power (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Project Power (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710204
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Psy 3: W imię zasad (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6682.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Psy 3: W imię zasad (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Psy 3: W imię zasad (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710205
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Putera (1994)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7009.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Putera (1994)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Putera (1994)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710302
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", R. K. Nagar (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7140.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", R. K. Nagar (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", R. K. Nagar (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710206
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", R.I.P.D. (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7139.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", R.I.P.D. (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", R.I.P.D. (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710207
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Raatchasi (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6564.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Raatchasi (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Raatchasi (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710208
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ravers (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6650.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Ravers (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Ravers (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710209
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Raya and the Last Dragon (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7331.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Raya and the Last Dragon (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Raya and the Last Dragon (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710210
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Rebecca (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6651.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Rebecca (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Rebecca (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710211
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Relic (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6652.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Relic (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Relic (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710212
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89zKzrp/Revan-Reina-2018.jpg" group-title="VOD" tvg-id="" tvg-name="", Revan & Reina (2018)
@@ -2969,13 +2969,13 @@ http://srv19.nf21.net/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Robert the Bruce (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6683.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Robert the Bruce (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Robert the Bruce (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710213
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Rogue City (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6653.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Rogue City (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Rogue City (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710214
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N7w5FDF/rom.jpg" group-title="VOD" tvg-id="" tvg-name="", Rompis (2018)
@@ -2987,31 +2987,31 @@ https://dl.dropboxusercontent.com/s/spmmhz8vtd02wko/Nonton%20Film%20Rumput%20Tet
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Run (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7021.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Run (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Run (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710215
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Saka Zain Jusoh (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7010.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Saka Zain Jusoh (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Saka Zain Jusoh (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710216
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Save Yourselves! (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6684.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Save Yourselves! (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Save Yourselves! (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710217
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sayang Suria (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7011.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Sayang Suria (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sayang Suria (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710218
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Scary Movie 3 (2003)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/333.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Scary Movie 3 (2003)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Scary Movie 3 (2003)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710219
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Scoob! (2020)
@@ -3047,13 +3047,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/345.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Seized (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/345.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Seized (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Seized (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710220
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sekali Lagi (2011)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7012.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Sekali Lagi (2011)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sekali Lagi (2011)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710221
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcJTYgn/dahlan.jpg" group-title="VOD" tvg-id="" tvg-name="", Sepatu Dahlan (2014)
@@ -3062,25 +3062,25 @@ http://srv28.nf21.net/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Shaun of the Dead (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/319.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Shaun of the Dead (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Shaun of the Dead (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710222
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Simfoni Duniaku (1994)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7013.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Simfoni Duniaku (1994)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Simfoni Duniaku (1994)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710303
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sinar Lebaran (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7091.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Sinar Lebaran (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sinar Lebaran (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710223
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sinaran (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7014.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Sinaran (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sinaran (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710224
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Skull: The Mask (2020)
@@ -3095,7 +3095,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/6642.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Slumdog Millionaire (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6642.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Slumdog Millionaire (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Slumdog Millionaire (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710225
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R6xZCtc/Sonic-the-Hedgehog-2020.jpg" group-title="VOD" tvg-id="" tvg-name="", Sonic the Hedgehog (2020)
@@ -3104,10 +3104,10 @@ https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Soorarai Pottru (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6566.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Soorarai Pottru (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Soorarai Pottru (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710226
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Spirits'' Homecoming (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Spirits'' Homecoming (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710227
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Spirits'''''''' Homecoming (2016)
@@ -3116,19 +3116,19 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7137.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sputnik (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6654.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Sputnik (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Sputnik (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710228
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Storks (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/320.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Storks (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Storks (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710229
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Striker Hati Ayah (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7092.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Striker Hati Ayah (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Striker Hati Ayah (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710230
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWfKGRv/hari.jpg" group-title="VOD" tvg-id="" tvg-name="", Suatu Hari Nanti (2017)
@@ -3137,7 +3137,7 @@ http://srv18.nf21.net/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan 2 (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7015.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Surga Yang Tak Dirindukan 2 (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan 2 (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710231
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBs70VW/Swordfish-2001.jpg" group-title="VOD" tvg-id="" tvg-name="", Swordfish (2001)
@@ -3158,7 +3158,7 @@ https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048215
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Basketball Diaries (1995)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7022.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Basketball Diaries (1995)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Basketball Diaries (1995)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710304
 
 #EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="VOD" tvg-id="" tvg-name="", The Battle of Five Armies
@@ -3167,25 +3167,25 @@ https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048217
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The BFG (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7311.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The BFG (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The BFG (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710232
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Box (2009)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7281.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Box (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Box (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710233
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Boy in the Striped Pyjamas (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7282.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Boy in the Striped Pyjamas (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Boy in the Striped Pyjamas (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710234
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Call (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6655.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Call (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Call (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710235
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Dark and the Wicked (2020)
@@ -3194,7 +3194,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/326.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Dark and the Wicked (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/326.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Dark and the Wicked (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Dark and the Wicked (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710236
 
 #EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="VOD" tvg-id="" tvg-name="", The Desolation of Smaug
@@ -3206,7 +3206,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/301.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Escape from Auschwitz (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/301.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Escape from Auschwitz (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Escape from Auschwitz (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710237
 
 #EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="VOD" tvg-id="" tvg-name="", The Fellowship of the Ring
@@ -3218,16 +3218,16 @@ https://cdn3ii.diebutx.com/own2hls/2020/476a13fa1ef4c7fc1c71f480f2f04c51/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Jungle Book (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/321.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Jungle Book (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Jungle Book (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710238
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Lake House (2006)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Lake House (2006)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710239
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Last Warrior (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7023.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Last Warrior (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Last Warrior (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710240
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTvzzNg/The-Lion-King-2019.jpg" group-title="VOD" tvg-id="" tvg-name="", The Lion King (2019)
@@ -3236,7 +3236,7 @@ https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Maid (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7284.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Maid (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Maid (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710241
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BsVyZjg/The-Meg-2018.jpg" group-title="VOD" tvg-id="" tvg-name="", The Meg (2018)
@@ -3248,7 +3248,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7285.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7285.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Monkey King (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710242
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King 2 (2016)
@@ -3257,7 +3257,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7286.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King 2 (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7286.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Monkey King 2 (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King 2 (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710243
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King 3 (2018)
@@ -3266,13 +3266,13 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7287.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King 3 (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7287.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Monkey King 3 (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Monkey King 3 (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710244
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Mortuary Collection (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6685.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Mortuary Collection (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Mortuary Collection (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710245
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The New Mutants (2020)
@@ -3281,19 +3281,19 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/328.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The New Mutants (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/328.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The New Mutants (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The New Mutants (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710246
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The One and Only Ivan (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7288.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The One and Only Ivan (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The One and Only Ivan (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710247
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Other Side of Hope (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6686.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Other Side of Hope (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Other Side of Hope (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710248
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGWZggc/The-Patriot-2000.jpg" group-title="VOD" tvg-id="" tvg-name="", The Patriot (2000)
@@ -3302,13 +3302,13 @@ http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Pursuit of Happyness (2006)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7289.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Pursuit of Happyness (2006)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Pursuit of Happyness (2006)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710249
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Rental (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7290.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Rental (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Rental (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710250
 
 #EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="VOD" tvg-id="" tvg-name="", The Return of the Kings
@@ -3320,55 +3320,55 @@ https://cdn3ii.diebutx.com/own2hls/2020/2a84f9523005c9d87bdfcb855e299197/540p/in
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Secret Life of Pets (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7291.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Secret Life of Pets (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Secret Life of Pets (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710251
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Secret Life of Pets 2 (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7292.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Secret Life of Pets 2 (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Secret Life of Pets 2 (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710252
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Secrets We Keep (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6687.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Secrets We Keep (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Secrets We Keep (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710253
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Shallows (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/322.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Shallows (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Shallows (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710254
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Suspect (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7293.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Suspect (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Suspect (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710255
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Ten Commandments (2007)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7312.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Ten Commandments (2007)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Ten Commandments (2007)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710256
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Thousand Faces of Dunjia (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/325.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Thousand Faces of Dunjia (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Thousand Faces of Dunjia (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710257
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Trial of the Chicago 7 (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6688.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Trial of the Chicago 7 (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Trial of the Chicago 7 (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710258
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Turning (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7294.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Turning (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Turning (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710259
 
 #EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="VOD" tvg-id="" tvg-name="", The two towers
@@ -3377,16 +3377,16 @@ https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048219
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Way Back (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7295.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Way Back (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Way Back (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710260
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Witch: Part 1. The Subversion (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7296.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Witch: Part 1. The Subversion (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Witch: Part 1. The Subversion (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710261
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", The Wolf of Snow Hollow (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Wolf of Snow Hollow (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710262
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Thriller: Escape: Puzzle of Fear (2020)
@@ -3401,7 +3401,7 @@ http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Top Gun (1986)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7297.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Top Gun (1986)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Top Gun (1986)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710305
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Toys of Terror (2020)
@@ -3410,160 +3410,160 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/308.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Toys of Terror (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/308.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Toys of Terror (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Toys of Terror (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710263
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Tracers (2015)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7313.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Tracers (2015)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Tracers (2015)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710264
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Transcendence (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7298.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Transcendence (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Transcendence (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710265
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Triggered (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6643.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Triggered (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Triggered (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710266
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Trolls (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/323.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Trolls (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Trolls (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710267
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Truth or Dare (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7314.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Truth or Dare (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Truth or Dare (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710268
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Turbo (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7299.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Turbo (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Turbo (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710269
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Underwater (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7315.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Underwater (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Underwater (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710270
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Unhinged (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/346.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Unhinged (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Unhinged (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710271
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Up (2009)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Up (2009)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710272
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Upin & Ipin: Keris Siamang Tunggal (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7141.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Upin & Ipin: Keris Siamang Tunggal (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Upin & Ipin: Keris Siamang Tunggal (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710273
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", V3: Samseng Jalanan (2010)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7017.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", V3: Samseng Jalanan (2010)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", V3: Samseng Jalanan (2010)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710274
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vaastu Shastra (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7316.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Vaastu Shastra (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vaastu Shastra (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710275
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vanguard (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7024.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Vanguard (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vanguard (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710276
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Veer-Zaara (2004)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7317.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Veer-Zaara (2004)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Veer-Zaara (2004)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710277
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Venom (2018)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7318.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Venom (2018)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Venom (2018)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710278
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Villain (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6690.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Villain (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Villain (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710279
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vivarium (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7319.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Vivarium (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vivarium (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710280
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wanted (2008)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7320.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Wanted (2008)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wanted (2008)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710281
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Warcraft (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7321.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Warcraft (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Warcraft (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710282
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Warm Bodies (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7322.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Warm Bodies (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Warm Bodies (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710283
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", We Can Be Heroes (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7300.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", We Can Be Heroes (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", We Can Be Heroes (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710284
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Weathering with You (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7323.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Weathering with You (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Weathering with You (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710285
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", What Happened to Monday (2017)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7324.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", What Happened to Monday (2017)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", What Happened to Monday (2017)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710286
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", What Happened to Mr Cha? (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7301.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", What Happened to Mr Cha? (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", What Happened to Mr Cha? (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710287
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Whisper of the Heart (1995)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7302.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Whisper of the Heart (1995)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Whisper of the Heart (1995)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710306
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wonder Park (2019)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7325.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Wonder Park (2019)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wonder Park (2019)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710288
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wonder Woman 1984 (2020)
@@ -3572,31 +3572,31 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7305.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wonder Woman 1984 (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7305.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wonder Woman 1984 (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710289
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Words on Bathroom Walls (2020)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6656.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Words on Bathroom Walls (2020)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Words on Bathroom Walls (2020)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710290
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", World War Z (2013)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7326.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", World War Z (2013)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", World War Z (2013)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710291
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wreck-It Ralph (2012)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7327.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Wreck-It Ralph (2012)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wreck-It Ralph (2012)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710292
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wyrmwood: Road of the Dead (2014)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/324.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Wyrmwood: Road of the Dead (2014)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wyrmwood: Road of the Dead (2014)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710293
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zack Snyder''''''''''''''''''''''''''''''''s Justice League (2021)
@@ -3605,7 +3605,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7309.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zack Snyder''''''''s Justice League (2021)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7309.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Zack Snyder''s Justice League (2021)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zack Snyder''s Justice League (2021)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710294
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", zero
@@ -3614,7 +3614,7 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7328.mp4
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zootopia (2016)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/7329.mp4
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="Dummy" tvg-name="Dummy", Zootopia (2016)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zootopia (2016)
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710295
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malay" tvg-id="109" tvg-name="109", TV9
@@ -3886,4 +3886,3 @@ http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malay" tvg-id="" tvg-name="", TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-
