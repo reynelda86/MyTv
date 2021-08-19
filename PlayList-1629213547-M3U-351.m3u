@@ -50,7 +50,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/125
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png" group-title="English" tvg-id="550" tvg-name="550", Dreamworks HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png" group-title="English" tvg-id="epix.us" tvg-name="epix.us", Epix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png" group-title="English" tvg-id="" tvg-name="Epix", Epix
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/1955587/353714067.jpeg" group-title="English" tvg-id="epixhits.us" tvg-name="epixhits.us", Epix Hits
