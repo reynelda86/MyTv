@@ -5,7 +5,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malay" tvg-id="109" tvg-name="TV9",TV9 (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Malay" tvg-id="ANTV" tvg-name="ANTV",ANTV Indonesia
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Malay" tvg-id="ext" tvg-name="ANTV",ANTV Indonesia
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709497
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="Malay" tvg-id="ext” tvg-name=“Astro Aura”, Astro Aura CH113
