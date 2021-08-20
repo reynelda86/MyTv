@@ -1,270 +1,899 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png"group-title="Malay" tvg-id="109" tvg-name="TV9",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malay" tvg-id="109" tvg-name="TV9",TV9 (Unifi)
-http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Malay" tvg-id="ext" tvg-name="ANTV",ANTV Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709497
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese", AOD HD(TEST)
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="Malay" tvg-id="ext” tvg-name=“Astro Aura”, Astro Aura CH113
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" group-title="Chinese", Astro Quan Jia ?? CH308
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malay" tvg-id="113” tvg-name="Astro Aura”, ASTRO Aura HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6713
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png" group-title="Chinese", Astro QUAN JIA(TEST)
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malay" tvg-id="113” tvg-name="Astro Aura”, Astro Aura
-http://iptv.tvmalaysia.cc/penang172/penang172/6713
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" group-title="Chinese", Astro Shuang Xing ??? CH307
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="501” tvg-name="Astro Aura”, ASTRO Awani HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13GGwSbn/Astro-Hua-Hee.png" group-title="Chinese", Astro SHUANG XING(TEST)
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="Chinese", Astro Xiao Tai Yang HD 2[Backup]
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_(2019).png" group-title="Chinese", Astro XiAO TAI YANG(TEST)
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="Chinese", Astro Xuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Chinese", CCTV 4
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Chinese", CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Chinese", CCTV 5+
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="Chinese", CCTV4 HD
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="Chinese", Celestial Classic Movies [HEVC]
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thesmartlocal.com/reviews/media/reviews/photos/original/14/d6/80/_1-1350748353.jpg" group-title="Chinese", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese", OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Chinese", SetOne [HEVC]
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment", B4U Music
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709997
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/394/104/png-transparent-channel-v-television-channel-music-television-star-india-v-miscellaneous-television-angle.png" group-title="Entertainment", Channel V
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709998
+
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/HkjTz25S/MTV.png" group-title="Entertainment", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports", Eleven Sport 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports", Eleven Sport 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports", Euro Sport 2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports", Eurosport 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports", FightBox
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709960
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="Sports", FightBox
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="Sports", FightBox
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports", Golf Channel
+http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Sports", Golf hd
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Sports", Golf hd
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports", Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sports", RedBull TV
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709965
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports", Sukan
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="Sports", T Sports
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709966
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports", Tennis Channel
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709967
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="Sports", TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="Sports", TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio", AI FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710008
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Radio", ASYIK FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710009
+
+#EXTINF:-1 tvg-logo="https://assets.flyfm.com.my/2020/01/logo_flyfm_1080.png" group-title="Radio", FLY FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710019
+
+#EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio", HOT FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710023
+
+#EXTINF:-1 tvg-logo="https://www.jeifm.com/images/jeilogo.png" group-title="Radio", JEI FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710026
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/HjyqsyXZge.png" group-title="Radio", JOHOR FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710027
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s154370q.png" group-title="Radio", KELANTAN FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710028
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="Radio", KENYALANG
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710029
+
+#EXTINF:-1 tvg-logo="https://assets.koolfm.com.my/2020/04/logo_koolfm_500x500.png" group-title="Radio", KOOL FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710030
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="Radio", MELAKA FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710032
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="Radio", MINNAL FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710034
+
+#EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="Radio", NASIONAL FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710037
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="Radio", ONE FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710038
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157939g.png" group-title="Radio", PERAK FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710041
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uzffezhcg5xq.png" group-title="Radio", PERLIS FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710042
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-zmMHq3VwLOc/USxZ58eYNeI/AAAAAAAABgA/RaFT3UHJ8wY/s1600/Klasik+Nasional+FM.png" group-title="Radio", RADIO KLASIK
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710044
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/rtm-sabah-fm.png" group-title="Radio", SABAH FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710045
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="Radio", SABAH V FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710046
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s125696q.png" group-title="Radio", SANDKAN FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710047
+
+#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN" group-title="Radio", Suria FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710053
+
+#EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/terengganu-fm.png" group-title="Radio", TERENGGANU FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710049
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="Radio", TRAXX FM
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710052
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" group-title="News", (DP) Euronews _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="News", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="News", Al Jazeera English HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709603
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6694
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzaSkvPQnyjLyeduhqtcPXMWE9qx8goqRew&usqp=CAU" group-title="News", Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title="News", ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98u0MKu.png" group-title="News", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/awani.png" group-title="News", Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="News", Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-aujlXuqweD6TXdGkYuFfp9PeSneLNLUUQ&usqp=CAU" group-title="News", Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8?id=eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png" group-title="News", Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="News", Astro Awani
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709609
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg" group-title="News", Astro Awani CH501
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", ASTRO Awani HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6714
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404” tvg-name="ASTRO BOO”, ASTRO BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Awani [HEVC]
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="404” tvg-name="ASTRO BOO”, Astro Boo
-http://iptv.tvmalaysia.cc:80/139664/139664/8872
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", BBC World
+http://200.107.234.74:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malay" tvg-id="404” tvg-name="ASTRO BOO”,Astro Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfVwsZmD/logo-beritasatu-big1.png" group-title="News", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malay" tvg-id="611" tvg-name="Astro Ceria HD", Astro Ceria HD
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709503
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", BERNAMA
+http://iptv.tvmalaysia.cc:80/139664/139664/7190
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="Astro Citra", Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Bernama [HEVC]
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="111" tvg-name="Astro GO SHOP", Astro GO SHOP
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709508
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="News", BERNAMA CH502
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="120" tvg-name="Astro Go Shop Ruuma", Astro Go Shop Ruuma
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Bernama News
+http://iptv.tvmalaysia.cc:80/139664/139664/6750
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malay" tvg-id="702" tvg-name="Astro Hello", Astro Hello
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Bernama News
+http://iptv.tvmalaysia.cc:80/139664/139664/6750
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malay" tvg-id="109" tvg-name="Astro Naura", Astro Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="News", Bloomberg TV HD
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="Astro Oasis", Astro Oasis
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709517
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="News", BNC
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" group-title="Malay" tvg-id="106” tvg-name="Astro Oasis”,Astro Oasis CH106
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xBMXe2j4JYs0QtSblSyE6WmiFCVMgpeMSA&usqp=CAU" group-title="News", CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" group-title="Malay" tvg-id="106” tvg-name="Astro Oasis”,ASTRO Oasis HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6725
+#EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News", CBS NEWS
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest/scale-to-width-down/200?cb=20180622071546" group-title="Malay" tvg-id="106” tvg-name="Astro Oasis”,Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Cctv5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="Malay" tvg-id="105” tvg-name="Astro Prima”,Astro Prima CH105
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Cctv5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105" tvg-name="Astro Prima HD",Astro Prima HD
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709522
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSli9bnkUkL1zdr6L7zCSNNxqEg9yO7ZRsPTQ&usqp=CAU" group-title="News", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105” tvg-name="Astro Prima”,ASTRO Prima HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6727
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png" group-title="News", CGTN
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709635
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png" group-title="Malay" tvg-id="105” tvg-name="Astro Prima”,Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCGEZmL8teDAAV7qsLQXmc-XW3lRh2BzJFw&usqp=CAU" group-title="News", Channel news asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="ext” tvg-name="Astro Rania”,Astro Rania CH112
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="News", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112” tvg-name="Astro Rania”,ASTRO Rania HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6729
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News", CNA HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709638
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Malay" tvg-id="112” tvg-name="Astro Rania”,Astro Rania
-http://iptv.tvmalaysia.cc/penang172/penang172/6729
+#EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="News", CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="104” tvg-name="ASTRO Ria”,ASTRO Ria HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6730
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png" group-title="News", CNN HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="104” tvg-name="ASTRO Ria”,Astro Ria
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0w1Lvvj/logo-cnnindonesia-big1.png" group-title="News", CNN INDONESIA
+http://live.cnnindonesia.com:80/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="114" tvg-name="Astro TV-ALHIJRAH",Astro TV-ALHIJRAH
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709529
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="News", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="Malay" tvg-id="114" tvg-name="Astro TV-ALHIJRAH",Astro TV-ALHIJRAH (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709575
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/74fcf81e/df5c_r32.jpg" group-title="News", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="TVS",Astro TVS
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="News", CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="Astro Warna",Astro Warna
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="News", CNN Indonesia SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvkSY53f/boo.png" group-title="Malay" tvg-id="404” tvg-name="BOO”,BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News", CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malay" tvg-id="404" tvg-name="BOO",BOO HD
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709534
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" group-title="News", DW
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709644
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Malay" tvg-id="Citra Bioskop Indonesia" tvg-name="Citra Bioskop Indonesia",Citra Bioskop Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709535
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yw3xTvW/logo-dwtv-big.png" group-title="News", DW TV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-la6YeqyulhE/XMjH4FqqcYI/AAAAAAAAnyQ/zvZFsDvg3LEwtNc8UHwMcVYn9s954kEBwCLcBGAs/s1600/citra-dangdut-tv-channel-logo.png" group-title="Malay" tvg-id="Citra Dangdut Indonesia" tvg-name="Citra Dangdut Indonesia",Citra Dangdut Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709536
+#EXTINF:-1 tvg-logo="https://www.bark.us/blog/wp-content/uploads/2019/04/Fox-news-logo.png" group-title="News", Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-jRs5Ue8yxak/XYS2X1QfLtI/AAAAAAAAoi8/zuIgaW7B41QHrbR5vhKQcBA0pVXZbZGlwCLcBGAsYHQ/s1600/citra-muslim-tv-channel-logo.png" group-title="Malay" tvg-id="Citra Muslim Indonesia" tvg-name="Citra Muslim Indonesia",Citra Muslim Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709537
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" group-title="News", France24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-title="Malay" tvg-id="107" tvg-name="DidikTV KPM",DidikTV KPM (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709540
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="News", Makkah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malay" tvg-id="ext” tvg-name="Drama Sangat”,Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/11/18/22/zUAWE3Xswh/live-television-medina-dome-of-the-rock-great-mosque-mecca.jpg" group-title="News", Medina TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Malay" tvg-id="Drama Sangat" tvg-name="Drama Sangat",Drama Sangat
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709541
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News", NBC News NOW
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malay" tvg-id="128" tvg-name="Dunia Sinema HD",Dunia Sinema HD (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709542
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="News", News: CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Malay" tvg-id="GTV Indonesia" tvg-name="GTV Indonesia",GTV Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709544
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News", NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png" group-title="Malay" tvg-id="118" tvg-name="HyppInspirasi HD",HyppInspirasi HD
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709546
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" group-title="News", NHK World HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709654
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="Malay" tvg-id="116" tvg-name="HyppSensasi HD",HyppSensasi HD
-http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News", Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6814
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Malay" tvg-id="ext” tvg-name="KompasTv”,Kompas tv
-http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXqy322.png" group-title="News", RT
+https://rt-news.secure.footprint.net/1103.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="Malay" tvg-id="KOMPAS TV" tvg-name="KOMPAS TV",Kompas TV
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709551
+#EXTINF:-1 tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="News", Rtm Parlimen
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709660
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png" group-title="Malay" tvg-id="151" tvg-name="Laku Mall HD",Laku Mall HD (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709552
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News", Sky News HD
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/1ac3f6072dc96481dc6d8.png" group-title="Malay" tvg-id=“204” tvg-name="MakkalTv”,Makkal TV CH204
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" group-title="English", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="ext” tvg-name="MetroTv”,Metro TV
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English", &pRive
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709673
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="Malay" tvg-id="MNC TV" tvg-name="MNC TV",MNC TV Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709553
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="English", Blue Ant Entertainment
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png" group-title="Malay" tvg-id="233" tvg-name="Now Jelli HD",Now Jelli HD (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709554
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="English", Blue Ant Extreme
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="107" tvg-name="NTV7",NTV7
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709555
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English", CinemaWorld
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="106” tvg-name="Oasis”,Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English", CINEMAX EAST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11304?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Malay" tvg-id="141" tvg-name="Pesona HD",Pesona HD (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709556
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English", CINEMAX HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="105” tvg-name="Prima”,Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outer_max_us.png" group-title="English", Cinemax OuterMax HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11307?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="Malay" tvg-id="RCTI" tvg-name="RCTI",RCTI Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709558
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English", Cinemax West UHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11305?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png" group-title="Malay" tvg-id="RTB Sukmaindera" tvg-name="RTB Sukmaindera",RTB Sukmaindera
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709560
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English", Crime Investigation
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10634?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Malay" tvg-id="113" tvg-name="Salam HD",Salam HD (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709561
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English", Dreamworks HD
+http://foctv.xyz:25510/Amir5641/YY5641/125
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="Malay" tvg-id="Suria Singapore" tvg-name="Suria Singapore",Suria Singapore
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709563
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png" group-title="English", Epix
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Malay" tvg-id="ext” tvg-name="TRANS7”,TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/1955587/353714067.jpeg" group-title="English", Epix Hits
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11311?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="Malay" tvg-id="ext” tvg-name="TRANS7”,TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="English", Epix2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11312?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Malay" tvg-id="ext” tvg-name="TransTv”,Trans TV
-http://dituduhmaling.xyz/US33T4/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Filmhub_Logo_W_Text.png" group-title="English", Film Hub
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Malay" tvg-id="TRANS TV" tvg-name="TRANS TV",TransTv Indonesia
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709564
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31xFkHRjD6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA3%252C884%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.png" group-title="English", Filmzie
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="TV1" tvg-name="TV1",TV 1
-http://iptv.tvmalaysia.cc:80/139664/139664/7177
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="English", FOX Family Movies HD
+https://mediasv.online/tvchannel_x1/fox-family/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjQ5OjUxIEFNJmhhc2hfdmFsdWU9UXdPTEJQQ2tFQjNESFpnckMvYytTZz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yMyZpZD1jaF8xNjcwNQ==
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="TV2" tvg-name="TV2",TV 2
-http://iptv.tvmalaysia.cc:80/139664/139664/7178
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="English", FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_2000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="103” tvg-name="TV3”,TV3
-http://iptv.tvmalaysia.cc:80/139664/139664/7266
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="English", Fox Life HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709679
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="109” tvg-name="TV9”,TV9
-http://iptv.tvmalaysia.cc:80/139664/139664/7185
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="Lifestyle & Documentary", National Geographic Channel
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/807px-Logo_of_the_TV_Alhijrah.svg.png" group-title="Malay" tvg-id="ext” tvg-name="Tv Alhijrah Tv”,Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="Lifestyle & Documentary", National Geographic HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709841
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="Malay" tvg-id="101” tvg-name="TV1”,TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Lifestyle & Documentary", Nature
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1e26d24e-0585-11eb-82fe-0242ac110002&deviceId=5be1c3f9851dd5632e2c91b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="TV1" tvg-name="TV1",TV1
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709584
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary", Travel Channel
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709845
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="Malay" tvg-id="101” tvg-name="TV1”,TV1
-http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png" group-title="Lifestyle & Documentary", TV5 Monde Asie
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="Malay" tvg-id="101" tvg-name="TV1",TV1 (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709582
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="Lifestyle & Documentary", TV5 MONDE STYLE
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709844
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="101” tvg-name="TV1”,TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", -Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/338.mp4
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/515344438248239104/75LbEg43_400x400.png" group-title="Malay" tvg-id="102” tvg-name="TV2”,TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD", 1.Vanquish (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/515344438248239104/75LbEg43_400x400.png" group-title="Malay" tvg-id="102” tvg-name="TV2”,TV2
-http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 10 Tips Tipu Bini (2021)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7308.mkv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="TV2" tvg-name="TV2",TV2
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ej2EOP.jpg" group-title="VOD", 12.ARMAGEDDON TALES (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png" group-title="Malay" tvg-id="102" tvg-name="TV2",TV2 (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709586
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYFhiCy.jpg" group-title="VOD", 14.Twist (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="102” tvg-name="TV2”,TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 15 Puasa (2004)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6989.mp4
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malay" tvg-id="103” tvg-name="TV3”,TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaSQ6kx.jpg" group-title="VOD", 15.Space Sweepers (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malay" tvg-id="103” tvg-name="TV3”,TV3
-http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 16 Puasa (2017)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6990.mp4
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malay" tvg-id="103” tvg-name="TV3”,TV3
-https://androidrepublica.website/List/Dailymotion/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXUUaVs.jpg" group-title="VOD", 16.Master (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="TV3",TV3
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709590
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 17 Puasa (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6991.mp4
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Malay" tvg-id="103" tvg-name="TV3",TV3 (Unifi)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709589
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 18 Puasa Di Kampung Pisang
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7334.mkv
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Malay" tvg-id="103” tvg-name="TV3”,TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOVVg3r.jpg" group-title="VOD", 20.Just Noise (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malay" tvg-id="147” tvg-name="NTV7”,NTV7
-https://androidrepublica.website/List/Dailymotion/ntv7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M2Dczt1.jpg" group-title="VOD", 21.Insight (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malay" tvg-id="147” tvg-name="NTV7”,NTV7
-http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awzk1vK.jpg" group-title="VOD", 23.Cosmic Sin (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malay" tvg-id="148” tvg-name="8TV”,8TV
-https://androidrepublica.website/List/Dailymotion/8tv.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES ACCION  | MARVEL
+http://stalkertvlatino.com:8080/play1/play1/87513
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malay" tvg-id="148” tvg-name="8TV”,8TV
-http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | DRAGON BALL GT
+http://stalkertvlatino.com:8080/play1/play1/6787
 
-#EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malay" tvg-id=“122” tvg-name="TVS”,TVS
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://stalkertvlatino.com:8080/play1/play1/6786
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | DRAGON BALL Z
+http://stalkertvlatino.com:8080/play1/play1/901
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | DRAGON BALL Z
+http://stalkertvlatino.com:8080/play1/play1/6788
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS
+http://stalkertvlatino.com:8080/play1/play1/95183
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | HOTEL TRANSILVANIA
+http://stalkertvlatino.com:8080/play1/play1/95185
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES | MR BEAN
+http://stalkertvlatino.com:8080/play1/play1/6798
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 24/7 SERIES INFANTILES| KUNG FU PANDA
+http://stalkertvlatino.com:8080/play1/play1/100836
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 3 Idiots (2009)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/297.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 3 Idiots (2009)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/297.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdzX3L.jpg" group-title="VOD", 3.Nobody (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/94Bv22K/47-Meters-Down-Uncaged-2019.jpg" group-title="VOD", 47 Meters Down: Uncaged (2019)
+https://www.googleapis.com/drive/v3/files/1W49D9iHci1_xKkR437Ok00vtByLPWbKG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/682ypgM/5-Cowok-Jagoan-2017.jpg" group-title="VOD", 5 Cowok Jagoan (2017)
+http://srv18.nf21.net/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", 7 Perhentian (2004)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6988.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNEYhbK.jpg" group-title="VOD", 7.Thunder Force (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqIoyNK.jpg" group-title="VOD", 9.The Yin Yang Master (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", A Babysitter''''''''s Guide to Monster Hunting (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6664.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", A Deadly Place (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7274.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", A Night of Horror: Nightmare Radio (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6665.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Abang Beduk (2015)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6992.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV2H44Q/Abominable-2019.jpg" group-title="VOD", Abominable (2019)
+https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Action-2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Action-3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Breach (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/c673d59b3aac257831165b66bee324ed/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Fast Forward (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/9db7878b58028bb733c00947f7bf9b60/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Force of Nature (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/6b1d93947b54fe40e0fa3d94c3a643ac/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Knuckledust (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/8d332212f9caa1d3e6af206526b20da4/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Monster Hunter (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/daccfedc079aaa620543cef587c6ffaa/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Mulan Angels 2: Treasure Map (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/4c5516f2c488e30c8672e80fd0a0d308/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Snake: Fall of a City (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/36e71b16080ca3c19da25f7c6a380597/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: The Golden Holiday (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/daf3c4b968dda3ff2b71084fddd0b484/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: True and False Monkey King (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/0306e77677264980256847006301e838/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: We Can Be Heroes (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/835fcaa7dca26e4c61f4adcaf2b00b3b/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Action: Wonder Woman 1984 (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Active Shooter (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7268.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtWKDtp/Aeronauts-2019.jpg" group-title="VOD", Aeronauts (2019)
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Ainu Mosir (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/765fe317fe865d87591c90f94268f734/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Aku Kaya The Movie (2003)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/423.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq1ZVQJ/alaspati-rev20april.jpg" group-title="VOD", Alas Pati (2018)
+http://srv21.nf21.net/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Algorithm: BLISS (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/152ef54c67176235476369796aba7dc5/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Alien Invasion (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7119.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Always and Forever (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7269.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", American Thief (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/85200879f29f8bfa90e20b64a1642ff8/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Amulet (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/298.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Amulet (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/298.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Anak Perjanjian Syaitan (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6993.mkv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Angela''''''''s Christmas Wish (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7120.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Anthropocene (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/335.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Anthropocene (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/335.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Antidote (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6644.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zFX1KSS/ari.jpg" group-title="VOD", Arini (2018)
+http://srv19.nf21.net/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qfKVJ3/Atlantic-Rim-Resurrection-2018.jpg" group-title="VOD", Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmjRqYL/ayat.jpg" group-title="VOD", Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Baik Punya Cilok (2005)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6994.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGqR1BZ/Bajaj-Bajuri-The-Movie.jpg" group-title="VOD", Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Banglasia 2.0 (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6995.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Ben 10 Versus the Universe: The Movie (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6666.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2QWh3t/biang.jpg" group-title="VOD", Benyamin Biang Kerok (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bhoothnath (2008)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6567.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bhoothnath Returns (2014)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6568.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Biar Betul (2004)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6996.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bigfoot Family (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/339.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bikers Kental (2013)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6997.mkv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bikers Kental 2 (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6998.mkv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bikers Kental 2 (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6998.mkv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bini Aku Dari Neraka Raya (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7093.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD", Birds of Prey (2020)
+https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Black Beauty (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7270.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", BLACKPINK: Light Up the Sky (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6667.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Bloody Hell (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/d3f2a83d7c24d05aa367550112447a17/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", BoBoiBoy Movie 2 (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/336.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rpDMSfQ/ugal.jpg" group-title="VOD", Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Borat Subsequent Moviefilm (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/299.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Borat Subsequent Moviefilm (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/299.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Budok Kuba (2019)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6999.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Bukan Cerita Cinta Kita (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7094.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cagefighter: Worlds Collide (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7122.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ZVDqZf/Cek-Toko-Sebelah-2016.jpg" group-title="VOD", Cek Toko Sebelah (2016)
+http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Chalte Chalte (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/329.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Chick Fight (2021)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7271.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cine Acci?n-1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cine Acci?n-2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cine Acci?n-3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cinta Kolestrol (2002)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/424.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cinta Paling Agung (2015)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7000.mkv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cinta Sticky Note (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7095.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Clouds (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6645.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Clownery (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6669.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Code of Thieves (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/425.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Code of Thieves (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/425.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Combat Wombat (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7118.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Come Away (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6670.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Come Play (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7272.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMSv0bK/Contagion-2011.jpg" group-title="VOD", Contagion (2011)
+https://www.googleapis.com/drive/v3/files/10qU76qMTtD2pSSJ3yIjC2YNCi6xK5IBI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Crazy Samurai Musashi (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fe72782a9d59b271bbef7fa2d07c571a/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Crime: Savage (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/cd04110c5ff453faadaa98fe8c59abec/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cruise Cinta (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7096.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cult Films-1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cult Films-2
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cut Throat City (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6671.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Cuties (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6646.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Dalil Cinta ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7002.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Darbar (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6565.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Dead Earth (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/300.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Deadlocked (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7124.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Death of Me (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/340.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Death of Me (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/340.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7QB1b8b/Doctor-Strange-2016.jpg" group-title="VOD", Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Don''''''''t Listen (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7125.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Don''''''''t Tell a Soul (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fb83af3f0aafb980ae4e7bdac7cadc48/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon The Movie - Nobita Dan Kerajaan Robot
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7026.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7089.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita and the Steel Troops (1986)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7088.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita and the Windmasters (2003)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7027.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita and the Winged Braves (2001)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7025.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7085.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita The Great New Adventure Into The Underworld
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7087.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Doraemon: Nobita''''''''s Dinosaur (2006)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7086.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Drag Me to Hell (2009)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/341.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Drama: Exit (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2066b558ed198474e48854ecd7cf6275/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Dune Drifter (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7126.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Echo Boomers (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7275.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Edward Scissorhands (1990)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/296.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Edward Scissorhands (1990)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/296.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2pYGdN/Extinction-2018.jpg" group-title="VOD", Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Fast Furious 9
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/8977.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Fatman (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/7018.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Filmstream-1
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Filmstream-2
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Final Voyage (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/334.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Final Voyage (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/334.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Fishbowl (2018)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6672.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x33gbgq/555.jpg" group-title="VOD", Flight 555 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Flypaper (2011)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/342.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Gabbar Is Back (2015)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/311.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXHJt8/Galih-dan-Ratna.jpg" group-title="VOD", Galih Dan Ratna (2017)
+http://srv18.nf21.net/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Gemerlapan (1997)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6980.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Geo-Disaster (2017)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/302.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Geo-Disaster (2017)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/302.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Ghosts of War (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/310.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Ghosts of War (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/310.mp4
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD", Ginny Weds Sunny (2020)
+http://iptv.tvmalaysia.cc:80/movie/139664/139664/6673.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD", Go Wild (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/e56c81d5449da58d87847affc58a3acd/540p/index.m3u8
+
