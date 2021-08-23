@@ -1,21 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="Indian" tvg-id="214" tvg-name="214", Adithya
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745662
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="201" tvg-name="201", Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="341" tvg-name="341", Colors (Unifi)
+http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png" group-title="Indian" tvg-id="222" tvg-name="222", Colors Tamil HD
 http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="313" tvg-name="313", Jaya Max
+http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png" group-title="Indian" tvg-id="312" tvg-name="312", Polimer
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png" group-title="Indian" tvg-id="331" tvg-name="331", Sony Max
 http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="342" tvg-name="342", Sony SAB
 http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="342" tvg-name="342", Sony Sab
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745778
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="Indian" tvg-id="343" tvg-name="343", Sony SET
+http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/50-505569_sony-tv-logo-png-channel-sony-entertainment-television.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", Sony TV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745780
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="Indian" tvg-id="301" tvg-name="301", Yupp Thirai HD
+http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" group-title="Indian" tvg-id="CHN" tvg-name="CHN", Zee Classic
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
