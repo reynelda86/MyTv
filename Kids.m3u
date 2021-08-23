@@ -1,47 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="Kids" tvg-id="719" tvg-name="719", Animax HD
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids" tvg-id="CHN" tvg-name="CHN", Aniplus
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids" tvg-id="611" tvg-name="611", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA" group-title="Kids" tvg-id="618" tvg-name="618", Baby TV HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
-
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN", CBeebies HD
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MF7ACwiPAU4/VyoL9JirQLI/AAAAAAAAAOM/XoveUVTaVo8RPAcovrzv_lW-TABFO_ESACLcB/w1200-h630-p-k-no-nu/chutti%2Btv.png" group-title="Kids" tvg-id="213" tvg-name="213", CHUTTI TV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745661
-
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/dd/disney_channel_global_hd.png" group-title="Kids" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel HD
 https://pass.my.id/disneych.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png http://193.70.86.92/chlogo/logo/tv/dd/disney_junior_us.png" group-title="Kids" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Jr
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids" tvg-id="DISNXD.us" tvg-name="DISNXD.us", Disney XD FHD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745719
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Kids" tvg-id="552" tvg-name="552", Nick Jr
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
-
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png" group-title="Kids" tvg-id="552" tvg-name="552", Nick Jr (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="Kids" tvg-id="616" tvg-name="616", Nickeledeon HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
-
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png" group-title="Kids" tvg-id="616" tvg-name="616", Nickelodeon (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
-
- 
