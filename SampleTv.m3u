@@ -1,109 +1,217 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="101" tvg-name="101", TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English" tvg-id="CHN" tvg-name="CHN", &pRive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malay" tvg-id="149" tvg-name="149", TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="English" tvg-id="473" tvg-name="473", Blue Ant Entertainment
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="English" tvg-id="474" tvg-name="474", Blue Ant Extreme
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", ANTV Indonesia
-https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English" tvg-id="411" tvg-name="411", CinemaWorld
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malay" tvg-id="113" tvg-name="113", Astro Aura
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745783
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English" tvg-id="412" tvg-name="412", CINEMAX HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra
-http://foctv.xyz:25510/Amir5641/YY5641/27
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngl/336/17460991_cinemax-logo-dish-cinemax-movie-package-png-download.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Cinemax ActionMax
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000168?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Astro Go Shop Ruuma
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English" tvg-id="CinemaxEast.us" tvg-name="CinemaxEast.us", CINEMAX EAST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11304?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malay" tvg-id="702" tvg-name="702", Astro Hello
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png" group-title="English" tvg-id="CHN" tvg-name="CHN", CINEMAX MOREMAX HD
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000103?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malay" tvg-id="109" tvg-name="109", Astro Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outer_max_us.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Cinemax OuterMax HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11307?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/18
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime Investigation
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10634?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105" tvg-name="105", Astro Prima HD
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="English" tvg-id="716" tvg-name="716", DMAX
+http://foctv.xyz:25510/Amir5641/YY5641/91
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112" tvg-name="112", Astro Rania
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745782
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English" tvg-id="550" tvg-name="550", Dreamworks HD
+http://foctv.xyz:25510/Amir5641/YY5641/125
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="104" tvg-name="104", Astro Ria
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="114" tvg-name="114", Astro TV-ALHIJRAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11312?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="122", Astro TVS
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-hits-us.png" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000379?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Filmhub_Logo_W_Text.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvkSY53f/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcDpH_nZ3if1aGKZStKSJq_Xk2alern6-Xg&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", Filmstream-1
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-la6YeqyulhE/XMjH4FqqcYI/AAAAAAAAnyQ/zvZFsDvg3LEwtNc8UHwMcVYn9s954kEBwCLcBGAs/s1600/citra-dangdut-tv-channel-logo.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Citra Dangdut Indonesia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcDpH_nZ3if1aGKZStKSJq_Xk2alern6-Xg&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", Filmstream-2
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31xFkHRjD6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA3%252C884%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Filmzie
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Malay" tvg-id="GTV.id" tvg-name="GTV.id", GTV Indonesia
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png" group-title="English" tvg-id="704" tvg-name="704", FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_2000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png" group-title="Malay" tvg-id="118" tvg-name="118", HyppInspirasi HD (Unifi)
-http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
+#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm" group-title="English" tvg-id="415" tvg-name="415", FOX Action Movies HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745758
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="Malay" tvg-id="116" tvg-name="116", HyppSensasi HD (Unifi)
-http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FOX_Crime_BG.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Fox Crime HD
+http://wisdomiptv.com/fritznermorency/A724121F3AFC/68300?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malay" tvg-id="Indosiar.id" tvg-name="Indosiar.id", INDOSIAR
-http://foctv.xyz:25510/Amir5641/YY5641/36
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="English" tvg-id="414" tvg-name="414", FOX Family Movies HD
+https://mediasv.online/tvchannel_x1/fox-family/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjQ5OjUxIEFNJmhhc2hfdmFsdWU9UXdPTEJQQ2tFQjNESFpnckMvYytTZz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yMyZpZD1jaF8xNjcwNQ==
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="Malay" tvg-id="KompasTV.id" tvg-name="KompasTV.id", KOMPAS TV
-http://foctv.xyz:25510/Amir5641/YY5641/107
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="English" tvg-id="703" tvg-name="703", Fox Life HD
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709679
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png" group-title="Malay" tvg-id="151" tvg-name="151", Laku Mall HD (Unifi)
-http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCttDS1uSBkF1zv3Bl8CJe5i5i49ZwIQ4NcwRjJdoiz2n3KxLzf6mYO2_zfozSd4ljdM&usqp=CAU" group-title="English" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movies HD
+http://45.225.204.7:8000/play/a05z
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Malay" tvg-id="METROTV.id" tvg-name="METROTV.id", METRO TV
-http://foctv.xyz:25510/Amir5641/YY5641/108
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", Fx
+http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="Malay" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNC TV Indonesia
-https://cdn-livetv-studio.metube.id/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", FX (Unifi)
+http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="Malay" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI Indonesia
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/571/1021/png-transparent-hallmark-movies-mysteries-hallmark-channel-television-channel-television-film-others-television-text-logo-thumbnail.png" group-title="English" tvg-id="HallmarkChannelWest.us" tvg-name="HallmarkChannelWest.us", Hallmark Channel East
+http://85.203.33.191:25461/captinunleashed87/FbCHwqmi9z/170481?checkedby:iptvcat.com&token=Q0NeUhENFAsUUgBTXlZTBwdWWl8MWlYBBlgMVVRXUAIBAA8BUwZTAgISTUYVQUcABAlmD1BAXFNTUQEMAxhAFEsERGwLARQLFARWU1MNBkdJRk0PWQdEWFVXBw0DDVJTAFQaERIMUhMMElRRXgIER0lGXB5ABxQMBQ1qUFdCCwJdQwxdFwlaHRRfDzsCUFgECwAbXBZTRE5GCEZEEA5AIFMAW1ILRWJUVVgPCwpaUgwAFxkvWgFIQEhDV11GRgMVXUMMEVZVBwkUHEMHCUBbERcdG1wWNzVASENQTEZRDBJRDlgRWEdCQhQcQw0VakcAFhBLA1UPAxBGWxcEEBhADFkZaVANC1hUVUQICwhGF19HVRtKFg8JDA0VWkZtRAsFGlsUC1BXBBNL
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malay" tvg-id="RTV.id" tvg-name="RTV.id", RTV
-http://foctv.xyz:25510/Amir5641/YY5641/210
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="English" tvg-id="HallmarkDrama.us" tvg-name="HallmarkDrama.us", Hallmark Drama
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11519?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png" group-title="Malay" tvg-id=" CHN" tvg-name=" CHN", RTB Sukmaindera
-https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w2066316052_b608000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
-http://foctv.xyz:25510/Amir5641/YY5641/37
+#EXTINF:-1 tvg-logo="https://img.favpng.com/10/8/19/hallmark-movies-mysteries-television-channel-hallmark-channel-film-png-favpng-TZgRhyVEjMM6YJH2VS2TEBXQb.jpg" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies & Mysteries East
+http://maghum-ott.com/fahim9555/280A30559862/71369?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Suria Singapore
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Malay" tvg-id="TRANS7HD.id" tvg-name="TRANS7HD.id", TRANS 7 Indonesia
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11336?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Malay" tvg-id="TRANSTVHD.id" tvg-name="TRANSTVHD.id", Trans Tv Indonesia
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/HboEast/hbo%20east.png" group-title="English" tvg-id="HBOEast.us" tvg-name="HBOEast.us", Hbo East
+http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English" tvg-id="HBOFamilyEast.us" tvg-name="HBOFamilyEast.us", HBO Family
+https://pass.my.id/hbofamilyid.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="English" tvg-id="CHN" tvg-name="CHN", HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English" tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us", HBO Signature
+http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="English" tvg-id="HBOWest.us" tvg-name="HBOWest.us", HBO West
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11335?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone
+http://teslaiptv.com:8080/hannaxhanna/es576457/67945?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="706" tvg-name="706", HITS
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065968
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="401" tvg-name="401", HITS Movies
+http://foctv.xyz:25510/Amir5641/YY5641/68
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="705" tvg-name="705", Kix
+https://pass.my.id/kix.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/107-1070603_lifetime-movies-lifetime-movie-network-logo.png" group-title="English" tvg-id="LifetimeMoviesEast.us" tvg-name="LifetimeMoviesEast.us", Lifetime Movie Network
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/6085?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946" group-title="English" tvg-id="CHN" tvg-name="CHN", Movie Mix 1
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="English" tvg-id="CHN" tvg-name="CHN", MovieTime
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="English" tvg-id="408" tvg-name="408", Paramount Network
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/15223?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="CHN" tvg-name="CHN", PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAyk0Xx7mEDkB5QdY3DfKnHGg8g0-xc32Jg&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", SERIES ACTION  | MARVEL
+http://stalkertvlatino.com:8080/play1/play1/87513
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png" group-title="English" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="ShowtimeFamilyZoneEast.us", Showtime Family Zone
+http://85.203.33.191:25461/captinunleashed87/FbCHwqmi9z/169630?checkedby:iptvcat.com&token=Q0NeUhENFAsUBVFdUAYCUwYHWF4NA1BTBlVRAVADAQMJB1cCBlACAlUSTUYVQUcABAlmD1BAXFNSWAMHAhhAFEsERGwLARQLFARWU1MNBkdJRk0PWQdEWFVXBw0AB1VSD1IaERIMUhMMElBTVwUAR0lGXB5ABxQMBQ1qUFdCCwJdQwxdFwlaHRRfDzsCUFgECwAbXBZTRE5GCEZEEA5AImsiFmAVAFJUWBAgJkQZFwcMEEsHQAdEWEZUBAQFFk5DWw5DXRYXTxMMEjQ3RBkXAB0QXAhHCwkMRlsXQEEWTkNREmlBBxZCQ1NRDAEUFw9HVUYVRFkDHj0HDltaV1cWCFcPRRFYRwcTGhIMCwhcQQoXO0kPUEBcQFVTBAACFh8=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1280px-Showtime_Next.svg.png" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11332?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11331?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png" group-title="English" tvg-id="ShowtimeWomenEast.us" tvg-name="ShowtimeWomenEast.us", Showtime Women
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11328?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="English" tvg-id="STAR Movies HD" tvg-name="STAR Movies HD", Star Movies (FHD)
+http://foctv.xyz:25510/Amir5641/YY5641/220
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="English" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39119?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/123/2514220_comedy-starz-comedy-channel-logo-png-download.png" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy
+http://planettvweb.com:8091/isaias2020/isaias2020/11935
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzEast.us" tvg-name="StarzEast.us", Starz East
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1280px-Starz_Edge_logo.svg.png" group-title="English" tvg-id="StarzEdgeEast.us" tvg-name="StarzEdgeEast.us", Starz Edge
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11327?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/515/266/png-transparent-starz-encore-television-channel-dish-network-suspense-television-text-logo.png" group-title="English" tvg-id="StarzEncoreActionEast.us" tvg-name="StarzEncoreActionEast.us", Starz Encore Action
+http://icego.club/vanderlei12/vanderlei12/85825?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/807-8071875_starz-encore-familysvg-wikimedia-commons-starz-encore-family.png" group-title="English" tvg-id="StarzEncoreFamilyEast.us" tvg-name="StarzEncoreFamilyEast.us", Starz Encore Family
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1002833?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="StarzEncoreWest.us" tvg-name="StarzEncoreWest.us", Starz Encore West
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11318?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1280px-Starz_Kids_%26_Family_logo.svg.png" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids & Family
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1044869?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzWest.us" tvg-name="StarzWest.us", Starz West
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11315?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy
+http://planettvweb.com:8091/isaias2020/isaias2020/11636
+
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11554?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title="English" tvg-id="712" tvg-name="712", Warner TV HD
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/100/593/png-transparent-tv-joj-logo-slovakia-television-plus-sk-text-trademark-sign.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Wau HD
+http://nn.geo.joj.sk/hls/wau-360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSheH-tx4zNq0VAE-r--PANX70pKfsaAVmUiQ&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", Zee Cafe
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
