@@ -98,9 +98,6 @@ http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Music
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10505?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W6G_otOfxG4/WiHZvIIbsNI/AAAAAAAAFM0/Xfd4OzqvRPImFDIjJh1s4PEBBIxv3cwBQCLcBGAs/s1600/mtvone-plus1.jpg" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV One
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38626?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
@@ -576,7 +573,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/220
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39119?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/123/2514220_comedy-starz-comedy-channel-logo-png-download.png" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy
-http://planettvweb.com:8091/isaias2020/isaias2020/11935
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzEast.us" tvg-name="StarzEast.us", Starz East
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330?checkedby:iptvcat.com
@@ -603,7 +600,7 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1044869?checkedby:iptvcat.com
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11315?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy
-http://planettvweb.com:8091/isaias2020/isaias2020/11636
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31293?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11554?checkedby:iptvcat.com
@@ -744,7 +741,7 @@ http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="Lifestyle & Documentary" tvg-id="553" tvg-name="553", Discovery Asia
-http://foctv.xyz:25510/Amir5641/YY5641/98
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745711
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Lifestyle & Documentary" tvg-id="554" tvg-name="554", Discovery Science
 https://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-discoveryscience.stream/playlist.m3u8
@@ -1157,8 +1154,8 @@ http://foctv.xyz:25510/Amir5641/YY5641/36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="Malay" tvg-id="KompasTV.id" tvg-name="KompasTV.id", KOMPAS TV
 http://foctv.xyz:25510/Amir5641/YY5641/107
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png" group-title="Malay" tvg-id="151" tvg-name="151", Laku Mall HD (Unifi)
-http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png" group-title="Malay" tvg-id="151" tvg-name="151", Laku Mall HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Malay" tvg-id="METROTV.id" tvg-name="METROTV.id", METRO TV
 http://foctv.xyz:25510/Amir5641/YY5641/108
