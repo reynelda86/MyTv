@@ -5,14 +5,29 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AvOnvu.png" group-title="Chinese" tvg-id="306" tvg-name="306", Astro Aec
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese" tvg-id="311" tvg-name="311", Astro AOD HD
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Chinese" tvg-id="352" tvg-name="352", Astro AOD 352 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745685
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="353" tvg-name="353", Astro AOD 353 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745686
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="354" tvg-name="354", ASTRO AOD 354 HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745687
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/66_144.png" group-title="Chinese" tvg-id="355" tvg-name="355", Astro AOD 355 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745688
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="Chinese" tvg-id="333" tvg-name="333", ASTRO HUA HEE DAI HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745683
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png" group-title="Chinese" tvg-id="308" tvg-name="308", Astro QUAN JIA
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", Astro iQIYI HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745669
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="308" tvg-name="308", Astro QUAN JIA HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745674
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -29,29 +44,32 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="Chinese" tvg-id="335" tvg-name="335", CCTV4
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinese" tvg-id="316" tvg-name="316", Cti Asia
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
+
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="392" tvg-name="392", KBS World
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", OH!K
 http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Chinese" tvg-id="251" tvg-name="251", ONE HD
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745690
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pdggvS/SCML.png" group-title="Chinese" tvg-id="226" tvg-name="226", SCM Legend
+http://foctv.xyz:25510/Amir5641/YY5641/52
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", Sony GEM TV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="Chinese" tvg-id=" CHN" tvg-name=" CHN", Thrill
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710006
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="310" tvg-name="310", TVB JADE
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745680
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Chinese" tvg-id="395" tvg-name="395", tvN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Chinese" tvg-id="395" tvg-name="395", tvN HD (Unifi)
-http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="Chinese" tvg-id="" tvg-name="", tvN Movies HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd
@@ -59,11 +77,29 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_music_in.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Box Hits
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158614?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/394/104/png-transparent-channel-v-television-channel-music-television-star-india-v-miscellaneous-television-angle.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="Entertainment" tvg-id="MTVEast.us" tvg-name="MTVEast.us", MTV
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745738
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" group-title="Entertainment" tvg-id="531" tvg-name="531", MTV Asia HD
 http://81.30.182.82:18092/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Mtv_base_uk.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Base
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000823?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live
+http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Music
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10505?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W6G_otOfxG4/WiHZvIIbsNI/AAAAAAAAFM0/Xfd4OzqvRPImFDIjJh1s4PEBBIxv3cwBQCLcBGAs/s1600/mtvone-plus1.jpg" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV One
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38626?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -80,14 +116,29 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745753
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="812" tvg-name="812", ASTRO SUPERSPORTS 2 HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports" tvg-id="818" tvg-name="818", beIN Sport 1 FR
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", beIN Sports 2
+http://foctv.xyz:25510/Amir5641/YY5641/156
+
+#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", beIN Sport Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745740
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="ElevenSportsUSA.uk" tvg-name="ElevenSportsUSA.uk", Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="ElevenSportsUSA.uk" tvg-name="ElevenSportsUSA.uk", Eleven Sports 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11609?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11610?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", EUROSPORT HD
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
@@ -110,6 +161,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports" tvg-id="823" tvg-name="823", RugbyPass TV
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745752
+
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Sukan RTM
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
@@ -121,6 +175,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sports" tvg-id="821" tvg-name="821", WWE NETWORK
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745750
 
 #EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="871" tvg-name="871", AI FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
@@ -299,6 +356,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png" group-title="News" tvg-id="  CHN" tvg-name="  CHN", CCTV5+
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png" group-title="News" tvg-id="503" tvg-name="503", CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News" tvg-id="515" tvg-name="515", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
@@ -311,7 +371,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News" tvg-id="511" tvg-name="511", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" group-title="News" tvg-id="612" tvg-name="612", Euronews 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" group-title="News" tvg-id="612" tvg-name="612", Euronews
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://www.bark.us/blog/wp-content/uploads/2019/04/Fox-news-logo.png" group-title="News" tvg-id="CHN" tvg-name="CHN", Fox News
@@ -334,6 +394,9 @@ https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="514" tvg-name="514", Sky News HD
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="CHN" tvg-name="CHN", TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="News" tvg-id="395" tvg-name="395", tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
@@ -359,14 +422,35 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English" tvg-id="412" tvg-name="412", CINEMAX HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngl/336/17460991_cinemax-logo-dish-cinemax-movie-package-png-download.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Cinemax ActionMax
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000168?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English" tvg-id="CinemaxEast.us" tvg-name="CinemaxEast.us", CINEMAX EAST
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11304?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png" group-title="English" tvg-id="CHN" tvg-name="CHN", CINEMAX MOREMAX HD
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000103?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outer_max_us.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Cinemax OuterMax HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11307?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime Investigation
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10634?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="English" tvg-id="716" tvg-name="716", DMAX
+http://foctv.xyz:25510/Amir5641/YY5641/91
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English" tvg-id="550" tvg-name="550", Dreamworks HD
 http://foctv.xyz:25510/Amir5641/YY5641/125
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11312?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-hits-us.png" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000379?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Filmhub_Logo_W_Text.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Film Hub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
@@ -380,17 +464,23 @@ https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31xFkHRjD6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA3%252C884%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Filmzie
 https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png" group-title="English" tvg-id="704" tvg-name="704", FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_2000.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm" group-title="English" tvg-id="415" tvg-name="415", FOX Action Movies HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745758
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FOX_Crime_BG.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Fox Crime HD
+http://wisdomiptv.com/fritznermorency/A724121F3AFC/68300?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="English" tvg-id="414" tvg-name="414", FOX Family Movies HD
 https://mediasv.online/tvchannel_x1/fox-family/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjQ5OjUxIEFNJmhhc2hfdmFsdWU9UXdPTEJQQ2tFQjNESFpnckMvYytTZz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yMyZpZD1jaF8xNjcwNQ==
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png" group-title="English" tvg-id="704" tvg-name="704", FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_2000.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="English" tvg-id="703" tvg-name="703", Fox Life HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709679
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCttDS1uSBkF1zv3Bl8CJe5i5i49ZwIQ4NcwRjJdoiz2n3KxLzf6mYO2_zfozSd4ljdM&usqp=CAU" group-title="English" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movies HD
+http://45.225.204.7:8000/play/a05z
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", Fx
 http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
@@ -407,6 +497,12 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11519?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.favpng.com/10/8/19/hallmark-movies-mysteries-television-channel-hallmark-channel-film-png-favpng-TZgRhyVEjMM6YJH2VS2TEBXQb.jpg" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies & Mysteries East
+http://maghum-ott.com/fahim9555/280A30559862/71369?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11336?checkedby:iptvcat.com
 
@@ -415,9 +511,6 @@ http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English" tvg-id="HBOFamilyEast.us" tvg-name="HBOFamilyEast.us", HBO Family
 https://pass.my.id/hbofamilyid.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="English" tvg-id="CHN" tvg-name="CHN", HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
@@ -430,6 +523,15 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11335?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone
 http://teslaiptv.com:8080/hannaxhanna/es576457/67945?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="706" tvg-name="706", HITS
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065968
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="401" tvg-name="401", HITS Movies
+http://foctv.xyz:25510/Amir5641/YY5641/68
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="705" tvg-name="705", Kix
 https://pass.my.id/kix.m3u8
@@ -461,8 +563,14 @@ http://85.203.33.191:25461/captinunleashed87/FbCHwqmi9z/169630?checkedby:iptvcat
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1280px-Showtime_Next.svg.png" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11332?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11331?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png" group-title="English" tvg-id="ShowtimeWomenEast.us" tvg-name="ShowtimeWomenEast.us", Showtime Women
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11328?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="English" tvg-id="STAR Movies HD" tvg-name="STAR Movies HD", Star Movies (FHD)
+http://foctv.xyz:25510/Amir5641/YY5641/220
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="English" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39119?checkedby:iptvcat.com
@@ -476,8 +584,32 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1280px-Starz_Edge_logo.svg.png" group-title="English" tvg-id="StarzEdgeEast.us" tvg-name="StarzEdgeEast.us", Starz Edge
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11327?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/515/266/png-transparent-starz-encore-television-channel-dish-network-suspense-television-text-logo.png" group-title="English" tvg-id="StarzEncoreActionEast.us" tvg-name="StarzEncoreActionEast.us", Starz Encore Action
+http://icego.club/vanderlei12/vanderlei12/85825?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/807-8071875_starz-encore-familysvg-wikimedia-commons-starz-encore-family.png" group-title="English" tvg-id="StarzEncoreFamilyEast.us" tvg-name="StarzEncoreFamilyEast.us", Starz Encore Family
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1002833?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="StarzEncoreWest.us" tvg-name="StarzEncoreWest.us", Starz Encore West
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11318?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1280px-Starz_Kids_%26_Family_logo.svg.png" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids & Family
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1044869?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzWest.us" tvg-name="StarzWest.us", Starz West
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11315?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy
 http://planettvweb.com:8091/isaias2020/isaias2020/11636
+
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11554?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Thril
+http://foctv.xyz:25510/Amir5641/YY5641/70
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title="English" tvg-id="712" tvg-name="712", Warner TV HD
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
@@ -497,8 +629,17 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids" tvg-id="611" tvg-name="611", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids" tvg-id="BabyFirstTV.us" tvg-name="BabyFirstTV.us", Baby First
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="Kids" tvg-id="618" tvg-name="618", Baby TV
+http://foctv.xyz:25510/Amir5641/YY5641/182
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="Kids" tvg-id="615" tvg-name="615", Cartoon Network HD
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN", CBeebies HD
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
@@ -516,22 +657,73 @@ http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745719
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Kids" tvg-id="552" tvg-name="552", Nick Jr
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
+http://foctv.xyz:25510/Amir5641/YY5641/128
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="Kids" tvg-id="616" tvg-name="616", Nickeledeon HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9XqWeY.png" group-title="Kids" tvg-id="NicktoonsEast.us" tvg-name="NicktoonsEast.us", Nicktoons
+http://yassooo.com:8080/benAlaa/829293992/84247?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_X9KNdcQvS3Dh3KxdNZf0lEVowhMPS3ktA&usqp=CAU" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
+http://icego.club/vanderlei12/vanderlei12/85842?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="Indian" tvg-id="214" tvg-name="214", Adithya
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745662
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", Astro Bollyone HD
+http://foctv.xyz:25510/Amir5641/YY5641/143
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="201" tvg-name="201", Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9YCG5H/vinmeen.png" group-title="Indian" tvg-id="202" tvg-name="202", Astro Vinmeen
+http://foctv.xyz:25510/Amir5641/YY5641/144
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="341" tvg-name="341", COLORS HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745742
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Cineplex_TV_black.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745770
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="311" tvg-name="311", COLORS TAMIL
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745666
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dwDAGFXLKH4/maxresdefault.jpg" group-title="Indian" tvg-id="313" tvg-name="313", Jaya Max
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745774
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="Indian" tvg-id="331" tvg-name="331", Sony MAX
+http://foctv.xyz:25510/Amir5641/YY5641/218
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", SUN MUSIC
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745660
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="342" tvg-name="342", Sony Sab
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745778
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/50-505569_sony-tv-logo-png-channel-sony-entertainment-television.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", Sony TV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745780
 
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="221" tvg-name="221", STAR VIJAY HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745665
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="Indian" tvg-id="211" tvg-name="211", SUN TV HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745667
+
+#EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Indian" tvg-id="102" tvg-name="102", VASANTHAM
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/312429176
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", ZEE Bioskop
+http://foctv.xyz:25510/Amir5641/YY5641/142
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", ZEE Cinema
+http://foctv.xyz:25510/Amir5641/YY5641/212
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" group-title="Indian" tvg-id="CHN" tvg-name="CHN", Zee Classic
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" group-title="Indian" tvg-id="223" tvg-name="223", ZEE Tamil HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745663
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
@@ -539,11 +731,11 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle & Documentary" tvg-id="709" tvg-name="709", Asian Food Channel
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", Bbc Earth
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle & Documentary" tvg-id="512" tvg-name="512", BBC Lifestyle
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745765
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" group-title="Lifestyle & Documentary" tvg-id="501" tvg-name="501", Bbc Earth
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Lifestyle & Documentary" tvg-id="503" tvg-name="503", CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
@@ -551,14 +743,14 @@ http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="552" tvg-name="552", DISCOVERY HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745710
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", DW
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="Lifestyle & Documentary" tvg-id="553" tvg-name="553", Discovery Asia
+http://foctv.xyz:25510/Amir5641/YY5641/98
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Lifestyle & Documentary" tvg-id="554" tvg-name="554", Discovery Science
 https://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-discoveryscience.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", Fashion TV Midnight 2
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", DW
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", Fashion Tv
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
@@ -566,17 +758,23 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", Fashion Tv Film
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", Fashion TV Midnight 2
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="715" tvg-name="715", HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Lifestyle & Documentary" tvg-id="555" tvg-name="555", History HD
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="LoveNature.ca" tvg-name="LoveNature.ca", Love Nature
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg" group-title="Lifestyle & Documentary" tvg-id="502" tvg-name="502", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Lifestyle & Documentary" tvg-id="K13AVD6.us" tvg-name="K13AVD6.us", Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="Lifestyle & Documentary" tvg-id="508" tvg-name="508", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png" group-title="Lifestyle & Documentary" tvg-id="511" tvg-name="511", Nat Geo People HD
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
@@ -584,8 +782,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #EXTINF:-1 tvg-logo="https://bit.ly/3aLG5QF" group-title="Lifestyle & Documentary" tvg-id="509" tvg-name="509", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="Lifestyle & Documentary" tvg-id="508" tvg-name="508", National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Lifestyle & Documentary" tvg-id="707" tvg-name="707", TLC HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745729
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", TV5 MONDE STYLE
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
@@ -692,7 +890,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/cd04110c5ff453faadaa98fe8c59abec/540p/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7QB1b8b/Doctor-Strange-2016.jpg" group-title="VOD" tvg-id="CHN" tvg-name="CHN", Doctor Strange (2016)
 http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="CHN" tvg-name="CHN", Don''''''''t Tell a Soul (2020)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="CHN" tvg-name="CHN", Don''''''''''''''''t Tell a Soul (2020)
 https://cdn3ii.diebutx.com/own2hls/2020/fb83af3f0aafb980ae4e7bdac7cadc48/540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="CHN" tvg-name="CHN", Drama: Exit (2020)
@@ -909,7 +1107,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745783
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/27
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Astro Go Shop Ruuma
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
@@ -933,7 +1131,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745782
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="114" tvg-name="114", Astro TV-ALHIJRAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745657
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="122", Astro TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
@@ -941,14 +1139,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvkSY53f/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-la6YeqyulhE/XMjH4FqqcYI/AAAAAAAAnyQ/zvZFsDvg3LEwtNc8UHwMcVYn9s954kEBwCLcBGAs/s1600/citra-dangdut-tv-channel-logo.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Citra Dangdut Indonesia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Malay" tvg-id="GTV.id" tvg-name="GTV.id", GTV Indonesia
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
@@ -958,6 +1150,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="Malay" tvg-id="116" tvg-name="116", HyppSensasi HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malay" tvg-id="Indosiar.id" tvg-name="Indosiar.id", INDOSIAR
+http://foctv.xyz:25510/Amir5641/YY5641/36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="Malay" tvg-id="KompasTV.id" tvg-name="KompasTV.id", KOMPAS TV
+http://foctv.xyz:25510/Amir5641/YY5641/107
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png" group-title="Malay" tvg-id="151" tvg-name="151", Laku Mall HD (Unifi)
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
@@ -971,8 +1169,14 @@ https://cdn-livetv-studio.metube.id/mnctv.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="Malay" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI Indonesia
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malay" tvg-id="RTV.id" tvg-name="RTV.id", RTV
+http://foctv.xyz:25510/Amir5641/YY5641/210
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png" group-title="Malay" tvg-id=" CHN" tvg-name=" CHN", RTB Sukmaindera
 https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w2066316052_b608000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
+http://foctv.xyz:25510/Amir5641/YY5641/37
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Suria Singapore
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
