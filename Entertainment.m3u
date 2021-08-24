@@ -1,11 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_music_in.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Box Hits
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158614?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/394/104/png-transparent-channel-v-television-channel-music-television-star-india-v-miscellaneous-television-angle.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" group-title="Entertainment" tvg-id="531" tvg-name="531", MTV Asia HD
 http://81.30.182.82:18092/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Mtv_base_uk.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Base
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000823?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Music
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10505?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W6G_otOfxG4/WiHZvIIbsNI/AAAAAAAAFM0/Xfd4OzqvRPImFDIjJh1s4PEBBIxv3cwBQCLcBGAs/s1600/mtvone-plus1.jpg" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV One
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38626?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
