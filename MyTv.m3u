@@ -138,13 +138,13 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11609?checkedby:iptvcat.com
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11610?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", Eurosport HD
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/328
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Sports" tvg-id="815" tvg-name="815", FOX Sports HD
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/152
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Sports" tvg-id="816" tvg-name="816", FOX Sports 2 HD
 https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
@@ -518,9 +518,6 @@ http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="English" tvg-id="HBOWest.us" tvg-name="HBOWest.us", HBO West
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11335?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
-http://teslaiptv.com:8080/hannaxhanna/es576457/67945?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV HD
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
@@ -570,7 +567,7 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11328?checkedby:iptvcat.com
 http://foctv.xyz:25510/Amir5641/YY5641/220
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="English" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema East
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39119?checkedby:iptvcat.com
+https://vipvikingz.com/101452370/iQngwpwCqT/9988238
 
 #EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/123/2514220_comedy-starz-comedy-channel-logo-png-download.png" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy East
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329?checkedby:iptvcat.com
@@ -706,9 +703,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745665
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="Indian" tvg-id="211" tvg-name="211", SUN TV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745667
-
-#EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Indian" tvg-id="102" tvg-name="102", Vasa
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/312429176
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", ZEE Bioskop
 http://foctv.xyz:25510/Amir5641/YY5641/142
@@ -1183,4 +1177,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Malay" tvg-id="TRANSTVHD.id" tvg-name="TRANSTVHD.id", TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Tv Ikim
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
