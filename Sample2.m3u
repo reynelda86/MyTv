@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/------|Canada|------.png" group-title="All" tvg-id="" tvg-name="", ------|Canada|------
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3069
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", ------|India|------
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1965
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", ------|Indonesia|------
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60289
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", ------|Malaysia|------
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1735
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/------|UnitedKingdom|------.png" group-title="All" tvg-id="" tvg-name="", ------|United Kingdom|------
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/2957
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/------|USA|------.png" group-title="All" tvg-id="" tvg-name="", ------|USA|------
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3168
+
+#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="All" tvg-id="" tvg-name="", ??
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/01/LogoALHIDAMARTCOID.png" group-title="All" tvg-id="" tvg-name="", ??
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", .
+http://192.168.11.35:8875/?freq=11634&sr=30000&msys=dvbs&pol=h&pids=0,17,18,20,300,310,131&sat=6&tp=21&sid=9403&pmt=300&ca=1&lock=0&caid=187d&vpid=310&apid=131&fav=0&longitude=3255&prog=181
+
+#EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="All" tvg-id="" tvg-name="", ...NBC SPORTS NETWORK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png" group-title="All" tvg-id="" tvg-name="", (MY) RTM SUKAN
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.bayutvnganjuk.com/wp-content/uploads/2019/11/cropped-heder-6.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Bayu TV
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cahayabanten.tv/images/header.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/channel4u.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] ID:HBO
+https://gratismkctv.net/film/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://it.heytv.org/wp-content/uploads/2019/03/1-1P5112029540-L-1.jpg" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] m2o Tv_VIDIO
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaformasi.com/content/images/wordpress/2020/07/1594699707-picsay.jpg" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaformasi.com/content/images/wordpress/2020/07/1594699707-picsay.jpg" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/maxstreammusic.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://samara11x11.ucoz.ru/music/PERVIY_MUZIKALNIY.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Musik_ONE_VIDIO
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="http://samara11x11.ucoz.ru/music/PERVIY_MUZIKALNIY.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Musik_ONE_VIDIO
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5dPuA2AwHlfo3PKPANmlWWM78xw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Prambors On Air _VIDIO
+http://masima.rastream.com/masima-pramborsjakarta?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="All" tvg-id="" tvg-name="", [ALHIDAMART] Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
