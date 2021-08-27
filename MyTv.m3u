@@ -66,7 +66,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745680
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Chinese" tvg-id="395" tvg-name="395", tvN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
@@ -78,7 +78,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Box Hits
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158614?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/28857
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/394/104/png-transparent-channel-v-television-channel-music-television-star-india-v-miscellaneous-television-angle.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
@@ -96,7 +96,7 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000823?checkedby:iptvcat.com
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Music
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10505?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/28787
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -132,10 +132,10 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11609?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3136
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11610?checkedby:iptvcat.com
+http://liontv.me:80/teggft384783/eudbeu39489/5376
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", Eurosport HD
 http://foctv.xyz:25510/Amir5641/YY5641/328
@@ -423,7 +423,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000168?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English" tvg-id="CinemaxEast.us" tvg-name="CinemaxEast.us", Cinemax East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11304?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/64356
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png" group-title="English" tvg-id="CHN" tvg-name="CHN", CINEMAX MOREMAX HD
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000103?checkedby:iptvcat.com
@@ -432,7 +432,7 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000103?checkedby:iptvcat.com
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11307?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime and Investigation HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/10634?checkedby:iptvcat.com
+http://foctv.xyz:25510/Amir5641/YY5641/87
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="English" tvg-id="716" tvg-name="716", DMAX HD
 http://foctv.xyz:25510/Amir5641/YY5641/91
@@ -444,7 +444,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/125
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11309?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11312?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59224
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-hits-us.png" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000379?checkedby:iptvcat.com
@@ -489,7 +489,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 http://85.203.33.191:25461/captinunleashed87/FbCHwqmi9z/170481?checkedby:iptvcat.com&token=Q0NeUhENFAsUUgBTXlZTBwdWWl8MWlYBBlgMVVRXUAIBAA8BUwZTAgISTUYVQUcABAlmD1BAXFNTUQEMAxhAFEsERGwLARQLFARWU1MNBkdJRk0PWQdEWFVXBw0DDVJTAFQaERIMUhMMElRRXgIER0lGXB5ABxQMBQ1qUFdCCwJdQwxdFwlaHRRfDzsCUFgECwAbXBZTRE5GCEZEEA5AIFMAW1ILRWJUVVgPCwpaUgwAFxkvWgFIQEhDV11GRgMVXUMMEVZVBwkUHEMHCUBbERcdG1wWNzVASENQTEZRDBJRDlgRWEdCQhQcQw0VakcAFhBLA1UPAxBGWxcEEBhADFkZaVANC1hUVUQICwhGF19HVRtKFg8JDA0VWkZtRAsFGlsUC1BXBBNL
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="English" tvg-id="HallmarkDrama.us" tvg-name="HallmarkDrama.us", Hallmark Drama
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11519?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29457
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -501,7 +501,7 @@ http://maghum-ott.com/fahim9555/280A30559862/71369?checkedby:iptvcat.com
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11336?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3123
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/HboEast/hbo%20east.png" group-title="English" tvg-id="HBOEast.us" tvg-name="HBOEast.us", HBO East
 http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
@@ -514,9 +514,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English" tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us", HBO Signature East
 http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="English" tvg-id="HBOWest.us" tvg-name="HBOWest.us", HBO West
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11335?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV HD
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
@@ -531,7 +528,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/68
 https://pass.my.id/kix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/107-1070603_lifetime-movies-lifetime-movie-network-logo.png" group-title="English" tvg-id="LifetimeMoviesEast.us" tvg-name="LifetimeMoviesEast.us", Lifetime Movies East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/6085?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3114
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946" group-title="English" tvg-id="CHN" tvg-name="CHN", Movie Mix 1
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
@@ -543,7 +540,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="English" tvg-id="408" tvg-name="408", Paramount HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/15223?checkedby:iptvcat.com
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745777
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="CHN" tvg-name="CHN", PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
@@ -552,16 +549,16 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 http://stalkertvlatino.com:8080/play1/play1/87513
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png" group-title="English" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="ShowtimeFamilyZoneEast.us", Showtime Family Zone East
-http://85.203.33.191:25461/captinunleashed87/FbCHwqmi9z/169630?checkedby:iptvcat.com&token=Q0NeUhENFAsUBVFdUAYCUwYHWF4NA1BTBlVRAVADAQMJB1cCBlACAlUSTUYVQUcABAlmD1BAXFNSWAMHAhhAFEsERGwLARQLFARWU1MNBkdJRk0PWQdEWFVXBw0AB1VSD1IaERIMUhMMElBTVwUAR0lGXB5ABxQMBQ1qUFdCCwJdQwxdFwlaHRRfDzsCUFgECwAbXBZTRE5GCEZEEA5AImsiFmAVAFJUWBAgJkQZFwcMEEsHQAdEWEZUBAQFFk5DWw5DXRYXTxMMEjQ3RBkXAB0QXAhHCwkMRlsXQEEWTkNREmlBBxZCQ1NRDAEUFw9HVUYVRFkDHj0HDltaV1cWCFcPRRFYRwcTGhIMCwhcQQoXO0kPUEBcQFVTBAACFh8=
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/64345
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1280px-Showtime_Next.svg.png" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11332?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60214
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11331?checkedby:iptvcat.com
+http://icego.club/vanderlei12/vanderlei12/85820?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png" group-title="English" tvg-id="ShowtimeWomenEast.us" tvg-name="ShowtimeWomenEast.us", Showtime Women East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11328?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29461
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Star Movies (FHD)
 http://foctv.xyz:25510/Amir5641/YY5641/220
@@ -570,13 +567,13 @@ http://foctv.xyz:25510/Amir5641/YY5641/220
 https://vipvikingz.com/101452370/iQngwpwCqT/9988238
 
 #EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/123/2514220_comedy-starz-comedy-channel-logo-png-download.png" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29497
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzEast.us" tvg-name="StarzEast.us", Starz East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3149
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1280px-Starz_Edge_logo.svg.png" group-title="English" tvg-id="StarzEdgeEast.us" tvg-name="StarzEdgeEast.us", Starz Edge East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11327?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29494
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/515/266/png-transparent-starz-encore-television-channel-dish-network-suspense-television-text-logo.png" group-title="English" tvg-id="StarzEncoreActionEast.us" tvg-name="StarzEncoreActionEast.us", Starz Encore Action East
 http://icego.club/vanderlei12/vanderlei12/85825?checkedby:iptvcat.com
@@ -585,22 +582,19 @@ http://icego.club/vanderlei12/vanderlei12/85825?checkedby:iptvcat.com
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1002833?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="StarzEncoreWest.us" tvg-name="StarzEncoreWest.us", Starz Encore West
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11318?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29458
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326?checkedby:iptvcat.com
+http://scrapehost.com:8080/Cedrick/Cedrick/10708?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1280px-Starz_Kids_%26_Family_logo.svg.png" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids &amp; Family East
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1044869?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzWest.us" tvg-name="StarzWest.us", Starz West
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11315?checkedby:iptvcat.com
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29491
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Syfy
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31293?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11554?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Thrill
 http://foctv.xyz:25510/Amir5641/YY5641/70
