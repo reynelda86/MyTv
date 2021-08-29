@@ -47,9 +47,6 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese" tvg-id="311" tvg-name="311", Astro AOD HD 311
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Chinese" tvg-id="352" tvg-name="352", Astro AOD 352
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745685
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="353" tvg-name="353", Astro AOD 353
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745686
 
@@ -444,16 +441,16 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="English" tvg-id="473" tvg-name="473", Blue Ant Entertainment
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
+http://aputra.xyz/hmmpastidicomotdahpunyague/12blueAnt.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="English" tvg-id="474" tvg-name="474", Blue Ant Extreme
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English" tvg-id="411" tvg-name="411", CinemaWorld HD
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745769
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English" tvg-id="412" tvg-name="412", CINEMAX HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
@@ -618,7 +615,7 @@ http://scrapehost.com:8080/Cedrick/Cedrick/10708?checkedby:iptvcat.com
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1044869?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzWest.us" tvg-name="StarzWest.us", Starz West
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/29491
+http://scrapehost.com:8080/Cedrick/Cedrick/161141?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Syfy
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31293?checkedby:iptvcat.com
@@ -639,28 +636,22 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN", Aniplus
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids" tvg-id="611" tvg-name="611", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids" tvg-id="BabyFirstTV.us" tvg-name="BabyFirstTV.us", BabyFirst TV
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="Kids" tvg-id="618" tvg-name="618", Baby TV HD
 http://foctv.xyz:25510/Amir5641/YY5641/182
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang HD
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="Kids" tvg-id="615" tvg-name="615", Cartoon Network HD
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="Kids" tvg-id="553" tvg-name="553", CBeebies HD
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MF7ACwiPAU4/VyoL9JirQLI/AAAAAAAAAOM/XoveUVTaVo8RPAcovrzv_lW-TABFO_ESACLcB/w1200-h630-p-k-no-nu/chutti%2Btv.png" group-title="Kids" tvg-id="213" tvg-name="213", Chutti TV
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745661
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/dd/disney_channel_global_hd.png" group-title="Kids" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel East
 https://pass.my.id/disneych.m3u8
@@ -684,7 +675,7 @@ http://yassooo.com:8080/benAlaa/829293992/84247?checkedby:iptvcat.com
 http://icego.club/vanderlei12/vanderlei12/85842?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="Indian" tvg-id="214" tvg-name="214", Adithya
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745662
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/66713
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", BollyOne HD
 http://foctv.xyz:25510/Amir5641/YY5641/143
@@ -735,7 +726,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/212
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" group-title="Indian" tvg-id="223" tvg-name="223", Zee Tamil HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745663
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1913
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
@@ -1201,3 +1192,4 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_s
 
 #EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Tv Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
