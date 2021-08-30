@@ -935,9 +935,6 @@ http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="VOD" tvg-id="" tvg-name="", Black Widow (2021)
 http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76131.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg" group-title="VOD" tvg-id="" tvg-name="", Brahms: The Boy II (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70321.mp4
-
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD" tvg-id="" tvg-name="", Brave (2012)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960865
 
@@ -1091,6 +1088,96 @@ http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39718.mkv
 #EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/3zrC5tUiR35rTz9stuIxnU1nUS5_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Tomb Raider 3D
 http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39729.mkv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP01 - Si Kocak yang Legendaris
+https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP01 - Si Kocak yang Legendaris
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959981
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP01 - Si Kocak yang Legendaris
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960485
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP02 - Kembalinya Mr. Bean
+https://obs.line-scdn.net/0hbqNH_kmTPV5zMRf_MktCCU9nPjFAXS5dFwdsQCNff2xZAnkMR1N7MVY5MT1ZCH0KClYiOVU3YW4L/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP02 - Kembalinya Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959982
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP02 - Kembalinya Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960486
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP03 - Kutukan Mr. Bean
+https://obs.line-scdn.net/0hEFUt5pUJGmloDTDJ6_NlPlVbGQZbYQlqDDtLdzhjWFlHOFo3UWJdCU4NTAsWPl45XS5UX0wPF11NNQ/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP03 - Kutukan Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959983
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP03 - Kutukan Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960487
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP04 - Mr. Bean Pergi ke Kota
+https://obs.line-scdn.net/0hfqoimabxOV5SEBPxQCJGCW5GOjFhfCpdNiZoQAJ-Z2Z_KXYIaH93O3cYMm18JnkLK3cmOXIVYGp7/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP04 - Mr. Bean Pergi ke Kota
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959984
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP04 - Mr. Bean Pergi ke Kota
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960488
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP05 - Masalah dengan Mr. Bean
+https://obs.line-scdn.net/0h73hPl04KaBxVKUKxc3AXS2l_a3NmRXsfMR85AgVHKix9HixCb0klenAhYy96ES9NLE53e3ctNnss/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP05 - Masalah dengan Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959985
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP05 - Masalah dengan Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960489
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP06 - Mr. Bean Berkelana Lagi
+https://obs.line-scdn.net/0hLtzGV2r8E1tHPjnyJ8lsDHtoEDR0UgBYIwhCRRdQUWhrCl0Ke19ZNGI2GGtuB1AFPlkMPDI2SGNr/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP06 - Mr. Bean Berkelana Lagi
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959986
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP06 - Mr. Bean Berkelana Lagi
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960490
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP08 - Mr. Bean di Kamar 426
+https://obs.line-scdn.net/0hY46GFAe2BhsLPiyySox5TDdoBXQ4UhUYbwhXBVtQWC0kDkNKM1lLeS42CnsjC0BMclkZfH44Wn4i/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP08 - Mr. Bean di Kamar 426
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959988
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP08 - Mr. Bean di Kamar 426
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960492
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP09 - Mr. Bean Membuatnya Sendiri
+https://obs.line-scdn.net/0hW6Y20xPfCBlkSyKxEut3TlgdC3ZXJxsaAH1ZBzQlVSlKf05HWCtEfUFDAylLeUdHHSwXfhIbVX1P/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP09 - Mr. Bean Membuatnya Sendiri
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959989
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP09 - Mr. Bean Membuatnya Sendiri
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960493
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP11 - Mr. Bean Kembali ke Sekolah
+https://obs.line-scdn.net/0hP5-YYGpTDxoQICWvNFZwTSN2DHUjTBwZdBZeBEBOVyM7E0hEL0FDfD11USg_EEEJLRZBKDEhUSo/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP11 - Mr. Bean Kembali ke Sekolah
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959991
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP11 - Mr. Bean Kembali ke Sekolah
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960495
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP14 - Tata Rambut Karya Mr. Bean dari London
+https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP14 - Tata Rambut Karya Mr. Bean dari London
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959994
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP14 - Tata Rambut Karya Mr. Bean dari London
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960498
+
 #EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/787660f941add6e7357f3bbfb555cdea.jpg" group-title="VOD" tvg-id="" tvg-name="", F9 (2021)
 http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76229.mp4
 
@@ -1163,7 +1250,7 @@ http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72331.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", Godzilla: Planet of the Monsters (2017)
 https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuuzSt0dzY6k9xduN9tTSCIUvZ7.jpg" group-title="VOD" tvg-id="" tvg-name="", Hachi: A Dog''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''s Tale (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuuzSt0dzY6k9xduN9tTSCIUvZ7.jpg" group-title="VOD" tvg-id="" tvg-name="", Hachi: A Dog''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''s Tale (2009)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7128.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0QNXgTSfPxH45rTVO2LF29uYZt.jpg" group-title="VOD" tvg-id="" tvg-name="", Hantu Bonceng 2.0 (2021)
@@ -1367,6 +1454,42 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_4YRDh_pX4wsW8gtdKpUgCC_OkNBDExXXg&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Mr Bean
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60085
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://obs.line-scdn.net/0h3Zzdt8IAbHVHHUbDZuwTIntLbxp0cX92Iys9axdzMUVpKi4kfnkqEGIVZ0RiKCshPnpzEjcZME1t/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1UC1NYR1lTPVZ-QztWClkLQl8/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://obs.line-scdn.net/0hmHDf0lNdMmd5HxjTGQZNMEVJMQhKcyFkHSljeSlxcFJWKnA3TXx_A1wXOVRSLnwzAHgtAAsXaVUA/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://obs.line-scdn.net/0hYLp4zIT_BmNNTSzKLJt5NH4bBQx-IRVgKXtXfR0jXlBpeEQwcCJJBWAYWFBheUhwcHtIVWBPXlM/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959987
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959990
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959992
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959993
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960491
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960494
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960496
+
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960497
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg" group-title="VOD" tvg-id="" tvg-name="", Mulan (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/307.mp4
 
@@ -1495,6 +1618,9 @@ http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71859.mp4
 
 #EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/14145405f56b4d34cecadf3c5d41d7ea.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator.3_Rise.of the.Machines.2003
 http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71858.mkv
+
+#EXTINF:-1 tvg-logo="http://45.148.120.131/wp-content/uploads/2021/04/1w1TVqCiEWqYnfrNUL0N1W8LAfA-185x278.jpg" group-title="VOD" tvg-id="" tvg-name="", The  Marksman (2021)
+https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0H1Gx1IH0K7kFREstdPt9mJbOp.jpg" group-title="VOD" tvg-id="" tvg-name="", The Aftermath (2021)
 http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/75238.mp4
@@ -1625,6 +1751,12 @@ http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74181.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", the Witch and the Wardrobe (2005)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960235
 
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Yin Yang Master
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqIoyNK.jpg" group-title="VOD" tvg-id="" tvg-name="", The Yin Yang Master (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z2xqpx/20210525-030444.png" group-title="VOD" tvg-id="" tvg-name="", Thriller: Alice Fades Away (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
 
@@ -1667,6 +1799,12 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/7024.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD" tvg-id="" tvg-name="", Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vanquish (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD" tvg-id="" tvg-name="", Vanquish (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="VOD" tvg-id="" tvg-name="", Venom (2018)
 http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73396.mp4
 
@@ -1685,6 +1823,12 @@ https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z2xqpx/20210525-030444.png" group-title="VOD" tvg-id="" tvg-name="", Wrong Turn (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wrong Turn (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wrong Turn (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZjZmM1ZDctNDhlZi00Mzk1LWFjNWItYzIxNGY2OWYzYjJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", xXx (2002)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960219
 
@@ -1694,7 +1838,7 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960221
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY4ZGQ2OGItNGQ4NC00MWVmLTgxMzktYThjNmRlNjYzYjQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,673,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", xXx: State of the Union (2005)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960220
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="VOD" tvg-id="" tvg-name="", Zack Snyder''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''s Justice League (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="VOD" tvg-id="" tvg-name="", Zack Snyder''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''s Justice League (2021)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7309.mp4
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zootopia (2016)
