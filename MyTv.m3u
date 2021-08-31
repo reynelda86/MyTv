@@ -68,12 +68,6 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Chinese" tvg-id="395" tvg-name="395", tvN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png" group-title="Chinese" tvg-id="416" tvg-name="416", tvN Movies HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd
-
-#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_music_in.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", B4U Music
-https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/394/104/png-transparent-channel-v-television-channel-music-television-star-india-v-miscellaneous-television-angle.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
@@ -97,117 +91,6 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wxOB3ejIK5qs71w16ps1aXRZsnx.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S00 E01
-https://nonton.site:8443/series/rootproject87/rootproject87/37582.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79C1S70I2nR4o0WpVETIezT3jyG.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E01
-https://nonton.site:8443/series/rootproject87/rootproject87/25394.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1xV5iCbTP3tAQjjYxzw6bfHPEz.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E02
-https://nonton.site:8443/series/rootproject87/rootproject87/12171.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLR6BqXKUwwA37eIdo64SAnCC2d.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E03
-https://nonton.site:8443/series/rootproject87/rootproject87/12172.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOpqf1Q5CADU55PNsnnpktnIYqD.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E04
-https://nonton.site:8443/series/rootproject87/rootproject87/12173.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/easQKWiQKbWQ2iFVFe24XVebZd4.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E05
-https://nonton.site:8443/series/rootproject87/rootproject87/12174.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agGAyZ2JsnD1v3z4MqRL08LEFCn.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E06
-https://nonton.site:8443/series/rootproject87/rootproject87/12175.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVHiLKcalFDTxFB7KbBJKyFtmaM.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E07
-https://nonton.site:8443/series/rootproject87/rootproject87/12176.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnx03ZH0qvEVGAE1s53wAwTZvyf.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E08
-https://nonton.site:8443/series/rootproject87/rootproject87/12177.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihyZoy18msmHsjllcqjYsK0vtUs.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E09
-https://nonton.site:8443/series/rootproject87/rootproject87/12178.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aFI1Exfk0Aafvwzj2XqO0wCcau.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E10
-https://nonton.site:8443/series/rootproject87/rootproject87/12179.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMKNHEhdsVcHUuOugRJyh07k5lL.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E11
-https://nonton.site:8443/series/rootproject87/rootproject87/12180.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEptycBFKnzlvoFGLF8OfbQpjGJ.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E12
-https://nonton.site:8443/series/rootproject87/rootproject87/12181.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XTDbUTXiixznpWMb4zzafaMjAc.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E13
-https://nonton.site:8443/series/rootproject87/rootproject87/12182.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTETkk4bGexspVFnJYRlKgz8WlZ.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E14
-https://nonton.site:8443/series/rootproject87/rootproject87/12183.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exue33PPIfAhxKx0mTK3ttTAmc.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E15
-https://nonton.site:8443/series/rootproject87/rootproject87/12184.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ImEhJOClNS5ack5EaJ9B99I49p.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E16
-https://nonton.site:8443/series/rootproject87/rootproject87/12185.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SfGE8AuAbDOAOrfO8ItsrVEIrh.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E17
-https://nonton.site:8443/series/rootproject87/rootproject87/12186.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B7TBNvHpOS1XNTpc6HNZqWqAEf.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E18
-https://nonton.site:8443/series/rootproject87/rootproject87/12187.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O17xAXHDvfwaoxCctE7URXYUBc.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E19
-https://nonton.site:8443/series/rootproject87/rootproject87/12188.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB2DrcwqDeJHKXxULPXSH3LzuQB.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S01 E20
-https://nonton.site:8443/series/rootproject87/rootproject87/12189.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ApT8YVjFDZ5y3h5cLYreCzcrWr6.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E01
-https://nonton.site:8443/series/rootproject87/rootproject87/26820.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9oX2rPARNEoklfrKBgi4H0beoNN.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E02
-https://nonton.site:8443/series/rootproject87/rootproject87/29129.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zxWXx1eh7YQao8tNreNabTbf6ds.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E03
-https://nonton.site:8443/series/rootproject87/rootproject87/29943.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kGWmciAcX6MPo97GzgZuU48Xvsj.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E04
-https://nonton.site:8443/series/rootproject87/rootproject87/33212.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kwj49ll49zKnJTHJQQ7pLs2ZIxN.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E05
-https://nonton.site:8443/series/rootproject87/rootproject87/34574.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/18vJLOyYAmTVvjLOUiZZXDnV01P.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E06
-https://nonton.site:8443/series/rootproject87/rootproject87/35760.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xtFUJCHIYPCFtIJZeB5YmvAsR8m.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E07
-https://nonton.site:8443/series/rootproject87/rootproject87/36716.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tHbktOKeNXyeb7MOuXZNf7IP37H.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E08
-https://nonton.site:8443/series/rootproject87/rootproject87/37584.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4IrFkaN9b5lT1eiU6EZcwz0jcGE.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E09
-https://nonton.site:8443/series/rootproject87/rootproject87/38190.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5Th84D8TjJAxUMDl357dkhzsZHC.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E10
-https://nonton.site:8443/series/rootproject87/rootproject87/38454.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qHSpZ3BBine9AmF0ITi3k1NkcwT.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S03 E11
-https://nonton.site:8443/series/rootproject87/rootproject87/39281.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9aecAWzd4ikUH4aMP5ZCOQ3HV7w.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S04 E01
-https://nonton.site:8443/series/rootproject87/rootproject87/39280.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9aecAWzd4ikUH4aMP5ZCOQ3HV7w.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S04 E02
-https://nonton.site:8443/series/rootproject87/rootproject87/40017.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8qzZwHQCHSqJMGJMEfV4BRMfvSx.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S04 E03
-https://nonton.site:8443/series/rootproject87/rootproject87/40018.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gMolSP69oYK24mTh3Kj4RaXxysN.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S04 E04
-https://nonton.site:8443/series/rootproject87/rootproject87/40019.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7kkMpWOus6Hww9qhuck3EWghSlu.jpg" group-title="DRAGON BALL SUPER HEROES" tvg-id="" tvg-name="", Super Dragon Ball Heroes S04 E05
-https://nonton.site:8443/series/rootproject87/rootproject87/40020.mkv
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports" tvg-id="801" tvg-name="801", Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -240,7 +123,7 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
-http://liontv.me:80/teggft384783/eudbeu39489/5376
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", Eurosport HD
 http://foctv.xyz:25510/Amir5641/YY5641/328
@@ -590,9 +473,6 @@ http://45.225.204.7:8000/play/a05z
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", FX HD
 http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", FX HD
-http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
-
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="English" tvg-id="HallmarkDrama.us" tvg-name="HallmarkDrama.us", Hallmark Drama
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000389?checkedby:iptvcat.com
 
@@ -672,13 +552,13 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1002833?checkedby:iptvcat.com
 http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/110791?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
-http://scrapehost.com:8080/Cedrick/Cedrick/10708?checkedby:iptvcat.com
+http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/89054?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1280px-Starz_Kids_%26_Family_logo.svg.png" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids &amp; Family East
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1044869?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/490-4902300_starz-logo-transparent-hd-png-download.png" group-title="English" tvg-id="StarzWest.us" tvg-name="StarzWest.us", Starz West
-http://scrapehost.com:8080/Cedrick/Cedrick/161141?checkedby:iptvcat.com
+http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/98749?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Syfy
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31293?checkedby:iptvcat.com
@@ -714,7 +594,7 @@ http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stre
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="Kids" tvg-id="553" tvg-name="553", CBeebies HD
-http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/dd/disney_channel_global_hd.png" group-title="Kids" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel East
 https://pass.my.id/disneych.m3u8
@@ -854,17 +734,8 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", Travel Channel HD
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg" group-title="VOD" tvg-id="" tvg-name="", 100% Wolf (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73384.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="VOD" tvg-id="" tvg-name="", 18 Puasa Di Kampung Pisang
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7334.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg" group-title="VOD" tvg-id="" tvg-name="", 2 Fast & Furious (2003)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72242.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSJsDiOOQ8skEgyCEtcSr5t4z_wh2BK9mpw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", 21 Jump Street
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60923
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETSSwnM.jpg" group-title="VOD" tvg-id="" tvg-name="", 400 Bullets (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
@@ -875,20 +746,8 @@ https://www.googleapis.com/drive/v3/files/1W49D9iHci1_xKkR437Ok00vtByLPWbKG?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DdM3p9d.jpg" group-title="VOD" tvg-id="" tvg-name="", 60 Seconds to Di3 (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wquJChp0NpoqthYdE3YjXNNxvVC.jpg" group-title="VOD" tvg-id="" tvg-name="", A Dogs Journey (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70318.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcW-wB7K4IL8HcddxDDLuQ95kQ-cx7A6gqg&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Action Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60914
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IjSioXrsTa7IVWjK1C0Lo8JnvCQhlHDlLw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Aku Kaya The Movie (2003)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/423.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="VOD" tvg-id="" tvg-name="", Aladdin  (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/75971.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iTwPDNtvK6ZZF607BHBbU3HO0B.jpg" group-title="VOD" tvg-id="" tvg-name="", Aliens vs Predator: Requiem (2007)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72761.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWyuQ7lfqwtJJipngnTvOh4RuL9.jpg" group-title="VOD" tvg-id="" tvg-name="", Anak Perjanjian Syaitan (2019)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/6993.mkv
@@ -896,17 +755,8 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/6993.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOjl1ow7i0LWMITdixGR25H1wq306w3hOw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Annabelle: Creation (2017)
 http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/113e21faf20f79a720aa1d528e4ceb40.jpg" group-title="VOD" tvg-id="" tvg-name="", Avengers_ Infinity War - Part I
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70713.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY23HdxkcIJ053xO2OhSwYF3OQuwen4gQ7lw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Ayat-Ayat Cinta 2 (2017)
 http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/5fa8476f0b03b6fc1971b9daa65418e4.jpg" group-title="VOD" tvg-id="" tvg-name="", Back To The Titanic (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74159.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="VOD" tvg-id="" tvg-name="", Bad Boys for Life (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/69999.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmBOF8yuW6LcjvtddEfUWMruPXW9X4qCSCQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Baik Punya Cilok (2005)
 http://iptv.tvmalaysia.cc:80/movie/139664/139664/6994.mp4
@@ -929,38 +779,11 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/6997.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feQ0GRwPXpF7mEBoN03FYFUIZjG.jpg" group-title="VOD" tvg-id="" tvg-name="", Bikers Kental 2 (2019)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/6998.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg" group-title="VOD" tvg-id="" tvg-name="", Black Panther (2018)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71014.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="VOD" tvg-id="" tvg-name="", Black Widow (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76131.mp4
-
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD" tvg-id="" tvg-name="", Brave (2012)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960865
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhA_aFnk78OeJSB-3wteT_GW6E1Frv0wv_CQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Bruce Lee Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60913
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoQQdG7U3NleN2cO14aeFM7NXGU.jpg" group-title="VOD" tvg-id="" tvg-name="", Bukan Cerita Cinta Kita (2018)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7094.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg" group-title="VOD" tvg-id="" tvg-name="", Captain America: Civil War (2016)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71017.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg" group-title="VOD" tvg-id="" tvg-name="", Captain America: The First Avenger (2011)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71015.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg" group-title="VOD" tvg-id="" tvg-name="", Captain America: The Winter Soldier (2014)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71016.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmRTS3WrXRi8GJdpDae1NifYNwx.jpg" group-title="VOD" tvg-id="" tvg-name="", Casino Royale (2006)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72291.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/005c7c4df5bee6e8112b0ce7d5b29d94.jpg" group-title="VOD" tvg-id="" tvg-name="", Charlies Angels (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71694.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg" group-title="VOD" tvg-id="" tvg-name="", Chemical Hearts (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73386.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg" group-title="VOD" tvg-id="" tvg-name="", Chick Fight (2021)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7271.mp4
@@ -977,263 +800,17 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/7000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoQQdG7U3NleN2cO14aeFM7NXGU.jpg" group-title="VOD" tvg-id="" tvg-name="", Cinta Sticky Note (2018)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7095.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="VOD" tvg-id="" tvg-name="", Covenant (2017)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73339.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlkfIfqOxj9EBq3gzk0aTMxEOKVxSM96NsPw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Die Hard Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60121
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MzlVX4_NCW2FSlPkn6BLszw0Ci02n-g5CQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Dragon Ball Z
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60143
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg" group-title="VOD" tvg-id="" tvg-name="", Edward Scissorhands (1990)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/296.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Elektra_teaser.jpg/220px-Elektra_teaser.jpg" group-title="VOD" tvg-id="" tvg-name="", Electra
-https://nonton.site:8443/movie/rootproject87/rootproject87/14979.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/yAcb58vipewa1BfNit2RjE6boXA_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:A Wrinkle In Time
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39372.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/cUT6NQP5LAJpmUoStGtXmvNt4zA_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Abduction
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39374.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/D6e8RJf2qUstnfkTslTXNTUAlT_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Ant-Man
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39393.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/t90Y3G8UGQp0f0DrP60wRu9gfrH_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Avengers Age of Ultron
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39398.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cGOPbv9wA5gEejkUN892JrveARt_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Batman v Superman Dawn of Justice
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39406.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/tWqifoYuwLETmmasnGHO7xBjEtt_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Beauty And The Beast
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39408.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/uxzzxijgPIY7slzFvMotPv8wjKA_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Black Panther 3D
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39418.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/kSBXou5Ac7vEqKd97wotJumyJvU_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Captain America Civil War
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39440.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/672f832cf6ac5e1ef0a715aec88d967c.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Captain Marvel - 2019
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/61381.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/inVq3FRqcYIRl2la8iZikYYxFNR_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Deadpool
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39472.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/1PrlKvPUbDQAqFQBCyyt68hLLl_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Death Race 4 Beyond Anarchy
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39474.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4PiiNGXj1KENTmCBHeN6Mskj2Fq_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Doctor Strange
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39484.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/z09QAf8WbZncbitewNk6lKYMZsh_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Finding Dory
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39510.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zwmtK6A7jwriIY0gh0HUgvI1ETA_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:First Match
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39511.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4VmZeT8YkuMI6BrA623mHZDISlN_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Hitman Agent 47
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39544.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cFQHMUmxaO3PEDo5lxuQC8MCRIH_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Hotel Transylvania 2
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39546.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/gRi7lTBBiRBhn9aJID5MdldcJEJ_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Ice Age Collision Course
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39555.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ixANIbPRTNMAstlqJa2FlfBesyQ_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Insidious Chapter 3
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39562.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/nb9fc9INMg8kQ8L7sE7XTNsZnUX_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Insidious The Last Key
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39563.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zkXnKIwX5pYorKJp2fjFSfNyKT0_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:John Wick Chapter 2
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39573.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/MZFPacfKzgisnPoJIPEFZUXBBT_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Kung Fu Panda 3
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39584.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/9j2AmDhZvdwMyYKpqe4CtBkN1Tw_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:London Has Fallen
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39598.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/6VxEvOF7QDovsG6ro9OVyjH07LF_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Master Z- Ip Man Legacy
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39612.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2zYfzA3TBwrMC8tfFbpiTLODde0_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Maze Runner The Death Cure
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39615.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/244080c41968740f3f4658ecac8d9515.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Miss Bala - 2019
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/61271.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/z2sJd1OvAGZLxgjBdSnQoLCfn3M_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Mission Impossible - Rogue Nation
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39623.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/62d5221c9867c39018f3211c1a704fb5.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Monkey King: The Volcano - 2019
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/61272.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/dYNS4o4Q4DDLiKRAAvZ9KcrhHuy_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Never Back Down No Surrender
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39641.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/3aeec5fea29a3ff2d150ca6e30a94afe.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Serenity - 2019
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/61400.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/y0uxSHaSFmt6XaBJgjkeLqe7aM_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:The Death of Superman
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39708.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/5x3rbATpy0obvtUn1kVpCj3Rvtv_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:The Monkey King 3
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39718.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/3zrC5tUiR35rTz9stuIxnU1nUS5_small.jpg" group-title="VOD" tvg-id="" tvg-name="", EN:Tomb Raider 3D
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39729.mkv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP01 - Si Kocak yang Legendaris
-https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP01 - Si Kocak yang Legendaris
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959981
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP01 - Si Kocak yang Legendaris
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960485
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP02 - Kembalinya Mr. Bean
-https://obs.line-scdn.net/0hbqNH_kmTPV5zMRf_MktCCU9nPjFAXS5dFwdsQCNff2xZAnkMR1N7MVY5MT1ZCH0KClYiOVU3YW4L/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP02 - Kembalinya Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959982
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP02 - Kembalinya Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960486
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP03 - Kutukan Mr. Bean
-https://obs.line-scdn.net/0hEFUt5pUJGmloDTDJ6_NlPlVbGQZbYQlqDDtLdzhjWFlHOFo3UWJdCU4NTAsWPl45XS5UX0wPF11NNQ/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP03 - Kutukan Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959983
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP03 - Kutukan Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960487
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP04 - Mr. Bean Pergi ke Kota
-https://obs.line-scdn.net/0hfqoimabxOV5SEBPxQCJGCW5GOjFhfCpdNiZoQAJ-Z2Z_KXYIaH93O3cYMm18JnkLK3cmOXIVYGp7/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP04 - Mr. Bean Pergi ke Kota
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959984
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP04 - Mr. Bean Pergi ke Kota
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960488
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP05 - Masalah dengan Mr. Bean
-https://obs.line-scdn.net/0h73hPl04KaBxVKUKxc3AXS2l_a3NmRXsfMR85AgVHKix9HixCb0klenAhYy96ES9NLE53e3ctNnss/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP05 - Masalah dengan Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959985
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP05 - Masalah dengan Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960489
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP06 - Mr. Bean Berkelana Lagi
-https://obs.line-scdn.net/0hLtzGV2r8E1tHPjnyJ8lsDHtoEDR0UgBYIwhCRRdQUWhrCl0Ke19ZNGI2GGtuB1AFPlkMPDI2SGNr/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP06 - Mr. Bean Berkelana Lagi
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959986
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP06 - Mr. Bean Berkelana Lagi
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960490
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP08 - Mr. Bean di Kamar 426
-https://obs.line-scdn.net/0hY46GFAe2BhsLPiyySox5TDdoBXQ4UhUYbwhXBVtQWC0kDkNKM1lLeS42CnsjC0BMclkZfH44Wn4i/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP08 - Mr. Bean di Kamar 426
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959988
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP08 - Mr. Bean di Kamar 426
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960492
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP09 - Mr. Bean Membuatnya Sendiri
-https://obs.line-scdn.net/0hW6Y20xPfCBlkSyKxEut3TlgdC3ZXJxsaAH1ZBzQlVSlKf05HWCtEfUFDAylLeUdHHSwXfhIbVX1P/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP09 - Mr. Bean Membuatnya Sendiri
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959989
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP09 - Mr. Bean Membuatnya Sendiri
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960493
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP11 - Mr. Bean Kembali ke Sekolah
-https://obs.line-scdn.net/0hP5-YYGpTDxoQICWvNFZwTSN2DHUjTBwZdBZeBEBOVyM7E0hEL0FDfD11USg_EEEJLRZBKDEhUSo/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP11 - Mr. Bean Kembali ke Sekolah
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959991
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP11 - Mr. Bean Kembali ke Sekolah
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960495
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", EP14 - Tata Rambut Karya Mr. Bean dari London
-https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP14 - Tata Rambut Karya Mr. Bean dari London
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959994
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", EP14 - Tata Rambut Karya Mr. Bean dari London
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960498
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/787660f941add6e7357f3bbfb555cdea.jpg" group-title="VOD" tvg-id="" tvg-name="", F9 (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76229.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/da3624fb53cc343bfc2b8724febbb394.jpg" group-title="VOD" tvg-id="" tvg-name="", Fantastic Beasts and Where to Find Them (2016)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71696.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmY8rE2HzWzZs5S81CygXXYDjki.jpg" group-title="VOD" tvg-id="" tvg-name="", Fast & Furious (2009)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72248.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="VOD" tvg-id="" tvg-name="", Fast & Furious 6 (2013)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72243.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDztZS30sheoqnJnKyO4QMnf3f8.jpg" group-title="VOD" tvg-id="" tvg-name="", Fast Five (2011)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72246.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EFF6BCZkM8az2OVEzgVHmkXPZ8.jpg" group-title="VOD" tvg-id="" tvg-name="", Fast Vengeance (2021)
-https://nonton.site:8443/movie/rootproject87/rootproject87/40278.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg" group-title="VOD" tvg-id="" tvg-name="", Fear Street Part Two: 1978 (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76133.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,672,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Final Destination (2000)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960206
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMTMyODAzN15BMl5BanBnXkFtZTYwNjc5NDQ3._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", Final Destination 2 (2003)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960207
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MzI0MzczOF5BMl5BanBnXkFtZTcwNzAyODExMw@@._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", Final Destination 3 (2006)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960208
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQyMzQ5NjI2MF5BMl5BanBnXkFtZTcwNDA5MjM2Mg@@._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", Final Destination 4 (2009)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960209
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyOTExNDc1M15BMl5BanBnXkFtZTcwMDA0MTA4NQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Final Destination 5 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960210
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg" group-title="VOD" tvg-id="" tvg-name="", Ford v Ferrari (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70000.mkv
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/888c2a26a901ab679ab47eb605a8ff64.jpg" group-title="VOD" tvg-id="" tvg-name="", Frozen (2013)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70715.mkv
-
-#EXTINF:-1 tvg-logo="http://mu03.wanicelife.com:8880/images/5b5e937e4be89c24e0dee94eb901516b.jpg" group-title="VOD" tvg-id="" tvg-name="", Frozen II (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70716.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wurKlC3VKUgcfsn0K51MJYEleS2.jpg" group-title="VOD" tvg-id="" tvg-name="", Furious 7 (2015)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74920.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1_SY1000_SX649_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", G.I. Joe: Retaliation (2013)\
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960780
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", G.I. Joe: The Rise of Cobra (2009)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960211
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg" group-title="VOD" tvg-id="" tvg-name="", Godzilla (2014)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72330.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", Godzilla Against Mechagodzilla (2002)
 https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
@@ -1243,9 +820,6 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/7332.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", Godzilla: Final Wars (2004)
 https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg" group-title="VOD" tvg-id="" tvg-name="", Godzilla: King of the Monsters (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72331.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", Godzilla: Planet of the Monsters (2017)
 https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
@@ -1258,9 +832,6 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/7283.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRV7szTJp4IwBHFXbyUhxqJnOT1.jpg" group-title="VOD" tvg-id="" tvg-name="", Hantu Rumah Sakit Jiwa (2018)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7097.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvRbiB8AqSHS8XQ-T82d3e9CnUv7QS-rlOw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Harry Potter
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60120
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 1 (2010)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
@@ -1280,17 +851,11 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959685
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//uDQibffYgssdiqx7izO57wdLc6.jpg" group-title="VOD" tvg-id="" tvg-name="", Harry Potter And The Prisoner Of Azkaban (2004)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959683
 
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/42f32576e05d51567e87d8c0ef6cdaea.jpg" group-title="VOD" tvg-id="" tvg-name="", Hero Dog: The Journey Home (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74167.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SqUiiQl.jpg" group-title="VOD" tvg-id="" tvg-name="", Heroes Return (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CK8Xzd8/Hitman-Agent-47-2015.jpg" group-title="VOD" tvg-id="" tvg-name="", Hitman: Agent 47 (2015)
 https://www.googleapis.com/drive/v3/files/1gR27s335-aR9fbkyxfugtP8DkcOEwONd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDVimOVqLuC0x9WsrSwPZvryseUYV36GlBA&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Horror Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60940
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/qyDWWme.jpg" group-title="VOD" tvg-id="" tvg-name="", Hotel Mumbai (2018)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961007
@@ -1325,9 +890,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg" group-title="VOD" tvg-id="" tvg-name="", Inc. (2001)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7134.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGNudS0sRrb2Jjf_i_UecpGNmmCgPGbR71w&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Incredible Hulk Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60879
-
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QO7dlSE.jpg" group-title="VOD" tvg-id="" tvg-name="", Ip Man (2008)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
 
@@ -1352,38 +914,8 @@ http://iptv.tvmalaysia.cc:80/movie/139664/139664/7100.mp4
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tjUed3K.jpg" group-title="VOD" tvg-id="" tvg-name="", Jai Ho (2014)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961008
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyfzt8jVLunUCSy_KLOiiqwsgYfo2PqPofQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", James Bond Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60939
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfG5bLjvgwGSseIogL2xDChY4bS6DzWIaD4w&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Jim Carrey Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60156
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg" group-title="VOD" tvg-id="" tvg-name="", Jiu Jitsu (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7276.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/8bcc67ba880a12b29a96cae1f6f9e52a.jpg" group-title="VOD" tvg-id="" tvg-name="", Johnny English (2003)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71679.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/f4339351d72cc127fd4f3c9b35f20183.jpg" group-title="VOD" tvg-id="" tvg-name="", Johnny English Reborn (2011)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71680.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/d7f1da73bb9ce692367b5fd9e548737a.jpg" group-title="VOD" tvg-id="" tvg-name="", Johnny English Strikes Again (2018)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71681.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg" group-title="VOD" tvg-id="" tvg-name="", Judas and the Black Messiah (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72380.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/8690fa85a2e03f0daeecc5d52203aa8a.jpg" group-title="VOD" tvg-id="" tvg-name="", Jumanji: The Next Level (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71697.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/52bfae372cfc4a12b973c283fb1f535a.jpg" group-title="VOD" tvg-id="" tvg-name="", Jumanji.Welcome.to.the.Jungle.2019
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71698.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/b6b5446eebb76dd9867878cbb9f4668f.jpg" group-title="VOD" tvg-id="" tvg-name="", Jungle Cruise (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76234.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg" group-title="VOD" tvg-id="" tvg-name="", Justice League Dark: Apokolips War (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/70002.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JnZmLaV1KsktqOSxgK9rAJkI3F.jpg" group-title="VOD" tvg-id="" tvg-name="", Kawan Aku Mati Dalam Rumah Sewa (2014)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/427.mp4
@@ -1418,20 +950,8 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960880
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VOD" tvg-id="" tvg-name="", Kung Fu Panda 3 (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960881
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80x3w24LD9tSnDPa9KivX2iejgh.jpg" group-title="VOD" tvg-id="" tvg-name="", Lethal Virus (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74390.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8yZjdan3u6fvrGVtbykjnGmM1RJhdk1VgA&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Looney Tunes
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60102
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91bUbxcOvTinqrPLrnGHlWYVy9J.jpg" group-title="VOD" tvg-id="" tvg-name="", Mael Totey: The Movie (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/304.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/98788b64076166601e82a877ff2853f8.jpg" group-title="VOD" tvg-id="" tvg-name="", Maleficent (2014)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71700.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/52bfae372cfc4a12b973c283fb1f535a.jpg" group-title="VOD" tvg-id="" tvg-name="", Maleficent: Mistress of Evil (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71699.mp4
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XryfVhW.jpg" group-title="VOD" tvg-id="" tvg-name="", Master Z: The Ip Man Legacy (2018)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
@@ -1442,53 +962,11 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960234
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Maze Runner: The Scorch Trials (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960233
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Mickey_Mouse_Clubhouse_logo.svg/1200px-Mickey_Mouse_Clubhouse_logo.svg.png" group-title="VOD" tvg-id="" tvg-name="", Mickey Mouse Clubhouse
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60091
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swW6YeMGdgkAVSp30GAEXL0ices.jpg" group-title="VOD" tvg-id="" tvg-name="", Mon dan Jin Pakai Toncit (2013)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/6983.mp4
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD" tvg-id="" tvg-name="", Monsters University (2013)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_4YRDh_pX4wsW8gtdKpUgCC_OkNBDExXXg&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Mr Bean
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60085
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://obs.line-scdn.net/0h3Zzdt8IAbHVHHUbDZuwTIntLbxp0cX92Iys9axdzMUVpKi4kfnkqEGIVZ0RiKCshPnpzEjcZME1t/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1UC1NYR1lTPVZ-QztWClkLQl8/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://obs.line-scdn.net/0hmHDf0lNdMmd5HxjTGQZNMEVJMQhKcyFkHSljeSlxcFJWKnA3TXx_A1wXOVRSLnwzAHgtAAsXaVUA/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://obs.line-scdn.net/0hYLp4zIT_BmNNTSzKLJt5NH4bBQx-IRVgKXtXfR0jXlBpeEQwcCJJBWAYWFBheUhwcHtIVWBPXlM/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959987
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959990
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959992
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959993
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960491
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960494
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960496
-
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD" tvg-id="" tvg-name="", Mr. Bean
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960497
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg" group-title="VOD" tvg-id="" tvg-name="", Mulan (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/307.mp4
@@ -1514,12 +992,6 @@ https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8Y0HY.jpg" group-title="VOD" tvg-id="" tvg-name="", Phobias (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsjekL9i7SXcvYy3ET8aOV5REEU261jQdOw&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Pirates Of The Caribbean Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60932
-
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/xbpSDU3p7YUGlu9Mr6Egg2Vweto_small.jpg" group-title="VOD" tvg-id="" tvg-name="", Pirates of the Caribbean-Dead Men Tell No Tales
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/39656.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: At Worlds End (2007)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960192
 
@@ -1538,17 +1010,8 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960190
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovyLv5w492P3GJzmZ0hks8D2jny.jpg" group-title="VOD" tvg-id="" tvg-name="", Pisau Cukur (2009)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7008.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQkTN63/Film-Pokemon-Detective-Pikachu-2019-4.png" group-title="VOD" tvg-id="" tvg-name="", Pokemon Detective Pikachu (2019)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959810
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BzOOL7zknsZSUeJwSa9kGuzHCR.jpg" group-title="VOD" tvg-id="" tvg-name="", Quantum of Solace (2008)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72293.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", Resident Evil (2002)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960184
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlMGQ0NmUtM2U2Ny00MTk3LTg5NjAtN2M3Y2JmZjllNjJlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Resident Evil: Afterlife (2010)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960187
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_SY1000_CR0,0,672,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Resident Evil: Apocalypse (2004)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960185
@@ -1568,41 +1031,11 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/333.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7lDrHvskOvkmXctIBlxpgBxNX0.jpg" group-title="VOD" tvg-id="" tvg-name="", Sekali Lagi (2011)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7012.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izrHg2UzxG3YXTBcKFaUbYp9LWA.jpg" group-title="VOD" tvg-id="" tvg-name="", Skyfall (2012)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72294.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WU6uusqJrLfiBaNs3KpF4o8Lnj.jpg" group-title="VOD" tvg-id="" tvg-name="", Slumdog Millionaire (2008)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/6642.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="VOD" tvg-id="" tvg-name="", Snake Eyes: G.I. Joe Origins (2021)
-https://nonton.site:8443/movie/rootproject87/rootproject87/40312.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/427fda859b91b9b7370dfc3819f11738.jpg" group-title="VOD" tvg-id="" tvg-name="", Snake.Eyes.2021
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/76244.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/672kUEMtTHcaVYSVY4eiHEliHFa.jpg" group-title="VOD" tvg-id="" tvg-name="", Spectre (2015)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72295.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="VOD" tvg-id="" tvg-name="", Spider-Man (2002)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72141.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg" group-title="VOD" tvg-id="" tvg-name="", Spider-Man 2 (2004)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72142.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqZKCRYGovZ8aN99VVJSdL8Ja9k.jpg" group-title="VOD" tvg-id="" tvg-name="", Spider-Man 3 (2007)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72143.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="VOD" tvg-id="" tvg-name="", Spider-Man: Far from Home (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72146.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="VOD" tvg-id="" tvg-name="", Spider-Man: Homecoming (2017)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72144.mp4
-
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", Step Up (2006)
 https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/14145405f56b4d34cecadf3c5d41d7ea.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator 2: Judgment Day (1991)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71857.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator 3: Rise of the Machines (2003)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960202
@@ -1613,51 +1046,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960204
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE1MTM1MzA2NF5BMl5BanBnXkFtZTcwODQ5MTA2Mg@@._V1_SY1000_CR0,0,740,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator Salvation (2009)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960203
 
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/75061fa103392c48c161d9383040be36.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator: Dark Fate (2019)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71859.mp4
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/14145405f56b4d34cecadf3c5d41d7ea.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator.3_Rise.of the.Machines.2003
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71858.mkv
-
-#EXTINF:-1 tvg-logo="http://45.148.120.131/wp-content/uploads/2021/04/1w1TVqCiEWqYnfrNUL0N1W8LAfA-185x278.jpg" group-title="VOD" tvg-id="" tvg-name="", The  Marksman (2021)
-https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0H1Gx1IH0K7kFREstdPt9mJbOp.jpg" group-title="VOD" tvg-id="" tvg-name="", The Aftermath (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/75238.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ8TOCYgP9pzQvSb1cmaalYqdb5.jpg" group-title="VOD" tvg-id="" tvg-name="", The Amazing Spider-Man (2012)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72145.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9LnjVMdyiMT-TYkJ_zyIonvF2u6_N6ujNQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", The Avengers Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60035
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8D1brPLJbNs7bN023j76qvBP6X93CfvSdA&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", The Bionic Woman Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60086
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg" group-title="VOD" tvg-id="" tvg-name="", The Boss Baby (2017)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960947
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwOTA4NTE4Ml5BMl5BanBnXkFtZTcwOTI2NTg1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Chronicles of Narnia: Prince Caspian (2008)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960236
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ2MDQzMzExNl5BMl5BanBnXkFtZTcwMTYzOTc5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960237
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Conjuring : The Devil Made Me Do It (2021)
-http://admin.nf21.net/go/files/19354
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="VOD" tvg-id="" tvg-name="", The Conjuring (2013)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73431.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg" group-title="VOD" tvg-id="" tvg-name="", The Conjuring 2 (2016)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73432.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jwVlbGt3BeLr8HCbCTVa72IcWe.jpg" group-title="VOD" tvg-id="" tvg-name="", The Covenant (2006)
-https://nonton.site:8443/movie/rootproject87/rootproject87/39018.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="VOD" tvg-id="" tvg-name="", The Devil Wears Prada (2006)
-https://nonton.site:8443/movie/rootproject87/rootproject87/40343.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Expendables (2010)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960229
 
@@ -1666,21 +1054,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960230
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Expendables 3 (2014)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960231
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="VOD" tvg-id="" tvg-name="", The Fast and the Furious (2001)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72241.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="VOD" tvg-id="" tvg-name="", The Fast and the Furious: Tokyo Drift (2006)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74933.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="VOD" tvg-id="" tvg-name="", The Fate of the Furious (2017)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72245.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvE6emjgAZztnWzBcpQ-_IGNUjh1DxZMr8A&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", The Hangover Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60926
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg" group-title="VOD" tvg-id="" tvg-name="", The Hitmans Bodyguard (2017)
-https://nonton.site:8443/movie/rootproject87/rootproject87/39017.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Hobbit: An Unexpected Journey (2012)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960241
@@ -1736,26 +1109,14 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/6685.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg" group-title="VOD" tvg-id="" tvg-name="", The New Mutants (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/328.mp4
 
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/c2c199efbcae56ce2081e3d404a4dce0.jpg" group-title="VOD" tvg-id="" tvg-name="", The Terminator (1984)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71861.mkv
-
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", The Twilight : ECLIPSE (2010)
 https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", The Twilight : NEW MOON (2009)
 https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
 
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/69e3cd61e99bb492a25cb888074142ea.jpg" group-title="VOD" tvg-id="" tvg-name="", The Vault (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/74181.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", the Witch and the Wardrobe (2005)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960235
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", The Yin Yang Master
-https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qqIoyNK.jpg" group-title="VOD" tvg-id="" tvg-name="", The Yin Yang Master (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z2xqpx/20210525-030444.png" group-title="VOD" tvg-id="" tvg-name="", Thriller: Alice Fades Away (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
@@ -1763,53 +1124,17 @@ https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNEYhbK.jpg" group-title="VOD" tvg-id="" tvg-name="", Thunder Force (2021-Action)
 https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KErczPBROQty7QoIsaa6wJYXZi.jpg" group-title="VOD" tvg-id="" tvg-name="", Tom & Jerry (2021)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72762.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Wgbwyq/Tomb-Raider-2018.png" group-title="VOD" tvg-id="" tvg-name="", Tomb Raider (2018)
 http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/V8LSJ4w.jpg" group-title="VOD" tvg-id="" tvg-name="", Train to Busan (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
 
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/81c5fa1d6ae4d6590c9b4733e3f98737.jpg" group-title="VOD" tvg-id="" tvg-name="", Transformers (2007)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71155.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/d92a569eca0ee3937c61d5669597ef81.jpg" group-title="VOD" tvg-id="" tvg-name="", Transformers: Age of Extinction (2014)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71151.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/980ab650ac61044efaad4f74abc8edd0.jpg" group-title="VOD" tvg-id="" tvg-name="", Transformers: Dark of the Moon (2011)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71152.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/454e57782020c7e8071baaf657e3959f.jpg" group-title="VOD" tvg-id="" tvg-name="", Transformers: Revenge of the Fallen (2009)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71153.mkv
-
-#EXTINF:-1 tvg-logo="http://mu01e.okcomputer.club:8880/images/37dfe388a8ba1264bf241afb0809e9a6.jpg" group-title="VOD" tvg-id="" tvg-name="", Transformers: The Last Knight (2017)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/71154.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUT2IKnUD3TiAKw8FdpaKY3qihoIxGEdWZA&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Twilight Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60925
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDUzQNu960aBMeyqjSoemmNM8LjNCOysgJQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Vampire Movies
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60160
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYvppZMvXYheYTWVd8Rnn9nsmNp.jpg" group-title="VOD" tvg-id="" tvg-name="", Vanguard (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD" tvg-id="" tvg-name="", Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Vanquish (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD" tvg-id="" tvg-name="", Vanquish (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="VOD" tvg-id="" tvg-name="", Venom (2018)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/73396.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg" group-title="VOD" tvg-id="" tvg-name="", Wonder Woman 1984 (2020)
-http://mvu03.wanicelife.com:8880/movie/SFL122340/P4N06KNGE/72139.avi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXWN0yL.png" group-title="VOD" tvg-id="" tvg-name="", Wonder Woman 1984 (2020)
 https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
@@ -1823,12 +1148,6 @@ https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z2xqpx/20210525-030444.png" group-title="VOD" tvg-id="" tvg-name="", Wrong Turn (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wrong Turn (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Wrong Turn (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZjZmM1ZDctNDhlZi00Mzk1LWFjNWItYzIxNGY2OWYzYjJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", xXx (2002)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960219
 
@@ -1840,9 +1159,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960220
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="VOD" tvg-id="" tvg-name="", Zack Snyder''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''s Justice League (2021)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7309.mp4
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD" tvg-id="" tvg-name="", Zootopia (2016)
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352710295
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="101" tvg-name="101", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
@@ -1907,20 +1223,11 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malay" tvg-id="702" tvg-name="702", Hello HD
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png" group-title="Malay" tvg-id="118" tvg-name="118", HyppInspirasi HD
-http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="Malay" tvg-id="116" tvg-name="116", HyppSensasi HD
-http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malay" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
 http://foctv.xyz:25510/Amir5641/YY5641/36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="Malay" tvg-id="KompasTV.id" tvg-name="KompasTV.id", Kompas TV
 http://foctv.xyz:25510/Amir5641/YY5641/107
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png" group-title="Malay" tvg-id="151" tvg-name="151", LAKU mall
-https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Malay" tvg-id="METROTV.id" tvg-name="METROTV.id", METRO TV
 http://foctv.xyz:25510/Amir5641/YY5641/108
