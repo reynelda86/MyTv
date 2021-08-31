@@ -45,7 +45,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="392" tvg-name="392", KBS World HD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709911
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="394" tvg-name="394", Oh!K HD
 http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
@@ -419,8 +419,14 @@ http://icego.club/vanderlei12/vanderlei12/54456?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png" group-title="English" tvg-id="CHN" tvg-name="CHN", CINEMAX MOREMAX HD
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000103?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/CinemaxMoviemax/cinemax%20moviemax.png" group-title="English" tvg-id="MovieMaxWest.us" tvg-name="MovieMaxWest.us", Cinemax MovieMax HD
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000103?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/thrillermax/thrillermax.png g" group-title="English" tvg-id="CHN" tvg-name="CHN", Cinemax ThrillerMax HD
 http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/95933?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="English" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
+http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/109121?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime and Investigation HD
 http://foctv.xyz:25510/Amir5641/YY5641/87
@@ -473,6 +479,9 @@ http://45.225.204.7:8000/play/a05z
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", FX HD
 http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/571/1021/png-transparent-hallmark-movies-mysteries-hallmark-channel-television-channel-television-film-others-television-text-logo-thumbnail.png" group-title="English" tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us", Hallmark Channel
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000156?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/194-1948778_hallmark-drama-channel-hallmark-channel-logo.png" group-title="English" tvg-id="HallmarkDrama.us" tvg-name="HallmarkDrama.us", Hallmark Drama
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000389?checkedby:iptvcat.com
 
@@ -481,6 +490,9 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyWest.us" tvg-name="HBOComedyWest.us", HBO Comedy
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1081497?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/HboEast/hbo%20east.png" group-title="English" tvg-id="HBOEast.us" tvg-name="HBOEast.us", HBO East
 http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
@@ -503,8 +515,14 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065968
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="401" tvg-name="401", Hits Movies HD
 http://foctv.xyz:25510/Amir5641/YY5641/68
 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" group-title="English" tvg-id="IndiePlexEast.us" tvg-name="IndiePlexEast.us", IndiePlex
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1081487?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="705" tvg-name="705", KIX HD
 https://pass.my.id/kix.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/107-1070603_lifetime-movies-lifetime-movie-network-logo.png" group-title="English" tvg-id="LifetimeMoviesEast.us" tvg-name="LifetimeMoviesEast.us", Lifetime Movie Network
+http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/109172?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946" group-title="English" tvg-id="CHN" tvg-name="CHN", Movie Mix 1
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
@@ -523,6 +541,9 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAyk0Xx7mEDkB5QdY3DfKnHGg8g0-xc32Jg&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", SERIES ACTION  | MARVEL
 http://stalkertvlatino.com:8080/play1/play1/87513
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1280px-Showtime_2.svg.png" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2
+http://tv.jovialservices.me:826/Rpru/SR9Ng0SH9f/95922?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1280px-Showtime_Next.svg.png" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
 http://icego.club/vanderlei12/vanderlei12/85819?checkedby:iptvcat.com
@@ -567,7 +588,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31293?checkedby:iptvcat.c
 http://foctv.xyz:25510/Amir5641/YY5641/70
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title="English" tvg-id="712" tvg-name="712", Warner TV HD
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
+http://203.154.243.89:11205
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/100/593/png-transparent-tv-joj-logo-slovakia-television-plus-sk-text-trademark-sign.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Wau HD
 http://nn.geo.joj.sk/hls/wau-360.m3u8
@@ -612,7 +633,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/128
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9XqWeY.png" group-title="Kids" tvg-id="NicktoonsEast.us" tvg-name="NicktoonsEast.us", Nicktoons East
-http://yassooo.com:8080/benAlaa/829293992/84247?checkedby:iptvcat.com
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052704?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_X9KNdcQvS3Dh3KxdNZf0lEVowhMPS3ktA&usqp=CAU" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 http://icego.club/vanderlei12/vanderlei12/85842?checkedby:iptvcat.com
