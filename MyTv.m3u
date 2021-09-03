@@ -891,7 +891,7 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English" tvg-id="CHN" tvg-name="CHN", &pRive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
@@ -1147,6 +1147,9 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052704?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_X9KNdcQvS3Dh3KxdNZf0lEVowhMPS3ktA&usqp=CAU" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 http://icego.club/vanderlei12/vanderlei12/85842?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="Indian" tvg-id="CHN" tvg-name="CHN",&PIctures HD
+http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Indian" tvg-id="214" tvg-name="214", Adithya
 https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37342
