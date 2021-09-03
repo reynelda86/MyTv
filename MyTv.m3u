@@ -1107,7 +1107,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN", Aniplus
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
+http://210.210.155.35/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids" tvg-id="611" tvg-name="611", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -1725,7 +1725,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="114" tvg-name="114", Al-Hijrah
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745657
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", ANTV Indonesia
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065905
@@ -1824,9 +1824,6 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202459
 
 #EXTINF: -1 tvg-id="N/A" tvg-logo="https://i.ibb.co/xfQddsp/image-7.png" group-title="Kids", SUPERTOONS
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202463
-
-
-
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yfvyGkN/citraenter-lean-paps.png" group-title="Malay", CITRA ENTERTAINMENT
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202493
