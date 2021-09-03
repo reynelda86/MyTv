@@ -1760,7 +1760,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/36
 http://foctv.xyz:25510/Amir5641/YY5641/107
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Malay" tvg-id="METROTV.id" tvg-name="METROTV.id", METRO TV
-http://foctv.xyz:25510/Amir5641/YY5641/108
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="Malay" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNCTV
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
@@ -1781,7 +1781,7 @@ https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w2066316052_b608000_sl
 http://foctv.xyz:25510/Amir5641/YY5641/210
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
-http://foctv.xyz:25510/Amir5641/YY5641/37
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Suria Singapore
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
@@ -1792,8 +1792,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Malay" tvg-id="TRANSTVHD.id" tvg-name="TRANSTVHD.id", TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Tv Ikim
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="122", TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
