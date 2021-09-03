@@ -1104,6 +1104,9 @@ http://scrapehost.com:8080/Cedrick/Cedrick/112262?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="Kids" tvg-id="618" tvg-name="618", Baby TV HD
 http://foctv.xyz:25510/Amir5641/YY5641/182
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7g0r8Dz/biznetkids-lean-paps.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang HD
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 
@@ -1799,17 +1802,11 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="122", TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-#EXTINF: -1 tvg-id="N/A" tvg-logo="https://i.ibb.co/7g0r8Dz/biznetkids-lean-paps.png" group-title="Kids", BIZNET KIDS
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202458
-
 #EXTINF: -1 tvg-id="N/A" tvg-logo="https://i.ibb.co/74NtVk5/davinci-lean-paps.png" group-title="Kids", DAVINCI
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202459
 
 #EXTINF: -1 tvg-id="N/A" tvg-logo="https://i.ibb.co/xfQddsp/image-7.png" group-title="Kids", SUPERTOONS
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202463
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/yfvyGkN/citraenter-lean-paps.png" group-title="Malay", CITRA ENTERTAINMENT
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202493
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="Entertainment", LIFETIME
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/351058875
