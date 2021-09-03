@@ -19,11 +19,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 #EXTINF:-1 group-title="Malay" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
-#EXTINF:-1 tvg-id="TV6" group-title="Malay" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
-
-------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -985,7 +980,7 @@ https://pass.my.id/hbofamilyid.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English" tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us", HBO Signature East
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/1498
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV HD
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
@@ -1087,7 +1082,7 @@ http://203.154.243.89:11205
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSheH-tx4zNq0VAE-r--PANX70pKfsaAVmUiQ&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="Kids" tvg-id="719" tvg-name="719", Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
@@ -1137,7 +1132,7 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052704?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_X9KNdcQvS3Dh3KxdNZf0lEVowhMPS3ktA&usqp=CAU" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 http://icego.club/vanderlei12/vanderlei12/85842?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="Indian" tvg-id="CHN" tvg-name="CHN",&PIctures HD
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="Indian" tvg-id="CHN" tvg-name="CHN",AndPictures HD
 http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", BollyOne HD
@@ -1186,7 +1181,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/142
 http://foctv.xyz:25510/Amir5641/YY5641/212
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" group-title="Indian" tvg-id="CHN" tvg-name="CHN", Zee Classic
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" group-title="Indian" tvg-id="223" tvg-name="223", Zee Tamil HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745663
@@ -1807,9 +1802,6 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202459
 
 #EXTINF: -1 tvg-id="N/A" tvg-logo="https://i.ibb.co/xfQddsp/image-7.png" group-title="Kids", SUPERTOONS
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202463
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="Entertainment", LIFETIME
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/351058875
 
 #EXTINF: -1 tvg-id="Galaxy.id" tvg-logo="https://i.ibb.co/2n7c1QH/galaxy-lean-paps.png" group-title="English", GALAXY
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202501
