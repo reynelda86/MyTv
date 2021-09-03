@@ -873,10 +873,10 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="News" tvg-id="CHN" tvg-name="CHN", tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", &Flix HD
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", AndFlix HD
 http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English" tvg-id="CHN" tvg-name="CHN", &pRive
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English" tvg-id="CHN" tvg-name="CHN", AndPrive
 http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
