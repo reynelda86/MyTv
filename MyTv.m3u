@@ -964,9 +964,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyWest.us" tvg-name="HBOComedyWest.us", HBO Comedy
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1081497?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/HboEast/hbo%20east.png" group-title="English" tvg-id="HBOEast.us" tvg-name="HBOEast.us", HBO East
-http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English" tvg-id="HBOFamilyEast.us" tvg-name="HBOFamilyEast.us", HBO Family East
 https://pass.my.id/hbofamilyid.m3u8
 
