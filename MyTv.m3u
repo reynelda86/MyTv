@@ -974,10 +974,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV HD
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="706" tvg-name="706", HITS HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065968
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745728
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="401" tvg-name="401", Hits Movies HD
 http://foctv.xyz:25510/Amir5641/YY5641/68
@@ -1002,9 +1002,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745777
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="CHN" tvg-name="CHN", PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAyk0Xx7mEDkB5QdY3DfKnHGg8g0-xc32Jg&usqp=CAU" group-title="English" tvg-id="CHN" tvg-name="CHN", SERIES ACTION  | MARVEL
-http://stalkertvlatino.com:8080/play1/play1/87513
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1280px-Showtime_2.svg.png" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000960?checkedby:iptvcat.com
