@@ -232,13 +232,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227525/3221227525.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MzRlZDFlODktOWNlNy0zNGFiLTk5NWEtOTdhNmQxYzBiZTM2
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTVLCOPT:http-user-agent=Mozilla-5.0 (Windows NT 10.0; Win64; x64) AppleWebKit-537.36 (KHTML, like Gecko) Chrome-92.0.4515.131 Safari-537.36
 #EXTINF:-1 group-title="English" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H",Rock Entertainment (Blue Ant Entertainment)
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MzRlZDFlODktOWNlNy0zNGFiLTk5NWEtOTdhNmQxYzBiZTM2
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTVLCOPT:http-user-agent=Mozilla-5.0 (Windows NT 10.0; Win64; x64) AppleWebKit-537.36 (KHTML, like Gecko) Chrome-92.0.4515.131 Safari-537.36
 #EXTINF:-1 group-title="English" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S",Rock Extreme (Blue Ant Extreme)
 https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
 
