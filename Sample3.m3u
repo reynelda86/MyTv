@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000,CLOSED-CAPTIONS="cc",SUBTITLES="sub",AUDIO="aud"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z2xqpx/20210525-030444.png" group-title="VOD 2021” “tvg-id=“ “ tvg-name=“,400 Bullets (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
+http://icego.club/vanderlei12/vanderlei12/85820?checkedby:iptvcat.com
+
 
 
