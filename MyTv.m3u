@@ -517,9 +517,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Chinese" tvg-id="395" tvg-name="395", tvN HD
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", B4U Music
 http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
 
