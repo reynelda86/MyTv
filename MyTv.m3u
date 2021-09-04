@@ -994,9 +994,6 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="English" tvg-id="CHN" tvg-name="CHN", MovieTime
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="English" tvg-id="408" tvg-name="408", Paramount HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745777
 
