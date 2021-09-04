@@ -1042,8 +1042,8 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1002829?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1200px-Starz_Encore_Suspense.svg.png" group-title="English" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="StarzEncoreSuspenseEast.us", Starz Encore Suspense
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1081503?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Syfy
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31293?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="Syfy East",Syfy East
+http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Thrill
 http://foctv.xyz:25510/Amir5641/YY5641/70
