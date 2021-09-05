@@ -275,12 +275,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227590/3221227590.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Lifestyle & Documentary" ch-number="512" tvg-id="512" tvg-chno="512" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227531/3221227531.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Lifestyle & Documentary" ch-number="521" tvg-id="521" tvg-chno="521" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd
 
