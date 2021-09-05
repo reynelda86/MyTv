@@ -550,9 +550,6 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000819?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
 http://stream.tvtap.live:8081/live/mtvdance.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Music
-https://s02.diazol.hu:10192/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
