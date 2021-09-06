@@ -964,9 +964,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English" tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us", HBO Signature East
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="English" tvg-id="715" tvg-name="715", HGTV HD
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="706" tvg-name="706", HITS HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745728
 
@@ -1174,8 +1171,8 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="708" tvg-name="708", Food Network HD
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="715" tvg-name="715", HGTV HD
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="715" tvg-name="715", HGTV HD
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Lifestyle & Documentary" tvg-id="555" tvg-name="555", History HD
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
