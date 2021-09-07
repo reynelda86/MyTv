@@ -1054,6 +1054,9 @@ http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids" tvg-id="DISNXD.us" tvg-name="DISNXD.us", Disney XD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745719
 
+#EXTINF: -1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malay", NET.
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Kids" tvg-id="617" tvg-name="617", Nickelodeon Junior
 http://foctv.xyz:25510/Amir5641/YY5641/128
 
@@ -1677,9 +1680,6 @@ https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malay" tvg-id="109" tvg-name="109", Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-
-#EXTINF: -1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malay", NET.
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065904
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="Malay" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
