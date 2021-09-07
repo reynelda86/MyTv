@@ -323,12 +323,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227623/3221227623.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="News" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cqNKlcyp",Sky News HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227718/3221227718.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="News" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080719495046uu.png",Channel NewsAsia
 https://web.hypp.tv:443/PLTV/88888888/224/3221227543/3221227543.mpd
 
@@ -818,7 +812,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="514" tvg-name="514", Sky News HD
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745703
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="CHN" tvg-name="CHN", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
