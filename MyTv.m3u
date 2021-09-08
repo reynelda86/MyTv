@@ -830,7 +830,7 @@ http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
-http://45.225.204.7:8000/play/a05e
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="English" tvg-id="473" tvg-name="473", Blue Ant Entertainment
 http://aputra.xyz/hmmpastidicomotdahpunyague/12blueAnt.m3u8
