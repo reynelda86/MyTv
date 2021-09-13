@@ -1559,15 +1559,6 @@ https://storage.googleapis.com/13464d5a8c70/8f5/accc3ffdc0902dcb274a3ec5c6938236
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD" tvg-id="" tvg-name="", Step Up (2006)
 https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator 3: Rise of the Machines (2003)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960202
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator Genisys (2015)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960204
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE1MTM1MzA2NF5BMl5BanBnXkFtZTcwODQ5MTA2Mg@@._V1_SY1000_CR0,0,740,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Terminator Salvation (2009)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960203
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Expendables (2010)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960229
 
@@ -1850,6 +1841,18 @@ https://lh3.googleusercontent.com/DtgQv5-BZ5gbAkYw9HAQA71z88xKGr65NTe4VCHZcYznZf
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqicmdaaVv9a6YHBXNpVX5JwREAIyWrWMFaw&usqp=CAU" group-title="VOD Jurassic World" tvg-id="" tvg-name="", Jurassic World: Fallen Kingdom
 https://lh3.googleusercontent.com/AgxGTf9TJMf87iWFIb3ta0h0hOP3beOmORIdcV9QJHDka_aQQ5zn6yEWBoapJb3JUH5ee3qsIUc2bs2XbA=m22
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHcl-raL96QEAvogAxqGaxatdDHXa8oFW0g&usqp=CAU" group-title="VOD Terminator" tvg-id="" tvg-name="", The Terminator
+https://lh3.googleusercontent.com/73B1LCEQ-UN3I_R1A1QAvaSnzVjuAexAxVOOLRsMn0Tt267WHLTYz7og-GIEUjC9yfIXbprMu2nHk0Htag=m22
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="VOD Terminator" tvg-id="" tvg-name="", Terminator 3: Rise of the Machines (2003)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960202
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_.jpg" group-title="VOD Terminator" tvg-id="" tvg-name="", Terminator Genisys (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960204
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE1MTM1MzA2NF5BMl5BanBnXkFtZTcwODQ5MTA2Mg@@._V1_SY1000_CR0,0,740,1000_AL_.jpg" group-title="VOD Terminator" tvg-id="" tvg-name="", Terminator Salvation (2009)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960203
 
 
 
