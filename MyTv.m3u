@@ -1394,12 +1394,6 @@ https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4UqEahFbcAmTgQunS0LZiGhGntAYG-wKvQ&usqp=CAU" group-title="VOD" tvg-id="" tvg-name="", Hachi: A Dogs Tale
 https://vodcdn.internetowa.tv/Hachi-A-Dogs-Tale-Moj-przyjaciel-Hachiko-2009-Lektor-PL.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD Harry Potter" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 1 (2010)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD Harry Potter" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 2 (2011)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SqUiiQl.jpg" group-title="VOD" tvg-id="" tvg-name="", Heroes Return (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
 
@@ -1832,6 +1826,12 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959685
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//Ag21otqbeynZPGjEbzyr3X5Us0j.jpg" group-title="VOD Harry Potter" tvg-id="" tvg-name="", Harry Potter And The Half-Blood Prince (2009)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959686
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD Harry Potter" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 1 (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD Harry Potter" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 2 (2011)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
 
 
 
