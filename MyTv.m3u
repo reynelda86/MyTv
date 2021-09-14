@@ -1508,12 +1508,6 @@ http://srv24.nf21.net/files/15-2018-11-07-87a60112c7eabd4f9dd43928ad6c0eb2.mp4
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XryfVhW.jpg" group-title="VOD" tvg-id="" tvg-name="", Master Z: The Ip Man Legacy (2018)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Maze Runner: The Death Cure (2018)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960234
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", Maze Runner: The Scorch Trials (2015)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960233
-
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD" tvg-id="" tvg-name="", Monsters University (2013)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
 
@@ -1613,8 +1607,14 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960239
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Lt4Y33X.jpg" group-title="VOD" tvg-id="" tvg-name="", The Man from Macau (2014)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959733
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Maze Runner (2014)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960232
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="", The Maze Runner
+https://lh3.googleusercontent.com/jtqRDOvPmZVqNiigYfB9MG3uW_geFkLYRPSHND__-LBL16HZwj36HU63I1zfY3bSiQy0WZ-EPkt8vWv9qA=m22
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="",The Maze Runner: The Scorch Trials
+https://lh3.googleusercontent.com/JgkoDIgxx_sWgy0lEpmggJjrgoljj0C13TABrgEbZFUniRtyTPewwo7OnYPGQmoxhhIWbCxRxlHaZgYm0A=m22
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD" tvg-id="" tvg-name="",The Maze Runner: The Death Cure
+https://lh3.googleusercontent.com/ddjlgOMOCJWZGr7XK9zVU1QsArlkmVMFbH3DLzaR9hddOey_U2RTG_d03xISng5LY68GnGYkZ_90C6eLTA=m22
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9IRw373.jpg" group-title="VOD" tvg-id="" tvg-name="", The Monkey King Caused Havoc in Dragon Palace (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
