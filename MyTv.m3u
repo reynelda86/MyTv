@@ -880,9 +880,6 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="Entertainment" tvg-id="" tvg-name="", LIFETIME
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/351058875
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745738
 
