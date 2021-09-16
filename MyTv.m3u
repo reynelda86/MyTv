@@ -502,7 +502,7 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202526
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="Indian" tvg-id="CHN" tvg-name="CHN", &PIctures HD
-http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
