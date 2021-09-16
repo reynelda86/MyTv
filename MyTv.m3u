@@ -112,12 +112,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227516/3221227516.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Chinese" ch-number="233" tvg-id="233" tvg-chno="233" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png",Now Jelli HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Indian" ch-number="301" tvg-id="301" tvg-chno="301" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227762/3221227762.mpd
 
