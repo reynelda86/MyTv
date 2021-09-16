@@ -182,6 +182,9 @@ https://livecdn.fptplay.net/foxlive/foxhd_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="English" tvg-id="703" tvg-name="703", FOXlife HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709679
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAFBZPnrRBbGXJwGwhGOuZeJLpZiCrWTCmnQ&usqp=CAU" group-title="English" tvg-id="413" tvg-name="413", Fox Movies
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="English" tvg-id="713" tvg-name="713", FX HD
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 
