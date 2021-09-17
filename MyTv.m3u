@@ -53,7 +53,13 @@ http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cdrama
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malay" tvg-id="128" tvg-name="128", Dunia Sinema HD
+##EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWFlMTgyMGItOGI0Yi0zMTM1LWJhNWUtZDRhM2JjNDhjNTUx
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 group-title="Malay" ch-number="128" tvg-id="128" tvg-chno="127" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2JFMVb/flik-lean-paps.png" group-title="Malay" tvg-id="Flik.id" tvg-name="Flik.id", FLIK
