@@ -53,6 +53,11 @@ http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cdrama
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
+#EXTINF:-1 tvg-id="12dddddddddddddddddddddddddddd8" group-title="Malay" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_key=http://ottweb.hypp.tv/PlayReady/rightsmanager.asmx?deviceId=YmI0ZGNlYmUtYWJjZS0zNWYyLWEwOWQtNWFmNzQ5MTQ4Y2Fj
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2JFMVb/flik-lean-paps.png" group-title="Malay" tvg-id="Flik.id" tvg-name="Flik.id", FLIK
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202520
 
