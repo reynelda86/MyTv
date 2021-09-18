@@ -445,6 +445,9 @@ http://foctv.xyz:25510/Amir5641/YY5641/52
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", Sony GEM TV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VCp042/tvb-classic.png" group-title="Chinese" tvg-id="305" tvg-name="305", TVB Classic
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="310" tvg-name="310", TVB Jade
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
