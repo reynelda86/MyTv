@@ -440,9 +440,6 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000823?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
 http://stream.tvtap.live:8081/live/mtvdance.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
