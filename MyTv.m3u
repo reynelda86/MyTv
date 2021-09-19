@@ -1912,6 +1912,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/F9.the.Fast.Saga.202
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabipI_ulqRT5mqKhjlgcr_uhwBjZ9OTMigw&usqp=CAU" group-title="VOD Marvel" tvg-id="" tvg-name="", Shang-Chi and the Legend of the Ten Rings
 https://b-g-eu-4.betterstream.co:2222/v2-hls-playback/de8c62cdabf5ef746a04da3f34a0c53f38aab1eccb15b658fcd9efc4b18265c31fb3ed908dba0dbc482e399af9312f64fd575991977eb8aa61397a74b12eb39813b206e02a51304ad701c4fdd610d60e756c4639abdad08d87104ee87c705345d11834d272ef1505e62878f105f6ef987ac691412dfe22e63aef7ab68343bdf69aa664749426f5b1f3219ec52e2855c78f35923134717cfbad618348ffe937ff/720/index.m3u8
 
+#EXTINF:-1 tvg-id="106" group-title="Malay" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
 
 
 
