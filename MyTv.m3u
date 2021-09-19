@@ -1916,6 +1916,10 @@ https://b-g-eu-4.betterstream.co:2222/v2-hls-playback/de8c62cdabf5ef746a04da3f34
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
+#EXTINF:-1 tvg-id="146" group-title="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
 
 
 
