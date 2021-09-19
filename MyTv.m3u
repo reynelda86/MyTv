@@ -1934,5 +1934,25 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="English" tvg-id="5StarMaxEast.us" tvg-name="5StarMaxEast.us", 5 StarMax East
+http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/HD5logobbg.JPG" group-title="English" tvg-id="" tvg-name="", Channel 5 Singapore
+http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English" tvg-id="CinemaxEast.us" tvg-name="CinemaxEast.us", Cinemax East
+http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outer_max_us.png" group-title="English" tvg-id="OuterMaxEast.us" tvg-name="OuterMaxEast.us", OuterMax East
+http://qqtv.nl:8080/shah/shah123/20905
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PcBCfr/m-ch-8-chinese.png" group-title="Chinese" tvg-id="" tvg-name="", Channel 8 Singapore
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", DISCOVERY TURBO
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+
+
+
 
 
