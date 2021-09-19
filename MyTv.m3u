@@ -59,34 +59,34 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malay" tvg-id="702" tvg-name="702", Hello HD
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malay" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malay" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar Indonesia
 http://foctv.xyz:25510/Amir5641/YY5641/36
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="Malay" tvg-id="KompasTV.id" tvg-name="KompasTV.id", Kompas TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="Malay" tvg-id="KompasTV.id" tvg-name="KompasTV.id", Kompas TV Indonesia
 http://foctv.xyz:25510/Amir5641/YY5641/107
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Malay" tvg-id="METROTV.id" tvg-name="METROTV.id", METRO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Malay" tvg-id="METROTV.id" tvg-name="METROTV.id", METRO TV Indonesia
 http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="Malay" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNCTV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="Malay" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNCTV Indonesia
 https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malay" tvg-id="109" tvg-name="109", Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malay" tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN", NET.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malay" tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN", NET. Indonesia
 http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="Malay" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="Malay" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI Indonesia
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png" group-title="Malay" tvg-id=" CHN" tvg-name=" CHN", RTB Sukmaindera
 https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w2066316052_b608000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malay" tvg-id="RTV.id" tvg-name="RTV.id", RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malay" tvg-id="RTV.id" tvg-name="RTV.id", RTV Indonesia
 http://foctv.xyz:25510/Amir5641/YY5641/210
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV Indonesia
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Suria Singapore
