@@ -47,9 +47,6 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qi3g83xq80hlwme/citra-drama-id.png?dl=1" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Citra Drama
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cdrama
-
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
