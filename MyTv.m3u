@@ -437,12 +437,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Mtv_base_uk.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Base
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000823?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/MTV_Classic_2011_logo.png" group-title="Entertainment" tvg-id="MTVClassicEast.us" tvg-name="MTVClassicEast.us", MTV Classic East
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2170913?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpfIVtN78wfnkwYZqhjEHozLt7k0aSnMpOVQ&usqp=CAU" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", MTV Hits
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000819?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
 http://stream.tvtap.live:8081/live/mtvdance.stream/playlist.m3u8
 
