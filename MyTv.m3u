@@ -1930,5 +1930,9 @@ http://210.210.155.35/session/d271790e-1563-11ec-917b-8a2599dcb9db/qwr9ew/s/s08/
 #EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="Malay" tvg-id="" tvg-name="", Tv Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
+#EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
 
 
