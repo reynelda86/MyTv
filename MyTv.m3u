@@ -2063,7 +2063,10 @@ http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Bad%20Trip%20(2020)/Bad.Tr
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-i2C7BZz9UvHPgPH00uDmfLbNHP7LwmN7XQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hangover 3
 http://www.deadlyblogger.com/NewRelease/hangover3.mp4
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="618" tvg-name="618" tvg-logo="https://i.postimg.cc/1RYgwhFb/BabyTV.png" group-title="Kids",Baby TV HD
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 
 
