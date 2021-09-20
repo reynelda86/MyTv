@@ -1976,6 +1976,23 @@ https://www644.ff-02.com/token=VBvB4LNqe4l7B9lVQEjiVQ/1632125105/42.153.0.0/22/c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZwsO0GVnWQHA55ezsLdYCJzYFdJcKt44FA&usqp=CAU" group-title="VOD Indiana Jones" tvg-id="" tvg-name="", Indiana Jones and the Kingdom of the Crystal Skull
 https://www807.ff-02.com/token=_ZrZvVq_7xTGqHFgCBD7lQ/1632125388/42.153.0.0/7/d/97/70af6844f0bc890ae3f0bc50cb91597d-480p.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDnW4OmuETWBHXbDaLq5ookDVv_F6_gEwzA&usqp=CAU" group-title="Malay" tvg-id="123" tvg-name="123", Awesome TV
+http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3447
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/HboEast/hbo%20east.png" group-title="English" tvg-id="HBOEast.us" tvg-name="HBOEast.us", HBO East
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="English" tvg-id="HBOWest.us" tvg-name="HBOWest.us", HBO West
+http://qqtv.nl:8080/shah/shah123/148634
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
+http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
+
+
+
 
 
 
