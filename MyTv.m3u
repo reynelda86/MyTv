@@ -2068,6 +2068,24 @@ http://www.deadlyblogger.com/NewRelease/hangover3.mp4
 #EXTINF:0 tvg-id="618" tvg-name="618" tvg-logo="https://i.postimg.cc/1RYgwhFb/BabyTV.png" group-title="Kids",Baby TV HD
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/779/170/png-clipart-babyfirst-television-channel-satellite-television-at-t-u-verse-child-television-child-thumbnail.png" group-title="Kids" tvg-id="" tvg-name="", Baby First
+https://feed.play.mv/live/1009/9J8wEl5SId/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Davinci Learning
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=davinci
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids" tvg-id="" tvg-name="", Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="" tvg-name="", Disney XD
+http://qqtv.nl:8080/shah/shah123/15497
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ADUfA-x6igQIDJcGh0ykBUHLTsjeo7jsow&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Supertoons
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgXVotiSFWfli51SS0gU97NpO8_oyy4VUiw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Craft Legacy
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/The%20Craft%20Legacy%20(2020)/The.Craft.Legacy.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
 
 
 
