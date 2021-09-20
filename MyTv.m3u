@@ -2024,6 +2024,47 @@ http://qqtv.nl:8080/shah/shah123/20893
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1280px-Starz_Kids_%26_Family_logo.svg.png" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids &amp; Family East
 http://qqtv.nl:8080/shah/shah123/20873
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%20(2006)/Step%20Up%202006.720p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMftI6sICMQeE03KONFsqHVCLUOouPBIWPvg&usqp=CAU" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up 2: The Streets
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%202%20The%20Streets%20(2008)/Step%20Up%202%20The%20Streets%202008.720p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLU3K8P85jB8YsGgIMTewravfx-KPvUOO7Iw&usqp=CAU" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up 3
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%203D%20(2010)/Step%20Up%203D%202010.720p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEEba-vnrwnrcaPt5plwqXoWnmVq2cW48J5Q&usqp=CAU" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up All In
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%20All%20In%20(2014)/Step.Up.All.In.2014.1080p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS5lcaUfFsl7gUT5mSEylECzoqN.jpg" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up: Year of the Dance
+http://qqtv.nl:8080/movie/shah/shah123/369350.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg" group-title="VOD English" tvg-id="" tvg-name="", Scream (1996)
+http://qqtv.nl:8080/movie/shah/shah123/369922.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mumarnp1ZBHFdmt2q6x9ELuC3x0.jpg" group-title="VOD English" tvg-id="" tvg-name="", Scream 2 (1997)
+http://qqtv.nl:8080/movie/shah/shah123/386110.mp4
+
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/taken-2-2012.jpg" group-title="VOD English" tvg-id="" tvg-name="", Taken 2
+https://vodcdn.internetowa.tv/storage-2/Taken-2-2012-720p-Lektor-PL.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TOCAmmcqmLKP31mKYVIiJTje0S.jpg" group-title="VOD English" tvg-id="" tvg-name="", Taken 3
+http://qqtv.nl:8080/movie/shah/shah123/331396.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1WwhSPFyb4yE5dj9BOS-DliPBclMpFt3vA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Grudge (2020)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/801.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjCPcxw7QCmFPYM1t3BThdEawJK.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hangover
+http://qqtv.nl:8080/movie/shah/shah123/386376.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2ySPkXG9YKAYPuaaXARrAmYpPU5KAxKd8A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hangover 2
+http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Bad%20Trip%20(2020)/Bad.Trip.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-i2C7BZz9UvHPgPH00uDmfLbNHP7LwmN7XQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hangover 3
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+
+
+
 
 
 
