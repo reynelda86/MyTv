@@ -2115,6 +2115,10 @@ https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R8w5XtY.jpg" group-title="VOD English" tvg-id="" tvg-name="", Teddy (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="228" tvg-name="228" tvg-logo="https://bit.ly/3yrR1Nc" group-title="Chinese",SCM HD
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 
 
