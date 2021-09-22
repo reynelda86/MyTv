@@ -1233,9 +1233,6 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/6998.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/E4tS5hrmWj2Whhzne3W2prNuTI.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Bisik Pada Langit
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bisik%20Pada%20Langit.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBmMDllNWQtZWU1Ny00ZDA5LWI1ZGItNTc3NDA1NmYyZjQ5XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Bukit Kepong
-https://misty-dust.evanwinters.workers.dev/0:/public/Bukit.Kepong.REMASTERED.1981.720p.WEB.2CH.x264-PYPER.mkv
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eTXl4uCDm4N0Cr2RV4qpnnKf1Q5.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Bulan dan Pria Terhebat
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bulan.dan.Pria.Terhebat.2020.mp4
 
@@ -1243,10 +1240,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bulan.dan.Pria.Terhebat
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Busut%20Bonang%20-2019.mp4
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-11AcCFtYI_Q/YOC62bEFpZI/AAAAAAAANWY/MpmJomje6kc9Jtp39XVd44ETK0fc45GOQCLcBGAsYHQ/s610/comel_001.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Comel 2021
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1YjhiYTItOGM0YS00OGFmLWFmODQtMjAzMTYwOGIxOWM1XkEyXkFqcGdeQXVyMTE0ODI0Mjc2._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Daulat
-https://misty-dust.evanwinters.workers.dev/0:/public/Daulat.2020.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1YhPy_hVMGA/YJlFnSSIuoI/AAAAAAAALns/TZc7ty7kQ_w0BaNHhUcp_42LXXhIQPAagCLcBGAsYHQ/s16000/Dekatnya%2BCinta.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Dekatnya Cinta
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/DekatnyaCinta.mp4
@@ -1529,32 +1523,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tombiruo720.mp4
 
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/6998.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", V3: Samseng Jalanan
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Samseng%20Jalanan%202010.mp4
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", The Nun
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Nun%20(2018)%20malay%20sub.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOjl1ow7i0LWMITdixGR25H1wq306w3hOw&usqp=CAU" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", Annabelle: Creation
-https://pixeldrain.com/api/file/rQ1EapCJ
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNTImeEUV-AK4q2ztgqk-lsAFSgYMx6Rg1A&usqp=CAU" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", Annabelle
-https://storage.googleapis.com/13464d6732c4/047/ecd771a0a55a9350d4e1edc2955475b3.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", The Conjuring
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQtixY562LkuNM6f1HLit0ICGvn2_pgpD5Q&usqp=CAU" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", Annabelle Comes Home
-http://srv41.nf21.net/files/15-2020-12-21-41ff3b33a39e43b1b2b6cda1406ca068.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ym7X7nlkzMSnLkHxG96iZ16zAlu.jpg" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", The Curse Of La Llorona
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Curse%20Of%20La%20Llorona.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", The Conjuring 2
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring%202.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD ANNABELLE" tvg-id="" tvg-name="", The Conjuring: The Devil Made Me Do It
-http://foctv.xyz:25510/movie/Zulhairie/BB2064/263.mkv
-
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoTRj3jMTv4tg7KdAG3sTRLUgonPU8xeZmA&usqp=CAU" group-title="VOD Harry Potter" tvg-id="" tvg-name="", Harry Potter and the Chamber of Secrets
