@@ -1805,7 +1805,7 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/HD5logobbg.JPG" group-title="English" tvg-id="" tvg-name="", Channel 5 Singapore
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="English" tvg-id="CinemaxEast.us" tvg-name="CinemaxEast.us", Cinemax East
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
