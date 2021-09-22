@@ -680,7 +680,8 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745752
 http://iptv.prosto.tv:7000/ch106/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Sukan RTM
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", T Sports
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
