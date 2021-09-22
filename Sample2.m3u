@@ -1,7 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="101" tvg-name="101", TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV1d" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_key=http://ottweb.hypp.tv/PlayReady/rightsmanager.asmx?deviceId=YmI0ZGNlYmUtYWJjZS0zNWYyLWEwOWQtNWFmNzQ5MTQ4Y2Fj
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
