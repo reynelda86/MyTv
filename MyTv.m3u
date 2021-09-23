@@ -1795,7 +1795,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Malay" tvg-id="" tvg-name="", Net Tv Indonesia
-http://210.210.155.35/session/d271790e-1563-11ec-917b-8a2599dcb9db/qwr9ew/s/s08/01.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="Malay" tvg-id="" tvg-name="", Tv Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
