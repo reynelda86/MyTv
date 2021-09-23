@@ -1858,9 +1858,6 @@ http://qqtv.nl:8080/shah/shah123/148634
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
 http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAf2qEVmJy6iF15GaPCyHr3aqoaIEYngQLg&usqp=CAU" group-title="English" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movie Channel
-http://23.237.162.75:7283/FXM-US-HD/index.m3u8?un=OscaTorres&tm=1632003973&sn=DFMs047cCuHcwf7QtCK0JpNQspm
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="English" tvg-id="" tvg-name="", MovieTime
 http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/6486/index.m3u8
 
