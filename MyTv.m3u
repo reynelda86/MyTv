@@ -826,9 +826,6 @@ http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/17again.jpg" group-title="VOD English" tvg-id="" tvg-name="", 17 Again
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/17Again.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/xnxGmUof0HiugUaNbUFiS4GJPx4.jpg" group-title="VOD English" tvg-id="" tvg-name="", A Classis Horror Story 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/A%20Classic%20Horror%20Story%20(2021).mp4
 
@@ -1087,9 +1084,6 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKj_PWyt_ilzmJYUAb5URnlRTq2VsWtZhemg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Snake Eyes
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Snake.Eyes.G.I.Joe.Origins.2021.1080p_1.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Step Up (2006)
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwOTA4NTE4Ml5BMl5BanBnXkFtZTcwOTI2NTg1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: Prince Caspian
 https://lh3.googleusercontent.com/FIoZrjC91WsH4gf2yjKQWSNMhd3lSrT89sF8lA8q7gv42lgdCKkOXO1q38ToH04L-3Ncyesbg24b13fbcg=m22
 
@@ -1249,9 +1243,6 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Evolusi.KL.Drift.2008.1080p
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2MTVkN2UtMDZiZi00ODFmLTkzMzEtMTc2ZDFkZTdjZmFjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Fenomena
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Fenomena.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRlMDIxZjctMWY5MS00NDM3LThkN2MtODI0NTRiMDQyOWFmXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Geran
-https://misty-dust.evanwinters.workers.dev/0:/public/Geran.2019.1080p.NF.WEB-DL.DDP.5.1.VP9-PYPER.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/neO0c69wGECyhx7XSUyDFXGgvAX.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Ghibah 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ghibah%20(2021).mp4
@@ -1893,21 +1884,6 @@ http://qqtv.nl:8080/shah/shah123/20893
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1280px-Starz_Kids_%26_Family_logo.svg.png" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids &amp; Family East
 http://qqtv.nl:8080/shah/shah123/20873
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up
-http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%20(2006)/Step%20Up%202006.720p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMftI6sICMQeE03KONFsqHVCLUOouPBIWPvg&usqp=CAU" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up 2: The Streets
-http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%202%20The%20Streets%20(2008)/Step%20Up%202%20The%20Streets%202008.720p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLU3K8P85jB8YsGgIMTewravfx-KPvUOO7Iw&usqp=CAU" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up 3
-http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%203D%20(2010)/Step%20Up%203D%202010.720p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEEba-vnrwnrcaPt5plwqXoWnmVq2cW48J5Q&usqp=CAU" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up All In
-http://103.136.62.10/Data/Disk2/movies/hollywood/2020/Step%20Up%20All%20In%20(2014)/Step.Up.All.In.2014.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS5lcaUfFsl7gUT5mSEylECzoqN.jpg" group-title="VOD Step up" tvg-id="" tvg-name="", Step Up: Year of the Dance
-http://qqtv.nl:8080/movie/shah/shah123/369350.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg" group-title="VOD English" tvg-id="" tvg-name="", Scream (1996)
 http://qqtv.nl:8080/movie/shah/shah123/369922.mp4
