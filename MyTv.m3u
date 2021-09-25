@@ -2086,8 +2086,9 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almight
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHWv16c4uDmiEujICSBdQ52TH55.jpg" group-title="VOD English" tvg-id="" tvg-name="", Bulletproof Monk (2003)
 http://qqtv.nl:8080/movie/shah/shah123/383128.mp4
 
-
-
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",RTM Parlimen
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtm1hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
 
 
