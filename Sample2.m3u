@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="Indian",ZEE CINEMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+#EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
