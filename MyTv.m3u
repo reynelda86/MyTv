@@ -181,9 +181,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745727
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="English" tvg-id="" tvg-name="", Lifetime East
 http://dituduhmaling.xyz/US33T4/MPD/master.php?id=lifetime
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/107-1070603_lifetime-movies-lifetime-movie-network-logo.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Lifetime Movie Network
-http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946" group-title="English" tvg-id="CHN" tvg-name="CHN", Movie Mix 1
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
