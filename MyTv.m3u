@@ -2036,4 +2036,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/pla
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Chinese" tvg-id="309" tvg-name="309", Celestial Movies HD
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_NI2VsBNmO0qMgZuZBEC3PM4aec5X37I2A&usqp=CAU" group-title="Malay" tvg-id="" tvg-name="", ABO Tayangan Hebat
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
+
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_movies_in.png" group-title="Indian" tvg-id="" tvg-name="", B4U Movies 
+http://14.199.164.20:4001/play/a0wj/index.m3u8
 
