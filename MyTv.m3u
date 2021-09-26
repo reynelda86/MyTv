@@ -570,9 +570,6 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports" tvg-id="801" tvg-name="801", Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="824" tvg-name="824", Astro Cricket HD
-http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="811" tvg-name="811", Astro SuperSport HD
 http://foctv.xyz:25510/Amir5641/YY5641/148
 
