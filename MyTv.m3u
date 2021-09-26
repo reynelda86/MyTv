@@ -607,7 +607,7 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1092
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", Eurosport HD
 http://foctv.xyz:25510/Amir5641/YY5641/328
