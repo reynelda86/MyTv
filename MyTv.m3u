@@ -2042,3 +2042,19 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_movies_in.png" group-title="Indian" tvg-id="" tvg-name="", B4U Movies 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Comedy HD
+http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bzytcsx/sky-cinema-thriller.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Crime & Thriller HD
+http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yq0NgxD/sky-cinema-premiere.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Premiere HD
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPQ8Nfv/sky-cinema-family.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Family FHD
+http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwJ8K3W/sky-cinema-disney.png" group-title="Kids" tvg-id="" tvg-name="", Sky Cinema Disney HD
+http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
+
+
