@@ -403,7 +403,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745738
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
-http://stream.tvtap.live:8081/live/mtvdance.stream/playlist.m3u8
+http://qqtv.nl:8080/shah/shah123/15455
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
