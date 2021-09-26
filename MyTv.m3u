@@ -589,7 +589,7 @@ http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://foctv.xyz:25510/Amir5641/YY5641/156
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", bEiN Sports 3 HD
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports" tvg-id="818" tvg-name="818", beIN Sports HD
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
