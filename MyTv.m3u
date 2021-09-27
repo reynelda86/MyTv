@@ -241,7 +241,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 tvg-id="ArirangTV.kr" tvg-name="ArirangTV.kr” tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png" group-title="News",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="News" tvg-id="501" tvg-name="501", Astro Awani
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="News" tvg-id="501" tvg-name="501", Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" group-title="News" tvg-id="601" tvg-name="601", BBC World News HD
