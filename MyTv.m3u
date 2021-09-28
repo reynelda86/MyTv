@@ -157,7 +157,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="English" tvg-id="CHN" tvg-name="CHN", Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English" tvg-id="HBOFamilyEast.us" tvg-name="HBOFamilyEast.us", HBO Family East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English" tvg-id="414" tvg-name="414", HBO Family
 https://pass.my.id/hbofamilyid.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
@@ -902,18 +902,6 @@ https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfc
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/pXdOC8N.jpg" group-title="VOD English" tvg-id="" tvg-name="", Iceman: The Time Traveller
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QO7dlSE.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Ubl1Dlh.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man 2
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959707
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YiqpL2c.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man 3
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959708
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DYOJ0Az.png" group-title="VOD English" tvg-id="" tvg-name="", Ip Man 4: The Finale
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959709
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xivB6QQ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man and Four Kings
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
