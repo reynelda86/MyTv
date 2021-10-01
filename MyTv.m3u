@@ -353,8 +353,7 @@ http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Chinese" tvg-id="393" tvg-name="393", ONE HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745690
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4pdggvS/SCML.png" group-title="Chinese" tvg-id="226" tvg-name="226", SCM Legend HD
-http://foctv.xyz:25510/Amir5641/YY5641/52
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0 #EXTINF:-1 group-title="Chinese" tvg-id="226" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/svm%20legend.png", SCM Legend HD https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VCp042/tvb-classic.png" group-title="Chinese" tvg-id="305" tvg-name="305", TVB Classic
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
