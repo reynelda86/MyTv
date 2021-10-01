@@ -55,9 +55,6 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Malay" tvg-id="GTV.id" tvg-name="GTV.id", GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malay" tvg-id="702" tvg-name="702", Hello HD
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malay" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar Indonesia
 http://foctv.xyz:25510/Amir5641/YY5641/36
 
