@@ -1590,8 +1590,8 @@ http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
 http://qqtv.nl:8080/shah/shah123/20905
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6PcBCfr/m-ch-8-chinese.png" group-title="Chinese",Channel 8 Singapore
+#KODIPROP:inputstream.adaptive.license_key= https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6PcBCfr/m-ch-8-chinese.png" group-title="Chinese",Channel 8 Singapore
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", DISCOVERY TURBO
