@@ -338,9 +338,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinese" tvg-id="316" tvg-name="316", CTI Asia
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fztv3.jpg" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", FZTV
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 
