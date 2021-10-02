@@ -4,4 +4,5 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3447"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="ind",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ind",URI="http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3447"
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="subs"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3447
