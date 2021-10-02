@@ -1922,9 +1922,6 @@ http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq0NgxD/sky-cinema-premiere.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Premiere HD
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPQ8Nfv/sky-cinema-family.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Family FHD
-http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwJ8K3W/sky-cinema-disney.png" group-title="Kids" tvg-id="" tvg-name="", Sky Cinema Disney HD
 http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
 
