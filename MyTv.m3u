@@ -1634,7 +1634,7 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="English" tvg-id="ShowtimeWest.us" tvg-name="ShowtimeWest.us", Showtime West
-http://qqtv.nl:8080/shah/shah123/67140
+http://31.220.41.88:8081/live/us-showtime.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
