@@ -363,11 +363,6 @@ http://one.d4k4u.com:2082/live/6949003927915110/1y7gicb9l086jhc/50756.m3u8
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/202px-Channel_V_Logo.svg.png" group-title="Entertainment",Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
