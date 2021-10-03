@@ -192,7 +192,7 @@ http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
-http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D891682876&_cdn_session=84044147&_cdn_timestamp=1633319163&_cdn_token=01656f2e9a05824f7c0e8f4599cc2af1d0d20adb
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Thrill
 http://foctv.xyz:25510/Amir5641/YY5641/70
