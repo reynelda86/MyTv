@@ -191,9 +191,6 @@ http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1280px-Starz_Edge_logo.svg.png" group-title="English" tvg-id="StarzEdgeEast.us" tvg-name="StarzEdgeEast.us", Starz Edge East
 http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8?token=null
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/335-3358850_starz-encore-black-starz-encore-east.png" group-title="English" tvg-id="StarzEncoreBlackEast.us" tvg-name="StarzEncoreBlackEast.us", Starz Encore Black
-http://qqtv.nl:8080/shah/shah123/20870
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1200px-Starz_Encore_Suspense.svg.png" group-title="English" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="StarzEncoreSuspenseEast.us", Starz Encore Suspense
 http://qqtv.nl:8080/shah/shah123/20900
 
