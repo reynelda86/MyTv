@@ -1,7 +1,7 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_key=http://ottweb.hypp.tv/PlayReady/rightsmanager.asmx?deviceId=MzBhMTMxMTUtZTQ3Yi0zNTViLWFiYzktZjJiMDVkMDg2YTEz
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Movies" ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227568/3221227568.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:-1 group-title="Chinese" tvg-id="226" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/svm%20legend.png",SCM Legend HD
+https://akamai.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
 
