@@ -1525,9 +1525,6 @@ https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1-avc1_4
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="English" tvg-id="5StarMaxEast.us" tvg-name="5StarMaxEast.us", 5 StarMax East
-http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/HD5logobbg.JPG" group-title="English" tvg-id="" tvg-name="", Channel 5 Singapore
 http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 
