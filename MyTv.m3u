@@ -1794,9 +1794,6 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Comedy HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1360
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bzytcsx/sky-cinema-thriller.png" group-title="English" tvg-id="" tvg-name="", Sky Cinema Crime & Thriller HD
-http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
-
 #EXTM3U x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg" url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" refresh="3600"
 #EXTM3U x-tvg-url="http://macan.live/xmltv.php?username=epg&password=epg" url-tvg="http://macan.live/xmltv.php?username=epg&password=epg" refresh="3600"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600"
