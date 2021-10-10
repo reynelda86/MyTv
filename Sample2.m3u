@@ -1,6 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy
-https://edge-live12-sl.cvattv.com.ar/live/c2live/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia",TV3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
