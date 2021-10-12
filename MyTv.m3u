@@ -289,7 +289,7 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="Chinese" tvg-id="333" tvg-name="333", Astro Hua Hee Dai HD
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+http://50.7.161.82:8277/streams/d/huanxi_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="308" tvg-name="308", Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
