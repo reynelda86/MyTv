@@ -74,7 +74,7 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w2066316052_b608000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malay" tvg-id="RTV.id" tvg-name="RTV.id", RTV Indonesia
-http://foctv.xyz:25510/Amir5641/YY5641/210
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV Indonesia
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
