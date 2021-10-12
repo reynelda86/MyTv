@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5ZxSkqFEDrE/YMOFgN2TyqI/AAAAAAAABEM/0oHHHxoQveQ16OoWUgCsMZojtkip6x66QCLcBGAsYHQ/s0/BbPufM8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar" tvg-name="Indosiar", Indosiar
-https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia",Kompas tv
+https://liveanevia.mncnow.id:443/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
