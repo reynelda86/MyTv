@@ -1781,7 +1781,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/pla
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="No group" tvg-id="309" tvg-name="309", Celestial Movies HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Chinese" tvg-id="309" tvg-name="309", Celestial Movies HD
 https://liveanevia.mncnow.id:443/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_NI2VsBNmO0qMgZuZBEC3PM4aec5X37I2A&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Primetime
