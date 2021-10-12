@@ -1779,8 +1779,10 @@ http://qqtv.nl:8080/movie/shah/shah123/383128.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV70kRkT/BLACK-CINEMA.png" group-title="English" tvg-id="" tvg-name="", BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Chinese" tvg-id="309" tvg-name="309", Celestial Movies HD
-http://foctv.xyz:25510/Amir5641/YY5641/49
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="No group" tvg-id="309" tvg-name="309", Celestial Movies HD
+https://liveanevia.mncnow.id:443/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_NI2VsBNmO0qMgZuZBEC3PM4aec5X37I2A&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Primetime
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
