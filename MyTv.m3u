@@ -332,7 +332,7 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Chinese" tvg-id="211" tvg-name="211", tvN HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745692
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="Chinese" tvg-id="201" tvg-name="201", tvN Movies HD
 http://foctv.xyz:25510/Amir5641/YY5641/136
