@@ -1,5 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium",Celestial Movies 
-https://liveanevia.mncnow.id:443/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+#EXTINF:-1 tvg-id="1113" tvg-chno="113" tvg-logo="https://i.kampung.xyz/c/56772be37fe8b846.png" group-title="Astro",Astro Aura HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
