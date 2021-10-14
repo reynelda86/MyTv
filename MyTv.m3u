@@ -95,9 +95,6 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="English" tvg-id="CHN" tvg-name="CHN", AndFlix
 http://103.153.39.34:8000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English" tvg-id="CHN" tvg-name="CHN", AndPrive
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
