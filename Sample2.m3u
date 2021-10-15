@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="English" tvg-id="716" tvg-name="716", DMAX HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English" tvg-id="550" tvg-name="550", Dreamworks HD
+http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
