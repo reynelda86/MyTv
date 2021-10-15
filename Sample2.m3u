@@ -2,4 +2,4 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FOX_Crime_BG.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Fox Crime HD
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+https://liveanevia.mncnow.id:443/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
