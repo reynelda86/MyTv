@@ -413,7 +413,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", ZEE Cinema
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", Zing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Indian" tvg-id="CHN" tvg-name="CHN", Zing
 http://manastv.xyz/m3u8.php?c=Zing&q=800&e=junk.m3u8
 
 #EXTM3U
