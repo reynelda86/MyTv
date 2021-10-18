@@ -1618,6 +1618,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/95
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvemXXhbdEuMlrA4GqNnHLpX3Lmcj-ow1Gzw&usqp=CAU" group-title="VOD X-Men" tvg-id="" tvg-name="", X-Men: First Class
 http://www.deadlyblogger.com/NewRelease/xmen4.mp4
 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000,CLOSED-CAPTIONS="cc",SUBTITLES="sub",AUDIO="aud",VIDEO="vid" 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB11pQkRg3-zYFsF_4xarVMl36rZWAR3X7Q&usqp=CAU" group-title="VOD X-Men" tvg-id="" tvg-name="", X-Men: Days of Future Past
 https://p2p-ns1.sage.stream/hls/x-men-days-of-future-past-2014/index.m3u8
 
