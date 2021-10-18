@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png" group-title="Entertainment" tvg-id="531" tvg-name="531", MTV Asia
-https://web.hypp.tv:443/PLTV/88888888/224/3221227613/3221227613.mpd
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="221" tvg-name="221", Star Vijay HD
+https://delta12tatasky.akamaized.net/out/i/3562165.mpd
