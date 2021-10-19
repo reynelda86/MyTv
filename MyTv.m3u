@@ -470,7 +470,7 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="Lifestyle & Documentary" tvg-id="553" tvg-name="553", Discovery Asia HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745711
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="552" tvg-name="552", Discovery Channel HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/97
