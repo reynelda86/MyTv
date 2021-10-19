@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="Kids" tvg-id="616" tvg-name="616", Nickelodeon HD
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbnk0AM5dxvMUv4N6pMVy51z1B9mv0dJgCg&usqp=CAU" group-title="Lifestyle & Documentary” tvg-id="" tvg-name="", Discovery Investigation
+http://185.161.224.216/dash/Investigation_Discovery_SD.ism/playlist.mpd
