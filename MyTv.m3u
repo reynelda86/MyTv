@@ -289,9 +289,6 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="CHN" tvg-name="CHN", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/630/436/png-transparent-tvb-jade-logo-television-free-to-air-corprate-miscellaneous-television-text.png" group-title="News" tvg-id="318" tvg-name="318", TVB News
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Chinese" tvg-id="148" tvg-name="148", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
