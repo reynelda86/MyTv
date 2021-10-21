@@ -194,7 +194,7 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="English" tvg-id="CHN" tvg-name="CHN", SONY PIX
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+http://manastv.xyz/m3u8.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="English" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema East
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18927
