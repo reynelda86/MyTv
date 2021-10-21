@@ -315,6 +315,11 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Chinese" tvg-id="148" tvg-name="148", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="Chinese" tvg-id="" tvg-name="", Nhk World Tv
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AvOnvu.png" group-title="Chinese" tvg-id="306" tvg-name="306", Astro AEC HD
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 
