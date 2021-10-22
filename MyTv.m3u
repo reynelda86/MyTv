@@ -376,8 +376,10 @@ http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="394" tvg-name="394", Oh!K HD
 http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Chinese" tvg-id="393" tvg-name="393", ONE HD
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="Chinese" tvg-id="393" tvg-name="393", ONE HD
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
