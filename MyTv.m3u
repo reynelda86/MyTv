@@ -138,8 +138,10 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="No group" tvg-id="411" tvg-name="411", CinemaWorld HD
 https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English" tvg-id="412" tvg-name="412", CINEMAX HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/CinemaxMoviemax/cinemax%20moviemax.png" group-title="English" tvg-id="MovieMaxWest.us" tvg-name="MovieMaxWest.us", Cinemax MovieMax HD
 http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6155/index.m3u8
