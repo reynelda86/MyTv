@@ -510,6 +510,11 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3466
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://bit.ly/3jrpJA6" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Infotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="709" tvg-name="709" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="Lifestyle & Documentary",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
