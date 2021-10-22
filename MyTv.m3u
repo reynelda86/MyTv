@@ -1825,8 +1825,10 @@ http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/astro-wah-lai-toi-bb705611-0634-4bd8-bcdf-c2bf7f361ab-resize-750.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Wah Lai Toi
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1726
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Chinese" tvg-id="321" tvg-name="321", CCM
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/50
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png" group-title="Chinese" tvg-id="" tvg-name="", Seti Chinese
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71139
