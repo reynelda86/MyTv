@@ -95,8 +95,10 @@ https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w2066316052_b608000_sl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malay" tvg-id="RTV.id" tvg-name="RTV.id", RTV Indonesia
 http://122.248.43.138:1935/ch11/myStream/live.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malay" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV Indonesia
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Malay" tvg-id="TRANS7HD.id" tvg-name="TRANS7HD.id", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
