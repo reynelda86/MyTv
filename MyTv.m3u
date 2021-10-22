@@ -475,6 +475,10 @@ http://manastv.xyz/m3u8.php?c=Zing&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="Kids" tvg-id="719" tvg-name="719", Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3ytZ17/Miaomi.png" group-title="Kids" tvg-id="719" tvg-name="719", MiaoMi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN", Aniplus
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
