@@ -1959,3 +1959,14 @@ https://storage.myvid.my/files/videos/2019/05/03//1556869018534ca9/1556869018534
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", Pet Sematary (2019)
 http://dl2.svdl.ir/Film/KH/2019/Pet.Sematary.2019.BluRay.720p.MkvCage.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5LG50YG9deZs0hDZBKoYnzBbWpVmLiFt3g&usqp=CAU" group-title="Malaysian Ghost Stories" tvg-id="" tvg-name="", Episode 1
+https://sv1.abc7.su/storage/media/1c0cb7be9f12deb37363fa2507ba9d06-360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5LG50YG9deZs0hDZBKoYnzBbWpVmLiFt3g&usqp=CAU" group-title="Malaysian Ghost Stories" tvg-id="" tvg-name="", Episode 2
+https://sv1.abc7.su/storage/media/4fb825c0c735e3d0f11c4520c80a395d-360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5LG50YG9deZs0hDZBKoYnzBbWpVmLiFt3g&usqp=CAU" group-title="Malaysian Ghost Stories" tvg-id="" tvg-name="", Episode 3
+https://sv1.abc7.su/storage/media/5d75e6b3ed573dd79b4d22c10192d0f4-360.m3u8
+
