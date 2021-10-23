@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/scm-legend.png" group-title="Chinese" tvg-id="SCMLegendEn.hk" tvg-name="SCMLegendEn.hk", SCM Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="818" tvg-name="818", beIN Sports 1 HD
+https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
