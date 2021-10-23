@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://suarpemancar.com/wp-content/uploads/2019/02/my-tv-2-min-e1550505769479.png" group-title="Malay" tvg-id="" tvg-name="", Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids" tvg-id="DisneyChannel.id" tvg-name="DisneyChannel.id", Disney Channel
+https://liveanevia.mncnow.id:443/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
