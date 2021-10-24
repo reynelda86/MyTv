@@ -138,7 +138,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="English" tvg-id="CHN" tvg-name="CHN", AndFlix
-https://20hw.short.gy/nayeem86/&flix.m3u8
+http://103.153.39.34:8000/play/a057/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
