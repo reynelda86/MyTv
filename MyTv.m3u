@@ -265,6 +265,9 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="CHN" tvg-name="CHN", Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="English" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266863
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title=“English" tvg-id="712" tvg-name="712", Warner TV HD
