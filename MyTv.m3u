@@ -186,9 +186,6 @@ http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/271
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/20733
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/HboEast/hbo%20east.png" group-title="English" tvg-id="HBOEast.us" tvg-name="HBOEast.us", HBO East
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/338
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English" tvg-id="414" tvg-name="414", HBO Family
