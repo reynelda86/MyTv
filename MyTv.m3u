@@ -557,7 +557,7 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="Kids" tvg-id="CHN" tvg-name="CHN", Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids" tvg-id="611" tvg-name="611", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
