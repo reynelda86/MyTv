@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3ytZ17/Miaomi.png" group-title="Kids" tvg-id="" tvg-name="", Miaomi
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9XqWeY.png" group-title="Kids" tvg-id="NicktoonsEast.us" tvg-name="NicktoonsEast.us", Nicktoons East
+http://mfe.cliptv.az/dash/Spike_SD.ism_xxxz/playlist.mpd
