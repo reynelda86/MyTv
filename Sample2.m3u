@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="English" tvg-id="819" tvg-name="819",HBO HD
-https://akamai.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dwDAGFXLKH4/maxresdefault.jpg" group-title="Indian" tvg-id="313" tvg-name="313", Jaya Max
+https://tataskylinear.pc.cdn.bitgravity.com/delta8/out/i/2640682.mpd
