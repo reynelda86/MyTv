@@ -720,11 +720,15 @@ http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="ElevenSportsUSA.uk" tvg-name="ElevenSportsUSA.uk", Eleven Sports USA
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", Eurosport HD
 http://foctv.xyz:25510/Amir5641/YY5641/328
