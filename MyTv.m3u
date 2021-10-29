@@ -532,7 +532,7 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="Indian" tvg-id="211" tvg-name="211", SUN TV
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/215
+http://139.59.55.243/sunnxt/live.php?c=14020
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
