@@ -495,6 +495,9 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202526
 #EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png?o=production" group-title="Indian" tvg-id="CHN" tvg-name="CHN", &PIctures HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6205.ts
 
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="" tvg-name="", Star Vijay
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="" tvg-name="", Colors Tamil TV
 http://manastv.xyz/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
 
