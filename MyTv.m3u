@@ -1896,7 +1896,7 @@ http://51.79.82.231:8080/US_FXX_EAST_USA/video.m
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/433/1007/png-transparent-gem-tv-asia-television-channel-sony-s-television-gem-printing-miscellaneous-television-angle.png" group-title="Chinese" tvg-id="" tvg-name="", Sony Gem
-http://210.210.155.35/session/08babcf6-0efb-11ec-9c1c-c81f66f89318/uq2663/h/h19/01.m3u8
+http://210.210.155.35/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fONOOf3RmWnCKFwSl9e0z61KlZs.jpg" group-title="VOD English" tvg-id="" tvg-name="", Alvin and the Chipmunks (2007)
 https://videos.files.wordpress.com/n5xOKcS9/alvinandthechipmunks_mp4_dvd.mp4
