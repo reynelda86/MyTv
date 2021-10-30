@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Chinese" tvg-id="" tvg-name="", Channel 8 Singapore
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6W0gx45/star-chine.png" group-title="Chinese" tvg-id="" tvg-name="", SCM Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
