@@ -2030,3 +2030,26 @@ https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/in
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", Bloodshot (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/550.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Charlie_and_the_Chocolate_Factory_%28film%29.png" group-title="VOD English" tvg-id="" tvg-name="", Charlie and the Chocolate Factory
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/CharlieandtheChocolate.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_IyM6uHTzuXDPTKIX2c03XFAbDQ7tIwpLg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Charlies Angels (2019)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/556.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djkQVkKcRNGxv1ahOIXJGcEj3lM.jpg" group-title="VOD English" tvg-id="" tvg-name="", Childs Play 2 (1990)
+http://www.deadlyblogger.com/NewRelease/childsplay2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4kboGqD2zr0lypLNtuz7LcB6aa.jpg" group-title="VOD English" tvg-id="" tvg-name="", Childs Play 3 (1991)
+http://www.deadlyblogger.com/NewRelease/childsplay3.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-11AcCFtYI_Q/YOC62bEFpZI/AAAAAAAANWY/MpmJomje6kc9Jtp39XVd44ETK0fc45GOQCLcBGAsYHQ/s610/comel_001.jpg" group-title="VOD English" tvg-id="" tvg-name="", Comel 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n2NK7zFJlJAf8OwHZlzSZ5hWP_0e4doRMA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Counterattack (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/covid-21-lethal-virus-2021.jpg" group-title="VOD English" tvg-id="" tvg-name="", COVID-21: Lethal Virus (2021)
+https://vodcdn.internetowa.tv/storage-2/COVID-21-Lethal-Virus-2021-1080p-PL-SUB.mp4/index.m3u8
+
