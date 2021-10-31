@@ -2155,3 +2155,22 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczo-4zfh3qcuE5oLNLBQVeWwgm-qEsEf8Rw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Box office 1
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/cmGBe9zR1Lxxn1GpaWibFn0EFPv.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ghost Rider
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Nonton%20Ghost%20Rider%202007.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ghost Rider Spirit of Vengance
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Ghost%20Rider-%20Spirit%20of%20Vengeance%20(2011).mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDZkZDMtNjM0Yi00OTk1LWE3ZjEtNTFjZTFjNzJjMzIwXkEyXkFqcGdeQXVyMTE5MTU3MjU0._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", God of Gamblers 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/God%2520of%2520Gamblers%25202020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYc4UvHs3sot80-jHK-cPb18EOBOCiBUcV9w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Gretel & Hansel (2020)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/576.mp4
+
+#EXTINF:-1 tvg-logo="http://tny.im/oQ-" group-title="VOD English" tvg-id="" tvg-name="", Grown Ups - 2010
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20Ups2010.mp4
+
+#EXTINF:-1 tvg-logo="http://tny.im/oQZ" group-title="VOD English" tvg-id="" tvg-name="", Grown Ups 2 - 2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20Ups%202%202013.mp4
+
