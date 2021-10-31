@@ -2088,3 +2088,14 @@ https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/in
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEF7sYG_ZpK5JFxd9xVfwt2tIeCCyK6nTGg&usqp=CAU" group-title="Entertainment" tvg-id="" tvg-name="", MTV Dance
 http://balkan-x.net/wS0GeiNhDl/j5Z5uVtLNZ/476.ts?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/wZNaFydEFmPs0vhRTveKz7AaY2r.jpg" group-title="VOD English" tvg-id="" tvg-name="", Emily and The Magical Journey
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Emily.And.The.Magical.Journey.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtxAbNtsFqoUW688tz1tttrVQF5sBx30M2w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Equalizer
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45-1/The%20Equalizer%20(2014)%20BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh5Iqtr3XU7vcjFZG6-yDrVCK-YXDZfElbg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Equalizer 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45-1/The%20Equalizer%202%20(2018)%20BluRay.mp4
+
