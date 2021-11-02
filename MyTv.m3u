@@ -2218,3 +2218,25 @@ http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6435/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-1DUhcndhEfGGzAz0LE1KFaXALybbTRvoHw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FXM
 http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/1106/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/502.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kabhi Khushi Kabhie Gham
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kabhi%20Khushi%20Kabhie%20Gham%20(2001).mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alALytPcaZyQkzOjnRgHMSRv8fq.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kaho Naa... Pyaar Hai
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kaho%20Na%20Pyaar%20Hai%20(2000)%20HDRip.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kal Ho Naa Ho
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kal%20Ho%20Naa%20Ho%20(2003)%20HDRip.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYNOIz3nVHM4FWzS2dTWROyq6wsuArwG08A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Kingsman: The Golden Circle (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman.The.Golden.Circle.2017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEqmQYMPglZ9nx0MhwdLctF4ckMycKwGqAg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Kingsman: The Secret Service (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman%20The%20Secret%20Service%202014.mp4
+
+#EXTINF:-1 tvg-logo="http://qqtv.nl:8080/images/5FmtHHDGPofW5Zjns1EM1D8503c_small.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kuch Kuch Hota Hai
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch%20Kuch%20Hota%20Hai%20(1998)%20SUB.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZeKU8J4ltXrgY8Uig_Hgaczk6DuD96VvDg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Monster (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
+
