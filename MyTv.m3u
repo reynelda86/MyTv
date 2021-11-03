@@ -2192,3 +2192,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman%20The%20Secr
 #EXTINF:-1 tvg-logo="http://qqtv.nl:8080/images/5FmtHHDGPofW5Zjns1EM1D8503c_small.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kuch Kuch Hota Hai
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch%20Kuch%20Hota%20Hai%20(1998)%20SUB.mp4
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Lifestyle & Documentary" tvg-id="GustoTV.us" tvg-name="GustoTV.us", Gusto TV
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+
