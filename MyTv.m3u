@@ -907,12 +907,6 @@ http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KCJaCsI.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dragon Blade
 https://lh3.googleusercontent.com/ShD9GW1BPcJLCTz4xv2IEp15i4jgEg9ateA40i7Wt-arbAUnYCJ-ZceoJdpMf6H0naX88Hh1gMGgHBjUqw=m22
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i460iQ6.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dreamcatcher
-https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlV3v4lPc3LJPTIwXnFtPPJlz83Yl38AgHw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Edward Scissorhands
-https://eu2.vod.rdncdn.com/VOD1/Movies/GER/EdwardScissorhands.mp4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7AvcI3tYV5d_aTxQ15MK037lyEc36PeXEw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Final Destination
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/Final%20Destination%202000.mp4
 
@@ -921,12 +915,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/T
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyOTExNDc1M15BMl5BanBnXkFtZTcwMDA0MTA4NQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Final Destination 5 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960210
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/saOpM2X.jpg" group-title="VOD English" tvg-id="" tvg-name="", Frozen
-https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tQjVdJc.jpg" group-title="VOD English" tvg-id="" tvg-name="", Frozen 2
-https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57Ji5giuD7YWL0GTWZrlLQgGxhSzZJnSsNQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Godzilla vs. Kong
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/191.mp4
@@ -1790,9 +1778,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequel
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wquJChp0NpoqthYdE3YjXNNxvVC.jpg" group-title="VOD English" tvg-id="" tvg-name="", A Dogs Journey (2019)
 http://qqtv.nl:8080/movie/shah/shah123/382180.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SqUiiQl.jpg" group-title="VOD English" tvg-id="" tvg-name="", Heroes Return (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M2Dczt1.jpg" group-title="VOD English" tvg-id="" tvg-name="", Insight (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
 
@@ -2209,7 +2194,4 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman%20The%20Secr
 
 #EXTINF:-1 tvg-logo="http://qqtv.nl:8080/images/5FmtHHDGPofW5Zjns1EM1D8503c_small.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kuch Kuch Hota Hai
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch%20Kuch%20Hota%20Hai%20(1998)%20SUB.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZeKU8J4ltXrgY8Uig_Hgaczk6DuD96VvDg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Monster (2018)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
 
