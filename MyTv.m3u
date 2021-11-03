@@ -2196,3 +2196,13 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Lifestyle & Documentary" tvg-id="GustoTV.us" tvg-name="GustoTV.us", Gusto TV
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSAxsfzol1xFpzUGXDleo54OozK.jpg" group-title="VOD English" tvg-id="" tvg-name="", Land of the Lost (2009)
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/qT6KI2jNiskkB4VuNz4uN0ng4Ro.jpg" group-title="VOD English" tvg-id="" tvg-name="", Legend Of The Fist : The Return Of Chen Zhen
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Legend_Of_The_Fist_The_Return.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/leKQao68zra3SY2cPHZLzEbdLKT.jpg" group-title="VOD English" tvg-id="" tvg-name="", Life of Pi (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Life%20of%20pi%20(2012).mp4
+
