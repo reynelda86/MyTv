@@ -2324,4 +2324,11 @@ http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZvDbKfJiIFfMpy3w86ceZfJiT-85xG9vrg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Now You See Me (2013)
 http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="English" tvg-id="" tvg-name="", Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" group-title="English" tvg-id="" tvg-name="", My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
 
