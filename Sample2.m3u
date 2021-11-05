@@ -1,6 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
-https://linears-playback.astro.com.my/vsg/21m6J4oA_cyadj407Yn2OYpCBiYOK7tZamCmAHHWc5p_0=0kmS/dash-wv/jitp-linearwm/2402/default_ott.mpd
-
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="Kids" tvg-id="" tvg-name="", Nicktoons HD
+https://live3-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
