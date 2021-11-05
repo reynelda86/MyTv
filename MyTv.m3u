@@ -575,9 +575,6 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Kids" tvg-id="617" tvg-name="617", Nickelodeon Junior
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c9XqWeY.png" group-title="Kids" tvg-id="NicktoonsEast.us" tvg-name="NicktoonsEast.us", Nicktoons East
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3466
-
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
