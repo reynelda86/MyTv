@@ -2345,4 +2345,20 @@ https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Mr Box Office
 https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Okja.png" group-title="VOD English" tvg-id="" tvg-name="", Okja
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/27/Okja%20[2017].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsjlGnQKsp4EP4pgz5CCIu2ouoZYGlnaIxw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Olympus Has Fallen (2013)
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ep0JodciRWNWHDQ2ODITEdegqUh.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China (1991)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20(1991).mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6hSNNOwJIYkNXYjn6yhJPCd9oio.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China and America (1997)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20and%20America%20(1997).mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/32lMbbcr7I9ayirXq8HKTMlWZDj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China II (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20II%20(1992).mp4
+
 
