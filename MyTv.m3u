@@ -2353,5 +2353,27 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfdDIz-S3iHtgD939VirvqIGSbRC_T_0kyw&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", NASA Public Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/45FLfu74nXjhNHhbsTJ4ROsGLR5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Percy Jackson and The Lightning Thief
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Percy_Jackson_And_The_Lightning_Thief_2010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaMCx1owrPWPN_SMzf4lsRfmVtUivoMqqUgg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Police Story
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Police%20Story%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8fO0zQTiWeD1Nj-JNHCDk4SHS7cXdVDTxQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Police Story 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Police%20Story%202%20(1988).mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnU68wjlZMWznQ_fPjBgBTzcYSmVxAB56C2g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Police Story 3: Super Cop
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Police%20Story%203%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiZeY3e4g7xvR1v5sm8x6_WYzTEU896NNGekvcuQm3PQH1yKUJTev1IsutI5MJVnEz6A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Police Story 4: First Strike
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/First%20Strike%201996.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwODUyNDM3NV5BMl5BanBnXkFtZTgwNzk0MzA2NTE@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Police Story: Lockdown
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Police%20Story%20Lockdown%20(2013).mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQELjn8W8lbHTvDoj3XSIUz0MI73StzM-SAA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Pompeii (2014)
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+
 
 
