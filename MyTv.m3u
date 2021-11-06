@@ -2343,4 +2343,15 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/32lMbbcr7I9ayirXq8HKTMlWZDj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China II (1992)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20II%20(1992).mp4
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Kids" tvg-id="" tvg-name="", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQelhvkhPaBS3csgGCADDFNIdTdxzRgLcKQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", NASA Media Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfdDIz-S3iHtgD939VirvqIGSbRC_T_0kyw&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
 
