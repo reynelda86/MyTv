@@ -766,9 +766,6 @@ http://catsfm64.cspixel.com:7111/stream/1/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio" tvg-id="860" tvg-name="860", CLASSIC ROCK
 http://astro4.rastream.com/rock?type=.flv
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/w2y32rav5cg6.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", DURIAN FM
-http://s3.voscast.com:7140/stream/1/
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio" tvg-id="856" tvg-name="856", ERA FM
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 
