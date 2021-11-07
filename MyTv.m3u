@@ -2383,5 +2383,34 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Entertainment" tvg-id="PlutoTVVEVORB.us" tvg-name="PlutoTVVEVORB.us", Pluto TV VEVO R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo III
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.III.1988.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo Last Blood
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo_%20Last%20Blood%20(2019).mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLCs8GwBQ0LiZA8MxzQYTlKqWXcjmK0tmxQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rambo Last Blood (2019)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/780.mp4
+
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/red-2010.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/RED%20(2021)ok.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Red%202%20(2013).mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/gI2xYpJPQOsmFblvowkW2IgEHkC.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin - Kyoto Inferno
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rurouni%20Kenshin%20Part%20II%20-%20Kyoto%20Inferno%202014.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin - The Beginning
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rurouni_Kenshin_The_Beginning_Part_2_2021.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin - The Final
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rur0un!_K3n5h!n_Th3_F!nl_2021WEB_DL.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrY9jIdBG_dXI4B_yEbwrELGCV-JZQOlkquw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rush Hour 1
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%201%201998.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUZgZbPWCG9415fWsRQ8yvVgmVE-jTzW5XA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rush Hour 3
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%203%202007.mp4
 
