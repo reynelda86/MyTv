@@ -2098,7 +2098,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="English" tvg-id="" tvg-name="", FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="English" tvg-id="" tvg-name="", FilmRise Western
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="Western" tvg-id="" tvg-name="", FilmRise Western
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Food TV
@@ -2374,16 +2374,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="English" tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-name="BumblebeeTVPopCornFlixAction.us", Bumblebee TV PopCornFlix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="English" tvg-id="PlutoTVCMTWesterns.us" tvg-name="PlutoTVCMTWesterns.us", Pluto TV CMT Westerns
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="PlutoTVCMTWesterns.us" tvg-name="PlutoTVCMTWesterns.us", Pluto TV CMT Westerns
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWycXHuyq-ndkk8acyvK8x9RXOJRgZHP4MqQ&usqp=CAU" group-title="English" tvg-id="PlutoTVMOVIECHANNEL.us" tvg-name="PlutoTVMOVIECHANNEL.us", Pluto TV MOVIE CHANNEL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English" tvg-id="STIRRWesterns.us" tvg-name="STIRRWesterns.us", STIRR Westerns (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Western" tvg-id="STIRRWesterns.us" tvg-name="STIRRWesterns.us", STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="English" tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us", Xumo Free Westerns
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Western" tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us", Xumo Free Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Entertainment" tvg-id="PlutoTVVevoPop.us" tvg-name="PlutoTVVevoPop.us", Pluto TV Vevo Pop
