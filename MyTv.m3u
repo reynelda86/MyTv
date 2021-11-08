@@ -277,7 +277,7 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 #EXTINF:0 tvg-id="ArirangTV.kr" tvg-name="ArirangTV.kr” tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png" group-title="News",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="News" tvg-id="501" tvg-name="501", Astro Awani HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="News" tvg-id="501" tvg-name="501", Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
