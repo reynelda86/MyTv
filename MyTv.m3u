@@ -188,7 +188,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="English" tvg-id="415" tvg-name="415", HBO Hits
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="English" tvg-id="415" tvg-name="415", HBO Hits HD
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English" tvg-id=“HBOSignatureEast.us” tvg-name=“HBOSignatureEast.us”, HBO Signature East
