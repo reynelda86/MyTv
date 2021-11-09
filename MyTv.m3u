@@ -375,9 +375,6 @@ http://50.7.161.82:8277/streams/d/huanxi_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="Chinese" tvg-id="" tvg-name="", Nhk World Tv
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AvOnvu.png" group-title="Chinese" tvg-id="306" tvg-name="306", Astro AEC HD
-http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese" tvg-id="311" tvg-name="311", Astro AOD HD 311
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
