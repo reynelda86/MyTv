@@ -2316,3 +2316,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Showtime Select
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6TW1WvVMbg9_eKKt5pzXCXZlVWmKHQD10w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones 3 and the Last Crusade (1989)
+https://nextcloud-n897.ddns.net/HDD01/movie-online/H-I/Indiana%20Jones%20and%20the%20Last%20Crusade%20%281989%29_1280x544_h264-720p_AAC-2ch_German%2C%20Greek%2C%20English__Adventure.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshQuitKTT4kbQWkKoLCbMeBiRNee5Z10ekw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones and the Kingdom of the Crystal Skull (2008)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/457.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJN9ESavkfvB49AxmtLQ2uz9G4smPydGEpTg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones and the Temple of Doom (1984)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/459.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHs7jpHVQNTdUfWhAmgsxtd-l4n3o3TTRIoQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Shaft (2019)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/785.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/1YJEg4kg6NbAViyO0BMHbcrVtRa.jpg" group-title="VOD English" tvg-id="" tvg-name="", Shaolin Temple 2- Kids from Shaolin (1984)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Shaolin%20Temple%202-%20Kids%20from%20Shaolin%20(1984).mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg" group-title="VOD English" tvg-id="" tvg-name="", Smurfs: The Lost Village 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Toon/Smurfs-%20The%20Lost%20Village.mp4
