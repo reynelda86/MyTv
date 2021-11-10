@@ -18,7 +18,7 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="CHN" tvg-name="CHN", ANTV Indonesia
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="114" tvg-name="114",Al-Hijrah
