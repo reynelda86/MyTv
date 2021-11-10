@@ -1017,9 +1017,6 @@ http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/V8LSJ4w.jpg" group-title="VOD English" tvg-id="" tvg-name="", Train to Busan (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
 
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/vanguard-2020.jpg" group-title="VOD English" tvg-id="" tvg-name="", Vanguard (2020)
-https://vodcdn2.internetowa.tv/storage-2/VANGUARD-2020-PL-SUB.mp4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD English" tvg-id="" tvg-name="", Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
 
@@ -1125,9 +1122,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/Kampung%20zombi
 
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/6923.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Kanang Anak Langkau: The Iban Warrior
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Kanang%20Anak%20Langkau%20The%20Iban%20Warrior%202017%20WEB-DL%20720P.mp4
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/kara-2017.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Kara (2017)
-https://vodcdn2.internetowa.tv/Kara-Retribution-London-Gang-War-2017-720p-Lektor-PL.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI3ODI5NjgtZmMyNi00MWIxLTg3MzAtOGI1MzE3YzM3N2Y5XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Kau Takdirku
 https://misty-dust.evanwinters.workers.dev/0:/public/Kau.Takdirku.2017.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mkv
@@ -1518,9 +1512,6 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg" group-title="VOD English" tvg-id="" tvg-name="", Scream (1996)
 https://b-g-eu-2.betterstream.co:2222/v2-hls-playback/13c0944a25f7afed3290ffbfc24feddaa29b33189a07a170f2822ca613292dfa62b728c7001dd1a72f37be2b420814c65b05ff5926d37020635ff50648aa7833aa29b3dd4886003580a46d8d0069b290dcf52ecc22529c2e9b078c71f6ace1b434216864bfea003c8d9eda2a20e2e3ca132fb6d44a4fc599330dd61f17ddca35eb1852e9ecac869701d694ff6fbeddf3accc6db02b3d0a6f9916f8cc517e4df0e04617e952a511ce302054ee2b603c7a1560b789529aeba6c80743d5ee7c49e1/720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/taken-2-2012.jpg" group-title="VOD English" tvg-id="" tvg-name="", Taken 2
-https://vodcdn.internetowa.tv/storage-2/Taken-2-2012-720p-Lektor-PL.mp4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TOCAmmcqmLKP31mKYVIiJTje0S.jpg" group-title="VOD English" tvg-id="" tvg-name="", Taken 3
 https://nextcloud-n897.ddns.net/HDD02/movie-online/T/Taken%203%20%282014%29_1920X808_H264-1080P_Ac3-6Ch_English_Blu-Ray_Thriller-1.mp4
 
@@ -1773,18 +1764,12 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n2NK7zFJlJAf8OwHZlzSZ5hWP_0e4doRMA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Counterattack (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/covid-21-lethal-virus-2021.jpg" group-title="VOD English" tvg-id="" tvg-name="", COVID-21: Lethal Virus (2021)
-https://vodcdn.internetowa.tv/storage-2/COVID-21-Lethal-Virus-2021-1080p-PL-SUB.mp4/index.m3u8
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcCHyDkN_YtvEKB8A_ReBpcirpzcdg50i9g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Dawn of the Beast (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEb6vqa8z1hyHrOz1Bvu0QxJBnhq7Y04C22A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Deep Blue Sea 3 (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4148.mkv
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/deja-vu-2006.jpg" group-title="VOD English" tvg-id="" tvg-name="", Deja Vu (2006)
-https://vodcdn2.internetowa.tv/storage-2/Deja-Vu-2006-1080p-Lektor-PL.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYgPu6hhOr61knwbestTx4vSdMb.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dilwale
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Dilwale%20(2015)%20sub.mp4
@@ -1943,10 +1928,7 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Jin.Notti.2009.1080p.WEB.2C
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdOAsFE2bdqKn2BNmgkKeCgCOLvwDs16UErQXjG8V311Xq8s_400lxR7nRqzllpZL938&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", John Wick (2014)
 http://deadlyblogger.com/NewRelease/johnwick.mp4
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/johnny-english-2003.jpg" group-title="VOD English" tvg-id="" tvg-name="", Johnny English (2003)
-https://vodcdn2.internetowa.tv/Johnny-English-2003-720p-Lektor-PL.mp4/index.m3u8
-
+in
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="VOD English" tvg-id="" tvg-name="", Jolt 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jolt%20(2021).mp4
 
@@ -2088,9 +2070,6 @@ http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/757.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7YhGrZclFKo1sIWWAXAO3Oo_dElOp_lOjg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Maleficent (2014)
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6hiPXY8wdxOkracyfOL2DqHB5L-GyXeOiA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Max Winslow and The House of Secrets (2020)
-https://vodcdn.internetowa.tv/storage-2/Max-Winslow-and-the-House-of-Secrets-2019-1080p-Lektor-PL.mp4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg" group-title="VOD English" tvg-id="" tvg-name="", Men in Black 3
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men.In.Black.3.2012.mkv
 
@@ -2126,9 +2105,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Monster%20Hunter%20Legen
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8fd-vBWs34yi0IYPZPsdvt5fBj5HcVcASlA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Monsters University (2013)
 http://www.deadlyblogger.com/NewRelease/monsters2.mp4
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/mortal-kombat-legends-scorpions-revenge-napisy-2020.jpg" group-title="VOD English" tvg-id="" tvg-name="", Mortal Kombat Legends: Scorpions Revenge (2020)
-https://vodcdn2.internetowa.tv/Mortal-Kombat-Legends-Scorpions-Revenge-2020-PL-SUB-720p.mp4/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="Kids" tvg-id="" tvg-name="", KidsFlix
