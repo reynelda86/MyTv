@@ -1877,7 +1877,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="599375885ceaac3cabccbed7" tvg-name="599375885ceaac3cabccbed7", Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="News" tvg-id="" tvg-name="", CBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="News" tvg-id="CBCNewsNetwork.ca" tvg-name="CBCNewsNetwork.ca", CBC News Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2D1e2bH.png" group-title="Entertainment" tvg-id="CelebritySceneTV.us" tvg-name="CelebritySceneTV.us", Celebrity Scene TV
