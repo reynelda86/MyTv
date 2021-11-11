@@ -2290,7 +2290,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%203%202007.mp4
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="705" tvg-name="705", KIX HD
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="Chinese" tvg-id="" tvg-name="", Phoenix Chinese Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="Chinese" tvg-id="PhoenixChineseChannel.hk" tvg-name="PhoenixChineseChannel.hk", Phoenix Chinese Channel
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Action
