@@ -296,7 +296,7 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/215-2151705_cbs-news-png-vector-transparent-stock-cbs-news.png" group-title="News" tvg-id="CHN" tvg-name="CHN", CBS NEWS
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png" group-title="News" tvg-id="CHN" tvg-name="CHN", Cctv5
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png" group-title="News" tvg-id="CCTV5.cn" tvg-name="CCTV5.cn", CCTV-5体育
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png" group-title="News" tvg-id="  CHN" tvg-name="  CHN", CCTV5+
