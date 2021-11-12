@@ -2143,7 +2143,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="Sports" tvg-id="" tvg-name="", MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Movies of the 2000s
 https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
