@@ -452,7 +452,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Entertainment" tvg-id="RetroMusicTV.cz" tvg-name="RetroMusicTV.cz", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Entertainment" tvg-id="N/A" tvg-name="N/A", TRACE URBAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Entertainment" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202526
 
 #EXTM3U
