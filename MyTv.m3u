@@ -424,7 +424,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="Entertainment" tvg-id="B4UMusicIndia.in" tvg-name="B4UMusicIndia.in", B4U Music India
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU" group-title="Entertainment" tvg-id="" tvg-name="", MTV Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU" group-title="Entertainment" tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us", MTV Music 24
 http://king-tv.online/wctinney/aRaD1Pq2Rg/197299.ts?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
