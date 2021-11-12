@@ -1975,6 +1975,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBvEL2d.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
