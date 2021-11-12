@@ -1532,7 +1532,7 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/779/170/png-clipart-babyfirst-television-channel-satellite-television-at-t-u-verse-child-television-child-thumbnail.png" group-title="Kids" tvg-id="BabyFirstTV.us" tvg-name="BabyFirstTV.us", Baby First TV
 https://feed.play.mv/live/1009/9J8wEl5SId/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Davinci Learning
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="DaVinci.de" tvg-name="DaVinci.de", Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
