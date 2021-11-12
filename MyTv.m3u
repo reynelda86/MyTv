@@ -372,9 +372,6 @@ http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="354" tvg-name="354", Astro AOD 354
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599205
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="308" tvg-name="308", Astro Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
