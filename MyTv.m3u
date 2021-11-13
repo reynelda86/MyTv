@@ -2339,3 +2339,88 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212f
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Thrillers
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFvzWRuwPGtd9feXu_J1Jyx-3YRipLoSdug&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Taken 3 (2014)
+http://deadlyblogger.com/NewRelease/taken3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF75He4HGequqM4RItjLJyceX5p0ossl6MFw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Terminator 2 Judgment Day (1991)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/502.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWzwIyQaWZ4BqvDIp-WBPBXdMxun9cODSw_A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Terminator 3: Rise of the Machines (2003)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960202
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJ-r4TWI-KsD7TceRZi-mqkWW_Xt5SKWf7Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Terminator Genisys (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960204
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMjLkRg46dvoHGXWMjCDJ0PeDPNogM3qphQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Terminator Salvation (2009)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960203
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCCO4XXz6VLg7XPt6rLPa4ge6xc-zC5vY8g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Terminator: Dark Fate (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960205
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPhbLZVL4Auj-Js3dgxy57EgZSCTPZ2t6OQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Identity (2002)
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAEFXy_JQZRfoq_n21QefoKTteVTRUEIXfA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy6j7gb8gdpwBRMk0Lfqr4niLXmBnBxpzXgw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Supremacy (2004)
+http://www.deadlyblogger.com/NewRelease/bourne2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdSn6pUoBANN1cMZVCCFyR7Qmfj5MqGbvAgQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Ultimatum (2007)
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV78Wvm7EGNGwssr6YTT7WBwgNNdfKlfRURA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Day After Tomorrow (2004)
+http://www.deadlyblogger.com/NewRelease/theday2004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcll1rRM-gdkT-WRiOzGNIewYTLaG5M6xnA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/uHA5COgDzcxjpYSHHulrKVl6ByL.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Forever Purge 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The.Forever.Purge.2021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT37gFlI0jX_S9aCCSMlUowElHz3H_bzmR2Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Grandmaster (2013)
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SgDMXHYaYII9wXFzjIFvtywoBJXUyEZicA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hangover (2009)
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf1KSoJOPZkD9cKYqc8XAvqfFFZA_VxN5saA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7neNQhJvXXMtQY8DNivM9Ocnt1mG_pzWALA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Last Airbender (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Last%20Airbender%20(2010).mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ekJxJ037GWBrqIR8FX7Kh7daaR9.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Legend is Born Ip Man
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/THE%20LEGEND%20IS%20BORN_%20IP%20MAN%202010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG3oewXrfa-eis_4WfznWwi58PXBxoz6GsQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Mortal Instruments: City of Bones (2013)
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjwwfm9JHasRNnSNOVWefQcJDUqD2FT_NiQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Smurfs 2 (2013)
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjN8-P-kdMDU9k6sB_yWjyloMq7nZTckceQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Taking of Pelham 123 (2009)
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfNg_GzNFrhdUvde3bgKvagD3GjCazzlE2g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Terminator (1984)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960200
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYiWrnjxsIe4VlvH5A1wds7Jl_45ME34Gbw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz33_EKj4h9CtPDqzqtj7y5de7sQAtJ7IaVw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Witches (2020)
+http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/7292.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKE9BxgtT5g2pE3ZKC7MnzsAbTZ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Tom Yum Goong 2005
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Tom%20Yum%20Goong%20(2005).mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg" group-title="VOD English" tvg-id="" tvg-name="", Transporter
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Transporter%202002.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Transporter 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Transporter%202%202005.mp4
