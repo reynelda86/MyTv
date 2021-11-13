@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
-https://linears-playback.astro.com.my/vsg/21WCeHYnTAyJsujgzvS2V3j0JA89WTnE-c2eZI81mv62Q=rP8Y/dash-wv/jitp-linearwm/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
