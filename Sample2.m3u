@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="819" tvg-name="819", beIN Sports MAX HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=302b71ba9e9d67372000e2bdbf0bfc10:595da2967f1667a2987c0f22ef481b9e
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports" tvg-id="815" tvg-name="815", Astro Supersport 5 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
