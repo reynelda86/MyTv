@@ -599,8 +599,10 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle & Documentary" tvg-id="717" tvg-name="717", BBC Lifestyle HD
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="Lifestyle & Documentary" tvg-id="553" tvg-name="553", Discovery Asia HD
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
