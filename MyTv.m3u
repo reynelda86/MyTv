@@ -144,6 +144,18 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaxYpMe8X9jE08l0NNSpDm2pQZMP-6lpTKg&usqp=CAU" group-title="English" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/266
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwe3JaBjPWDBNecYCMeLYldH-0JVoP8Kc2A&usqp=CAU" group-title="English" tvg-id="SkyCinemaScifiHorror.uk" tvg-name="SkyCinemaScifiHorror.uk", Sky Cinema Sci-fi Horror
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Sky-Movies-Showcase.png/revision/latest/scale-to-width-down/300?cb=20111118190538" group-title="English" tvg-id="" tvg-name="", Sky Movies Showcase
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/269
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtG5lqrSHxHig_0_EwVkuDkfOw6siicvDLDA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Sky Cinema Thriller
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="English" tvg-id="LifetimeMoviesEast.us" tvg-name="LifetimeMoviesEast.us", Lifetime Movies East
 https://ent.gcdn.co/E108/tracks-v1a1/mono.m3u8
 
