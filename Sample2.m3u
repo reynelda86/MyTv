@@ -1,5 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=302b71ba9e9d67372000e2bdbf0bfc10:595da2967f1667a2987c0f22ef481b9e
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports" tvg-id="815" tvg-name="815", Astro Supersport 5 HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R24F5w1/SPOTV.jpg" group-title="Sports" tvg-id="SpoTV2.kr" tvg-name="SpoTV2.kr",SpoTV 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
