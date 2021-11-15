@@ -458,7 +458,9 @@ http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
-http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/cfcaf502-a6df-498c-a088-4561727dcb66
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="392" tvg-name="392", KBS World HD
 https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709911
