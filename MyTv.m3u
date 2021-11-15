@@ -423,6 +423,11 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Chinese" tvg-id="148" tvg-name="148", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/630/436/png-clipart-tvb-jade-logo-television-free-to-air-corprate-miscellaneous-television.png" group-title="Chinese" tvg-id="TVBClassic.hk" tvg-name="TVBClassic.hk", TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5a30ea05-4911-4d2d-9f62-4fd661cb0e81
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9knZG9/306-3060351-k-plus-k-plus-channel-logo.png" group-title="Chinese" tvg-id="" tvg-name="", K Plus Drama
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
