@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", BollyOne HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0b19ee99-6d6f-4319-b9d2-b88cc207003f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/cfcaf502-a6df-498c-a088-4561727dcb66
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
