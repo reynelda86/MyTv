@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0d150f02-28f6-4315-9470-b402f3167f75
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/be6fbdde-8931-4b2e-bb5f-66e39e3e51f6
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
+https://linears-playback.astro.com.my/vsg/21yKfvuijGFluFOO2tq33h-R3Sv38Smvx4p6SF72XA-YM=tqbh/dash-wv/jitp-linearwm/2402/default_ott.mpd
