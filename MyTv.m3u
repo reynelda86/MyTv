@@ -449,7 +449,9 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599205
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_(2019).png" group-title="Chinese" tvg-id="304" tvg-name="304", Astro Xiao Tai Yang HD
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e3cab5dc-ab27-4d15-b947-43696a6982fb
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
