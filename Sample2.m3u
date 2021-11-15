@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AEC.my" tvg-name="AEC.my", Astro AEC HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/21fb19a1-cc76-4e67-b174-74547498729a
-https://linears-playback.astro.com.my/vsg/21yKfvuijGFluFOO2tq33h-R3Sv38Smvx4p6SF72XA-YM=tqbh/dash-wv/jitp-linearwm/2400/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=33566705d63f56f1d31c45f69568ed10&key=d13bcf0ca6e62d71b6c4dd70d5ffeab2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
