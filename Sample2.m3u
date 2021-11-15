@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="Malay" tvg-id="118" tvg-name="118", Go Shop RUUMA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png" group-title="Malay" tvg-id="120" tvg-name="120", Go Shop GAAYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/25ccdd28-a4e8-4e35-9951-afef34dd9faf
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/b3676efe-3af3-4313-8517-cca21e2f1743
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
