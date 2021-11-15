@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_(2019).png" group-title="Chinese" tvg-id="304" tvg-name="304", Astro Xiao Tai Yang HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/cfcaf502-a6df-498c-a088-4561727dcb66
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e3cab5dc-ab27-4d15-b947-43696a6982fb
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
