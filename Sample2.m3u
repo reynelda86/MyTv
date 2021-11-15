@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="122", TVS
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5baebe8e-413b-47f8-a0ee-d54c112448ac
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1d439372-3b08-4700-8626-42b62889cb2d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
