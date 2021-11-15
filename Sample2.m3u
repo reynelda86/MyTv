@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="114" tvg-name="114", Al-Hijrah
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="Malay" tvg-id="118" tvg-name="118", Go Shop RUUMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1e004691-3f2e-497a-a9d7-89b48e4b13a2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/25ccdd28-a4e8-4e35-9951-afef34dd9faf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
