@@ -438,6 +438,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/bdc61ae3-b159-4c86-8e0d-ccb9bf8a25bf
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="Chinese" tvg-id="" tvg-name="", TVB Entertainment News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fa629c3640ce533c755509f67f75e610&key=af710a06fd67975b99db4a47a757b84b
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/630/436/png-clipart-tvb-jade-logo-television-free-to-air-corprate-miscellaneous-television.png" group-title="Chinese" tvg-id="TVBClassic.hk" tvg-name="TVBClassic.hk", TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5a30ea05-4911-4d2d-9f62-4fd661cb0e81
