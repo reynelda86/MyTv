@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinse" tvg-id="CTITVAsia.tw" tvg-name="CTITVAsia.tw", CTI Asia HD (X)
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="Chinese" tvg-id="" tvg-name="", TVB Entertainment News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d626598c2ab452537509dcb8a86db910&key=f5a9cadea2372a52c2b91f9c261fe0a4
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fa629c3640ce533c755509f67f75e610&key=af710a06fd67975b99db4a47a757b84b
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
