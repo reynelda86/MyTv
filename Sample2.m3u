@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="Chinese" tvg-id="311" tvg-name="311", Astro AOD HD 311
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinse" tvg-id="CTITVAsia.tw" tvg-name="CTITVAsia.tw", CTI Asia HD (X)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=286aef4e8d85db66e05fe4a5c799e410&key=176e2938bce795d1c85559a2440477f7
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d626598c2ab452537509dcb8a86db910&key=f5a9cadea2372a52c2b91f9c261fe0a4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
