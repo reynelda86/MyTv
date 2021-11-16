@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-k6k0Sb569HfvuH3ForsZusE00G6GvU7nA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO Xtreme
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
 https://edge-vod02-hr.cvattv.com.ar///live/c2live/Max_Prime_HD/SA_Live_dash_enc_2A/Max_Prime_HD.mpd
