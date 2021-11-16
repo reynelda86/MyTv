@@ -423,6 +423,11 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Chinese" tvg-id="148" tvg-name="148", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe1219019a9f36cdef347088e592ca10&key=cb9e1a122ed1c6445f7d3fd2162358f1
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="" tvg-name="", Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/bdc61ae3-b159-4c86-8e0d-ccb9bf8a25bf
