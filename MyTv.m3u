@@ -449,7 +449,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9knZG9/306-3060351-k-plus-k-plus-channel-logo.png" group-title="Chinese" tvg-id="" tvg-name="", K Plus
-http://210.210.155.35/session/10ae2010-1577-11ec-b4d5-8b7bae8a0023/uq2663/h/h08/index.m3u8
+http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
