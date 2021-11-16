@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-k6k0Sb569HfvuH3ForsZusE00G6GvU7nA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO Xtreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://livepy.000webhostapp.com/licences/izzi.php
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 https://d1dog4zvoxx3yf.cloudfront.net/out/u/dash/HBO-XTREME-HD/default.mpd
