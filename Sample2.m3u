@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="222" tvg-name="222", Colors Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9saW5lYXJqaXRwLXBsYXliYWNrLmFzdHJvLmNvbS5teS9kYXNoLXd2L2xpbmVhci8yMTAxL2RlZmF1bHRfb3R0Lm1wZA==
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AEC.my" tvg-name="AEC.my", Astro AEC HD
@@ -30,4 +32,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9knZG9/306-3060351-k-plus-k-plus-channel-logo.png" group-title="Chinese" tvg-id="" tvg-name="", K Plus Drama
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9saW5lYXJqaXRwLXBsYXliYWNrLmFzdHJvLmNvbS5teS9kYXNoLXd2L2xpbmVhci8yMTAxL2RlZmF1bHRfb3R0Lm1wZA==
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
