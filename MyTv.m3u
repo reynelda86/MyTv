@@ -2555,3 +2555,91 @@ https://ent.gcdn.co/E49/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 http://opplex.tv:8080/cricket/cricket/217134
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
+http://opplex.tv:8080/cricket/cricket/216213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELOBt8YexJodkui0r5hBn4DmXJhWz3U1c2g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Sky Cinema Crime HD
+http://opplex.tv:8080/cricket/cricket/216215
+
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviescrimethriller.png" group-title="English" tvg-id="SkyCrime.uk" tvg-name="SkyCrime.uk", Sky Crime HD
+http://opplex.tv:8080/cricket/cricket/216216
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_channel_espana-mediano.png" group-title="English" tvg-id="" tvg-name="", Fox HD
+http://opplex.tv:8080/cricket/cricket/204791
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
+http://opplex.tv:8080/cricket/cricket/217113
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
+http://opplex.tv:8080/cricket/cricket/217114
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
+http://opplex.tv:8080/cricket/cricket/217116
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThcBZxt-LmW0hTmVOPBmC5ZGDIj-S-dgPhA&usqp=CAU" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
+http://opplex.tv:8080/cricket/cricket/217154
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmgpZSoNkoQbG_GO0mT3RuGp8XZ5h4f687A&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO Plus West FHD
+http://opplex.tv:8080/cricket/cricket/217153
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
+http://opplex.tv:8080/cricket/cricket/217156
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
+http://opplex.tv:8080/cricket/cricket/217127
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutYTF1QzFUnQLwIoc1zFexrVjnFfr1EzCFg&usqp=CAU" group-title="English" tvg-id="ShowtimeExtremeEast.us" tvg-name="ShowtimeExtremeEast.us", Showtime Extreme East
+http://opplex.tv:8080/cricket/cricket/217129
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDikGlcZt76_9e3KKRXCtdsDyogDFeBKAbRg&usqp=CAU" group-title="English" tvg-id="StarzEncoreEast.us" tvg-name="StarzEncoreEast.us", Starz Encore East
+http://opplex.tv:8080/cricket/cricket/217139
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyb4a05vCHlok-ZbcgvhZevC7DlOqyMnN_2Q&usqp=CAU" group-title="English" tvg-id="StarzEncoreBlackEast.us" tvg-name="StarzEncoreBlackEast.us", Starz Encore Black East
+http://opplex.tv:8080/cricket/cricket/217141
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfF-oTDs_ysijobY96H-r17xGAVbyMu5DEPw&usqp=CAU" group-title=“English" tvg-id="StarzEncoreWesternsEast.us" tvg-name="StarzEncoreWesternsEast.us", Starz Encore Westerns East
+http://opplex.tv:8080/cricket/cricket/217146
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="AstroCricket.my" tvg-name="AstroCricket.my", Astro Cricket
+http://opplex.tv:8080/cricket/cricket/168072
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro AEC
+http://opplex.tv:8080/cricket/cricket/204676
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVr5fALYxdX3eyynuzUNw8eU4FmwEF3qwDag&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", AniPlus HD
+http://opplex.tv:8080/cricket/cricket/204689
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="Chinese" tvg-id="AstroAOD352.my" tvg-name="AstroAOD352.my", Astro AOD 352 
+http://opplex.tv:8080/cricket/cricket/204702
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="Chinese" tvg-id="AstroAOD353.my" tvg-name="AstroAOD353.my", Astro AOD 353
+http://opplex.tv:8080/cricket/cricket/204703
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="Chinese" tvg-id="AstroAOD355.my" tvg-name="AstroAOD355.my", Astro AOD 355
+http://opplex.tv:8080/cricket/cricket/204705
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUKFjMGLBDU6YkzFw9f8LU1hpqWCUPzAIXA&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", Astro SuperSport Plus
+http://opplex.tv:8080/cricket/cricket/204660
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="Chinese" tvg-id="KPlus.kr" tvg-name="KPlus.kr", K+
+http://opplex.tv:8080/cricket/cricket/204856
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg" group-title="Chinese" tvg-id="" tvg-name="", Channel 8 Singapore
+http://opplex.tv:8080/cricket/cricket/204777
+
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="Indonesia" tvg-id="" tvg-name="", Citra Dangdut
+http://opplex.tv:8080/cricket/cricket/204860
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H-WXgEyQeTyRiYsaEPIkVP99FasFFGx7oA&usqp=CAU" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
+http://opplex.tv:8080/cricket/cricket/206078
+
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdpremiere.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
+http://opplex.tv:8080/cricket/cricket/206073
+
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="SkyCinemaSelect.uk" tvg-name="SkyCinemaSelect.uk", Sky Cinema Select
+http://opplex.tv:8080/cricket/cricket/206072
+
+#EXTINF:-1 tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/31164/sonymoviesactiontv.png" group-title="English" tvg-id="SonyMoviesAction.us" tvg-name="SonyMoviesAction.us", Sony Movies Action
+http://opplex.tv:8080/cricket/cricket/206090
