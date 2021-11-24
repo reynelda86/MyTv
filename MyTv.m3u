@@ -501,7 +501,7 @@ http://195.154.173.245:8080/cricket/cricket/204670?token=GhMNBEZcR1gRBVALVlcFAAZ
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241019.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
