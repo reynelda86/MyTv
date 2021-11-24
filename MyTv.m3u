@@ -452,9 +452,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Chinese" tvg-id="" tvg-name="", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="Chinese" tvg-id="333" tvg-name="333", Astro Hua Hee Dai HD
-http://195.154.173.245:8080/cricket/cricket/204692?token=GhMNBEZcR1gRVFcAAFMGUl0GUVJSBwwAUVEPV1YBDgJSBAZcBgEEBANEGBoXEhZRBVtrXgVGAgJSUgENARQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAAMGDwNQUB1HFVxQR1hdE1hUSEQBTBBTRlkACGdUBxBeV1YaDA0UXQlJF1sLPVcDWVkKAkYORgcWG0MNS0BAXFlBX1QaQQNYERdUQABACQhBVAhKRlcLQ1pDEx0aCkArbhYfGlMbFVQLFlxbC0AJREBLRkpGXRdpRlISEEpVAwtSRhECFFNDHUcIVEw6AVwIWl0HEg1bCkUWDUNVGhxAC1haWkxZET5BDAEXDgsXXwpJ
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="Chinese" tvg-id="" tvg-name="", Nhk World Tv
