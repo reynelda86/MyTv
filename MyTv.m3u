@@ -420,7 +420,7 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Chinese" tvg-id="148" tvg-name="148", 8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+http://194.233.86.5:5080/WebRTCApp/streams/tv88.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinese" tvg-id="CTITVAsia.tw" tvg-name="CTITVAsia.tw", CTI Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
