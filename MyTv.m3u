@@ -487,7 +487,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="392" tvg-name="392", KBS World HD
-https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709911
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", NEXTTV
 http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
