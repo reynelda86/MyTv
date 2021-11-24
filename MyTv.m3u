@@ -498,7 +498,7 @@ https://m3u-editor.com/serve/a4e1a020-f9e7-11eb-b9d5-bb09dae07fb5/352709911
 http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="394" tvg-name="394", Oh!K HD
-http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
+http://opplex.tv:8080/cricket/cricket/204670
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
