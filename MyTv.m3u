@@ -2240,21 +2240,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="Sports" tvg-id="" tvg-name="", MMA Junkie
 https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Movies of the 2000s
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Movies of the 2010s
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Movies of the 2020s
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Movies of the 90s
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="English" tvg-id="" tvg-name="", Mr Box Office
-https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Okja.png" group-title="VOD English" tvg-id="" tvg-name="", Okja
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/27/Okja%20[2017].mp4
