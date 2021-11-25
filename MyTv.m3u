@@ -59,10 +59,10 @@ http://194.233.86.5:5080/WebRTCApp/streams/prima.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
 #EXTINF:-1 tvg-id="112" tvg-chno="112" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Malay",Astro Rania HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+http://195.154.173.245:8080/cricket/cricket/204695?token=GhMNBEZcR1gRXgwOUgVSB1UCAAZUAlsEWwcPBFULA1QEAl0GBQFSB1VEGBoXEhZRBVtrXgVGAgJSUgENBhQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAAwHCAZXUR1HFVxQR1gRVwwJVVNGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAgoTCFhIFFdYFApMQhtEDRZ+YRRPQ1QdEVBaFgtcCBYCRhIXFkgUXUQ+Fl1DFhRSVV5dREFbE1VHGRYIA0s5V1cKCAFXEF9bWRJGAhJTRBsWXldYChVeFzpFXQFACUQFAFReXBYZ
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="104" tvg-name="104", Astro Ria HD
-http://analoquetv.online/streams/d/Ria/playlist.m3u8
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/11
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
