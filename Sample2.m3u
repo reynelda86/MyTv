@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="English" tvg-id="713" tvg-name="713", Paramount Network
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://vstv.broadpeak-aas.com/live/prod_paramount_network_fps/prod_paramount_network_fps.isml/prod_paramount_network_fps.mpd
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
