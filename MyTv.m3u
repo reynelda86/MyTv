@@ -463,9 +463,6 @@ http://195.154.173.245:8080/cricket/cricket/204670?token=GhMNBEZcR1gRBVALVlcFAAZ
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="Chinese" tvg-id="393" tvg-name="393", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241019.ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Chinese" tvg-id="395" tvg-name="395", tvN HD
