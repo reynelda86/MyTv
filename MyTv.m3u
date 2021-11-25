@@ -428,11 +428,6 @@ http://195.154.173.245:8080/cricket/cricket/204678?token=GhMNBEZcR1gRBQNdVVNUDFB
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fa629c3640ce533c755509f67f75e610&key=af710a06fd67975b99db4a47a757b84b
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/630/436/png-clipart-tvb-jade-logo-television-free-to-air-corprate-miscellaneous-television.png" group-title="Chinese" tvg-id="TVBClassic.hk" tvg-name="TVBClassic.hk", TVB Classic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5a30ea05-4911-4d2d-9f62-4fd661cb0e81
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Chinese" tvg-id="" tvg-name="", Channel U
