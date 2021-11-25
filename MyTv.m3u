@@ -33,7 +33,7 @@ http://194.233.86.5:5080/WebRTCApp/streams/alhijrah.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTINF:-1 tvg-id="113" tvg-chno="113" tvg-logo="https://i.kampung.xyz/c/56772be37fe8b846.png" group-title="Malay",Astro Aura HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+http://194.233.86.5:5080/WebRTCApp/streams/aura.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
