@@ -453,9 +453,6 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=286aef4e8d85db66e05fe4a5c799e410&key=176e2938bce795d1c85559a2440477f7
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="354" tvg-name="354", Astro AOD 354
-http://38.91.58.108:80/auth/2599205.ts?token=tYdfRtKRRh2Q1Z1xBTbYW5h2tjwu7NKL3n0yNY0YoGTBT2VyFxlmugQ57WHQ77xQ8Z4oO1BnhmNCnnWRUHgQe9B6tRAsvHcO8fK9m8j_hQiiuQIdqafob8avYmzW-mVrvghWv6PUsMWYjpjLeIyDJMGYylAjHuy1QphS17EqqmEIvhkYEvj7k4Tzyft5_DJKbQwFBCjk3-0xxPgBgHLSndvCdvL69D0BBVMaXyYICzMSSW7DVFyaCLMIvMUhKbn21Td5F9RWv-BLYvjED1XxeyTtm6pLTZBkQ4wlS1-VZS_M8KemMJGiQhHz2rxnsl2AKs-549NUjUupou4Ss3AMppaTcqeYLR57S6N9ALE0jN-cY7B_hiMbt5xUzpyrdOCmPTKpcJpv3TC7TIn1LHSCGqkc9JlC9f2pdDPol0eqzCz-BdIt1kphU3wFg2Gn76d97uC24SSP06pqyHXoTvEDI1g_xtsUtoniKKds6g4tRywZJQ_0-l8tbgVPsxSiBZ8a0JT67UBeiRwYuPA8nBwP2iBliDnE7hLnbERTvpKlLN8hOm2zoUv1CbkhYvygygZk3X4tIgaFpJd5RvDWVDrbPOtnbCYcA7XNMGM4J_b6OHNCB7Zfj_vLDYdiXSJmD8PzdIneoms84Knnk62oO_kl9w
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=33566705d63f56f1d31c45f69568ed10&key=d13bcf0ca6e62d71b6c4dd70d5ffeab2
@@ -2577,9 +2574,6 @@ http://195.154.173.245:8080/cricket/cricket/204676?token=GhMNBEZcR1gRVAYAAV9dBFM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVr5fALYxdX3eyynuzUNw8eU4FmwEF3qwDag&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", AniPlus HD
 http://opplex.tv:8080/cricket/cricket/204689
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="Chinese" tvg-id="AstroAOD355.my" tvg-name="AstroAOD355.my", Astro AOD 355
-http://195.154.173.245:8080/cricket/cricket/204705?token=GhMNBEZcR1gRBFVcBV9WVwUEBgRVV1xRWgcFAQBeUAIFUlddU1UDUlJEGBoXEhZRBVtrXgVGAgJSUgAEBhQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAAMGDAVUUR1HFVxQR1hdE1hUSEQBTBBTRlkACGdUBxBeV1YaDA0UXQlJF1sLPVcDWVkKAkYORgcWG0MNS0BAXFlBX1QaQQNYERdUQABACQhBVAhKRlcLQ1pDEx0aCkArbhYfGlMbFVQLFlxbC0AJREBLRkpGXRdpRlISEEpVAwtSRhECFFNDHUcIVEw6AVwIWl0HEg1bCkUWDUNVGhxAC1haWkxZET5BDAEXDgsXXwpJ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUKFjMGLBDU6YkzFw9f8LU1hpqWCUPzAIXA&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", Astro SuperSport Plus
 http://opplex.tv:8080/cricket/cricket/204660
