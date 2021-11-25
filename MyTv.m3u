@@ -454,7 +454,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="354" tvg-name="354", Astro AOD 354
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599205
+http://38.91.58.108:80/auth/2599205.ts?token=tYdfRtKRRh2Q1Z1xBTbYW5h2tjwu7NKL3n0yNY0YoGTBT2VyFxlmugQ57WHQ77xQ8Z4oO1BnhmNCnnWRUHgQe9B6tRAsvHcO8fK9m8j_hQiiuQIdqafob8avYmzW-mVrvghWv6PUsMWYjpjLeIyDJMGYylAjHuy1QphS17EqqmEIvhkYEvj7k4Tzyft5_DJKbQwFBCjk3-0xxPgBgHLSndvCdvL69D0BBVMaXyYICzMSSW7DVFyaCLMIvMUhKbn21Td5F9RWv-BLYvjED1XxeyTtm6pLTZBkQ4wlS1-VZS_M8KemMJGiQhHz2rxnsl2AKs-549NUjUupou4Ss3AMppaTcqeYLR57S6N9ALE0jN-cY7B_hiMbt5xUzpyrdOCmPTKpcJpv3TC7TIn1LHSCGqkc9JlC9f2pdDPol0eqzCz-BdIt1kphU3wFg2Gn76d97uC24SSP06pqyHXoTvEDI1g_xtsUtoniKKds6g4tRywZJQ_0-l8tbgVPsxSiBZ8a0JT67UBeiRwYuPA8nBwP2iBliDnE7hLnbERTvpKlLN8hOm2zoUv1CbkhYvygygZk3X4tIgaFpJd5RvDWVDrbPOtnbCYcA7XNMGM4J_b6OHNCB7Zfj_vLDYdiXSJmD8PzdIneoms84Knnk62oO_kl9w
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
