@@ -14,8 +14,9 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malay" tvg-id="149" tvg-name="149", TV9
-http://194.233.86.5:5080/WebRTCApp/streams/tv99.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malay" tvg-id="109" tvg-name="109", TV9
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
 http://194.233.86.5:5080/WebRTCApp/streams/didiktv.m3u8
