@@ -2263,9 +2263,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="PlutoTVCMTWesterns.us" tvg-name="PlutoTVCMTWesterns.us", Pluto TV CMT Westerns
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWycXHuyq-ndkk8acyvK8x9RXOJRgZHP4MqQ&usqp=CAU" group-title="English" tvg-id="PlutoTVMOVIECHANNEL.us" tvg-name="PlutoTVMOVIECHANNEL.us", Pluto TV MOVIE CHANNEL
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Western" tvg-id="STIRRWesterns.us" tvg-name="STIRRWesterns.us", STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
