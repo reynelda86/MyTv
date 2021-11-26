@@ -379,7 +379,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="English" tvg-id="ShowcaseCanada.ca" tvg-name="ShowcaseCanada.ca", Showcase Canada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+http://195.154.173.245:8080/cricket/cricket/206184?token=GhMNBEZcR1gRAlJcBgIHUVJVBAcAUFoEB1cHVQBaUwJVBFVdBQ1WVVVEGBoXEhZRBVtrXgVGAgJSUAYMBxQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAA0CDQRWWR1HFVxQR1hdE1hUSEQBTBBTRlkACGdUBxBeV1YaDA0UXQlJF1sLPVcDWVkKAkYORgcWG0MNS0BAXFlBX1QaQQNYERdUQABACQhBVAhKRlcLQ1pDEx0aCkArbhYfGlMbFVQLFlxbC0AJREBLRkpGXRdpRlISEEpVAwtSRhECFFNDHUcIVEw6AVwIWl0HEg1bCkUWDUNVGhxAC1haWkxZET5BDAEXDgsXXwpJ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="English" tvg-id="ShowtimeEast.us" tvg-name="ShowtimeEast.us", Showtime East
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
