@@ -2469,7 +2469,7 @@ http://opplex.tv:8080/cricket/cricket/217134
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
-http://opplex.tv:8080/cricket/cricket/216213
+http://195.154.173.245:8080/cricket/cricket/216213?token=GhMNBEZcR1gRVlAOUVABDQVXDQBZAQgHVVAABwEBAlZRAlVQDQQAWlVEGBoXEhZRBVtrXgVGAgJTUAUFABQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAA0BDQdTVR1HFVxQR1gRUAEMUVRGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZSVwxUFBgVAgtNXhYUThYJGns6Qx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlJTUAZUFEk=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELOBt8YexJodkui0r5hBn4DmXJhWz3U1c2g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Sky Cinema Crime HD
 http://opplex.tv:8080/cricket/cricket/216215
@@ -2534,9 +2534,6 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="Indonesia" tvg-id="" tvg-name="", Citra Dangdut
 http://opplex.tv:8080/cricket/cricket/204860
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H-WXgEyQeTyRiYsaEPIkVP99FasFFGx7oA&usqp=CAU" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
-http://opplex.tv:8080/cricket/cricket/206078
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdpremiere.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
 http://opplex.tv:8080/cricket/cricket/206073
