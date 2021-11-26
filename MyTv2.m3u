@@ -445,3 +445,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecafehd
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
+http://195.154.173.245:8080/cricket/cricket/217127?token=GhMNBEZcR1gRBQwNAlICBgIOVgFZB1oFBgVRAAtaBVNRVV0BB1cEWgdEGBoXEhZRBVtrXgVGAgJTUQYGBBQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAA0CDQJXUR1HFVxQR1gRVAcPXFNGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAgoTCFhIFFdYFApMQhtEDRZ+YRRPQ1QdEVBaFgtcCBYCRhIXFkgUXUQ+Fl1DFhRSVV5dREFbE1VHGRYIA0s5V1cKCAFXEF9bWRJGAhJTRBsWXldYChVeFzpFXQFACUQGC1NTVxYZ
