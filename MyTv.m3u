@@ -45,7 +45,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0d150f02-28f6-4315-9470-b402f3167f75
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis HD
-http://194.233.86.5:5080/WebRTCApp/streams/oasis.m3u8
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
