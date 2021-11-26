@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Chinese" tvg-id="108" tvg-name="108", 8TV
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
