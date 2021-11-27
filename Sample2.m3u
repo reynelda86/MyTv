@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmgpZSoNkoQbG_GO0mT3RuGp8XZ5h4f687A&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO Plus West FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
-https://edge-vod04-sl.cvattv.com.ar///live/c2live/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+#EXTINF:-1 tvg-id="1112" tvg-chno="112" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Astro",Astro Rania HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
