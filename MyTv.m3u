@@ -488,7 +488,7 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1d439372-3b08-4700-8626-42b62889cb2d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", BollyOne HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
