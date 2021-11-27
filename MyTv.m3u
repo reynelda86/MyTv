@@ -2444,11 +2444,6 @@ http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/826.mp4
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 https://ent.gcdn.co/E49/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-us-uk.png" group-title="English" tvg-id="SonyMoviesUSA.us" tvg-name="SonyMoviesUSA.us", Sony Movies USA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-http://195.154.173.245:8080/cricket/cricket/217134?token=GhMNBEZcR1gRUgBcUFEAB1UOAFJUV14DAFYAUVdeVVIFBQAGAwdTBwtEGBoXEhZRBVtrXgVGAgJTUQYHBxQUFhJUFzpcUEdYEVMDCF1XRhhGQl1aBEYCAVRVAA0BAQNXVx1HFVxQR1gRUgUBVVFGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAgoTCFhIFFdYFApMQhtEDRZ+YRRPQ1QdEVBaFgtcCBYCRhIXFkgUXUQ+Fl1DFhRSVV5dREFbE1VHGRYIA0s5V1cKCAFXEF9bWRJGAhJTRBsWXldYChVeFzpFXQFACUQACV1WXRYZ
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/120521
