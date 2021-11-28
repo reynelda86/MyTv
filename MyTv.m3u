@@ -145,6 +145,9 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="No group" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
+http://dmtn.tv:80/play/xEm3oL4Bv3--96y8xqJYlmD2tm6ktF9KKOTUXXwmmfAKMMTCGHppLyw6dh3EFa0h/ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82859
 
