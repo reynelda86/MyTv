@@ -1,5 +1,6 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-#EXTINF:-1 tvg-id="1112" tvg-chno="112" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Astro",Astro Rania HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWFlMTgyMGItOGI0Yi0zMTM1LWJhNWUtZDRhM2JjNDhjNTUx
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15
+#EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+http://1.9.15.103/PLTV/88888888/224/3221227779/3221227779.mpd
