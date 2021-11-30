@@ -1,6 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWFlMTgyMGItOGI0Yi0zMTM1LWJhNWUtZDRhM2JjNDhjNTUx
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-http://1.9.58.102/PLTV/88888888/224/3221227779/3221227779.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,AUDIO="audiod",SUBTITLES="English"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
