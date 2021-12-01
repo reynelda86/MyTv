@@ -197,8 +197,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFrX1O8wNGHc12a9qsHKbkIRqZc-sHLABUw&usqp=CAU" group-title="English" tvg-id="StarWorldHDIndia.hk" tvg-name="StarWorldHDIndia.hk", Star World HD India
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/120252
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="SyfyWest.us" tvg-name="SyfyWest.us", Syfy West
+http://jlwmedia.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOn53AdvWCG_afVIicNvXIGcDIh9QRF5EHKI3yVAD5FFK/m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="Thrill.hk" tvg-name="Thrill.hk", Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
