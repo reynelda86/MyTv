@@ -656,10 +656,10 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports" tvg-id="801" tvg-name="801", Astro Arena HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/98130
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28bRpyWG/download.jpg" group-title="Sports" tvg-id="" tvg-name="", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R24F5w1/SPOTV.jpg" group-title="Sports" tvg-id="SpoTV2.kr" tvg-name="SpoTV2.kr",SpoTV 2
-https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
