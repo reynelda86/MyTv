@@ -1674,9 +1674,6 @@ http://gcs2.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfP_4iLkwHPZi7f_9r2ZMe4OGB38Nd2xaAM1P
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-eXmTtFNC8B5fIp1Oi9mYthts-JGOFhTeg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Black Hawk Down
 http://gcs2.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfGBrFrfAhNvcteTBT45k30S2Kvt_2UAM2_lfVESfDLMG
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKI_548KfrGbeM6cDKsLPA_s4PgLPuPDpuHg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Bruce Almighty
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Chinese" tvg-id="309" tvg-name="309", Celestial Movies HD
