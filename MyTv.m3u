@@ -2133,10 +2133,6 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="Sports" tvg-id="" tvg-name="", MMA Junkie
-https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Okja.png" group-title="VOD English" tvg-id="" tvg-name="", Okja
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/27/Okja%20[2017].mp4
 
