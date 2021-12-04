@@ -2207,11 +2207,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo III (1988)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.III.1988.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo Last Blood
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo Last Blood (2019)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo_%20Last%20Blood%20(2019).mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLCs8GwBQ0LiZA8MxzQYTlKqWXcjmK0tmxQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rambo Last Blood (2019)
-http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/780.mp4
 
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/red-2010.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/RED%20(2021)ok.mp4
