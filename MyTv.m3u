@@ -1636,9 +1636,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M2Dczt1.jpg" group-title="VOD English" tvg-id="" tvg-name="", Insight (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/msA00yq.jpg" group-title="VOD English" tvg-id="" tvg-name="", Redemption Day (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R8w5XtY.jpg" group-title="VOD English" tvg-id="" tvg-name="", Teddy (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
 
@@ -2211,7 +2208,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.III.1988.
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo_%20Last%20Blood%20(2019).mp4
 
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/red-2010.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/RED%20(2021)ok.mp4
+http://opplex.tv:8080/movie/3456/3456/215002.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED 2
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Red%202%20(2013).mp4
@@ -2582,6 +2579,3 @@ http://gcs2.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfLGYgANN1kjXrJ_KFMDYXBJU5I40YKanaJ3S
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSreU2NXaJO41o8QWYAs0YjAFi8WXk9HCSc0A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rambo (2008)
 http://gcs2.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfP_4iLkwHPZi7f_9r2ZMe4P3rYY9cMGYEKSLlYqdzQqY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/msA00yq.jpg" group-title="VOD English" tvg-id="" tvg-name="", Redemption Day (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
