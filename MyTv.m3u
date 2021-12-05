@@ -925,9 +925,6 @@ http://srv41.nf21.net/files/15-2020-10-14-181bce8bfb76d43f9f8714f3ea2a3ca0.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAwQrHSvkaN4yzDUAJVPZPNfSy1pvoDDSgQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Now You See Me 2
 http://srv40.nf21.net/files/19-2020-06-11-e20237d43952dbf805b0d9bdc445b4d5.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8UBNklVs9BpZiJdchid-4q-lq6HkLwCVWg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Okja
-https://lh3.googleusercontent.com/aLxQA9XGhhrPs9petIk0_0wEOIE2_UGzBgspsYEDItBtzz4COBKQFm0TfvWM40f6S6oPFxHaBnUa9zZytA=m22
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDF8uzB.jpg" group-title="VOD English" tvg-id="" tvg-name="", Payback
 https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
 
@@ -2103,10 +2100,6 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" group-title="English" tvg-id="" tvg-name="", My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Okja.png" group-title="VOD English" tvg-id="" tvg-name="", Okja
-https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/27/Okja%20[2017].mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsjlGnQKsp4EP4pgz5CCIu2ouoZYGlnaIxw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Olympus Has Fallen (2013)
 http://www.deadlyblogger.com/NewRelease/fallen1.mp4
