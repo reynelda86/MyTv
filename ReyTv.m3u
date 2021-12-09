@@ -7,9 +7,6 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="Malay" tvg-id="" tvg-name="", Suria Singapore
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqZE8yhMQWIqI9vvFnfmHTO3gHQeAYgGxOARHclDV_U_/ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
