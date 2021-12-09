@@ -263,7 +263,8 @@ EXTVLCOPT:http-referrer=https://astro.com.my
 http://urtv.cc:80/penang189/penang189/6730
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
-https://link.zozotv.xyz/ding/ding/35
+#EXTVLCOPT:http-referrer=https://astro.com.my
+http://urtv.cc:80/jalan8/jalan8/6740
 
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="CHN" tvg-name="CHN", Drama Sangat
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599274
