@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Melayu" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=TjJzQWw1YmtyVkRxajJqWGxtZG1rZw:UDNKdjFjdS9XVVJEZWsyL3EwTWJFQQ
-https://linears-playback.astro.com.my/vsg/21yKfvuijGFluFOO2tq33h-R3Sv38Smvx4p6SF72XA-YM=tqbh/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
+EXTVLCOPT:http-referrer=https://astro.com.my
+http://urtv.cc:80/penang189/penang189/6730
