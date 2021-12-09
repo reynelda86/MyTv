@@ -259,9 +259,6 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title=“English" tvg-id="712" tvg-name="712", Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSheH-tx4zNq0VAE-r--PANX70pKfsaAVmUiQ&usqp=CAU" group-title="English" tvg-id="ZeeCafe.in" tvg-name="ZeeCafe.in", Zee Café
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/142
-
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
