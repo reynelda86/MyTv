@@ -290,3 +290,10 @@ http://analoquetv.online/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="English" tvg-id="" tvg-name="", PrimeTime HD
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9escLrvgZ92S18WxRwA3rI/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
+http://103.131.212.138:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="priveHD.in" tvg-name="priveHD.in", & privé HD
+http://103.131.212.138:8000/play/a01e/index.m3u8
