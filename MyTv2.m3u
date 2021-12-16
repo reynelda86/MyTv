@@ -247,7 +247,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 http://analoquetv.online/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105" tvg-name="105", Astro Prima HD
-https://link.zozotv.xyz/ding/ding/33
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+http://urtv.cc:80/penang043/penang043/6727
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112" tvg-name="112", Astro Rania HD
 http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqZE8yhMQWIqI9vvFnfmHTO-15gF4U88LG5QKfLiW_w2/ts
