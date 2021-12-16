@@ -5348,3 +5348,54 @@ http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="English" tvg-id="" tvg-name="", FilmRise Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlXAe2xzx48hxG4xINW8NVliUVhHpR3wuhQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Pluto TV Crime Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.mBTD3H8QqYpiNG0GZbFmLAAAAA&pid=Api&P=0&w=240&h=135" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82852
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.776UZ-JO-2TPgsTigq-gRQAAAA&pid=Api&P=0&w=211&h=159" group-title="English" tvg-id="StarzEncoreEast.us" tvg-name="StarzEncoreEast.us", Starz Encore East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82860
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.IZeKqwWU8hiTf2q1YZwLDgAAAA&pid=Api&P=0&w=320&h=121" group-title="English" tvg-id="StarzEdgeEast.us" tvg-name="StarzEdgeEast.us", Starz Edge East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82853
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JyhTko9srGSk7I3Y-4h5AgAAAA&pid=Api&P=0&w=240&h=135" group-title="English" tvg-id="StarzEncoreActionEast.us" tvg-name="StarzEncoreActionEast.us", Starz Encore Action East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82854
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.66SIeGxAjvPEfOOVGZxvKwAAAA&pid=Api&P=0&w=200&h=100" group-title="English" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="StarzEncoreSuspenseEast.us", Starz Encore Suspense East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82861
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.8G-CisoPIujLSbsKtq0NjwAAAA&pid=Api&P=0&w=350&h=37" group-title="English" tvg-id="StarzEncoreWest.us" tvg-name="StarzEncoreWest.us", Starz Encore West
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82862
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.glSjqPDdwQvokQPcb9Ix8QAAAA&pid=Api&P=0&w=190&h=181" group-title="English" tvg-id="StarzEast.us" tvg-name="StarzEast.us", Starz East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82864
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.OE5dI2C-8evmemj2XgN3FgAAAA&pid=Api&P=0&w=178&h=167" group-title="English" tvg-id="StarzKidsFamilyEast.us" tvg-name="StarzKidsFamilyEast.us", Starz Kids Family East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82866
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.VreLFgtrurjAz8rprdI1lQHaDa&pid=Api&P=0&w=382&h=177" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82865
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English" tvg-id="" tvg-name="", STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JCBDvZAT0j3JyCKHazDsLgHaDX&pid=Api&P=0&w=418&h=190" group-title="English" tvg-id="ShowtimeExtremeEast.us" tvg-name="ShowtimeExtremeEast.us", Showtime Extreme East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82843
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.siGk_3wwTOIdzMlF606P_wAAAA&pid=Api&P=0&w=257&h=172" group-title="English" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="ShowtimeFamilyZoneEast.us", Showtime Family Zone East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82844
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
+http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82846
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5-1JbzDQvd4r5f-l4cV6KPmdnVv6PmzOMQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Studio Universal HD
+http://livetv2021.site:8080/9897876765/6576567/733
