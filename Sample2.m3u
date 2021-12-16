@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="English" tvg-id="411" tvg-name="411", HBO HD
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="English" tvg-id="411" tvg-name="411", HBO HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+http://urtv.cc:80/jalan8/jalan8/7071
