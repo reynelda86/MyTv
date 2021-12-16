@@ -1036,9 +1036,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Jus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/30/Anak_Bapak.jpg/220px-Anak_Bapak.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Anak Bapak [Warna]
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/Anak%20Bapak%20(warna).mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4OTczYmQtMTQxMC00NTMxLWE2MGQtZGIyNDc0NDhlMGM4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Anak Halal
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Anak%20Halal.mp4
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xX4eD65wmNg/YLnw1wr1W9I/AAAAAAAALxo/_gGlqyVxaSQ8-30SheCQmBbdFz5wdZ_IQCLcBGAsYHQ/s16000/Arwah%2BPak%2BMat%252C%2BLif%2B%2526%2BAJK.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Arwah Pak Mat Lif AJK
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Arwah.Pak.Mat.Lif.AJK.2021.mp4
 
@@ -1883,10 +1880,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="Entertainment" tvg-id="" tvg-name="", Hits 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQaj3digxhy-Jk_gVfDOHeZ3qRzQN_NWMGw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2019)
-https://1cak.ga/?redirect=QXiQWYvxmb39GZiwiIlVnc0JCLiAHM4ATMiwiIzhzckNTZG91aL9mIsISPNZEeUVkZGF1cLZGS4UTY3MXbnlVMONmY0d3VlpnUmNXUwQTeFh3VCFkNoFURpFkbS1CUtd3RrNzTThnWt40Qil0SuhXTBdGanlzUzAHdTR2RtQka3t0chVkTBhWSnJ1dBh3XDNzRB1zZpNHbmwGcskmdtxidtxyctxibtxSbtxCat1zctFmchB3csZCZ2RTLRdET3p1NydEW3llNXlWO0d2S3kTdDJVe6xGM4FDRx0mQ0V1coJ1QJN0ZkhmVK9mdQR1TJBTc0IDeQ1SQWp2ZkFzRpJ1YHJmdmlTdtlUVUpkc6FlUnlUQSdHOKFFMx9UQ9cWazZCdtxGLyVHZsYncwxidyBndsUWbp1GLwBXYsQWalZXayRGLjNXdzxCb0RHLsN3clJXa1FXZyxSZjJXdvNHLnFGdpxCZpxCcjxCcpxSalxSZylGc4VWPz1WYyFGczZSN2YjN4UTOzYTM9QXbmYzM5QTM0UzM1UDN5MTO1ETP01GbmUzMy4SM3gTN9IXdkZSM9YncwZSM9YncwZnJ0AXbv8WZklmd9UWbp1mJyVmcvxGc4VWPwBXYm0Cdsh1SwgzckJkZZZTQW9mMnhTQTZ1X2YkQJVkYE9GVx0DZpVmdpJHZmIHZ9M2c1NnJ05WZpNnbhJHd9wGd0ZCNy0DbwZSN9kmdtZSd9YXbmU3c9MXbmkXZudTZvBnbt42c94WbmIzM90Wbm0UM9gWbmMXZ51DbzNXZylWdxVmcmUmdpJHZiV2d9U2YyV3bzZyNz0zZhRXamgjM5M2MyQzY4MTNmdjM4UWPklmJzd0UzU0RlhkRwQ1aOdUTLpVMTZDbU5UerhkWzxWMOBjTHJWUstmT6tGVWVjQGNFV1c0UOJVMU9EZq9EUoZ1UUplRVZGZVFVSSZVU9A3YmATNy4iNxEjLwAjMuUDOx0DcpZyYBVnU5FWLQVldtNWdOh0XTNWW2IDa11TalZCO1YTMwYTOzYTM9UmcpBHel9zajFmY5FGbw9WZklmdv02bj5SZsd2bvdmLlZXayRmLj5Sel52Nl9Gcu1ibz1SLtUjcy9yL6MHc0RHaiwiI5EDMy0ibvlGdjVHZiFWLtxWamJyW
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQgr8kUGj8RnP4QZCKtA0cBVIs9eqTxXHzA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Aladdin (2019)
 http://maestrofulliptv.ddns.net:2052/movie/DCwkCnQaX6/WZFQpDs7VH/74922.mkv
