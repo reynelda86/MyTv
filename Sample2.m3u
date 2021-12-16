@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD Malay" tvg-id="" tvg-name="", 7 Perhentian (2004)
-http://iptv.tvmalaysia.cc:80/movie/624850/624850/6988.mp4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="" tvg-name="", Galaxy
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+http://urtv.cc:80/jalan8/jalan8/8839
