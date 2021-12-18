@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Indonesia" tvg-id="SCTV.id" tvg-name="SCTV.id", Astro Warna HD
-##EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 http://urtv.cc:80/penang043/penang043/6740
