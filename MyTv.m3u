@@ -4167,3 +4167,25 @@ https://proxy-014.ix7.dailymotion.com/sec(SR36U2JEgenq7Sr8mbsN2sJD_bpAbypEolVykQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISiy3jUPIkHWeQazVcKWAsS8sSubhL4kRkg&usqp=CAU" group-title="Drama Melayu" tvg-id="" tvg-name="", Bukan Gadis Biasa E28
 https://proxy-003.ix7.dailymotion.com/sec(dE83Zyoa3SvsSFjYNnBY1CxKheAGezxv5WOyJlhO2IenDpiOJOJmR4AcuDoZ0AgH40ufRFXcdiayj1sWhyya7JvRH-1FnYdhm37DYdRqYE4)/video/831/918/473819138_mp4_h264_aac_ld.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://service.canal-overseas.com/image-api/v1/image/27f06d1f8c22b369fbb7ce674c51d643" group-title="Sports" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
+http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/27058.ts
+
+#EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/20fb75b908f2ea40ee7f4ccee8aae92f.png" group-title="English" tvg-id="skythriller.uk" tvg-name="skythriller.uk", Sky Cinema Thriller
+http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539562.ts
+
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesgreats.png" group-title="English" tvg-id="SkyCinemaGreats.uk" tvg-name="SkyCinemaGreats.uk", Sky Cinema Greats
+http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/26992.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/200px-DIY_Network_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="DIYNetworkEast.us" tvg-name="DIYNetworkEast.us", DIY Network East
+http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/691108.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="English" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
+http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/38196.ts
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h4/NowShowing/18480/s18480_h4_aa.png" group-title="English" tvg-id="LifetimeMoviesEast.us" tvg-name="LifetimeMoviesEast.us", Lifetime Movies East
+http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539283.ts
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
+http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/208667.ts
