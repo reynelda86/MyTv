@@ -1493,11 +1493,6 @@ http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqZE8yhMQWIqI9vvFnfmHTMgfZgbWUT6h1ON
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="819" tvg-name="819", beIN Sports MAX HD
-http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845621
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD Wrong Turn" tvg-id="" tvg-name="", Wrong Turn (2003)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%20(2003).mp4
 
