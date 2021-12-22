@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=1000
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6730
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="819" tvg-name="819", beIN Sports MAX HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+http://urtv.cc:80/jalan8/jalan8/6748
