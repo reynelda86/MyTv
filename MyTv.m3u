@@ -30,6 +30,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599322
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 http://urtv.cc:80/penang189/penang189/7267
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="118" tvg-name="118", Go Shop 118
