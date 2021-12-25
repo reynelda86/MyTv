@@ -4260,3 +4260,23 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwe6jIHGWP8qm14myNfikhA/m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYdFpmmTG-cdDmQ-xTJYf-mXukcNHoH0SEA&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Sony TV HD
 http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOkRdhb-PYjnuEA1u1NtJLAQLrFzvre1WLU0pimpNp69R/ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", RCTV
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg4you.com/logos/skymoviesdrama_uk.png" group-title="English" tvg-id="SkyCinemaDrama.uk" tvg-name="SkyCinemaDrama.uk", Sky Cinema Drama
+http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/572527.ts
+
+#EXTINF:-1 tvg-logo="https://epg4you.com/logos/skycinemahits_uk.png" group-title="English" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk", Sky Cinema Hits
+http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/572525.ts
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sports" tvg-id="SpoTV2.kr" tvg-name="SpoTV2.kr", SpoTV 2
+https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/30156/s30156_h5_aa.png" group-title="Lifestyle & Documentary" tvg-id="CookingChannel.us" tvg-name="CookingChannel.us", Cooking Channel
+http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/690477.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
+http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqj5D_mZLNidHRnpd-ihEjyU3Tj84hVc_B6CeX6jxrn3/ts
+
