@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
+#EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports" tvg-id="800" tvg-name="800", 800 eGG Network HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
+https://linear01-playback.sooka.my/CH2/masterCH2.mpd
