@@ -1816,10 +1816,8 @@ https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12505
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6526808b951b1f75b2818b0ef4f47110:27e96c5d6577f0fc12004a50a2e11d35
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2n1B1VRqnYGwbKeXF9N5Mv68
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Full Custom Garage
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
