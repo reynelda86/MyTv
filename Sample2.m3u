@@ -1,4 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="Sports" tvg-id="" tvg-name="", Astro Arena 2
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/9028
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/scm.png" group-title="Chinese" tvg-id="" tvg-name="", SCM HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
