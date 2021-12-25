@@ -4272,7 +4272,7 @@ http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOkRdhb-PYjnuEA1u1NtJLAQLrFzvre1WLU0p
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", RCTV
-http://122.248.43.138:1935/ch9/myStream/live.m3u8
+https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/skymoviesdrama_uk.png" group-title="English" tvg-id="SkyCinemaDrama.uk" tvg-name="SkyCinemaDrama.uk", Sky Cinema Drama
 http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/572527.ts
