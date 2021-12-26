@@ -4287,3 +4287,27 @@ http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/690477.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
 http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqj5D_mZLNidHRnpd-ihEjyU3Tj84hVc_B6CeX6jxrn3/ts
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOS8wOS8xOS81ZjQ4ZWIyMS1mMDNmLTQ3OGEtYjY0Zi0yOGU0NjNhNDhhNjBIT0xMWVdPT0RfQlMucG5n.jpg" group-title="English" tvg-id="HollywoodHD.us" tvg-name="HollywoodHD.us", Hollywood HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
+http://nomorecable.xyz:80/hahaiptv-/079652/101594
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Indian" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
+http://nomorecable.xyz:80/hahaiptv-/079652/57248
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/24-7-symbol-14240865.jpg" group-title="English" tvg-id="" tvg-name="", Jackie Chan
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Entertainment" tvg-id="" tvg-name="", MALEO TV
+https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="Entertainment" tvg-id="" tvg-name="", POP MUSIK
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
+http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/32772.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Vasantham SG
+http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/287533.ts
