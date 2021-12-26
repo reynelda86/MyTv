@@ -4226,3 +4226,28 @@ http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/32772.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Vasantham SG
 http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/287533.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/coL8O01xtvBTT6KsjGteDNglmKJ_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2011)
+http://red.ipfox.org:8080/movie/1234/12345678/1302.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Alien Covenant (2017)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/971131.mkv
+
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/nkvUaKRYG70QouZtHlnUSoDBRGC.jpg" group-title="VOD English" tvg-id="" tvg-name="", Amityville The Awakening (2017)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/971141.mp4
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/lItiYAN3Md0KFWSPvzw2TtB7pAE_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Arthur and Merlin (2015)
+http://red.ipfox.org:8080/movie/1234/12345678/372.mp4
+
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me 3 (2017)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/876530.mkv
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/8qqPmQr0s2bZHPBMASpBXOKUZoi_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Bleeding Steel (2017)
+http://red.ipfox.org:8080/movie/1234/12345678/382.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCHroCRj6J6Vi5u6jDP2g3pdhNOuerH5WsA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Escape Room (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Escape%20Room%20(2019).mp4
+
+#EXTINF:-1 tvg-logo="http://tny.im/oQa" group-title="VOD English" tvg-id="" tvg-name="", Doctor Strange
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
