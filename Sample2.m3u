@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="priveHD.in" tvg-name="priveHD.in", & privé HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/And-Prive.m3u8
