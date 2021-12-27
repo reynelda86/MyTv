@@ -4431,3 +4431,10 @@ https://mycinema.asia/media/films/Sniper.Assassins.End.2020_360/Sniper.Assassins
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6hObOHLtSZU3ZaIkIvKuoPcPzc.jpg" group-title="VOD English" tvg-id="" tvg-name="", Coven (2020)
 http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/50931.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bitly.com/384RV6s" group-title="VOD English" tvg-id="" tvg-name="", The Avengers
+https://cdn.jwplayer.com/manifests/69HhietH.m3u8
+
+#EXTINF:-1 tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Avengers-Age-Of-Ultron.jpg" group-title="VOD English" tvg-id="" tvg-name="", Avengers Age of Ultron
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Avengers%20Age%20of%20Ultron%20(2015).mp4
