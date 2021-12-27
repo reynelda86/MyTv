@@ -4395,3 +4395,40 @@ http://red.ipfox.org:8080/movie/1234/12345678/558.mp4
 
 #EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/80IyPIJZJ1Z1xQ3YongMrQAavtY_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Black Widow Killer (2018)
 http://red.ipfox.org:8080/movie/1234/12345678/19346.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg" group-title="VOD English" tvg-id="" tvg-name="", Zombieland: Double Tap - 2019
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1066234.mp4
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/kWLsOI2CPpdCBiAxpAXPdoE9435_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Immortal (2019)
+http://red.ipfox.org:8080/movie/1234/12345678/19232.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSN9SysoRBMwJKNkfOlQlCw2YQO.jpg" group-title="VOD English" tvg-id="" tvg-name="", 21 Bridges (2019)
+http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/38004.mkv
+
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/39iRgghrypeIwFVRC2DQjesBkDO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Spy Intervention (2020)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1064315.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg" group-title="VOD English" tvg-id="" tvg-name="", Magic Camp (2020)
+http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/50642.mkv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", The Call of the Wild (2020)
+http://gooserace.xyz:80/play/OB3DgJtAd7z7IGHE0QtJ24KGCD1Ppa7kc8utMbDX43DZsGwf2-bttVp-4rF2ubud#.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_IyM6uHTzuXDPTKIX2c03XFAbDQ7tIwpLg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Charlies Angels (2019)
+http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/38014.mkv
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/lzqJcPaZA9G8C6eS4Hch475Ng3A_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Pinocchio (2019)
+http://red.ipfox.org:8080/movie/1234/12345678/21283.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmmZNHaVVy95sijxc6YppNqM16g.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Turning (2020)
+http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/40098.mkv
+
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/omtxr1HtAjIwUnZTERFRo6EJnRL.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ouija Shark (2020)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/994426.mp4
+
+#EXTINF:-1 tvg-logo="https://mycinema.asia/image/banner_2701.jpg" group-title="VOD English" tvg-id="" tvg-name="", Sniper Assassins End (2020)
+https://mycinema.asia/media/films/Sniper.Assassins.End.2020_360/Sniper.Assassins.End.2020_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6hObOHLtSZU3ZaIkIvKuoPcPzc.jpg" group-title="VOD English" tvg-id="" tvg-name="", Coven (2020)
+http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/50931.mkv
