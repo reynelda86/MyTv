@@ -4355,3 +4355,43 @@ http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/11596.mkv
 
 #EXTINF:-1 tvg-logo="http://client-proiptv.com:8080/images/0167404.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Sixth Sense (1999)
 http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/12314.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB11pQkRg3-zYFsF_4xarVMl36rZWAR3X7Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X-Men Days of Future Past (2014)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/882756.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQtixY562LkuNM6f1HLit0ICGvn2_pgpD5Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle Comes Home (2019)
+http://srv41.nf21.net/files/15-2020-12-21-41ff3b33a39e43b1b2b6cda1406ca068.mp4
+
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="VOD English" tvg-id="" tvg-name="", DRAGON BALL SUPER BROLY (2019)
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/aD5lS1D4tDGMhDdQLV991zHp2IM_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Mummy Rebirth (2019)
+http://red.ipfox.org:8080/movie/1234/12345678/1078.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYWdeqO6pWTE-acEWDBQm1ExBzakeIBRFhA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Kid Who Would Be King (2019)
+http://gooserace.xyz:80/play/OB3DgJtAd7z7IGHE0QtJ26sorhVNpU3pDE4cJ_8kx_8V0nmiaRFtA3mqgT24TkbD#.mkv
+
+#EXTINF:-1 tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Captain-Marvel.jpg" group-title="VOD English" tvg-id="" tvg-name="", Captain Marvel (2019)
+https://cdn.jwplayer.com/manifests/M00HTOl8.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXj4-Bx2PfdR07ezyWM8Wuz-Uh3fxpLawIjw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Avengers Endgame (2019)
+http://srv32.nf21.net/files/10-2020-04-24-8270da303d1db08f3a035c4af7d65d81.mp4
+
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/saOpM2X.jpg" group-title="VOD English" tvg-id="" tvg-name="", Frozen (2013)
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tQjVdJc.jpg" group-title="VOD English" tvg-id="" tvg-name="", Frozen 2 (2019)
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", Scary Stories to Tell in the Dark (2019)
+http://gooserace.xyz:80/play/OB3DgJtAd7z7IGHE0QtJ26Gm6QviuaAv3r8VDW2zUXM8WbF6QTWkh9bGiCV_wtCg#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="VOD English" tvg-id="" tvg-name="", Home Sweet Home Alone (2021)
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1089070.mkv
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/pilhLgeUWSAT4sg8F4ISgvBHswn_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Killer (2014)
+http://red.ipfox.org:8080/movie/1234/12345678/558.mp4
+
+#EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/80IyPIJZJ1Z1xQ3YongMrQAavtY_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Black Widow Killer (2018)
+http://red.ipfox.org:8080/movie/1234/12345678/19346.mp4
