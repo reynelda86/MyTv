@@ -2,3 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/And-Flix.m3u8
+
+#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SonyPix.m3u8
