@@ -4200,9 +4200,6 @@ http://nomorecable.xyz:80/hahaiptv-/079652/57248
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/24-7-symbol-14240865.jpg" group-title="English" tvg-id="" tvg-name="", Jackie Chan
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Entertainment" tvg-id="" tvg-name="", MALEO TV
-http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="Entertainment" tvg-id="" tvg-name="", POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
 
