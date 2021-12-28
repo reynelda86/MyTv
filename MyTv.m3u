@@ -4201,7 +4201,7 @@ http://nomorecable.xyz:80/hahaiptv-/079652/57248
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Entertainment" tvg-id="" tvg-name="", MALEO TV
-https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
+http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="Entertainment" tvg-id="" tvg-name="", POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
