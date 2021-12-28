@@ -3697,7 +3697,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/
 http://nomorecable.xyz:80/hahaiptv-/079652/48326
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="priveHD.in" tvg-name="priveHD.in", & privé HD
-http://103.131.212.138:8000/play/a01e/index.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/And-Prive.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="" tvg-name="", Pluto TV Westerns
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
