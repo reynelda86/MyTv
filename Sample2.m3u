@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sports" tvg-id="SpoTV2.kr" tvg-name="SpoTV2.kr", SpoTV 2
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv2-kr.m3u8
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="Malay" tvg-id="HyppSensasiHD" tvg-name="HyppSensasiHD", Hypp Sensasi HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
+http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
