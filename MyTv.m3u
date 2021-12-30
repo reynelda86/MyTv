@@ -140,9 +140,6 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 http://urtv.cc:80/jalan8/jalan8/8839
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="English" tvg-id="" tvg-name="", Galaxy Premium
-http://4rr0w.my.id/tvbusek/glxpr.m3u8
-
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SonyPix.m3u8
