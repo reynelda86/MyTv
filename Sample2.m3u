@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="TV3.my" tvg-name="TV3.my", TV 3
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/penang189/penang189/8750
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malay" tvg-id="149" tvg-name="149", TV9
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
