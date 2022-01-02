@@ -4466,3 +4466,22 @@ http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/13727.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR2Ii6zlVVcNzbN3idvzlPGXfTgHH48ZiAw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me 2 (2013)
 http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/13728.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOjl1ow7i0LWMITdixGR25H1wq306w3hOw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle Creation
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Annabelle_%20Creation.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNTImeEUV-AK4q2ztgqk-lsAFSgYMx6Rg1A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle
+https://storage.googleapis.com/13464d6732c4/047/ecd771a0a55a9350d4e1edc2955475b3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring (2013)
+https://www.deadlyblogger.com/NewRelease/conjuring.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ym7X7nlkzMSnLkHxG96iZ16zAlu.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Curse Of La Llorona
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Curse%20Of%20La%20Llorona.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring 2 (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring%202.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring The Devil Made Me Do It (2021)
+http://admin.nf21.net/go/files/19354
