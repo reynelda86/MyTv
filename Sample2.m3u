@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="English" tvg-id="" tvg-name="", &FliX
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/And-Flix.m3u8
+#EXTINF:-1 tvg-id="astrocitra.my" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+http://urtv.cc:80/penang189/penang189/7267
