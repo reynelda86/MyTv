@@ -4482,3 +4482,31 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring The Devil Made Me Do It (2021)
 http://admin.nf21.net/go/files/19354
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle & Documentary" tvg-id="Eat&Go.MACAN" tvg-name="Eat&Go.MACAN", Eat & Go
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=eatgo&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN", Bioskop Indonesia
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="&amp;Flix HD" tvg-name="&amp;Flix HD", Flik
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=flik&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=galaxypremium&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="English" tvg-id="mycinema" tvg-name="mycinema", MY Cinema
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=mycinema&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_small.png" group-title="English" tvg-id="mycinemaasia" tvg-name="mycinemaasia", MY Cinema Asia
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=mycinemaasia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="English" tvg-id="myfamily" tvg-name="myfamily", MY FAMILY
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=myfamily&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_starchinesechannel_small.png" group-title="Chinese" tvg-id="StarChineseChannel.hk" tvg-name="StarChineseChannel.hk", Star Chinese Channel
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=starchinesechannel&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradangdut_small.png" group-title="Entertainment" tvg-id="CitraDangdut.id" tvg-name="CitraDangdut.id", Citra Dangdut
+https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=citradangdut&bandwidth=default&sync=0
