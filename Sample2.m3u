@@ -1,50 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro AEC
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/6701
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="Chinese" tvg-id="311" tvg-name="311", Astro AOD 311
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/6702
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Chinese" tvg-id="352" tvg-name="352", Astro AOD 352
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/6703
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/fec06cc8554e1b382eb9592918638974.png" group-title="Chinese" tvg-id="353" tvg-name="353", Astro AOD 353
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/6704
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/4ecbf4199ba725a25362149501b9ae90.png" group-title="Chinese" tvg-id="355" tvg-name="355", Astro AOD 355
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/6706
-
-#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png" group-title="English" tvg-id="704" tvg-name="704", PrimeTime Channel HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/7185
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="Indian" tvg-id="AstroVinmeenHD.my" tvg-name="AstroVinmeenHD.my", Astro Vinmeen HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/6739
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="Malay" tvg-id="AwesomeTV.my" tvg-name="AwesomeTV.my", Awesome TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-http://urtv.cc:80/454781209544/431009674535/9016
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="Indian" tvg-id="ColorsInfinity.in" tvg-name="ColorsInfinity.in", Colors Infinity
-http://195.201.82.32:5001/play/a00k
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English" tvg-id="StarWorldPremiereHD.hk" tvg-name="StarWorldPremiereHD.hk", Star World Premiere HD 
-http://195.201.82.32:5001/play/a004
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/e4a6580d43f6aa73a544d82ea2645dc9.jpg" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/8986
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/penang189/penang189/7205
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Bollywood HD
-http://195.201.82.32:5001/play/a03c
-
+#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Malay" tvg-id="Sur.SG" tvg-name="Sur.SG", Suria Singapore
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
+https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mp
