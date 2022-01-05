@@ -47,11 +47,6 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO HD
-https://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/u3Q1l170/norvegicus/astro_boo_norvegicus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="118" tvg-name="118", Go Shop 118
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
