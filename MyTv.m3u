@@ -10,9 +10,24 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="TV3.my" tvg-name="TV3.my", TV3
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/penang189/penang189/8750
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="TV3.my" tvg-name="TV3.my", TV 3
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaXmfWTGFVDCD6w4_kfasmM)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaXmfWTGFVDCD6w4_kfasmM)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08uNH1GfNM04rOK_AM9aG3lg)/dm/3/x7a7rpm/s/live-1.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08uNH1GfNM04rOK_AM9aG3lg)/dm/3/x7a7rpm/s/live-1.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaXmfWTGFVDCD6w4_kfasmM)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaXmfWTGFVDCD6w4_kfasmM)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08uNH1GfNM04rOK_AM9aG3lg)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08uNH1GfNM04rOK_AM9aG3lg)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOZDZZcTJ1a0dHNVdlQ3FhVmxWV3FFRmJqSzZIVHdRci1LdThUZHRIMEptRFZWVHJxTzdaV2ZzTFVzcTBzSlNsU3doTFJ5aWdTVENoVy1YU01RWXcyRzh2QWo3c1d5S0lkNlptSVcxVVZLZmZNVjJXdE9tSFV5aWpNUmFDMV9JZi1EV2g0dWlTeThZTm95N29DaW45UWZHRlFGSVNpUmJpWFVMTkhmR2todk1yUkdGYlBUUTN0VnZaN0RBOHZUMldUMUUtSDkwU1YyWmFXYU9MOGhrM0otRDZoOVFRaWQ2U3VRbkhXMFB0cUEtZXYyck5kZ3JTMW95cHBYSDQ0STN3X1QyeGtZZzFuMGVvb2dkSWtiaTFYZkd0SEFudHhybjFLN3FmMUJTUjdHc0pnT2V6Q1U1d2hHZTVETUdqajNVNjQ0WVJLUG1JZmxaWGpJcVBRRkhJb3A0NzY1RkpFaHFMVVBQY0FPaTZtNlUmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk5kNllxMnVrR0c1V2VDcWFWbFZXcUVGYmpLNkhUd1FyLUt1OFRkdEgwSm1EVlZUcnFPN1pXZnNMVXNxMHNKU2xTd2hMUnlpZ1NUQ2hXLVhTTVFZdzJHOHZBajdzV3lLSWQ2Wm1JVzFVVktmZk1WMld0T21IVXlpak1SYUMxX0lmLURXaDR1aVN5OFlOb3k3b0NpbjlRZkdGUUZJU2lSYmlYVUxOSGZHa2h2TXJSR0ZiUFRRM3RWdlo3REE4dlQyV1QxRS1IOTBTVjJaYVdhT0w4aGszSi1ENmg5UVFpZDZTdVFuSFcwUHRxQS1ldjJyTmRnclMxb3lwcFhINDRJM3dfVDJ4a1lnMW4wZW9vZ2RJa2JpMVhmR3RIQW50eHJuMUs3cWYxQlNSN0dzSmdPZXpDVTV3aEdlNURNR2pqM1U2NDRZUktQbUlmbFpYaklxUFFGSElvcDQ3NjVGSkVocUxVUFBjQU9pNm02VSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=PQ0gvb4QlHsE5irrGEBABqbHnGc%3d
