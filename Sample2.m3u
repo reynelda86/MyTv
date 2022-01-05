@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO HD
-#EXT-X-TARGETDURATION:10
-#EXT-X-ALLOW-CACHE:YA
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:2599322
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:10.0,
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599322
-#EXTINF:10.0,
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599322
-#EXTINF:10.0,
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599322
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malay" tvg-id="109" tvg-name="109", Naura HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/jalan8/jalan8/6724
