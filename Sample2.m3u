@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="" tvg-name="", Galaxy HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="" tvg-name="", Galaxy
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Linux armv7l; HbbTV/1.2.1 (; Philips; 40HFL5010T12; ; PHILIPSTV; CE-HTML/1.0 NETTV/4.4.1 SmartTvA/3.0.0 Firmware/004.002.036.135 (PhilipsTV, 3.1.1,)en) ) Presto/2.12.407 Version/12.50
 http://urtv.cc:80/penang181/penang181/8839
