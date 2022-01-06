@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="394" tvg-name="394", Oh!K HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="394" tvg-name="394", Oh!K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 http://urtv.cc:80/penang189/penang189/6726
