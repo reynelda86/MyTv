@@ -1,8 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Chinese" tvg-id="394" tvg-name="394", Oh!K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-http://urtv.cc:80/penang189/penang189/6726
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Linux armv7l; HbbTV/1.2.1 (; Philips; 40HFL5010T12; ; PHILIPSTV; CE-HTML/1.0 NETTV/4.4.1 SmartTvA/3.0.0 Firmware/004.002.036.135 (PhilipsTV, 3.1.1,)en) ) Presto/2.12.407 Version/12.50
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6723
+http://urtv.cc:80/penang189/penang189/6726
