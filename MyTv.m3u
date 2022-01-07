@@ -235,11 +235,6 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:0 tvg-id="703" tvg-name="703" tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="English",Lifetime HD
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="English" tvg-id="713" tvg-name="713", Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=paramount&gumisasakTV=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="PBSAmerica.us" tvg-name="PBSAmerica.us", PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
