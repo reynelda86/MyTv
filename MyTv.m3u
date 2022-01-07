@@ -4490,7 +4490,7 @@ https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=flik&bandwidth=defau
 http://urtv.cc:80/jalan8/jalan8/8838
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="English" tvg-id="mycinema" tvg-name="mycinema", MY Cinema
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=mycinema&bandwidth=default&sync=0
+http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_small.png" group-title="English" tvg-id="mycinemaasia" tvg-name="mycinemaasia", MY Cinema Asia
 https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=mycinemaasia&bandwidth=default&sync=0
