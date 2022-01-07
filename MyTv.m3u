@@ -4486,7 +4486,8 @@ https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
 https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=flik&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=galaxypremium&bandwidth=default&sync=0
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/jalan8/jalan8/8838
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="English" tvg-id="mycinema" tvg-name="mycinema", MY Cinema
 https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=mycinema&bandwidth=default&sync=0
