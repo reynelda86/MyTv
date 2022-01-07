@@ -4493,7 +4493,7 @@ http://urtv.cc:80/jalan8/jalan8/8838
 http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_small.png" group-title="English" tvg-id="mycinemaasia" tvg-name="mycinemaasia", MY Cinema Asia
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=mycinemaasia&bandwidth=default&sync=0
+http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="English" tvg-id="myfamily" tvg-name="myfamily", MY FAMILY
 https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=myfamily&bandwidth=default&sync=0
