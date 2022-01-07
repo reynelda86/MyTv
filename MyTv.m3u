@@ -4528,3 +4528,10 @@ http://urtv.cc:80/penang189/penang189/7205
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Bollywood HD
 http://195.201.82.32:5001/play/a03c
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Entertainment" tvg-id="" tvg-name="", music Karaoke
+https://stirr.ott-channels.stingray.com/karaoke/master_768x432_1000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Entertainment" tvg-id="" tvg-name="", Music4U
+http://203.154.243.89:1213
