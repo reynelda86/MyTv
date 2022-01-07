@@ -4480,7 +4480,7 @@ http://admin.nf21.net/go/files/19354
 https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=eatgo&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN", Bioskop Indonesia
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="&amp;Flix HD" tvg-name="&amp;Flix HD", Flik
 https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=flik&bandwidth=default&sync=0
