@@ -1,4 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/penang181/penang181/6797
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:15
+#EXT-X-TARGETDURATION:4
+#EXTINF:4.000,
+sonypixhd-20.ts
+#EXTINF:3.999,
+sonypixhd-21.ts
+#EXTINF:4.000,
+sonypixhd-22.ts
+#EXTINF:4.000,
+sonypixhd-23.ts
+#EXTINF:4.000,
+sonypixhd-24.ts
+#EXTINF:4.000,
+sonypixhd-25.ts
+#EXTINF:4.000,
+sonypixhd-26.ts
+#EXTINF:3.999,
+sonypixhd-27.ts
+#EXTINF:4.000,
+sonypixhd-28.ts
+#EXTINF:4.000,
+sonypixhd-29.ts
+#EXTINF:4.000,
+sonypixhd-30.ts
+#EXTINF:4.000,
+sonypixhd-31.ts
+#EXTINF:4.000,
+sonypixhd-32.ts
+#EXTINF:3.999,
+sonypixhd-33.ts
+#EXTINF:4.001,
+sonypixhd-34.ts
