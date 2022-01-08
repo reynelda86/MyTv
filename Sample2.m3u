@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix HD
-#EXTINF:4.000,
-sonypixhd-20.ts
-#EXTINF:3.999,
-sonypixhd-21.ts
-#EXTINF:4.000,
-sonypixhd-22.ts
-#EXTINF:4.000,
-sonypixhd-23.ts
-#EXTINF:4.000,
-sonypixhd-24.ts
-#EXTINF:4.000,
-sonypixhd-25.ts
-#EXTINF:4.000,
-sonypixhd-26.ts
-#EXTINF:3.999,
-sonypixhd-27.ts
-#EXTINF:4.000,
-sonypixhd-28.ts
-#EXTINF:4.000,
-sonypixhd-29.ts
-#EXTINF:4.000,
-sonypixhd-30.ts
-#EXTINF:4.000,
-sonypixhd-31.ts
-#EXTINF:4.000,
-sonypixhd-32.ts
-#EXTINF:3.999,
-sonypixhd-33.ts
-#EXTINF:4.001,
-sonypixhd-34.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
+#EXTVLCOPT:http-referrer=https://astro.com.my
+https://tinyurl.com/2f9xaw9u
