@@ -58,8 +58,9 @@ http://urtv.cc:80/jalan8/jalan8/6725
 https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/penang181/penang181/9031
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+#EXTVLCOPT:http-referrer=https://astro.com.my
+https://tinyurl.com/2f9xaw9u
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
