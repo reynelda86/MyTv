@@ -3605,7 +3605,7 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMF
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="" tvg-name="", Pluto TV Westerns
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="English" tvg-id="" tvg-name="", Douyu TV HD
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 1
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="English" tvg-id="" tvg-name="", FilmRise Free Movies
