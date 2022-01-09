@@ -1,5 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria HD
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png" group-title="English" tvg-id="primetime.my" tvg-name="primetime.my", Astro Primetime
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-#EXTVLCOPT:http-referrer=https://astro.com.my
-https://tinyurl.com/2f9xaw9u
+http://urtv.cc:80/penang189/penang189/7185
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="Indian" tvg-id="AstroVinmeenHD.my" tvg-name="AstroVinmeenHD.my", Astro Vinmeen HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/penang189/penang189/6739
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Linux armv7l; HbbTV/1.2.1 (; Philips; 40HFL5010T12; ; PHILIPSTV; CE-HTML/1.0 NETTV/4.4.1 SmartTvA/3.0.0 Firmware/004.002.036.135 (PhilipsTV, 3.1.1,)en) ) Presto/2.12.407 Version/12.50
+https://tinyurl.com/24ykh6hw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Bollywood HD
+http://195.201.82.32:5001/play/a03c
+
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetworkAsia.us" tvg-name="ParamountNetworkAsia.us", Paramount Network Asia
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
