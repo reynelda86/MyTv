@@ -4470,3 +4470,13 @@ http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetworkAsia.us" tvg-name="ParamountNetworkAsia.us", Paramount Network Asia
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
