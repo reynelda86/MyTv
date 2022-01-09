@@ -463,7 +463,8 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", BollyOne HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37348
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/jalan8/jalan8/6754
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="116" tvg-name="116",Colors Hindi HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
