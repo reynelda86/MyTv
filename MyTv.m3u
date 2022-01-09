@@ -2202,11 +2202,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/YOUNG%20IP%20MAN_%20CR
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6WFeKmWIFQKOav_97ox_rudN_EuEUQvtNQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Zombieland Double Tap (2019)
 http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1066234.mp4
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_pl.png" group-title="LifeStyle & Documentary" tvg-id="DiscoveryLifeChannel.us" tvg-name="DiscoveryLifeChannel.us", Discovery Life Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125318
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
 http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539525.ts
