@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 2
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
-
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 3
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetworkAsia.us" tvg-name="ParamountNetworkAsia.us", Paramount Network Asia
-https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="Indian" tvg-id="AstroBollyOneHD.my" tvg-name="AstroBollyOneHD.my", Astro BollyOne HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/jalan8/jalan8/6754
