@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png" group-title="English" tvg-id="primetime.my" tvg-name="primetime.my", Astro Primetime
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/penang189/penang189/7185
-
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="Indian" tvg-id="AstroVinmeenHD.my" tvg-name="AstroVinmeenHD.my", Astro Vinmeen HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/penang189/penang189/6739
