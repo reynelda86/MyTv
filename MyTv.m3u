@@ -4090,9 +4090,6 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3645
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Vasantham SG
-http://link.iptvlogin.com:80/live/LfPdKKYE9k/yqCMLZS6h5/287533.ts
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/coL8O01xtvBTT6KsjGteDNglmKJ_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2011)
 http://red.ipfox.org:8080/movie/1234/12345678/1302.mp4
