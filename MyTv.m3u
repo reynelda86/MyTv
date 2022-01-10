@@ -4389,10 +4389,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring The Devil Made Me Do It (2021)
 http://admin.nf21.net/go/files/19354
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle & Documentary" tvg-id="Eat&Go.MACAN" tvg-name="Eat&Go.MACAN", Eat & Go
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=eatgo&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN", Bioskop Indonesia
 https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
 
