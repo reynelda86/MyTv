@@ -699,9 +699,7 @@ https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="820" tvg-name="820", Eurosport HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1634
+http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -4024,9 +4022,6 @@ https://cupu.ga/?redirect=0lIkF2bs52dvRmIsISZzxWYmJCLiAHM4ATMiwiI3BnVjRXbDhHUSJj
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
 http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/571987.ts
-
-#EXTINF:-1 tvg-logo="https://www.ipko.com/epg/logo/Eurosport.png" group-title="No group" tvg-id="Eurosport1.fr" tvg-name="Eurosport1.fr", Eurosport 1
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zolq22nUw843b7Vm203I9h2/ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="Sports" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
