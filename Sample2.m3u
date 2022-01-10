@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Vasantham SG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13" group-title="Malay" tvg-id="" tvg-name="", Flik
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Flik.m3u8
