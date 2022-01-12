@@ -68,8 +68,8 @@ https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/224.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/454781209544/431009674535/6740
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+http://139.99.90.11:80/live/1159189903/4938860969/18.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
