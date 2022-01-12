@@ -657,6 +657,9 @@ http://urtv.cc:80/jalan8/jalan8/9028
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Chinese" tvg-id="" tvg-name="", Chinese Drama
+https://tvlivehometv.xyz/RHS/HOME-TVuseefull.m3u8?channel=chinesedrama
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
