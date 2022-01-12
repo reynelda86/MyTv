@@ -3375,9 +3375,6 @@ http://urtv.cc:80/jalan8/jalan8/6703
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 http://urtv.cc:80/jalan8/jalan8/6706
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="ColorsInfinity.in" tvg-name="ColorsInfinity.in", Colors Infinity
-http://node85383-gvkjio.in1.bitmana.io/live.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English" tvg-id="StarWorldPremiereHD.hk" tvg-name="StarWorldPremiereHD.hk", Star World Premiere HD 
 http://195.201.82.32:5001/play/a004
 
