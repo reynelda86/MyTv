@@ -462,9 +462,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/jalan8/jalan8/6802
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="221" tvg-name="221", Star Vijay HD
-http://58.27.219.166:8000/play/a0ds
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="222" tvg-name="222", Colors Tamil HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
