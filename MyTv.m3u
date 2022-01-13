@@ -3396,7 +3396,7 @@ https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Indian" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
-http://node85383-gvkjio.in1.bitmana.io/live.php?c=Zee_Classic&q=800&e=junk.m3u8
+https://durbinlive.com:443/live/jio?c=Zee_Classic&q=auto&e=FcnIptv.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Indian" tvg-id="705" tvg-name="705", Polimer TV
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
