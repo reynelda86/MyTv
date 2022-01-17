@@ -1,4 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Indian" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="English" tvg-id="" tvg-name="", MY Cinema
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:75564
+#EXT-X-TARGETDURATION:6
+#EXTINF:6.000,
+index-75564.ts
+#EXTINF:6.000,
+index-75565.ts
+#EXTINF:6.000,
+index-75566.ts
+#EXTINF:6.000,
+index-75567.ts
+#EXTINF:6.000,
+index-75568.ts
+#EXTINF:6.000,
+index-75569.ts
+#EXTINF:6.000,
+index-75570.ts
+#EXTINF:6.000,
+index-75571.ts
