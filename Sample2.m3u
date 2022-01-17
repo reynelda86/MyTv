@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="English" tvg-id="" tvg-name="", MY Cinema
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:75564
-#EXT-X-TARGETDURATION:6
 #EXTINF:6.000,
 index-75564.ts
 #EXTINF:6.000,
