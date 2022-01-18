@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
-#EXT-X-VERSION:3
-#EXT-X-DISCONTINUITY-SEQUENCE:12398
-#EXT-X-MEDIA-SEQUENCE:488
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index79.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index80.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index81.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index82.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index83.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index84.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index85.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index86.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index87.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index88.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index89.ts
-#EXTINF:10.0,
-https://d14c63magvk61v.cloudfront.net/hls/vid/13342/1280x720/index90.ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports" tvg-id="823" tvg-name="823", RugbyPass TV HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/live/penang189/penang189/6821.m3u8
