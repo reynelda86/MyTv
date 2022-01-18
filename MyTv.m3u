@@ -702,7 +702,8 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports" tvg-id="823" tvg-name="823", RugbyPass TV HD
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/live/penang189/penang189/6821.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png" group-title="Sports" tvg-id="SetantaSportsUkraine.ie" tvg-name="SetantaSportsUkraine.ie", Setanta Sports Ukraine
 https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
