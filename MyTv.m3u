@@ -455,10 +455,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzD7OhdSjEvTDVMKq-06O0MUFD-IqY1NoSA&usqp=CAU" group-title="Indian" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="" tvg-name="", Jaya Max
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/jalan8/jalan8/6802
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="222" tvg-name="222", Colors Tamil HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
