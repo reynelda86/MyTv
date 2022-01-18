@@ -1,4 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar HD
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
