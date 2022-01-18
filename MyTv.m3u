@@ -696,7 +696,7 @@ http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports" tvg-id="822" tvg-name="822", Golf Channel HD
-http://zalogitv.tech:8080/padji33/33334444/438
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -1781,7 +1781,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBvEL2d.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 #EXT-X-VERSION:3
 #EXT-X-DISCONTINUITY-SEQUENCE:12398
