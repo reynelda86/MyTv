@@ -3424,3 +3424,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/87019
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="24/7" tvg-id="" tvg-name="", 24/7: Scifi Movies
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/87011
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181118/pjq/kisspng-prtg-network-monitor-television-channel-digital-te-telekarta-cinema-lyngsatlogo-5bf1263f2dca67.1450802215425306231876.jpg" group-title="English" tvg-id="" tvg-name="", Cinema 1 PPV
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/17930.ts
