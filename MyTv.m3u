@@ -51,6 +51,9 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
+https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/1845.ts
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="118" tvg-name="118", Go Shop 118
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
