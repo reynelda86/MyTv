@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="asianfoodchannel.id" tvg-name="asianfoodchannel.id", Asia Food Network
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://urtv.cc:80/321456/321456/8857
