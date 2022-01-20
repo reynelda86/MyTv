@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Lifestyle & Documentary" tvg-id="asianfoodchannel.id" tvg-name="asianfoodchannel.id", Asia Food Network
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://urtv.cc:80/321456/321456/8857
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
