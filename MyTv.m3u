@@ -58,7 +58,8 @@ https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/1845.ts
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112" tvg-name="112", Astro Rania HD
-http://zalogitv.tech:8080/padji33/33334444/1900
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/penang189/penang189/6729
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO HD
 http://zalogitv.tech:8080/padji33/33334444/1799
