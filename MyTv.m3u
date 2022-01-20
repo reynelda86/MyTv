@@ -31,7 +31,7 @@ https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNb
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc/penang043/penang043/9016
+http://urtv.cc:80/penang043/penang043/9016
 
 #EXTINF:-1 group-title="Malay" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria Singapore
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
