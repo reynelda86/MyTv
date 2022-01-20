@@ -43,8 +43,8 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 http://urtv.cc:80/jalan8/jalan8/7185
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com 
-https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
