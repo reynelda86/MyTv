@@ -43,8 +43,18 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 http://urtv.cc:80/jalan8/jalan8/7185
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXclxRqzW7XS7vYc8t2bT1w)/dm/3/x6qp6ou/s/live-1.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXclxRqzW7XS7vYc8t2bT1w)/dm/3/x6qp6ou/s/live-1.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXclxRqzW7XS7vYc8t2bT1w)/dm/3/x6qp6ou/s/live-0.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXclxRqzW7XS7vYc8t2bT1w)/dm/3/x6qp6ou/s/live-0.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qV_D7yBOw-2FKr5nLjYe7I)/dm/3/x7a7rxp/s/live-0.m3u8#cell=lsg1
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qV_D7yBOw-2FKr5nLjYe7I)/dm/3/x7a7rxp/s/live-0.m3u8#cell=lsg1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
