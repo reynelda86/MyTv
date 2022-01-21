@@ -303,9 +303,6 @@ http://my.odtv.uk:80/live/1159189903/4938860969/78.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="News" tvg-id="517" tvg-name="517", Bloomberg TV HD
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xBMXe2j4JYs0QtSblSyE6WmiFCVMgpeMSA&usqp=CAU" group-title="News" tvg-id="KHIZLD7.us" tvg-name="KHIZLD7.us", CBN News
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/215-2151705_cbs-news-png-vector-transparent-stock-cbs-news.png" group-title="News" tvg-id="CHN" tvg-name="CHN", CBS NEWS
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 
