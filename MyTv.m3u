@@ -30,7 +30,7 @@ https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNb
 https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNbGT8L8)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc/penang043/penang043/9016
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
