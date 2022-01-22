@@ -3383,6 +3383,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/86934
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/86927
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="24/7" tvg-id="" tvg-name="", 24/7: Die Hard
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/87092
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="24/7" tvg-id="" tvg-name="", 24/7 Dragon Ball Z
