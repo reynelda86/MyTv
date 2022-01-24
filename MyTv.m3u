@@ -641,10 +641,6 @@ http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/98130
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports" tvg-id="FightSports.us" tvg-name="FightSports.us", Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="Sports" tvg-id="" tvg-name="", Astro Arena 2
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://urtv.cc:80/jalan8/jalan8/9028
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
