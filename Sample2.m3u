@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
+#EXTVLCOPT:http-user-agent= lemff71ff25b2b0033b0d9f68830728b4cc
+http://50.7.40.2:3977/live/awe300a4-e511-484f-b6dd-98de1483bawe.m3u8
