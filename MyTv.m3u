@@ -17,21 +17,21 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSSBQSFSwV3Nx-bqZ9oxRpE)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUGSJZpWWrRpO1HkCt09vPQ)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSSBQSFSwV3Nx-bqZ9oxRpE)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUGSJZpWWrRpO1HkCt09vPQ)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNbGT8L8)/dm/3/x7a7rpm/s/live-1.m3u8#cell=lsg1
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pqb1vgnq02fIfMpy94LMh4)/dm/3/x7a7rpm/s/live-1.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNbGT8L8)/dm/3/x7a7rpm/s/live-1.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pqb1vgnq02fIfMpy94LMh4)/dm/3/x7a7rpm/s/live-1.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSSBQSFSwV3Nx-bqZ9oxRpE)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUGSJZpWWrRpO1HkCt09vPQ)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSSBQSFSwV3Nx-bqZ9oxRpE)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUGSJZpWWrRpO1HkCt09vPQ)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNbGT8L8)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pqb1vgnq02fIfMpy94LMh4)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lzU2ly9yeMXIeeGNbGT8L8)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pqb1vgnq02fIfMpy94LMh4)/dm/3/x7a7rpm/s/live-0.m3u8#cell=lsg1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDVXppbHJ6amg3bTZWQ1loSGdDTEFtYWxlZy04a3lJRTdycHpJSGpxZDgxRkthb3I5VFF6Sm42RXZwSmZrT3I4RUlNeXdJQ1cxc1lpMTJuX25DNkdPSThwSXFpZ1lxdHduM2JrenhXUW05LXZUTDRFYkllTmNlZGtNb251cldnWG9xU1pZcHpUQkk2Z1A4eXJCWWZJMHZldGxwX01aYW4zRzJTZkdNUTI0X2xkd3Q3SUJXVVpJUzViUjU2ZlBEdVF1YjN3VVFSTU52eXMzTzdiUldGWWlIZldLcnZFdjNIc01FNks0ekJNWVdDbkVKT1JLdGk2dEotUDlzcjMtMGJ6ajJfdjVfV20zV0Y5MHFPWHRWdndmYXFuT2ZtWkFVQmdZM2JpT0F6ZHFBQTZGZjZ5cmpYMGJIb01TUnFrN0plY3FXQmVYSEJTRWY2dlMzenZ6eWFJdE09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDVXppbHJ6amg3bTZWQ1loSGdDTEFtYWxlZy04a3lJRTdycHpJSGpxZDgxRkthb3I5VFF6Sm42RXZwSmZrT3I4RUlNeXdJQ1cxc1lpMTJuX25DNkdPSThwSXFpZ1lxdHduM2JrenhXUW05LXZUTDRFYkllTmNlZGtNb251cldnWG9xU1pZcHpUQkk2Z1A4eXJCWWZJMHZldGxwX01aYW4zRzJTZkdNUTI0X2xkd3Q3SUJXVVpJUzViUjU2ZlBEdVF1YjN3VVFSTU52eXMzTzdiUldGWWlIZldLcnZFdjNIc01FNks0ekJNWVdDbkVKT1JLdGk2dEotUDlzcjMtMGJ6ajJfdjVfV20zV0Y5MHFPWHRWdndmYXFuT2ZtWkFVQmdZM2JpT0F6ZHFBQTZGZjZ5cmpYMGJIb01TUnFrN0plY3FXQmVYSEJTRWY2dlMzenZ6eWFJdE09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=SsbQtLTe48X7Oe0R0DAmzmbbc5g%3d
