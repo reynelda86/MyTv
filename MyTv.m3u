@@ -183,6 +183,9 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="priveHD.in" tvg-name="priveHD.in", & privé HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_small.png" group-title="English" tvg-id="" tvg-name="", MY Cinema Asia
+https://lnk.ec/MyCinemaAsia?shareext.ts
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="English" tvg-id="" tvg-name="", MY Cinema
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/159
 
