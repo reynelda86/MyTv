@@ -183,6 +183,9 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="priveHD.in" tvg-name="priveHD.in", & privé HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs4Eqo0KJ3Ai5Kj2KefcZtsbNt5AV-mjKMQ&usqp=CAU" group-title="English" tvg-id="FXEast.us" tvg-name="FXEast.us", FX East
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3638
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/34470
 
