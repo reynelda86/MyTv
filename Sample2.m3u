@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs4Eqo0KJ3Ai5Kj2KefcZtsbNt5AV-mjKMQ&usqp=CAU" group-title="English" tvg-id="FXEast.us" tvg-name="FXEast.us", FX East
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3638
