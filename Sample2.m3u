@@ -3,3 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_832/output/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000590&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ0NDI3Njg0IiwiaXNlIjp0cnVlLCJqdGkiOiI2MWZjM2Y1Zi00MzBlLTQ5M2UtYTE4ZC03NTA2NGJmMDkyZTQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQzNTIzOTA4LCJuYW1lIjoiWXV2YSBLcmlzaG5hbiIsImlhdCI6MTY0MzQzNzUwOCwiZW50IjpbeyJiaWQiOjEwMDAwMDExOTAsImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyJ9XSwiaXNzIjoiVFROIn0.NOaIv7yK-N64wKwJ7bXQrvyK9eOsDcQ_a3_JVSgppTg
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_186/output/manifest.mpd
