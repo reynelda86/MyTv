@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/454781209544/431009674535/6740
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000530&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ0NDI3Njg0IiwiaXNlIjp0cnVlLCJqdGkiOiJlNDQ5MDJmMS1jMjM1LTQxOTAtOTI1Mi04NTljZTRmNGU3YzEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQzNTIzOTA4LCJuYW1lIjoiWXV2YSBLcmlzaG5hbiIsImlhdCI6MTY0MzQzNzUwOCwiZW50IjpbeyJiaWQiOjEwMDAwMDAwMDEsImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyJ9XSwiaXNzIjoiVFROIn0.u-QBkdJDepSks3m5lIqbef_wzER3FNgqrYPm6V4hV6I
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_832/output/manifest.mpd
