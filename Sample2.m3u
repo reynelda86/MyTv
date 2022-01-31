@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://iptv.tvmalaysia.cc:80/321456/321456/6713
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="No group" tvg-id="priveHD.in" tvg-name="priveHD.in", & privé HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_431/output/manifest.mpd
