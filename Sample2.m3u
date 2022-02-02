@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", DidikTV
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="105" tvg-name="105", Drama Sangat
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/33283
