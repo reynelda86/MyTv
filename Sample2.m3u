@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="105" tvg-name="105", Drama Sangat HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malay" tvg-id="109" tvg-name="109", Naura HD
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:147
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:10.0,
+http://urtv.cc:80/boy1/boy1/6724
+#EXTINF:10.0,
+http://urtv.cc:80/boy1/boy1/6724
+#EXTINF:10.0,
+http://urtv.cc:80/boy1/boy1/6724
