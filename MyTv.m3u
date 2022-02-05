@@ -197,7 +197,8 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/11900
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/22885
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5389
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://50.7.40.2:3977/live/e393cf57-5da4-4225-82d3-4768934354a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5401
