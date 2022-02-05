@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bngw058x/MCA.png" group-title="English" tvg-id="mycinema" tvg-name="mycinema", My Cinema
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
