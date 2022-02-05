@@ -2917,7 +2917,8 @@ http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55927.ts
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/30733
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/24685?checkedby:iptvcat.com
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/30736
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqE-XyH1284b-GKsADHYCxSOoblummVKD-Vw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", 12 Years A Slave (2013)
