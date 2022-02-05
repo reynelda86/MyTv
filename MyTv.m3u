@@ -2256,7 +2256,8 @@ http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539526.ts
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/22908
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
-http://hdhd.tk:80/live/a0002/a0002/354.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/22907
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThcBZxt-LmW0hTmVOPBmC5ZGDIj-S-dgPhA&usqp=CAU" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/10731
