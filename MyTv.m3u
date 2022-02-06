@@ -3389,7 +3389,8 @@ http://zalogitv.tech:8080/padji33/33334444/25258
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetworkAsia.us" tvg-name="ParamountNetworkAsia.us", Paramount Network Asia
-https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/98.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Indian" tvg-id="705" tvg-name="705", Polimer TV
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
