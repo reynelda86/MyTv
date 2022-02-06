@@ -2868,7 +2868,8 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5398
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.siGk_3wwTOIdzMlF606P_wAAAA&pid=Api&P=0&w=257&h=172" group-title="English" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="ShowtimeFamilyZoneEast.us", Showtime Family Zone East
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3703
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/3982
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
 http://190.115.29.22:8080/carter/GUV1bMq2VK/5399?checkedby:iptvcat.com
