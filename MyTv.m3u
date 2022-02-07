@@ -2883,7 +2883,8 @@ http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/12577
 http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539555.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="English" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
-http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539538.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/29790
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="English" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
 http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/687369.ts
