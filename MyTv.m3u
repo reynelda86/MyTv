@@ -185,7 +185,8 @@ http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/8110
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/11900
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.c-zDjGr4tLGhH6RugS5AogHaDQ&pid=Api&P=0&w=413&h=182" group-title="English" tvg-id="" tvg-name="", Hallmark Drama
-http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/22885
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/4095
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
