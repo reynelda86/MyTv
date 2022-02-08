@@ -2242,10 +2242,6 @@ http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1066234.mp4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/12576
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/22908
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/22907
