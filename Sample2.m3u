@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="411" tvg-name="411", HBO HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/186867/186867/6841
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="" tvg-name="", Galaxy Premium
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/186867/186867/8838
+http://urtv.cc:80/186867/186867/6797
