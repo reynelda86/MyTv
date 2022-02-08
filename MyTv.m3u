@@ -2263,8 +2263,9 @@ http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/441954.ts
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="SkyCinemaSelect.uk" tvg-name="SkyCinemaSelect.uk", Sky Cinema Select
-http://muttsnuts.teaches-yoga.com:8080/live/kipper1/kipper1/539551.ts
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="skyselect.uk" tvg-name="skyselect.uk", Sky Cinema Select
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/12579
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvlbUwrsikCkKR-LWy2nEEmgKWWpS07_Gkg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scream (1996)
 http://gcs2.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfLGYgANN1kjXrJ_KFMDYXBJwzCfbqbYermxnSxsUe9QZ
