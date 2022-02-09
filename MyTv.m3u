@@ -207,7 +207,8 @@ http://pprotv.com:80/06169559/06169559/4095
 http://pprotv.com:80/06169559/06169559/4083
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5401
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/3985
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/34470
