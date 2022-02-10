@@ -1476,7 +1476,8 @@ http://pprotv.com:80/06169559/06169559/3981
 http://urtv.cc:80/186867/186867/8997
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFrX1O8wNGHc12a9qsHKbkIRqZc-sHLABUw&usqp=CAU" group-title="English" tvg-id="StarWorldHDIndia.hk" tvg-name="StarWorldHDIndia.hk", Star World HD India
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/61453
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1WwhSPFyb4yE5dj9BOS-DliPBclMpFt3vA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Grudge (2020)
 http://gcs2.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfLGYgANN1kjXrJ_KFMDYXBIGa1HrM6CZufM76xvYhCU2
