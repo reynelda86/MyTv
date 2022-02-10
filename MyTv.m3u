@@ -2884,7 +2884,8 @@ http://pprotv.com:80/06169559/06169559/3985
 http://pprotv.com:80/06169559/06169559/3982
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="English" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
-http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/687369.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/4192
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
