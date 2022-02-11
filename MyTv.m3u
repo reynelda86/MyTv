@@ -630,11 +630,10 @@ http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55830.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://bit.ly/3jrpJA6" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Infotainment
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+ 
 #EXTINF:0 tvg-id="709" tvg-name="709" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="Lifestyle & Documentary",Asian Food Network
-https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/807.ts
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/186867/186867/6693
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
