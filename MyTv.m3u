@@ -621,7 +621,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_pl.png" group-title="Lifestyle & Documentary" tvg-id="DiscoveryLifeChannel.us" tvg-name="DiscoveryLifeChannel.us", Discovery Life Channel
-http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/5409
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/4172
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbnk0AM5dxvMUv4N6pMVy51z1B9mv0dJgCg&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="InvestigationDiscoveryIndia.us" tvg-name="InvestigationDiscoveryIndia.us", Investigation Discovery India
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55830.ts
