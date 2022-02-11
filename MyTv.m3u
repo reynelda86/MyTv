@@ -79,7 +79,8 @@ https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08hqzRsSwfAlQ3kVKfQ
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
-https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/1845.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/39427
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="Malay" tvg-id="118" tvg-name="118", Go Shop 118
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
