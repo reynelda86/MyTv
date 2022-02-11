@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="713" tvg-name="713", Paramount Network Asia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://urtv.cc:80/186867/186867/8768
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Indian" tvg-id="214" tvg-name="214", Adithya
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/186867/186867/8997
+http://urtv.cc:80/186867/186867/6700
