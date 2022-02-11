@@ -2,3 +2,7 @@
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Indian" tvg-id="214" tvg-name="214", Adithya
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/186867/186867/6700
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="Indian" tvg-id="AstroBollyOneHD.my" tvg-name="AstroBollyOneHD.my", Astro BollyOne HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/186867/186867/6754
