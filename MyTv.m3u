@@ -519,7 +519,8 @@ http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/573210.ts
 http://urtv.cc:80/186867/186867/6768
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="221" tvg-name="221", Star Vijay HD
-https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/37345.ts
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/186867/186867/6732
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Indian" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
 https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/37343.ts
