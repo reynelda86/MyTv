@@ -718,7 +718,8 @@ http://urtv.cc:80/186867/186867/9028
 http://95.67.12.179:9001
 
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
-https://nonton.site:8443/live/IGRKg9OA4w/hshjs45678khtsdj/37421.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/39559
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
