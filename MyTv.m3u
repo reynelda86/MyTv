@@ -714,9 +714,6 @@ http://urtv.cc:80/186867/186867/6707
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/186867/186867/9028
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png" group-title="Sports" tvg-id="SetantaSportsUkraine.ie" tvg-name="SetantaSportsUkraine.ie", Setanta Sports Ukraine
-http://95.67.12.179:9001
-
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://pprotv.com:80/06169559/06169559/39559
