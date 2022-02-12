@@ -3017,7 +3017,8 @@ https://cupu.ga/?redirect=0lIkF2bs52dvRmIsISZzxWYmJCLiAHM4ATMiwiI3BnVjRXbDhHUSJj
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
-http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/571987.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://pprotv.com:80/06169559/06169559/33319
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="Sports" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
