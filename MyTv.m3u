@@ -3485,3 +3485,12 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/87028
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="24/7" tvg-id="" tvg-name="", 24/7: Rambo
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/87019
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="Lifestyle & Documentary" tvg-id="eatgo" tvg-name="eatgo", Eat & Go
+https://cubmu.superzap.xyz:8279/eatgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="Kids" tvg-id="aniplus" tvg-name="aniplus", AniPlus
+https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="Entertainment" tvg-id="ikonser" tvg-name="ikonser", Maleo TV
+https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
