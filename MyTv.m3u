@@ -3421,6 +3421,9 @@ http://pprotv.com:80/06169559/06169559/3974
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Indian" tvg-id="705" tvg-name="705", Polimer TV
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Box office Bollywood
+https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
 http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/33274
 
