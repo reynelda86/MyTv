@@ -88,14 +88,15 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112" tvg-name="112", Astro Rania HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://my.odtv.uk/live/9486331171/7860879594/22.ts
+http://urtv.cc:80/186867/186867/6729
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 http://urtv.cc:80/186867/186867/6725
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105" tvg-name="105", Astro Prima HD
-https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+http://urtv.cc:80/186867/186867/6727
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
