@@ -1,4 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Rania HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/186867/186867/6725
+http://urtv.cc:80/186867/186867/6729
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="AstroPrima.my" tvg-name="AstroPrima.my", Astro Prima HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/186867/186867/6727
