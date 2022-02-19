@@ -3056,7 +3056,8 @@ https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 http://pprotv.com:80/06169559/06169559/4183
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
-http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95202
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://loginto.live/JP1584/xuCu1Csjrs/498?checkedby:iptvcat.com
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOS8wOS8xOS81ZjQ4ZWIyMS1mMDNmLTQ3OGEtYjY0Zi0yOGU0NjNhNDhhNjBIT0xMWVdPT0RfQlMucG5n.jpg" group-title="English" tvg-id="HollywoodHD.us" tvg-name="HollywoodHD.us", Hollywood HD
