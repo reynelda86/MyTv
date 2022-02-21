@@ -3505,9 +3505,6 @@ https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="Entertainment" tvg-id="ikonser" tvg-name="ikonser", Maleo TV
 https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJsGgf6T2YOVI2WnR6EEMR5NSD95Seuf-rA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Empire Cinema
-http://vo01.mohdtv.com:8880/ALLChannels4459E384540F/39815544/64354
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="Lifestyle & Documentary" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
