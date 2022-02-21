@@ -3419,7 +3419,8 @@ http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
-http://client-urostream.club:8080/acD1Suf6Ma/hCdKRzUhxc/33274
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6723
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="noimage.png" group-title="24/7" tvg-id="" tvg-name="", 24/7: Action Movies
