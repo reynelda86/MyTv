@@ -2897,10 +2897,6 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://soberon.us:25461/bullnew/soberonnew/350
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.siGk_3wwTOIdzMlF606P_wAAAA&pid=Api&P=0&w=257&h=172" group-title="English" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="ShowtimeFamilyZoneEast.us", Showtime Family Zone East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://pprotv.com:80/06169559/06169559/3982
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="English" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://pprotv.com:80/06169559/06169559/4192
