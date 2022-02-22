@@ -1573,7 +1573,8 @@ http://www.supercartube.com/media/videos/h264/97_480p.mp4
 http://urtv.cc:80/449042/449042/8928
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="SonySABTVIndia.in" tvg-name="SonySABTVIndia.in", Sony SAB TV India
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/195
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6827
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
