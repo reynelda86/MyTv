@@ -1609,7 +1609,8 @@ https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/in
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="Entertainment" tvg-id="MTVBaseAfrica.us" tvg-name="MTVBaseAfrica.us", MTV Base Africa
-http://mains.services:2086/dorec14/Chuckman5525$/102375
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mantul.biz.id:8888/live/Arkan/54647/4793.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKFctz9.png" group-title="Entertainment" tvg-id="mtv-rus" tvg-name="mtv-rus", MTV Biggest POP
