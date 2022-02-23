@@ -582,7 +582,8 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/573191.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Indian" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
