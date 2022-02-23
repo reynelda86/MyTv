@@ -531,8 +531,8 @@ http://urtv.cc:80/449042/449042/6768
 http://urtv.cc:80/449042/449042/6732
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Indian" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://pprotv.com:80/06169559/06169559/60021
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/8967
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Vasantham SG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
