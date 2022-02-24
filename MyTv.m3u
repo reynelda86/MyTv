@@ -731,8 +731,9 @@ http://urtv.cc:80/449042/449042/8666
 http://urtv.cc:80/454781209544/431009674535/6707
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="Sports" tvg-id="" tvg-name="", Astro Arena 2
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/186867/186867/9028
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
