@@ -3493,7 +3493,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/87019
 https://cubmu.superzap.xyz:8279/eatgo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="Kids" tvg-id="aniplus" tvg-name="aniplus", AniPlus
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="Entertainment" tvg-id="ikonser" tvg-name="ikonser", Maleo TV
