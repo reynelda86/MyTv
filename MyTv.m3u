@@ -1627,6 +1627,11 @@ https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/in
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Chinese" tvg-id="321" tvg-name="321", Celestial Classic Movies
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#EXTINF:-1 tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="Chinese" tvg-id="" tvg-name="", K Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="Entertainment" tvg-id="MTVBaseAfrica.us" tvg-name="MTVBaseAfrica.us", MTV Base Africa
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mantul.biz.id:8888/live/Arkan/54647/4793.m3u8
