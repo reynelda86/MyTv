@@ -659,7 +659,9 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34485?token=TURYAhZYEAwSXQIBCVcC
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
  
 #EXTINF:0 tvg-id="709" tvg-name="709" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="Lifestyle & Documentary",Asian Food Network
-https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b1200000.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b0e855d7fb11721129c13d4c1b645e10&key=2ddd4b255921d5c2a331e5f10f302be0
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
