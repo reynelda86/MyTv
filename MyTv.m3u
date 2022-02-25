@@ -2881,8 +2881,9 @@ http://jlwmedia.xyz:80/play/SLtyoAEWxCZ14G8cC_AOfP_4iLkwHPZi7f_9r2ZMe4NIEoKEuX0x
 http://basic-iptvesun.com:8080/movie/carter/GUV1bMq2VK/42075.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/454781209544/431009674535/6713
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="Malay" tvg-id="" tvg-name="", Astro Go Ruuma
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
