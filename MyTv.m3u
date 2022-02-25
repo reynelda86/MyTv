@@ -785,7 +785,9 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="BeInSports3.qa" tvg-name="BeInSports3.qa", BeIn Sports 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="ElevenSportsUSA.uk" tvg-name="ElevenSportsUSA.uk", Eleven Sports USA
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
