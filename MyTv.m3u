@@ -3439,7 +3439,9 @@ https://mibitivi.xyz/sc/play.mpd?channel=cdrama
 http://zalogitv.tech:8080/padji33/33334444/25258
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
-https://wopep.com/02_foxsport_720p/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetwork.us" tvg-name="ParamountNetwork.us", Paramount Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
