@@ -3057,7 +3057,8 @@ http://pprotv.com:80/06169559/06169559/33319
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="Sports" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17004
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://archive.simpletv.eu:8080/boxnation/index.m3u8?HasBahCa.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="AstroSuperSport.my" tvg-name="AstroSuperSport.my", Astro SuperSport
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
