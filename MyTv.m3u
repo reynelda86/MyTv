@@ -834,7 +834,9 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sports" tvg-id="821" tvg-name="821", WWE Network HD
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="874" tvg-name="874", AI FM
