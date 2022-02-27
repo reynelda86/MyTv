@@ -1648,10 +1648,6 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Entertainment" tvg-id="mtv-rus" tvg-name="mtv-rus", MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSol7el_V3QN_Zox-Kf3IKg7elny38uiXKlHQ&usqp=CAU" group-title="Entertainment" tvg-id="" tvg-name="", MTV Rock
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mantul.biz.id:8888/live/Arkan/54647/8675.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="Entertainment" tvg-id="" tvg-name="", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
