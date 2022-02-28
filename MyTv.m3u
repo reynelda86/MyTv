@@ -308,7 +308,6 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="English" tvg-id="" tvg-name="", MY FAMILY
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://15.235.142.228:8080/live/hometvfree/selaludihati/43.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
