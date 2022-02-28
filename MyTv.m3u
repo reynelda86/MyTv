@@ -3195,7 +3195,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetwork.us" tvg-name="ParamountNetwork.us", Paramount Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8?chname=
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95169
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Indian" tvg-id="705" tvg-name="705", Polimer TV
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
