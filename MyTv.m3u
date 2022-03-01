@@ -2866,7 +2866,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="Entertainment" tvg-id="" tvg-name="", POP MUSIK
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/coL8O01xtvBTT6KsjGteDNglmKJ_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2011)
