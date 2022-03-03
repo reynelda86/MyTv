@@ -2821,11 +2821,6 @@ https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQSIKQU6K6xD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94043
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="Sports" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://archive.simpletv.eu:8080/boxnation/index.m3u8?HasBahCa.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="AstroSuperSport.my" tvg-name="AstroSuperSport.my", Astro SuperSport
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/454781209544/431009674535/9024
