@@ -190,7 +190,7 @@ http://103.153.39.36:8000/play/a01d
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://103.153.39.36:8000/play/a00w
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.776UZ-JO-2TPgsTigq-gRQAAAA&pid=Api&P=0&w=211&h=159" group-title="English" tvg-id="StarzEncoreWest.us" tvg-name="StarzEncoreWest.us", Starz Encore West
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.776UZ-JO-2TPgsTigq-gRQAAAA&pid=Api&P=0&w=211&h=159" group-title="English" tvg-id="StarzEncoreEast.us" tvg-name="StarzEncoreEast.us", Starz Encore East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29493
 
