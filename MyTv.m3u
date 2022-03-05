@@ -467,10 +467,6 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="Chinese" tvg-id="416" tvg-name="416", tvN Movies HD
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU" group-title="Entertainment" tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us", MTV Music 24
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://red.ipfox.org:8080/1234/12345678/37490?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="Entertainment" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv.prosto.tv:7000/ch126/video.m3u8
