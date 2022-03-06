@@ -183,6 +183,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64349
+
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.c-zDjGr4tLGhH6RugS5AogHaDQ&pid=Api&P=0&w=413&h=182" group-title="English" tvg-id="" tvg-name="", Hallmark Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29457
