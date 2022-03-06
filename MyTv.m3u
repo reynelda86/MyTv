@@ -1588,10 +1588,6 @@ http://stariptv.org:8080/wael2021/123456/148472
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=2289
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFrX1O8wNGHc12a9qsHKbkIRqZc-sHLABUw&usqp=CAU" group-title="English" tvg-id="StarWorldHDIndia.hk" tvg-name="StarWorldHDIndia.hk", Star World HD India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
