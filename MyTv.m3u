@@ -183,6 +183,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/324.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/312.m3u8
