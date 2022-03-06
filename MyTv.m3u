@@ -183,6 +183,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.glSjqPDdwQvokQPcb9Ix8QAAAA&pid=Api&P=0&w=190&h=181" group-title="English" tvg-id="StarzEast.us" tvg-name="StarzEast.us", Starz East
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95145
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.66SIeGxAjvPEfOOVGZxvKwAAAA&pid=Api&P=0&w=200&h=100" group-title="English" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="StarzEncoreSuspenseEast.us", Starz Encore Suspense East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29459
