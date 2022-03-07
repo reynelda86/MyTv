@@ -420,6 +420,10 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/45.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3126
 
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3138
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
