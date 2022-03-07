@@ -1697,7 +1697,7 @@ http://urtv.cc:80/449042/449042/8928
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="SonySABTVIndia.in" tvg-name="SonySABTVIndia.in", Sony SAB TV India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=669
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
