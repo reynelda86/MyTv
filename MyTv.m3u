@@ -820,6 +820,10 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/454781209544/431009674535/6707
 
+#EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="Sports" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3075
+
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28812
