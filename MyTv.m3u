@@ -672,9 +672,6 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="Indian" tvg-id="ZeeBioskop.in" tvg-name="ZeeBioskop.in", Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Indian" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
-http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="Indian" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
