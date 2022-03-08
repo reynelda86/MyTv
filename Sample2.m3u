@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Bollywood
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Star Plus
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/449042/449042/8182
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Colors Infinity
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/449042/449042/8186
+http://urtv.cc:80/449042/449042/8200
