@@ -3354,3 +3354,43 @@ http://urtv.cc:80/422072/422072/8986
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwBz7Cw/images-15.png" group-title="Entertainment" tvg-id="" tvg-name="", Vevo HipHop
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/114_144.png" group-title="Chinese" tvg-id="353" tvg-name="353", Astro AOD 353
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6704
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="354" tvg-name="354", Astro AOD 354
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6705
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/66_144.png" group-title="Chinese" tvg-id="355" tvg-name="355", Astro AOD 355
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6706
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="Indian" tvg-id="202" tvg-name="202", Astro Vinmeen HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6739
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="716" tvg-name="716", DMAX HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6778
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzk1zi1FTAu4kmGl_Ne8yIYBgta39p48FxA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Fox Action Movies
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/7227
+
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/7225
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1xxiRCRc4uw34Sqkx0viHoE9I2zNj77djw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Fox Family Movies
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/9027
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSWaVgOf6Ejw34X5XueRQcESGu-7apV85QA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Kids & Family
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/8991
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zO6tHeBi439uHF1USGJuwnM3rmhusjG75g&usqp=CAU" group-title="Chinese" tvg-id="" tvg-name="", TVB Classic
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6839
