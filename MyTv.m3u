@@ -238,7 +238,7 @@ https://16live00.akamaized.net/EPIX_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59225
+https://16live00.akamaized.net/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5XWgiRF9lQonp4lbp3iiv6plXk5LMd0VA&usqp=CAU" group-title="Islam" tvg-id="" tvg-name="", Iqra TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
