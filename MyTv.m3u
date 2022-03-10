@@ -344,9 +344,6 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="English" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="English" tvg-id="" tvg-name="", MY FAMILY
-http://15.235.142.228:8080/live/hometvfree/selaludihati/43.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="Thrill.hk" tvg-name="Thrill.hk", Thrill
