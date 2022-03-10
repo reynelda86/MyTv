@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Star Movies
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Starz Cinema
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-http://live.flixhub.net/hls/starmovies.m3u8
+http://blackaddon.com/play/pl-228.php?c=680&f=.m3u8
