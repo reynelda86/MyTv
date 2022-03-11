@@ -729,6 +729,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Design Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/86LXN1S/BLOOMBERG.png" group-title="Lifestyle & Documentary" tvg-id="Hunt Channel" tvg-name="Hunt Channel", Hunt Channel
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://1111296894.rsc.cdn77.org:443/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="English" tvg-id="" tvg-name="", Mr Bean
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://176.9.17.76:7080/live/stream/8dl627dwai/70.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Hunt Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
