@@ -719,6 +719,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Hunt Channel
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCjk1hc/natural-planet-logo.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Nature Live
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kMSqd9f/504-5041014-transparent-background-wild-earth-calligraphy-hd-png-download.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Wild Earth
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://wildearth-roku.amagi.tv/masterR1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_pl.png" group-title="Lifestyle & Documentary" tvg-id="DiscoveryLifeChannel.us" tvg-name="DiscoveryLifeChannel.us", Discovery Life Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64343
