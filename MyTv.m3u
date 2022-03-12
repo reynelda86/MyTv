@@ -1624,7 +1624,6 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Indonesia" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.251.57:2082/malik/malik/1804
 
 #EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
