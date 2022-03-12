@@ -415,10 +415,6 @@ http://stariptv.org:8080/wael2021/123456/148464
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="English" tvg-id="" tvg-name="", Movies X
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://stariptv.org:8080/wael2021/123456/148499
