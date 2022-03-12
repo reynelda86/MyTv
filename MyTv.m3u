@@ -735,9 +735,6 @@ http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="Kids" tvg-id="719" tvg-name="719", Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="Kids" tvg-id="aniplus" tvg-name="aniplus", AniPlus
-http://15.235.142.228:8080/live/hometvfree/selaludihati/59.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="Kids" tvg-id="KidsTV.id" tvg-name="KidsTV.id", Kids TV
