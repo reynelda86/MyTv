@@ -736,7 +736,6 @@ http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="Kids" tvg-id="aniplus" tvg-name="aniplus", AniPlus
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://15.235.142.228:8080/live/hometvfree/selaludihati/59.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
