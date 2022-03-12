@@ -130,8 +130,8 @@ https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0gTpd6NQoFtsKnUpst
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/live/109789/109789/9016.m3u8
+#EXTVLCOPT:http-referrer=http://www.astro.com.my 
+https://tinyurl.com/4x98d8s8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
