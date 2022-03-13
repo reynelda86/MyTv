@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Universal TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Colors Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4e1f571523456cba3d3c5901c43b8d10&key=589b204b1b97b4bf4f4cbe0129fa67e6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
