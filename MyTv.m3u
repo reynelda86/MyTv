@@ -2885,7 +2885,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies 2
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="English" tvg-id="" tvg-name="", FilmRise Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
