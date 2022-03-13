@@ -187,10 +187,6 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://45.126.83.51/dr9445/h/h16/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL0vpeQYBzvSRVvkwCo4Q9SFA8cBe1R396g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/309.m3u8
@@ -392,10 +388,6 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="PBSAmerica.us" tvg-name="PBSAmerica.us", PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="English" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://45.126.83.51/session/3e1febe2-3036-11e9-883d-bae1b0227905/dr9445/h/h15/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
