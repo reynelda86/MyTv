@@ -244,7 +244,6 @@ https://16live00.akamaized.net/SHOWTIME_NEXT/index.m3u8
 https://16live00.akamaized.net/SHOWTIME_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.glSjqPDdwQvokQPcb9Ix8QAAAA&pid=Api&P=0&w=190&h=181" group-title="English" tvg-id="StarzEast.us" tvg-name="StarzEast.us", Starz East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://16live00.akamaized.net/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.66SIeGxAjvPEfOOVGZxvKwAAAA&pid=Api&P=0&w=200&h=100" group-title="English" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="StarzEncoreSuspenseEast.us", Starz Encore Suspense East
