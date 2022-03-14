@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Indosiar
-http://108.136.37.52/m3u8/vid_Indosiar.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", SCTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://akudandia.xyz/locs/akudandia-204.m3u8
