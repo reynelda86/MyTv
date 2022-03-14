@@ -886,7 +886,7 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/1280px-GINX_Esports_TV_Logo_flat.png" group-title="Sports" tvg-id="GinxeSportsTVInternational.uk" tvg-name="GinxeSportsTVInternational.uk", Ginx eSports TV International
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61427
+http://red.ipfox.org:8080/1234/12345678/25513?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="Sports" tvg-id="" tvg-name="", Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
