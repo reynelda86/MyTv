@@ -923,8 +923,8 @@ http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1721
 http://urtv.cc:80/454781209544/431009674535/9020
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="814" tvg-name="814", Astro Supersport 4 HD
-#EXTVLCOPT:http-referrer=https://astro.com.my
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/1719
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1719
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports" tvg-id="815" tvg-name="815", Astro Supersport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
