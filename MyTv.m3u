@@ -2423,7 +2423,9 @@ http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1066234.mp4
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/306.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="AstroCricket.my" tvg-name="AstroCricket.my", Astro Cricket
-http://pbmedia.xyz:8080/live/EmmaCece/yZQYc8Rt/441954.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg" group-title="Chinese" tvg-id="" tvg-name="", Channel 8 Singapore
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
