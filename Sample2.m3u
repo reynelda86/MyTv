@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", SCTV
-#EXTVLCOPT:http-user-agent=AppleTV5,3/9.1.1
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", SCTV HD
+#EXTVLCOPT:http-user-agent=Lavf/57.81.100
 http://nonton.wap.sh/id/009.m3u8
