@@ -1,4 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", AhSan TV
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:136275
+#EXTINF:1.920000,
+https://h1.intechmedia.net/intech/ch4-136275.mp4
+#EXTINF:3.840000,
+https://h1.intechmedia.net/intech/ch4-136276.mp4
+#EXTINF:1.920000,
+https://h1.intechmedia.net/intech/ch4-136277.mp4
+#EXTINF:1.920000,
+https://h1.intechmedia.net/intech/ch4-136278.mp4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+https://h1.intechmedia.net/intech/ch4.m3u8
