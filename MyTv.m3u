@@ -264,6 +264,14 @@ https://16live00.akamaized.net/EPIX/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="Islam" tvg-id="" tvg-name="", AL Quran AL Kareem
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Animals Live Asia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgaGCW5YBR-B0iRd7xLk3Oc2_L9NG2juZ_D07jSRUXoqHMfmsXhEaj1b6AIu7sBgiH1rQLKAv5ty1t907ZFayTOrbiYKrBNObjss3sbrylv9AcWCg8Ps52G-9H_RZZ7m07QgrB-qd_A-1O69GND4R3Jqmdscsr2KNYUvk13CjDb3pBOB7UA-zvgwMbY=s320" group-title="Indonesia" tvg-id="" tvg-name="", Citra Muslim
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tvn.x10.bz/xchannel/master-9.m3u8
