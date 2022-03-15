@@ -193,9 +193,9 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/309.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="English" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/310.m3u8
+http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfuXB42A2k923JaRcuB6mfZUa5VmObxXw1g&usqp=CAU" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
