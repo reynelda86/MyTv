@@ -189,6 +189,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://16live00.akamaized.net/EPIX_HITS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://16live00.akamaized.net/SHOWTIME_EX/index.m3u8
