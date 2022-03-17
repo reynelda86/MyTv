@@ -225,7 +225,7 @@ https://16live00.akamaized.net/SHOWTIME_EX/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://16live00.akamaized.net/SKY_PREMIERE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="ActionMaxWest.us" tvg-name="ActionMaxWest.us", ActionMax West
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us", ActionMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4200?checkedby:iptvcat.com
 
