@@ -226,8 +226,7 @@ https://16live00.akamaized.net/SHOWTIME_EX/index.m3u8
 https://16live00.akamaized.net/SKY_PREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="English" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://filmkita.online/00/useehls.m3u8?id=rockextreme
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
