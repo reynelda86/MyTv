@@ -3495,10 +3495,6 @@ http://urtv.cc:80/449042/449042/6739
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/449042/449042/6778
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzk1zi1FTAu4kmGl_Ne8yIYBgta39p48FxA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Fox Action Movies
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/449042/449042/7227
-
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/449042/449042/7225
