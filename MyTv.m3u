@@ -479,7 +479,8 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png" group-title="News" tvg-id="  CCTV5Plus.cn" tvg-name="CCTV5Plus.cn", CCTV体育赛事
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8?shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
