@@ -2024,7 +2024,8 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2167
 http://urtv.cc:80/449042/449042/7196
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNN1TAtU6ibqIJyEvlZNp2BTdrbprt8a6H7A&usqp=CAU" group-title="Kids" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Junior East
-https://16live00.akamaized.net/DISNEY_JR/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://xtremeport.com:80/nogaj4323/tony32323/176252.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg" group-title="VOD English" tvg-id="" tvg-name="", Insidious Chapter II
