@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Disney Junior
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", Disney Junior HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/449042/449042/7197
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640028,mp4a.40.2",AVERAGE-BANDWIDTH=3860000,BANDWIDTH=4830000
+https://16live00.akamaized.net/DISNEY_JR/index.m3u8
