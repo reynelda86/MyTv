@@ -22,7 +22,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Malay" tvg-id="" tvg-name="", Suria Singapore
+#EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Malay" tvg-id="Suria" tvg-name="Suria", Suria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCTmxuanU3R3FjRFlVNVdQbkZHcnhtdkN5dVV4X0tpTHNlU2lDN0FqamphV0JPZ3BEYXNNak43c3VTN3dKdWhsZWhZYzYwY3RIelhzc0VzaGxzVFhQYWdaQ2xZczR4SUJndjNXb2VhUm1JcUdFdFRvRk9PQkl2V0QzTjJSSFBscDEwSjdZdHBiRU1hV1NJOUJPOUJfVUFEVnNOS050RWxRbXJWdUdFTFNMS1Fuc25aTTVSbi00b19uMmtkempkOV94MFZBSGs1aXJmNzhLWUl5NncyOFY0OWFpdHJIclM1UDVycTFKLUh0dFQ3TlVrdXVvWWtRX0c2bWlSZUYyUEFlNGJGVGpqWWJiQ2VOUC1UaXVOWTBlQkVMbmdGTGs3UWViRDB3dDd2dkgySEF0djloX0JKYk8yYW9xbW42TlZzYkJnTHNKMnp1cDRyalVkeHlPVU9iZUpxMGJmZDE1S3JrRFozSG1uR1ZCMjMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJObG5qdTdHcWNEWVU1V1BuRkdyeG12Q3l1VXhfS2lMc2VTaUM3QWpqamFXQk9ncERhc01qTjdzdVM3d0p1aGxlaFljNjBjdEh6WHNzRXNobHNUWFBhZ1pDbFlzNHhJQmd2M1dvZWFSbUlxR0V0VG9GT09CSXZXRDNOMlJIUGxwMTBKN1l0cGJFTWFXU0k5Qk85Ql9VQURWc05LTnRFbFFtclZ1R0VMU0xLUW5zblpNNVJuLTRvX24ya2R6amQ5X3gwVkFIazVpcmY3OEtZSXk2dzI4VjQ5YWl0ckhyUzVQNXJxMUotSHR0VDdOVWt1dW9Za1FfRzZtaVJlRjJQQWU0YkZUampZYmJDZU5QLVRpdU5ZMGVCRUxuZ0ZMazdRZWJEMHd0N3Z2SDJIQXR2OWhfQkpiTzJhb3FtbjZOVnNiQmdMc0oyenVwNHJqVWR4eU9VT2JlSnEwYmZkMTVLcmtEWjNIbW5HVkIyMyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=nhDQGWyc%2fY6M1XGTQx7%2fiQI%2bYi0%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
@@ -494,7 +494,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News" tvg-id="515" tvg-name="515", CNA HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News" tvg-id="CNA" tvg-name="CNA", CNA
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -577,7 +577,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Chinese" tvg-id="" tvg-name="", Channel U
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Chinese" tvg-id="Ch U" tvg-name="Ch U", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -677,7 +677,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="" tvg-name="", Vasantham SG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="Vasantham" tvg-name="Vasantham", Vasantham
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNaDVwOEhwQThEWjRDQU9mVDNsenZDVGlWRDFkeDlVbDMySHBwTHZlNjY4SDhWamFwSHZTRjVvc3dvNWtPY2UyY1RCcVl3dml3OWpDRVpZVE5WMlRWQVNRdFYtd3hYSkZ4SV9adXVmQ0xSTWhUUkFRZGNfRFFsRS1mWVBWYXVOeEpLUXd2MDd6UXBWclJoUEVTZkVMNGtRc1RIdk1UVEx1NEdXQnh5cnFvQTI3NFpfMlBtcmdKcGtFUm82cnFKTjRtMF94NVdENlYzSjN0TFFaRUgxcnhwMldwdW84Y0ppSmdjWHIyQU1HTUowakwtSXdEN1Y0MUxaSmdoUXRaQ0lvS2ZBT3RCaDVFRnZwMUJBa29VUkhfR2xvUk8zeVN5UEtrT201Q1dJYXlibUtYZ3ZBRUFuWkc4eFRjbnhSUkJKT2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk1oNXA4SHBBOERaNENBT2ZUM2x6dkNUaVZEMWR4OVVsMzJIcHBMdmU2NjhIOFZqYXBIdlNGNW9zd281a09jZTJjVEJxWXd2aXc5akNFWllUTlYyVFZBU1F0Vi13eFhKRnhJX1p1dWZDTFJNaFRSQVFkY19EUWxFLWZZUFZhdU54SktRd3YwN3pRcFZyUmhQRVNmRUw0a1FzVEh2TVRUTHU0R1dCeHlycW9BMjc0Wl8yUG1yZ0pwa0VSbzZycUpONG0wX3g1V0Q2VjNKM3RMUVpFSDFyeHAyV3B1bzhjSmlKZ2NYcjJBTUdNSjBqTC1Jd0Q3VjQxTFpKZ2hRdFpDSW9LZkFPdEJoNUVGdnAxQkFrb1VSSF9HbG9STzN5U3lQS2tPbTVDV0lheWJtS1hndkFFQW5aRzh4VGNueFJSQkpPZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=F6PiHKfYEMoUFL19chMvmLTME50%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
@@ -2471,7 +2471,7 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/306.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg" group-title="Chinese" tvg-id="" tvg-name="", Channel 8 Singapore
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg" group-title="Chinese" tvg-id="Ch 8" tvg-name="Ch 8", Channel 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
