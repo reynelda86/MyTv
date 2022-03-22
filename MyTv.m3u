@@ -3465,10 +3465,6 @@ http://live.flixhub.net/hls/andpictures.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="English" tvg-id="" tvg-name="", Galxy tv
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Lifestyle & Documentary" tvg-id="ThePetCollective.us" tvg-name="ThePetCollective.us", The Pet Collective
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
 
