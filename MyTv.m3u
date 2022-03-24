@@ -191,6 +191,14 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnoSd1JgLzO-Qc-83SD6H_5XajgG599iKMw&usqp=CAU" group-title="English" tvg-id="zeecafe.in" tvg-name="zeecafe.in", Zee Cafe
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/49561
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg" group-title="Indian" tvg-id="" tvg-name="", Zee TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://16live00.akamaized.net/ZEE_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="Sports" tvg-id="elevensport2.ro" tvg-name="elevensport2.ro", Eleven Sports 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
