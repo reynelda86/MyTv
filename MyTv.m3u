@@ -3541,9 +3541,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71051
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="Indian" tvg-id="202" tvg-name="202", Astro Vinmeen HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-https://linears-playback.astro.com.my/vsg/21Km2KUtlSr4gUap1OUED2RSPMMGPB2RUxWkdKAMbXcjU=UMdQ/dash-wv/jitp-linearwm/2105/default_ott.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.71.104:8888/malindo1/vjqhl20edo/37344
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="716" tvg-name="716", DMAX HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
