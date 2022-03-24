@@ -191,6 +191,27 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="Sports" tvg-id="elevensport2.ro" tvg-name="elevensport2.ro", Eleven Sports 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="English" tvg-id="GlobalGotTalent.us" tvg-name="GlobalGotTalent.us", Global Got Talent
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3mucWhL" group-title="Kids" tvg-id="" tvg-name="", AniPlus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.71.104:8888/cocain1/9lmn7rpyagao/37439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Indian" tvg-id="" tvg-name="", Star Plus HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://live.durbinlive.com/hls/starplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="English" tvg-id="" tvg-name="", Rakuten Action Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
