@@ -191,30 +191,6 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0N5TWBs3L_yBKK1tXEaFR6hb3E_sARIWw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Movies Premium 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0N5TWBs3L_yBKK1tXEaFR6hb3E_sARIWw&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Movies Premium 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/24273/playlist.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0N5TWBs3L_yBKK1tXEaFR6hb3E_sARIWw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Movies Premium 3
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/24316/playlist.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0N5TWBs3L_yBKK1tXEaFR6hb3E_sARIWw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Movies Premium 4
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0N5TWBs3L_yBKK1tXEaFR6hb3E_sARIWw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Movies Premium 5
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/24264/playlist.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW0N5TWBs3L_yBKK1tXEaFR6hb3E_sARIWw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Movies Premium 6
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/24265/playlist.m3u8?shareext.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-v-YIM3eq_GtbRcFbGkIbJKUHKX-aFRAJA&usqp=CAU" group-title="English" tvg-id="STIRRHorrorMovies.us" tvg-name="STIRRHorrorMovies.us", STIRR Horror Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
