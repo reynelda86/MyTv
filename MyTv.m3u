@@ -3206,10 +3206,6 @@ https://16live00.akamaized.net/HALLMARK_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOS8wOS8xOS81ZjQ4ZWIyMS1mMDNmLTQ3OGEtYjY0Zi0yOGU0NjNhNDhhNjBIT0xMWVdPT0RfQlMucG5n.jpg" group-title="English" tvg-id="HollywoodHD.us" tvg-name="HollywoodHD.us", Hollywood HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="Entertainment" tvg-id="" tvg-name="", POP MUSIK
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/coL8O01xtvBTT6KsjGteDNglmKJ_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2011)
 http://red.ipfox.org:8080/movie/1234/12345678/1302.mp4
