@@ -68,10 +68,6 @@ https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08sVomm7Vtuht6i3Z8g
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="Indonesia" tvg-id="" tvg-name="", MyTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://group1-swiftservesd-1.dens.tv/s/s88/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="" tvg-name="", Bioskop Indonesia
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 
