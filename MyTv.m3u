@@ -3545,9 +3545,6 @@ https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fed51001c357a9224f8221161313f010&key=7e0183501f83df2174844c03011fb491
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="Entertainment" tvg-id="ikonser" tvg-name="ikonser", Maleo TV
-https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="Lifestyle & Documentary" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
