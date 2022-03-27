@@ -365,10 +365,6 @@ https://16live00.akamaized.net/HBO2/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://16live00.akamaized.net/STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhKfHaUnhpFJYbjpIt1g7pfgKo6l_M8ldSQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Encore Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/319.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPCafjliE37AEnyMecWxrEN872O6MA0-TYg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Encore Family
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/322.m3u8
