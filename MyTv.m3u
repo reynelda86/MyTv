@@ -3569,8 +3569,9 @@ http://urtv.cc:80/449042/449042/6704
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/66_144.png" group-title="Chinese" tvg-id="355" tvg-name="355", Astro AOD 355
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71051
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12415fae0e5af6a762e14eee8017ca10:0ae4216d6d772906acd1531c12adaead
+http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="Indian" tvg-id="202" tvg-name="202", Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
