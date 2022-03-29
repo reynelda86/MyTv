@@ -433,7 +433,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tvn.x10.bz/xchannel/master-9.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" group-title="Indonesia" tvg-id="" tvg-name="", Citra Bioskop
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" group-title="Indonesia" tvg-id="CitraBioskop.id" tvg-name="CitraBioskop.id", Citra Bioskop
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://akudandia.xyz/man-prem/cbioskop.m3u8
 
@@ -3502,9 +3502,9 @@ https://16live00.akamaized.net/UNIVERSAL_KIDS/index.m3u8
 http://203.154.243.89:1213
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="" tvg-name="", Citra Drama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://139.99.71.104:8888/shoot1/m8b9losib95pdoa/905
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=cdrama&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
