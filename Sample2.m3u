@@ -2,3 +2,8 @@
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", & privè
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://103.153.39.36:8000/play/a01d
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", & privè HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000559&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ0NDI3Njg0IiwiaXNlIjp0cnVlLCJqdGkiOiIyOWU2OGQ1OC0yNTdlLTQ2NTYtODY1Mi1kM2U4YTU1NmVjYWEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ4NjU5MjY5LCJuYW1lIjoiWXV2YSBLcmlzaG5hbiIsImlhdCI6MTY0ODU3Mjg2OSwiZW50IjpbeyJiaWQiOjEwMDAwMDE1MzksImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyJ9XSwiaXNzIjoiVFROIn0.zQ0tN2Ksm5LTJDSVcHWC-0Zh9juE44_o7zvaFw3G9Ss
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_431/output/manifest.mpd
