@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", Astro AEC
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", Astro AOD 353
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-https://linears-playback.astro.com.my/vsg/416zsyC3wLrkh_O0DHufQ-YT2r0tCLVtJWi1v9aCONPDs=EJJS/dash-wv/jitp-linearwm/2400/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=72c97cb54df5626d72ab35a1d6efaf10&key=8d40587f3f21561aa2ca5b5bf008187e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
