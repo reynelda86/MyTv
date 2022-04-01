@@ -317,7 +317,6 @@ http://iptv12k.com:35461/8022022301/468985/5230
 http://iptv12k.com:35461/8022022301/468985/5427
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/skycinemahits_uk.png" group-title="English" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk", Sky Cinema Hits
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv12k.com:35461/8022022301/468985/5426
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="skyselect.uk" tvg-name="skyselect.uk", Sky Cinema Select
