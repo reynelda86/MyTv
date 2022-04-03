@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", & prive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000559&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ0NDI3Njg0IiwiaXNlIjp0cnVlLCJqdGkiOiJlZDlmN2U0Ny1kNmI1LTQwMjYtYmZiMy00Y2VkNzkwMTUyNzgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ4OTIxNjg5LCJuYW1lIjoiWXV2YSBLcmlzaG5hbiIsImlhdCI6MTY0ODgzNTI4OSwiZW50IjpbeyJiaWQiOjEwMDAwMDEyMjYsImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyJ9XSwiaXNzIjoiVFROIn0.J1YK7PyJnHgx7_oXHRKbLrB1YA6OQOWrY0V7RdNtxFg
-https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_431/output/manifest.mpd
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", Astro Aec
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
+https://linears-playback.astro.com.my/vsg/416zsyC3wLrkh_O0DHufQ-YVPW5UJaDsG57kj68qn_nYw=ijhc/dash-wv/jitp-linearwm/2400/default_ott.mpd
