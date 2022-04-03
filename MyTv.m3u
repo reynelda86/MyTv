@@ -370,7 +370,7 @@ https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Indian" tvg-id="" tvg-name="", Star Plus HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://live.durbinlive.com/hls/starplus.m3u8
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
