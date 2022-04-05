@@ -437,10 +437,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWaOV_DACcqHGB3S5wgf8qIuH_Dy3k-g75w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Series HD 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stariptv.org:8080/wael2021/123456/131992
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Movies Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://stariptv.org:8080/wael2021/123456/131989?checkedby:iptvcat.com
