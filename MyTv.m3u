@@ -1258,7 +1258,7 @@ http://203.154.243.89:21203/nakhon
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="814" tvg-name="814", Astro Supersport 4 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1719
+http://203.154.243.89:21204/nakhon
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports" tvg-id="815" tvg-name="815", Astro Supersport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
