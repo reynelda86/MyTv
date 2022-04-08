@@ -415,7 +415,7 @@ http://red.ipfox.org:8080/amr/123456789/2315
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Premiere
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stariptv.org:8080/wael2021/123456/131990
+http://red.ipfox.org:8080/amr/123456789/2314
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="English" tvg-id="" tvg-name="", MY FAMILY
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
