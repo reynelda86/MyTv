@@ -316,7 +316,7 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg" group-title="Indian" tvg-id="" tvg-name="", Zee TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://16live00.akamaized.net/ZEE_TV/index.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Indian" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
