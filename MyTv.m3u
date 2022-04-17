@@ -740,7 +740,7 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="News" tvg-id="" tvg-name="", BBC News
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://16live00.akamaized.net/BBC_NEWS/index.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/2946
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Chinese" tvg-id="" tvg-name="", Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
