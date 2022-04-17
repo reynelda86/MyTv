@@ -3659,7 +3659,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://16live00.akamaized.net/UNIVERSAL_KIDS/index.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/64374
 
 #EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Entertainment" tvg-id="" tvg-name="", Music4U
 http://203.154.243.89:1213
