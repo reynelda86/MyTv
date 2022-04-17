@@ -2049,7 +2049,7 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://16live00.akamaized.net/DISNEY_XD/index.m3u8
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
 
 #EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p159729_p_v10_ar.jpg" group-title="VOD Transformer" tvg-id="" tvg-name="", Transformers
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformer%20(2007).mkv
