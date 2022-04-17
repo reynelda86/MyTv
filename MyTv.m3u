@@ -3675,7 +3675,8 @@ http://203.154.243.89:1213
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=cdrama&bandwidth=default&sync=0
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://tvn.x10.bz/TvN_ID/master-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
