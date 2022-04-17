@@ -1,10 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", Unifi Sport 1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", Unifi Sport 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGF
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
