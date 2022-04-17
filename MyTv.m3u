@@ -448,10 +448,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mvu03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/29810
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbKndkW1Y-gm3ynnyxHr7E8JipNfh29Omyg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Anibox Live
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
-
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="English" tvg-id="" tvg-name="", Douyu TV Movies English 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
