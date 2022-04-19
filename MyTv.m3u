@@ -17,47 +17,8 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-03.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-2.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-2.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-03.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-0.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-0.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-03.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-1.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-1.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-03.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-3.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-3.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUItELvUgRnLRqIjs-K8LhAbr4ZjTnjsvOQhxZNWPfmddDZ3Zl8aejklpVnDqgCOOw)/dm/3/x6qp375/d/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-03.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-4.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFEpLx5IYyN58mFEX4tcrnTVXEQUtFcXZCbwD1nVxeMYisWdWurNWoOWlr8B318c1bA)/dm/3/x7a7rpm/s/live-4.m3u8
-
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1732
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Malay" tvg-id="Suria" tvg-name="Suria", Suria
