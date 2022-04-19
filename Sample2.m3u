@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", MNX HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/579161/579161/8998
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", TV 3
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
