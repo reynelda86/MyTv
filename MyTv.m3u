@@ -451,7 +451,7 @@ http://comag.rip:8000/987654321/987654321/87399
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Premiere
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://125.209.88.166:45793/BRN/beINPremiere1.stream/playlist.m3u8
+http://comag.rip:8000/987654321/987654321/87396
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="English" tvg-id="" tvg-name="", MY FAMILY
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
