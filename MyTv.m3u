@@ -3715,7 +3715,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://free1.zinamedia.net/ar-s/Fox-crime-Hd/index.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/3221
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSWaVgOf6Ejw34X5XueRQcESGu-7apV85QA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Kids & Family
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
