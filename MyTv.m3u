@@ -626,8 +626,10 @@ http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 http://xtremeport.com:80/nogaj4323/tony32323/176076.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="English" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-http://103.55.144.46/hls/sonypixhd.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
