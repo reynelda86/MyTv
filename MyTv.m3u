@@ -69,8 +69,9 @@ https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2
 https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://link.zozotv.xyz/live/fx2/fx2/352.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
