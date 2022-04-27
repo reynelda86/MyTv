@@ -27,46 +27,8 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malay" tvg-id="109" tvg-name="109", TV9
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-2.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-2.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-0.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-0.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-1.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-1.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-3.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-3.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXIwxoH54dh6FfG21arfKNwGkSzAF4XkwSGSnhscLUgK)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-4.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08o85KZccrImo9HmJh2yXGgMAP3kkVXqFrXrXR4D8ozBI)/dm/3/x7a7rf7/s/live-4.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
