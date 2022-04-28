@@ -173,10 +173,6 @@ http://hispanotv.net:8080/ctaiptv11/CWtLxJPxU9f7/96139
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="" tvg-name="", MNX
 http://new-pro.tv:8080/Fernando/123321/221311?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="priveHD.in" tvg-name="privèHD.in", & privè HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/54975
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Cinemax West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/64355
