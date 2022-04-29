@@ -18,7 +18,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
+http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Malay" tvg-id="Suria" tvg-name="Suria", Suria
