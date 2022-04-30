@@ -813,7 +813,8 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="Chinese" tvg-id="392" tvg-name="392", KBS World HD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", NEXTTV
 http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
