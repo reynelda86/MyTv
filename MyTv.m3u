@@ -504,10 +504,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="English" tvg-id="" tvg-name="", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English" tvg-id="" tvg-name="", Movie Premium 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English" tvg-id="" tvg-name="", Movie Premium 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
