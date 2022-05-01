@@ -354,10 +354,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Movies Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17803?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://comag.rip:8000/987654321/987654321/87398
