@@ -3500,11 +3500,6 @@ http://mvu03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/64374
 #EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Entertainment" tvg-id="" tvg-name="", Music4U
 http://203.154.243.89:1213
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://tvn.x10.bz/TvN_ID/master-2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
