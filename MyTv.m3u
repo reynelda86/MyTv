@@ -48,10 +48,6 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://202.150.172.35:8000/play/sinemaindonesias2
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg9XFhGd/citraentertainment.png" group-title="Indonesia" tvg-id="CitraEntertainment.id" tvg-name="CitraEntertainment.id", Citra Entertainment
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://tvn.x10.bz/TvN_ID/master-11.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
