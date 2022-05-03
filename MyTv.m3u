@@ -98,7 +98,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxZc0DwpfEs0CS2v1df1llmlEy7CmhWDacw&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", Sinema Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://202.150.172.35:8000/play/sinemaindonesias2
+http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
