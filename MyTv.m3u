@@ -12,9 +12,6 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
