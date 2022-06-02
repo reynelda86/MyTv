@@ -367,10 +367,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5712f6638931e8d701daf8b7b0131310&key=7b34f0cfde27af4f2da14380f05a8d1c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW" group-title="Chinese" tvg-id="" tvg-name="", Star Chinese Movies
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://link.zozotv.xyz/live/fx2/fx2/68.ts
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="Chinese" tvg-id="" tvg-name="", Sony GEM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://203.77.246.50:5000/udp/239.1.2.146:5000
