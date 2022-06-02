@@ -753,8 +753,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro AEC
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv12k.com:35461/8022022301/468985/4341
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
+https://tv.kpsvpn.com/aec.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
