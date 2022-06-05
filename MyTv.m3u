@@ -420,7 +420,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/725.ts
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://axcestv.vip:8080/live/freeview/axcestv/724.ts
+http://203.77.246.50:5000/udp/239.1.2.130:5000
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="English" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
