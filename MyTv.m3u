@@ -1082,8 +1082,9 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 http://203.154.243.89:21202/nakhon
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports" tvg-id="813" tvg-name="813", Astro Supersport 3 HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://203.154.243.89:21203/nakhon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
+https://tv.kpsvpn.com/sport3.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="814" tvg-name="814", Astro Supersport 4 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
