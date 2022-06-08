@@ -298,7 +298,6 @@ http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/701.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="Sports" tvg-id="elevensport2.ro" tvg-name="elevensport2.ro", Eleven Sports 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://red.ipfox.org:8080/osama2022/osama2023/2646
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="English" tvg-id="GlobalGotTalent.us" tvg-name="GlobalGotTalent.us", Global Got Talent
