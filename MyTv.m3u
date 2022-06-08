@@ -657,7 +657,7 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png" group-title="News" tvg-id="CCTV5.cn" tvg-name="CCTV5.cn", CCTV-5体育
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8?shareext.ts
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/641886683
 
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png" group-title="News" tvg-id="  CCTV5Plus.cn" tvg-name="CCTV5Plus.cn", CCTV体育赛事
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
