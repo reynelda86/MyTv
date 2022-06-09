@@ -437,7 +437,7 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/11/18/22/zUAWE3Xswh/live-television-medina-dome-of-the-rock-great-mosque-mecca.jpg" group-title="Islam" tvg-id="" tvg-name="", Medina TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://202.150.172.35:8000/play/madinahs2
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/162501
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="Islam" tvg-id="" tvg-name="", AL Quran AL Kareem
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
