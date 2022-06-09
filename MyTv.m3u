@@ -439,10 +439,6 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://202.150.172.35:8000/play/madinahs2
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" group-title="Islam" tvg-id="" tvg-name="", AhSan TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://202.150.172.35:8000/play/ahsantvs2
-
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="Islam" tvg-id="" tvg-name="", AL Iman TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://202.150.172.35:8000/play/alimantvs2
