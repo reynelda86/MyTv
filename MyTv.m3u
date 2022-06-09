@@ -11,45 +11,6 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-#EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Jaga-Jaga Senariounion
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13455.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Gila Gusti
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13456.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Renjana
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13457.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Autumn In Wales
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13458.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First - Kedai Antik Wak Jambi
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13459.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Kg Pisang Berbuah Dua Kali
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13460.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Hantu Kuat Ketawa
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13461.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Hantu Mok Joh
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13462.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Marabahaya Underground
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13463.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First- Serangan Pocong
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13464.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First - Siapa Tutup Lampu?
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13465.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First - Hantu Ke Lima
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13466.m3u8
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Astro First" tvg-id="" tvg-name="", Astro First -Penunggang Agama 2
-http://w.nasvpn.xyz:8080/live/@iptvfreenet/@iptvfreenet/13467.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
