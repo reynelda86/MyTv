@@ -439,10 +439,6 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://202.150.172.35:8000/play/madinahs2
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="Islam" tvg-id="" tvg-name="", AL Iman TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://202.150.172.35:8000/play/alimantvs2
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="Islam" tvg-id="" tvg-name="", AL Quran AL Kareem
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
