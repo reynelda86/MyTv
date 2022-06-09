@@ -220,7 +220,7 @@ http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/29464
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1xxiRCRc4uw34Sqkx0viHoE9I2zNj77djw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Fox Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/57919
+https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/768x432_1200000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
