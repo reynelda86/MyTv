@@ -552,10 +552,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53395
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X51mczr/1a04fa08-3032-46f1-8cb2-1639ed2c1905-popcornflix-family-of-logos.png" group-title="English" tvg-id="PlutoTVAction.us" tvg-name="PlutoTVAction.us", PopCorn Flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv12k.com:35461/8032022060101/452381/5833
