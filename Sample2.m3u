@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", TV 3
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="No group" tvg-id="bein.movies.1.premiere.ae" tvg-name="bein.movies.1.premiere.ae", Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+https://tv.kpsvpn.com/citra.mpd
