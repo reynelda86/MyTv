@@ -563,6 +563,31 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53395
 http://iptv12k.com:35461/8032022060101/452381/5833
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5StarMax.us" tvg-name="5StarMax.us", 5 StarMax
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv-line.com:8080/NYbrRlKrOb/u5Jsg1qGzq/1103
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us", ActionMax East
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv-line.com:8080/NYbrRlKrOb/u5Jsg1qGzq/31834
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Movies Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv-line.com:8080/NYbrRlKrOb/u5Jsg1qGzq/507
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Drama
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://1tv1.net:8080/nazha2021/123456/131988
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Family
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://1tv1.net:8080/nazha2021/123456/131987
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Premiere
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://1tv1.net:8080/nazha2021/123456/131990
+
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="518" tvg-name="518", ABC Australia
