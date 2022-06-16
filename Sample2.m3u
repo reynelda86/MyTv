@@ -4,6 +4,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV6
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV6 HD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
