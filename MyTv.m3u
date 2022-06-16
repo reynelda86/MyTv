@@ -1873,7 +1873,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20A
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="English" tvg-id="ShowtimeEast.us" tvg-name="ShowtimeEast.us", Showtime East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv12k.com:35461/8032022060101/452381/1709
+http://iptv12k.com:35461/live/80201051217/424567/1709.ts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="" tvg-name="", Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
