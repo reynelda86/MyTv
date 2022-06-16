@@ -5,9 +5,6 @@
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV2 HD
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV2
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
