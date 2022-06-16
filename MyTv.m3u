@@ -542,7 +542,7 @@ http://iptv12k.com:35461/8032022060101/452381/5833
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5StarMax.us" tvg-name="5StarMax.us", 5 StarMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv-line.com:8080/live/ruffolo@gmail.com/focrle25/1103.ts
+http://iptv12k.com:35461/live/80201051217/424567/1661.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us", ActionMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
