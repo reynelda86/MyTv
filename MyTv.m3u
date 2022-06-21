@@ -157,10 +157,6 @@ http://sonyiptv.net:8080/live/124447/124447/6153.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2963
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://qqtv.nl:8080/niloofar/niloofar/7252
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="privè.in" tvg-name="priveHD.in", & privè
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxu7tDN6_QSLXL0K0efNIBw/ts
