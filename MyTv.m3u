@@ -787,7 +787,7 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="Indian" tvg-id="" tvg-name="", Sony Max 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+https://ktiptv.cf:443/161/161/511688
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="" tvg-name="", Jaya Max
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
