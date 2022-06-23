@@ -831,7 +831,7 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Indian" tvg-id="251" tvg-name="251", BollyOne HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+https://links.aqfadtv.xyz/bollyone.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="116" tvg-name="116",Colors Hindi HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
