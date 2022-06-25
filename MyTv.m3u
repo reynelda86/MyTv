@@ -152,11 +152,6 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://sonyiptv.net:8080/live/124447/124447/39194.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English" tvg-id="" tvg-name="", Star World Premiere HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://sonyiptv.net:8080/live/124447/124447/39193.ts
