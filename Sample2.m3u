@@ -4,12 +4,12 @@
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", Astro Oasis
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+https://links.aqfadtv.xyz/prima.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", Astro Warna HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://links.aqfadtv.xyz/warna.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+https://stream.zeehanzgadget.com/prima.mpd
