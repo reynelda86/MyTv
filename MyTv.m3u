@@ -352,7 +352,7 @@ http://203.77.246.50:5000/udp/239.1.2.130:5000
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="English" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://fortv.cc:8080/cathie/cathie/9816
+http://181.78.22.214:8000/play/a00n
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfuXB42A2k923JaRcuB6mfZUa5VmObxXw1g&usqp=CAU" group-title="English" tvg-id="StarzComedyEast.us" tvg-name="StarzComedyEast.us", Starz Comedy East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
