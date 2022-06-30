@@ -13,8 +13,10 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112" tvg-name="112", Astro Rania HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.cf:443/161/161/25881
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
