@@ -270,11 +270,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian" tvg-id="" tvg-name="", Astrox Box Office Thangathirai
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3uoI08q" group-title="Indonesia" tvg-id="" tvg-name="", Flik
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://delivery.macan.network/stream/flik/playlist.m3u8?token=30swa3g&v=20200807
