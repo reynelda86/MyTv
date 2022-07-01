@@ -2163,7 +2163,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad
 https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Lifestyle & Documentary" tvg-id="DiscoveryScience.us" tvg-name="DiscoveryScience.us", Discovery Science
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Lifestyle & Documentary" tvg-id="discoveryscience.us" tvg-name="discoveryscience.us", Discovery Science
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/54946
 
