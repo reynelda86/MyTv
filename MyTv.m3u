@@ -839,7 +839,7 @@ https://ktiptv.cf:443/161/161/868381
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Indian" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://203.77.246.50:5000/udp/239.1.1.232:5000
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zing&q=800&e=.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
