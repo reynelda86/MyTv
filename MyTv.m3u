@@ -1028,8 +1028,10 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="812" tvg-name="812", Astro SuperSport 2 HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/197515
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports" tvg-id="813" tvg-name="813", Astro Supersport 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
