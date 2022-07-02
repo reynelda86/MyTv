@@ -3516,9 +3516,9 @@ https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 http://starshare.live:8080/live/usman007/usman007/18941.ts
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="Lifestyle & Documentary" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="English" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://168.232.168.242:8001/play/a01n/index.m3u8
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/136658.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="English" tvg-id="" tvg-name="", Action Hollywood Movies
