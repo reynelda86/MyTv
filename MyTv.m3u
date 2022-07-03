@@ -3171,7 +3171,7 @@ https://carrvxi-my.sharepoint.com/:v:/g/personal/irzkusuma_my365_id/EQSIKQU6K6xD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mvu03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/28947
+http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="AstroSuperSport.my" tvg-name="AstroSuperSport.my", Astro SuperSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
