@@ -684,11 +684,6 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="308" tvg-name="308", Astro Quan Jia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Chinese" tvg-id="304" tvg-name="304", Astro Xiao Tai Yang HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
