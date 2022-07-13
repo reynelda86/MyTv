@@ -77,8 +77,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria HD
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://51.81.208.129:35461/80301062102/732099/721
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.81.208.129:35461/80301062102/732099/735
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
