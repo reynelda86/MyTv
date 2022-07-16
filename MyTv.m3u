@@ -296,7 +296,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="Chinese" tvg-id="" tvg-name="", Star Chinese Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.cf:443/161/161/73658
+http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="Chinese" tvg-id="" tvg-name="", Sony GEM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
