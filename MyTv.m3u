@@ -3054,7 +3054,8 @@ http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="English" tvg-id="" tvg-name="", FilmRise Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139759
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlXAe2xzx48hxG4xINW8NVliUVhHpR3wuhQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Pluto TV Crime Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
