@@ -158,7 +158,7 @@ http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178808&extension
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://starshare.live:8080/live/usman007/usman007/253.ts
+http://appleiptv.com:80/9242/9242/42961
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English" tvg-id="" tvg-name="", Star World Premiere HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
