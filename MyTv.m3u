@@ -2235,7 +2235,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c362ded581a86051df509
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139172
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="English" tvg-id="" tvg-name="", FilmRise Family
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139052
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="Western" tvg-id="" tvg-name="", FilmRise Western
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
