@@ -563,9 +563,9 @@ https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmlSNaIDwPpLxIBJkKfVOclE/m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080/live/usman007/usman007/3356.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="" tvg-name="", MNX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="mnx.in" tvg-name="mnx.in", MNX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.cf:443/161/161/868510
+http://starshare.live:8080/live/usman007/usman007/191.ts
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
