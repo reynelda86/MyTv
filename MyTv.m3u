@@ -248,10 +248,6 @@ https://ktiptv.cf:443/161/161/540426
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/69006.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="English" tvg-id="GlobalGotTalent.us" tvg-name="GlobalGotTalent.us", Global Got Talent
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3mucWhL" group-title="Kids" tvg-id="" tvg-name="", AniPlus
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://ktiptv.cf:443/161/161/73884
