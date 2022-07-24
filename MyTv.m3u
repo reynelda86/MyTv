@@ -557,7 +557,7 @@ http://ky-iptv.com:25461/live/space99/space99/516044.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL0vpeQYBzvSRVvkwCo4Q9SFA8cBe1R396g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmlSNaIDwPpLxIBJkKfVOclE/m3u8
+http://starshare.live:8080/live/usman007/usman007/3354.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
