@@ -258,7 +258,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="Entertainment" tvg-id="MTV90s.us" tvg-name="MTV90s.us", MTV 90s
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tv.dansk.live:443/play/z6t0hiz8ehdb7i7i8NtD5xP6aB7U_tAryIiavNbcasM/ts
+http://bestsave.ltd:2052/live/55443322/66778899/125210.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Indian" tvg-id="" tvg-name="", Star Plus HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
