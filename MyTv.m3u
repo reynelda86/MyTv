@@ -812,7 +812,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="116" tvg-name="116",Colors Hindi HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.cf:443/161/161/25928
+http://jinx@starshare.live:8080/live/imran007/imran007/18976.ts
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="Indian" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
