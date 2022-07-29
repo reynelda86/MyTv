@@ -1960,7 +1960,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
-https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
+http://starshare.live:8080/live/usman007/usman007/159.ts
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD Wrong Turn" tvg-id="" tvg-name="", Wrong Turn (2003)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%20(2003).mp4
