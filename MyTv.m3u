@@ -281,10 +281,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139053
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3uoI08q" group-title="Indonesia" tvg-id="" tvg-name="", Flik
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://ktiptv.cf:443/161/161/73872
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Western" tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us", Xumo Free Westerns
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
