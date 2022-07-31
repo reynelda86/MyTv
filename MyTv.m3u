@@ -1009,10 +1009,8 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports" tvg-id="813" tvg-name="813", Astro Supersport 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="814" tvg-name="814", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
