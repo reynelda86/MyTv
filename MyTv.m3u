@@ -3528,7 +3528,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://zeintv.xyz:8080/live/jamel1/jamel2/60509.ts
+http://legendtvs.com//live/test2/12345/389833.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwBz7Cw/images-15.png" group-title="Entertainment" tvg-id="" tvg-name="", Vevo HipHop
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
