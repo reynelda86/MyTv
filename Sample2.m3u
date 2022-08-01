@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AniPlus.th" tvg-name="Aniplus" group-title="Cartoon" tvg-logo="https://iili.io/1Nc919.jpg", Sukan RTM
+#EXTINF:-1 tvg-id="AniPlus.th" tvg-name="Aniplus" group-title="Cartoon" tvg-logo="https://iili.io/1Nc919.jpg", Sukan RTM HD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
