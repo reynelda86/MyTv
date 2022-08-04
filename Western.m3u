@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="No group" tvg-id="" tvg-name="", FilmRise Western
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139173
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", Pluto TV CMT Western
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", Pluto TV Westerns
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png" group-title="No group" tvg-id="StarzEncoreWesternsWest.us" tvg-name="StarzEncoreWesternsWest.us", Starz Encore Westerns West
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53571
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="No group" tvg-id="" tvg-name="", STIRR Westerns (720p)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
