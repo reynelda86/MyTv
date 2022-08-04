@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="No group" tvg-id="874" tvg-name="874", AI FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", AMBOI FM
+http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="No group" tvg-id="875" tvg-name="875", ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="No group" tvg-id="867" tvg-name="867", BAYU
+https://astro4.rastream.com/bayu
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Catsfmlogo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", CATS FM
+http://catsfm64.cspixel.com:7111/stream/1/
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="No group" tvg-id="860" tvg-name="860", CLASSIC ROCK
+http://astro4.rastream.com/rock?type=.flv
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="No group" tvg-id="856" tvg-name="856", ERA FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+
+#EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/era-fm-sabah.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", ERA SABAH
+http://astro2.rastream.com/amp-era-kk
+
+#EXTINF:-1 tvg-logo="http://i1.ytimg.com/vi/Tr4mPQqiSdk/mqdefault.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", ERA SARAWAK
+http://astro2.rastream.com/amp-era-kch
+
+#EXTINF:-1 tvg-logo="https://assets.flyfm.com.my/2020/01/logo_flyfm_1080.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", FLY FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="No group" tvg-id="861" tvg-name="861", GOLD
+http://astro4.rastream.com/gold?type=.flv
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="No group" tvg-id="852" tvg-name="852", HITZ FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:-1 tvg-logo="https://radiomalaysia.net/radio/thumbs/18193hitz-fm-sabah.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", HITZ SABAH
+http://astro1.rastream.com/amp-hitz-kk
+
+#EXTINF:-1 tvg-logo="https://radiomalaysia.net/radio/fb/70458hitz-fm-sarawak.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", HITZ SARAWAK
+http://astro1.rastream.com/amp-hitz-kch
+
+#EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", HOT FM
+https://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="No group" tvg-id="864" tvg-name="864", INDIA BEAT
+http://astro4.rastream.com/india?type=.flv
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="No group" tvg-id="865" tvg-name="865", JAZZ
+http://astro4.rastream.com/jazz?type=.flv
+
+#EXTINF:-1 tvg-logo="https://www.jeifm.com/images/jeilogo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", JEI FM
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/stream/1/
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/HjyqsyXZge.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", JOHOR FM
+https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035_aac/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s154370q.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", KELANTAN FM
+https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="No group" tvg-id="868" tvg-name="868", KENYALANG
+https://astro4.rastream.com/kenyalang
+
+#EXTINF:-1 tvg-logo="https://assets.koolfm.com.my/2020/04/logo_koolfm_500x500.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", KOOL FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="No group" tvg-id="854" tvg-name="854", LITE FM
+http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", MELAKA FM
+https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="No group" tvg-id="858" tvg-name="858", MELODY FM
+http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="No group" tvg-id="873" tvg-name="873", MINNAL FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="No group" tvg-id="855" tvg-name="855", MIX FM
+http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="No group" tvg-id="853" tvg-name="853", MY FM
+http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
+
+#EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="No group" tvg-id="869" tvg-name="869", NAS FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="No group" tvg-id="862" tvg-name="862", OPUS
+http://astro4.rastream.com/opus?type=.flv
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="No group" tvg-id="866" tvg-name="866", OSAI
+http://astro4.rastream.com/osai?type=.flv
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157939g.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", PERAK FM
+https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uzffezhcg5xq.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", PERLIS FM
+https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-zmMHq3VwLOc/USxZ58eYNeI/AAAAAAAABgA/RaFT3UHJ8wY/s1600/Klasik+Nasional+FM.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", RADIO KLASIK
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/rtm-sabah-fm.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", SABAH FM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="No group" tvg-id="870" tvg-name="870", V FM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s125696q.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", SANDAKAN FM
+https://sandakanfm.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="No group" tvg-id="857" tvg-name="857", SINAR FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+#EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/terengganu-fm.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", TERENGGANU FM
+https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="No group" tvg-id="863" tvg-name="863", THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="No group" tvg-id="859" tvg-name="859", THR RAAGA
+http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="No group" tvg-id="872" tvg-name="872", TRAXX FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
