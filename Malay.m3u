@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="No group" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura (X)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="118" tvg-name="118", Go Shop RUUMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="No group" tvg-id="108" tvg-name="108", Astro Citra HD
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="No group" tvg-id="106" tvg-name="106", Astro Oasis HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="No group" tvg-id="AstroPrima.my" tvg-name="AstroPrima.my", Astro Prima HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="No group" tvg-id="112" tvg-name="112", Astro Rania HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="No group" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="No group" tvg-id="107" tvg-name="107", Astro Warna HD
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="No group" tvg-id="" tvg-name="", Awesome TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="No group" tvg-id="404" tvg-name="404", BOO HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="No group" tvg-id="105" tvg-name="105", Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png" group-title="No group" tvg-id="GoShopBAARU" tvg-name="GoShopBAARU", Go Shop BAARU
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png" group-title="No group" tvg-id="" tvg-name="", Go Shop Gaaya
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="No group" tvg-id="147" tvg-name="147", NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="No group" tvg-id="Suria" tvg-name="Suria", Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="TV3.my" tvg-name="TV3.my", TV 3
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="No group" tvg-id="TVAlhijrah.my" tvg-name="TVAlhijrah.my", TV Alhijrah
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="No group" tvg-id="" tvg-name="", TV Ikim
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="No group" tvg-id="146" tvg-name="146", TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="No group" tvg-id="101" tvg-name="101", TV1 HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="No group" tvg-id="102" tvg-name="102", TV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="No group" tvg-id="" tvg-name="", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="No group" tvg-id="149" tvg-name="149", TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="No group" tvg-id="122" tvg-name="122", TVS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
