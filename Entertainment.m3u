@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="No group" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk", Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2D1e2bH.png" group-title="No group" tvg-id="CelebritySceneTV.us" tvg-name="CelebritySceneTV.us", Celebrity Scene TV (X)
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradangdut_small.png" group-title="No group" tvg-id="CitraDangdut.id" tvg-name="CitraDangdut.id", Citra Dangdut (X)
+https://akudandia.xyz/man-prem/cdangdut.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="No group" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Wa4RqJVJL.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="No group" tvg-id="" tvg-name="", Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", Live Music Replay
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="No group" tvg-id="ikonser" tvg-name="ikonser", Maleo TV (X)
+https://bravo.kugo.id/maleo/udp.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", MTV 00s
+http://legendtvs.com//live/test2/12345/381405.ts
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-title="No group" tvg-id="718" tvg-name="718", MTV Asia HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="No group" tvg-id="MTV90s.us" tvg-name="MTV90s.us", MTV 90s
+http://bestsave.ltd:2052/live/55443322/66778899/125210.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKFctz9.png" group-title="No group" tvg-id="mtv-rus" tvg-name="mtv-rus", MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="No group" tvg-id="mtv-rus" tvg-name="mtv-rus", MTV Block Party
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="No group" tvg-id="MTVEast.us" tvg-name="MTVEast.us", MTV East
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="No group" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
+http://starshare.live:8080/live/usman007/usman007/5812.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="No group" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU" group-title="No group" tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us", MTV Music 24
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSol7el_V3QN_Zox-Kf3IKg7elny38uiXKlHQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", MTV Rock
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/743
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", MTV Spankin New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="No group" tvg-id="mtv-rus" tvg-name="mtv-rus", MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="No group" tvg-id="" tvg-name="", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title="No group" tvg-id="MusicTV.id" tvg-name="MusicTV.id", Music TV 
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="No group" tvg-id="" tvg-name="", Music4U
+http://203.154.243.89:1213
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4zvOK.png" group-title="No group" tvg-id="PartyTymeKaraoke.us" tvg-name="PartyTymeKaraoke.us", Party Tyme Karaoke (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="No group" tvg-id="" tvg-name="", Pluto TV VEVO 90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="No group" tvg-id="PlutoTVVevoPop.us" tvg-name="PlutoTVVevoPop.us", Pluto TV Vevo Pop (1080p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="No group" tvg-id="PlutoTVVEVORB.us" tvg-name="PlutoTVVEVORB.us", Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="No group" tvg-id="" tvg-name="", POP MUSIK (X)
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="No group" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwBz7Cw/images-15.png" group-title="No group" tvg-id="" tvg-name="", Vevo HipHop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
