@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="No group" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png" group-title="No group" tvg-id="" tvg-name="", Bandung TV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="No group" tvg-id="BioskopIndonesia.id" tvg-name="BioskopIndonesia.id", Bioskop Indonesia (X)
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" group-title="No group" tvg-id="CitraBioskop.id" tvg-name="CitraBioskop.id", Citra Bioskop (X)
+http://tvn.x10.bz/TvN_ID/master-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="No group" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama (X)
+http://tvn.x10.bz/TvN_ID/master-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg9XFhGd/citraentertainment.png" group-title="No group" tvg-id="CitraEntertainment.id" tvg-name="CitraEntertainment.id", Citra Entertainment (X)
+http://tvn.x10.bz/TvN_ID/master-11.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgaGCW5YBR-B0iRd7xLk3Oc2_L9NG2juZ_D07jSRUXoqHMfmsXhEaj1b6AIu7sBgiH1rQLKAv5ty1t907ZFayTOrbiYKrBNObjss3sbrylv9AcWCg8Ps52G-9H_RZZ7m07QgrB-qd_A-1O69GND4R3Jqmdscsr2KNYUvk13CjDb3pBOB7UA-zvgwMbY=s320" group-title="No group" tvg-id="CitraMuslim.id" tvg-name="CitraMuslim.id", Citra Muslim (X)
+http://tvn.x10.bz/TvN_ID/master-9.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3uoI08q" group-title="No group" tvg-id="" tvg-name="", Flik (X)
+https://ktiptv.cf:443/161/161/73872
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="No group" tvg-id="GTV.id" tvg-name="GTV.id", GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="No group" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRDbn3tN/jtv-surabaya.png" group-title="No group" tvg-id="" tvg-name="", JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="No group" tvg-id="KompasTV.id" tvg-name="KompasTV.id", Kompas TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="No group" tvg-id="MetroTV.id" tvg-name="MetroTV.id", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="No group" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Muslim TV
+https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="No group" tvg-id="" tvg-name="", MyTV (X)
+http://group1-swiftservesd-1.dens.tv/s/s88/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="No group" tvg-id="NET.id" tvg-name="NET.id", NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3lxaMz7" group-title="No group" tvg-id="OKTV.id" tvg-name="OKTV.id", OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="No group" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI
+https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="No group" tvg-id="" tvg-name="", RTV Indonesia
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="No group" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxZc0DwpfEs0CS2v1df1llmlEy7CmhWDacw&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Sinema Indonesia
+http://203.77.246.50:5000/udp/239.1.1.74:5000
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="No group" tvg-id="Trans7.id" tvg-name="Trans7.id", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="No group" tvg-id="TransTV.id" tvg-name="TransTV.id", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3AgRgv5" group-title="No group" tvg-id="VisionPrime.id" tvg-name="VisionPrime.id", Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
