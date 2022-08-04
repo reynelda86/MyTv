@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="No group" tvg-id="148" tvg-name="148", 8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="No group" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro Aec (X)
+https://ktiptv.cf:443/161/161/870511
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="No group" tvg-id="311" tvg-name="311", Astro AOD 351 (X)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="No group" tvg-id="352" tvg-name="352", Astro AOD 352
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="No group" tvg-id="354" tvg-name="354", Astro AOD 354
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="No group" tvg-id="308" tvg-name="308", Astro Quan Jia HD (X)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="No group" tvg-id="307" tvg-name="307", Astro Shuang Xing HD (X)
+http://iptv12k.com:35461/live/80201051217/424567/706.ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/129_144.png" group-title="No group" tvg-id="" tvg-name="", Astro Wah Lai Toi HD (X)
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1726
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="No group" tvg-id="304" tvg-name="304", Astro Xiao Tai Yang HD (X)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="No group" tvg-id="335" tvg-name="335", CCTV4 HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="No group" tvg-id="321" tvg-name="321", Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="No group" tvg-id="309" tvg-name="309", Celestial Movies HD
+https://liveanevia.mncnow.id:443/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg" group-title="No group" tvg-id="Ch 8" tvg-name="Ch 8", Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="No group" tvg-id="Ch U" tvg-name="Ch U", Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="No group" tvg-id="" tvg-name="", Chinese Drama
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="No group" tvg-id="316" tvg-name="316", CTI Asia HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="No group" tvg-id="" tvg-name="", Douyu TV Movies Chinese 1
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="No group" tvg-id="" tvg-name="", Douyu TV Movies Chinese 2
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="No group" tvg-id="300" tvg-name="300", iQIYI HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="No group" tvg-id="" tvg-name="", K Plus
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="No group" tvg-id="392" tvg-name="392", KBS World HD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", NEXTTV (X)
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="No group" tvg-id="" tvg-name="", Nhk World Tv
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="No group" tvg-id="393" tvg-name="393", ONE HD
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="No group" tvg-id="PhoenixChineseChannel.hk" tvg-name="PhoenixChineseChannel.hk", Phoenix Chinese Channel
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="No group" tvg-id="" tvg-name="", Sony GEM
+http://203.77.246.50:5000/udp/239.1.2.146:5000
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="No group" tvg-id="" tvg-name="", Star Chinese Movies
+http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zO6tHeBi439uHF1USGJuwnM3rmhusjG75g&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", TVB Classic
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="No group" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="No group" tvg-id="319" tvg-name="319", TVB Xing He HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="No group" tvg-id="320" tvg-name="320", TVBS Asia HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745681
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="No group" tvg-id="395" tvg-name="395", tvN HD
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="No group" tvg-id="416" tvg-name="416", tvN Movies HD
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
