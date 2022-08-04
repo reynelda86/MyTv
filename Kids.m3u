@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbKndkW1Y-gm3ynnyxHr7E8JipNfh29Omyg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Anibox Live (X)
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="No group" tvg-id="719" tvg-name="719", Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3mucWhL" group-title="No group" tvg-id="" tvg-name="", AniPlus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 http://210.210.155.37/dr9445/h/h02/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="No group" tvg-id="611" tvg-name="611", Astro Ceria HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/779/170/png-clipart-babyfirst-television-channel-satellite-television-at-t-u-verse-child-television-child-thumbnail.png" group-title="No group" tvg-id="BabyFirstTV.us" tvg-name="BabyFirstTV.us", Baby First TV
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA" group-title="No group" tvg-id="618" tvg-name="618", Baby TV HD
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="No group" tvg-id="619" tvg-name="619", Boomerang HD
+https://liveanevia.mncnow.id:443/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="No group" tvg-id="615" tvg-name="615", Cartoon Network HD
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="No group" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebiesAsia.uk", CBeebies Asia
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="No group" tvg-id="DaVinci.de" tvg-name="DaVinci.de", Da Vinci
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL0iTavxh_J1FomF7t_ISe0metFOCG5P7og&usqp=CAU" group-title="No group" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel East
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1113
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNN1TAtU6ibqIJyEvlZNp2BTdrbprt8a6H7A&usqp=CAU" group-title="No group" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Junior East
+http://starshare.live:8080/live/usman007/usman007/49.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="No group" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6razZZL0UOs8BsGo7OiFdE9ok_PyKlPOFg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Garfield & Friends
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="No group" tvg-id="KidsTV.id" tvg-name="KidsTV.id", Kids TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="No group" tvg-id="" tvg-name="", KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3ytZ17/Miaomi.png" group-title="No group" tvg-id="MiaoMi.hk" tvg-name="MiaoMi.hk", Miao Mi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="No group" tvg-id="616" tvg-name="616", Nickelodeon HD
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="No group" tvg-id="617" tvg-name="617", Nickelodeon Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=''png''&Quality=85&ImageId=''2362416''&EntityType=''Item''&EntityId=''187161''&Width=336&Height=189&ImageUrl=''2362416.png''&device=''web_browser''&subscriptions=''Registered''&segmentationTags=''_en,all''&ResizeAction=''fill''&HorizontalAlignment=''center''&VerticalAlignment=''top''" group-title="No group" tvg-id="1003" tvg-name="1003", oktolidays (X)
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="No group" tvg-id="PlutoTVAnimeAllAges.us" tvg-name="PlutoTVAnimeAllAges.us", Pluto TV Anime All Ages
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="No group" tvg-id="PlutoTVAnimeAllDay.us" tvg-name="PlutoTVAnimeAllDay.us", Pluto TV Anime All Day (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="No group" tvg-id="" tvg-name="", Tom & Jerry HD
+http://kidzplaysmart.com:2052/live/khawar/khawar/25215.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="No group" tvg-id="" tvg-name="", Universal Kids
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53589
