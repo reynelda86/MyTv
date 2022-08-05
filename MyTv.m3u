@@ -291,7 +291,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://jinx@starshare.live:8080/live/imran007/imran007/18943.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="Chinese" tvg-id="" tvg-name="", Star Chinese Movies
