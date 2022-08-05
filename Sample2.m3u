@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC AstGO
+#EXTINF:-1 tvg-id="AstroAODHD" ch-number="311" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-https://stream.zeehanzgadget.com/aec.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
