@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD AstGO
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png/revision/latest?cb=20191204084625",304 Astro Xiao Tai Yang AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
