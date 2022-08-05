@@ -13,8 +13,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="No group" tvg-id="354" tvg-name="354", Astro AOD 354
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="No group" tvg-id="308" tvg-name="308", Astro Quan Jia HD (X)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="No group" tvg-id="308" tvg-name="308", Astro Quan Jia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="No group" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 http://jinx@starshare.live:8080/live/imran007/imran007/18943.ts
