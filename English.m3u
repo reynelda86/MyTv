@@ -173,7 +173,9 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53510
 http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53511.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="No group" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
-http://antspo1.club:8080/live/TVmunXuTTAuHGgdDznkU4fSq3xbzBYSt/DrzDSJrqEUkZsQeQesq7b6eWAxUc5xvJ/97992.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO2-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThcBZxt-LmW0hTmVOPBmC5ZGDIj-S-dgPhA&usqp=CAU" group-title="No group" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
 http://starshare.live:8080/live/usman007/usman007/3357.ts
