@@ -195,7 +195,9 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/119244.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNyD5vW11nPzYcwZ768kW3x2c6TLPh4HJfg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", HBO Xtreme
-http://181.78.22.214:8000/play/a00p
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="No group" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
 http://starshare.live:8080/live/usman007/usman007/3356.ts
