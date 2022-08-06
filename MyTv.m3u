@@ -152,6 +152,11 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNyD5vW11nPzYcwZ768kW3x2c6TLPh4HJfg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO Xtreme
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-XTREME-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", AMC Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
