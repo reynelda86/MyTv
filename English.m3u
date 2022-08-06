@@ -14,9 +14,6 @@ http://hls1a-akm.douyucdn.cn:80/live/dyliveflv3/8814650rz82fsTKI_4000p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="No group" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
 http://clientportal-worldiptv.club:8080/live/yj4Tyy9rPJ/ppr4QYmEdy/5392.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="No group" tvg-id="" tvg-name="", Action Hollywood Movies (X)
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Action Movies 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
