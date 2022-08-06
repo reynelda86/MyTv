@@ -317,7 +317,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 http://jinx@starshare.live:8080/live/imran007/imran007/18943.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="Chinese" tvg-id="" tvg-name="", Star Chinese Movies
-http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
+http://1tv1.net:8080/live/hamza2022/123456/70034.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="Chinese" tvg-id="" tvg-name="", Sony GEM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
