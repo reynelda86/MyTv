@@ -29,8 +29,9 @@ https://ktiptv.cf:443/161/161/866412
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="No group" tvg-id="701" tvg-name="701", AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", beIN Movies Action (X)
-http://iptv-line.com:8080/NYbrRlKrOb/u5Jsg1qGzq/507
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", beIN Movies Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/47202.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="No group" tvg-id="" tvg-name="", beIN Movies Drama
 http://ky-iptv.com:25461/live/space99/space99/516042.ts
