@@ -423,8 +423,9 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/56310.ts
 http://antspo1.club:8080/live/TVmunXuTTAuHGgdDznkU4fSq3xbzBYSt/DrzDSJrqEUkZsQeQesq7b6eWAxUc5xvJ/97998.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs4Eqo0KJ3Ai5Kj2KefcZtsbNt5AV-mjKMQ&usqp=CAU" group-title="English" tvg-id="FXEast.us" tvg-name="FXEast.us", FX East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-http://antspo1.club:8080/live/TVmunXuTTAuHGgdDznkU4fSq3xbzBYSt/DrzDSJrqEUkZsQeQesq7b6eWAxUc5xvJ/88394.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge1-zapopan.izzigo.tv/live3/out/u/dash/FX-HD/dash/default.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
