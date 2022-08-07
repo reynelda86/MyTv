@@ -23,8 +23,9 @@ http://ky-iptv.com:25461/live/space99/space99/359432.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="No group" tvg-id="" tvg-name="", American Heroes Channel
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53447
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="No group" tvg-id="" tvg-name="", American Horrors (X)
-https://ktiptv.cf:443/161/161/866412
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="No group" tvg-id="" tvg-name="", American Horrors
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://ky-iptv.com:25461/live/space99/space99/1861533.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="No group" tvg-id="701" tvg-name="701", AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
