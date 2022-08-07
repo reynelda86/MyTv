@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="No group" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk", Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2D1e2bH.png" group-title="No group" tvg-id="CelebritySceneTV.us" tvg-name="CelebritySceneTV.us", Celebrity Scene TV (X)
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="No group" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
