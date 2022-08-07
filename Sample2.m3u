@@ -1,11 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:43963
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:10.2,
-media_w1843771659_43963.ts
-#EXTINF:10.2,
-media_w1843771659_43964.ts
-#EXTINF:9.6,
-media_w1843771659_43965.ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="No group" tvg-id="" tvg-name="", POP MUSIK (X)
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
