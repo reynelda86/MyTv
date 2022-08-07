@@ -71,9 +71,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="No group" tvg-id="PlutoTVVEVORB.us" tvg-name="PlutoTVVEVORB.us", Pluto TV VEVO R&B (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1" group-title="No group" tvg-id="" tvg-name="", POP MUSIK (X)
-https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="No group" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
