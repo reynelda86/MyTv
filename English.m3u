@@ -194,15 +194,6 @@ http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178808&extension
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="No group" tvg-id="" tvg-name="", Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png" group-title="No group" tvg-id="" tvg-name="", MY Cinema (X)
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/394
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_small.png" group-title="No group" tvg-id="" tvg-name="", MY Cinema Asia (X)
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/395
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_small.png" group-title="No group" tvg-id="" tvg-name="", MY FAMILY (X)
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/396
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" group-title="No group" tvg-id="" tvg-name="", My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
