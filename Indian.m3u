@@ -80,9 +80,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="No group" tvg-id="Vasantham" tvg-name="Vasantham", Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="No group" tvg-id="301" tvg-name="301", Yupp Thirai HD (X)
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="No group" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 
