@@ -65,9 +65,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title="No group" tvg-id="MusicTV.id" tvg-name="MusicTV.id", Music TV 
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="No group" tvg-id="" tvg-name="", Music4U
-http://203.154.243.89:1213
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4zvOK.png" group-title="No group" tvg-id="PartyTymeKaraoke.us" tvg-name="PartyTymeKaraoke.us", Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 
