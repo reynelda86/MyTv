@@ -44,9 +44,6 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Muslim TV
 https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="No group" tvg-id="" tvg-name="", MyTV (X)
-http://group1-swiftservesd-1.dens.tv/s/s88/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="No group" tvg-id="NET.id" tvg-name="NET.id", NET
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
