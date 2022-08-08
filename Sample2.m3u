@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="301" tvg-logo="https://i.ibb.co/kDYcMsQ/20200709194934030p1r.png" group-title=SaniMpd",Yupp Thirai
-#EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
