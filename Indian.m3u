@@ -12,6 +12,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="No group" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="No group" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://starshare.live:8080/live/usman007/usman007/187.ts
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="No group" tvg-id="202" tvg-name="202", Astro Vinmeen HD (X)
 https://live.astradamy.com/astro/vinmeen/index.mpd
 
