@@ -1,5 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astrox Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
+http://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
