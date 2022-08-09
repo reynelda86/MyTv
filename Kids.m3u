@@ -6,7 +6,8 @@ https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sl
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3mucWhL" group-title="No group" tvg-id="" tvg-name="", AniPlus
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 http://210.210.155.37/dr9445/h/h02/index.m3u8?checkedby:iptvcat.com
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115609.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="No group" tvg-id="611" tvg-name="611", Astro Ceria HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
