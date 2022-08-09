@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="No group" tvg-id="" tvg-name="", AL Iman TV (X)
-http://202.150.172.35:8000/play/alimantvs2
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="No group" tvg-id="" tvg-name="", AL Quran AL Kareem
 https://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
