@@ -1231,7 +1231,7 @@ http://astro4.rastream.com/jazz?type=.flv
 https://usa3.fastcast4u.com/proxy/jeifm?mp=/stream/1/
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/HjyqsyXZge.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", JOHOR FM
-https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035_aac/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s154370q.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", KELANTAN FM
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
