@@ -72,7 +72,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.a
 http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="No group" tvg-id="873" tvg-name="873", MINNAL FM
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="No group" tvg-id="855" tvg-name="855", MIX FM
 http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
