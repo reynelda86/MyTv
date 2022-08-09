@@ -66,7 +66,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", MELAKA FM
-https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="No group" tvg-id="858" tvg-name="858", MELODY FM
 http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
