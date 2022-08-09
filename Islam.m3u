@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" group-title="No group" tvg-id="" tvg-name="", AhSan TV (X)
-http://202.150.172.35:8000/play/ahsantvs2
-
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="No group" tvg-id="" tvg-name="", AL Iman TV (X)
 http://202.150.172.35:8000/play/alimantvs2
 
