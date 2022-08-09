@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="INDONESIA", Dewan Negara
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+#EXTINF:-1 group-title="RTM" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg",Dewan Negara [MPEG-DASH]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
