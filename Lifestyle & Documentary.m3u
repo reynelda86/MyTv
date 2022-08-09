@@ -152,8 +152,5 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53582
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", TV5 MONDE STYLE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://guide-images.cdn.ifixit.com/igi/XkKVydRMbCZHrFKr.standard" group-title="No group" tvg-id="" tvg-name="", Vizio Food
-https://food.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kMSqd9f/504-5041014-transparent-background-wild-earth-calligraphy-hd-png-download.png" group-title="No group" tvg-id="" tvg-name="", Wild Earth
 https://wildearth-roku.amagi.tv/masterR1080p.m3u8
