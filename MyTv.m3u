@@ -1270,7 +1270,7 @@ http://astro4.rastream.com/opus?type=.flv
 http://astro4.rastream.com/osai?type=.flv
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157939g.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", PERAK FM
-https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uzffezhcg5xq.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", PERLIS FM
 https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/chunklist.m3u8
