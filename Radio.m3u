@@ -114,7 +114,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/terengganu-fm.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", TERENGGANU FM
-https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="No group" tvg-id="863" tvg-name="863", THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
