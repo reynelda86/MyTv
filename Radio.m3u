@@ -99,7 +99,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-zmMHq3VwLOc/USxZ58eYNeI/AAAAAAAABgA/RaFT3UHJ8wY/s1600/Klasik+Nasional+FM.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", RADIO KLASIK
-https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/rtm-sabah-fm.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", SABAH FM
 https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
