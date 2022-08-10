@@ -1279,7 +1279,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/rtm-sabah-fm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", SABAH FM
-https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="Radio" tvg-id="870" tvg-name="870", V FM
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
