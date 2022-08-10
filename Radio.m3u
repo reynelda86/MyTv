@@ -108,7 +108,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s125696q.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", SANDAKAN FM
-https://sandakanfm.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="No group" tvg-id="857" tvg-name="857", SINAR FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
