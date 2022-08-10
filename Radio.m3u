@@ -81,7 +81,7 @@ http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
 http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
 
 #EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="No group" tvg-id="869" tvg-name="869", NAS FM
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", ONE FM
 https://mediaprima.rastream.com/mediaprima-onefm
