@@ -68,8 +68,9 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", FightBox
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="No group" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports (X)
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28812
+#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://starshare.live:8080/live/usman007/usman007/23353.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/1280px-GINX_Esports_TV_Logo_flat.png" group-title="No group" tvg-id="GinxeSportsTVInternational.uk" tvg-name="GinxeSportsTVInternational.uk", Ginx eSports TV International
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/161307
