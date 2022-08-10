@@ -1179,7 +1179,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio" tvg-id="875" tvg-name="875", ASYIK FM
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio" tvg-id="867" tvg-name="867", BAYU
 https://astro4.rastream.com/bayu
