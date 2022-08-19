@@ -1644,8 +1644,8 @@ http://www.deadlyblogger.com/NewRelease/xmen3.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqyQy-BL4NTqqWBG8fdG9cJ6l_tqpPfz9hQ&usqp=CAU" group-title="VOD X-MEN (X)" tvg-id="" tvg-name="", The Wolverine
 http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
 
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/deadpool-lektor-2016.jpg" group-title="VOD X-MEN (X)" tvg-id="" tvg-name="", Deadpool (X)
-https://vodcdn2.internetowa.tv/Deadpool-2016-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/deadpool-lektor-2016.jpg" group-title="VOD English" tvg-id="" tvg-name="", Deadpool (2016)
+https://www.googleapis.com/drive/v3/files/1wD-tA6h5oozeLZ_5ZkyTpufGkwEjEG8_?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fYZ2gnSlrgC3bGpc65w9MwAqqPmc7mrnrg&usqp=CAU" group-title="VOD X-MEN (X)" tvg-id="" tvg-name="", Deadpool 2 (X)
 http://archive.org/download/EraUmaVezDeadpool/Era%20uma%20Vez%20Deadpool.mp4
