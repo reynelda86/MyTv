@@ -1767,8 +1767,8 @@ http://admin.nf21.net/go/files/19354
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Flq04-X297ZjqCGDOpsrfcZCj_rM3WRvUQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Die Hard (1988)
 http://starshare.live:8080/movie/usman007/usman007/40703.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWE4hRqxbB4sCmy4HeVosiLawouVRC7YAOtQ&usqp=CAU" group-title="VOD Die Hard(X)" tvg-id="" tvg-name="", Die Hard 2
-https://v26.gomoplayer.com/hls/,vxokeaiwwkalavf4erbyvmw2t4rsrwr2bwtvq4omjwbvg5lpeosg2uy2ffmq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWE4hRqxbB4sCmy4HeVosiLawouVRC7YAOtQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Die Hard 2 (1990)
+https://www.googleapis.com/drive/v3/files/1DHlv8WnIB9yfgWybDQu7WfNenPjw5bzt?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOqB9iMEcbGhAgH70dbs8U58UW5.jpg" group-title="VOD Die Hard(X)" tvg-id="" tvg-name="", Die Hard: With a Vengeance
 http://www2.mvyg.xyz/assets/files/1959/Die%20Hard%20With%20A%20Vengeance%20(1995)%20(BRRip)%20(PC%20HD%20Full%20Movie).mp4
