@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="No group" tvg-id="flix.in" tvg-name="flix.in", & flix
 http://starshare.live:8080/live/usman007/usman007/9382.ts
 
+#EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="English" tvg-id="" tvg-name="", beIN Series 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://drakiptv.uno:2580/live/adam1/1234/161984.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", AMC Movies
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
