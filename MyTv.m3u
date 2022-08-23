@@ -245,10 +245,6 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53963.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53564
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1xxiRCRc4uw34Sqkx0viHoE9I2zNj77djw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Fox Movies
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://legendtvs.com//live/test2/12345/299407.ts
-
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://pro.viponetv.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/125658.ts
