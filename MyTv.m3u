@@ -4056,7 +4056,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://legendtvs.com//live/test2/12345/299404.ts
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/59463.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSWaVgOf6Ejw34X5XueRQcESGu-7apV85QA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Kids & Family
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
