@@ -107,7 +107,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58e55b14a
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="No group" tvg-id="" tvg-name="", Fox Crime
-http://legendtvs.com//live/test2/12345/299404.ts
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/59463.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", FOX Movies
 http://legendtvs.com//live/test2/12345/299407.ts
