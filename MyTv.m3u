@@ -294,7 +294,7 @@ http://quality-restream.com:8080/live/single-ed8969/6554d47b5f/16958.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="Indian" tvg-id="" tvg-name="", Bollywood HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://cbxedge.synapsetv.com/picker/tsstreamer/?f=BollywoodHDLDAI_SD
+http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Indian" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
