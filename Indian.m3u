@@ -78,7 +78,7 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzD7OhdSjEvTDVMKq-06O0MUFD-IqY1NoSA&usqp=CAU" group-title="No group" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://starshare.live:8080/live/usman007/usman007/347.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="No group" tvg-id="" tvg-name="", Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
