@@ -26,7 +26,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="No group" tvg-id="actionmax.us" tvg-name="actionmax.us", Cinemax Actionmax
-http://ky-iptv.com:25461/live/space99/space99/359432.ts
+http://kidzplaysmart.com:2052/live/khawar/khawar/34891.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="No group" tvg-id="" tvg-name="", American Heroes Channel
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53447
