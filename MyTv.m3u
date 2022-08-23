@@ -269,6 +269,9 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png/revision/latest/scale-to-width-down/340?cb=20190711114844" group-title="Indian" tvg-id="" tvg-name="", Sony TV
+http://starshare.live:8080/live/usman007/usman007/349.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="Indian" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080/live/usman007/usman007/187.ts
