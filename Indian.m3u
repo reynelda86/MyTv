@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="No group" tvg-id="214" tvg-name="214", Adithya
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png/revision/latest/scale-to-width-down/340?cb=20190711114844" group-title="Indian" tvg-id="" tvg-name="", Sony TV
+http://starshare.live:8080/live/usman007/usman007/349.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="No group" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ky-iptv.com:25461/live/space99/space99/1121960.ts
