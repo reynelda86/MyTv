@@ -38,7 +38,7 @@ http://starshare.live:8080/live/usman007/usman007/6208.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="No group" tvg-id="" tvg-name="", Bollywood HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://ky-iptv.com:25461/live/space99/space99/1123193.ts
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=BollywoodHDLDAI_SD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="No group" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
