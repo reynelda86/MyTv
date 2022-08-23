@@ -9,6 +9,10 @@ http://starshare.live:8080/live/usman007/usman007/349.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080/live/usman007/usman007/6627.ts
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="Indian" tvg-id="" tvg-name="", Sony Wah
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/203094.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="No group" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://ky-iptv.com:25461/live/space99/space99/1121960.ts
