@@ -282,7 +282,7 @@ http://203.77.246.50:5000/udp/239.1.2.132:5000
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="No group" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
-http://ky-iptv.com:25461/live/space99/space99/176054.ts
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/11164.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="No group" tvg-id="ShowtimeEast.us" tvg-name="ShowtimeEast.us", Showtime East
 http://starshare.live:8080/live/usman007/usman007/3409.ts
