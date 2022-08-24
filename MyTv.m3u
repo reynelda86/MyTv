@@ -2317,7 +2317,8 @@ https://www.googleapis.com/drive/v3/files/1VmVA4e7WCNv1-F9S9inwRiFBOLcCQP0f?alt=
 https://www.googleapis.com/drive/v3/files/19Wuh_J9FLx7BqNchAkfW-5JHXSlSMtCA?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-id="146" group-title="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
