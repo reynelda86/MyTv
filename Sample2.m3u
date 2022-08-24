@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",TV Okey
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",TV Okey HD
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
