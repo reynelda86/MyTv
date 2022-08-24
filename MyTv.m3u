@@ -1574,6 +1574,10 @@ https://lh3.googleusercontent.com/SZHFasXrIOXINeKBU7ywNBN1Yg_Jpus9o5zmfzVZB0iKK3
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BNWRiNTg0YjYtMTBkOC00YjZlLWExYTYtNWEzYzdhMjJhODllXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Thor: Love And Thunder (2022)
 https://stream07.emeskyu.workers.dev/0:/Thor.Love.And.Thunder.2022.V2.720p.HDTS.x264.mkv
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kidzplaysmart.com:2052/live/khawar/khawar/24551.ts
+
 #EXTINF:-1 tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Thor-Ragnarok.jpg" group-title="VOD English" tvg-id="" tvg-name="", Thor Ragnarok (2017)
 https://lh3.googleusercontent.com/0LNYXyAqWbfUuSQ1-HAciF2qHu2km83J91f9EgbGw9xnK26CjRrkpWuQT-Ocy8WdIBSixL3PbgLom_zyPg=m22
 
