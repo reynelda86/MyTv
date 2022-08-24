@@ -10,7 +10,7 @@ http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwi
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" group-title="No group" tvg-id="CitraBioskop.id" tvg-name="CitraBioskop.id", Citra Bioskop
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tvn10.xyz/Meta/master-2.m3u8
+http://tvn.x10.mx/vidio/master-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="No group" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
