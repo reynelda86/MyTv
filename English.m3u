@@ -6,6 +6,10 @@ http://starshare.live:8080/live/usman007/usman007/9382.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348059.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kidzplaysmart.com:2052/live/khawar/khawar/24551.ts
+
 #EXTINF:-1 tvg-logo="http://195.154.156.100:88/Arabic/bein%20series%20(Copy)%20(Copy).png" group-title="English" tvg-id="beinseries2.qa" tvg-name="beinseries2.qa", beIN Series 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/26657.ts
