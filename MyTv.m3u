@@ -277,6 +277,10 @@ http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/203094.ts
 
+#EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg" group-title="Indian" tvg-id="" tvg-name="", Sony Mix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stariptv.org:8080/live/hamza2022/123456/99312.ts
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="Indian" tvg-id="" tvg-name="", Sony Pal
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080/live/usman007/usman007/6627.ts
