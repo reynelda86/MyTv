@@ -32,6 +32,10 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="No group" tvg-id="MTVEast.us" tvg-name="MTVEast.us", MTV East
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="Entertainment" tvg-id="ikonser" tvg-name="ikonser", Maleo TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="No group" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
 http://starshare.live:8080/live/usman007/usman007/5812.ts
 
