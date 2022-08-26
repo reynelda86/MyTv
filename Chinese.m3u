@@ -45,6 +45,10 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053185
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Chinese" tvg-id="" tvg-name="", Chinese Drama
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="No group" tvg-id="316" tvg-name="316", CTI Asia HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
