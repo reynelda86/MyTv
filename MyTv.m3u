@@ -949,6 +949,10 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080/live/usman007/usman007/230.ts
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png" group-title="Indian" tvg-id="203" tvg-name="203", Astro Vellithirai
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/380126.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Indian" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://lionboxiptv.xyz//live/recep12/recep12/15560.ts
