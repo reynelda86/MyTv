@@ -290,6 +290,12 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian" tvg-id="" tvg-name="", Astro Box Office Thangathirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2109
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="Indian" tvg-id="" tvg-name="", Sony Wah
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/203094.ts
