@@ -294,6 +294,10 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53963.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53564
 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="starzencore.us" tvg-name="starzencore.us", Starz Encore Black
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/60730.ts
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://pro.viponetv.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/125658.ts
