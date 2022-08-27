@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen AstGO 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-https://stream.zeehanzgadget.com/vinmeen
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",202 Astrox Vinmeen
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://stream.zeehanzgadget.com/vinmeen
+#EXTINF:-1 tvg-id="701" group-title="SPORTS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
