@@ -10,6 +10,10 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77385.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348059.ts
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", MBC Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://lionboxiptv.xyz//live/recep12/recep12/14458.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kidzplaysmart.com:2052/live/khawar/khawar/24551.ts
