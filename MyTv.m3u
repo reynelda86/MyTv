@@ -561,6 +561,10 @@ http://starshare.live:8080/live/usman007/usman007/9384.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56306
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/340?cb=20200608133037" group-title="English" tvg-id="sonyactionplus1.uk" tvg-name="sonyactionplus1.uk", Sony Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/50396.ts
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kidzplaysmart.com:2052/live/khawar/khawar/34920.ts
