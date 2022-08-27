@@ -129,6 +129,10 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/59463.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/140978.ts
 
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="" tvg-name="", Fox Movies Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77017.ts
+
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/1651.ts
