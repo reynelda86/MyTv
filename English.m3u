@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="No group" tvg-id="flix.in" tvg-name="flix.in", & flix
 http://starshare.live:8080/live/usman007/usman007/9382.ts
 
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/FILM4.png" group-title="English" tvg-id="film4.uk" tvg-name="film4.uk", Film4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77385.ts
+
 #EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="English" tvg-id="" tvg-name="", beIN Series 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348059.ts
