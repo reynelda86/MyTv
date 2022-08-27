@@ -133,6 +133,10 @@ http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/140978.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/30474.ts
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/30473.ts
+
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="" tvg-name="", Fox Movies Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77017.ts
