@@ -400,6 +400,10 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/56310.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhKfHaUnhpFJYbjpIt1g7pfgKo6l_M8ldSQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Starz Encore Action
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53564
 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="starzencore.us" tvg-name="starzencore.us", Starz Encore Black
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/60730.ts
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.776UZ-JO-2TPgsTigq-gRQAAAA&pid=Api&P=0&w=211&h=159" group-title="No group" tvg-id="StarzEncoreEast.us" tvg-name="StarzEncoreEast.us", Starz Encore East
 http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/56312.ts
 
