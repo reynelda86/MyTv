@@ -6,6 +6,10 @@ http://starshare.live:8080/live/usman007/usman007/9382.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77385.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://humiptv.live:8080//live/500757885/3356646354/9564.ts
+
 #EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="English" tvg-id="" tvg-name="", beIN Series 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348059.ts
