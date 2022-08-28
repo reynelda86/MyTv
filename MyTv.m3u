@@ -193,6 +193,10 @@ http://1tv1.net:8080//live/nazha2021/123456/103313.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/500757885/3356646354/73855.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7SjBSpFzV0nQhutsvDT2jU3tykeFAdDz3A&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Amazon Prime Adventure
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://humiptv.live:8080//live/500757885/3356646354/73854.ts
+
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/30474.ts
