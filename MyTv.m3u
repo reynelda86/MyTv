@@ -3109,6 +3109,10 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 tvg-logo="http://hostengine.live:25461/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Black Cinema
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/138671.ts
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Pluto TV Cars
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
