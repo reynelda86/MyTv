@@ -221,6 +221,10 @@ http://king-tv.online:8080//live/gisle@/FDPWGufCmY/103533.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://lionboxiptv.xyz//live/recep12/recep12/14458.ts
 
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/MBCGROUP/MBCMAX.png" group-title="English" tvg-id="mbcmax.ae" tvg-name="mbcmax.ae", MBC Max
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/37615.ts
+
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/FILM4.png" group-title="English" tvg-id="film4.uk" tvg-name="film4.uk", Film4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77385.ts
