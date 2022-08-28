@@ -38,6 +38,10 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348059.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://lionboxiptv.xyz//live/recep12/recep12/14458.ts
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR0SheihPNrSTR0-S3kkj812qc8hPkLgJUnC-k=s900-c-k-c0x00ffffff-no-rj" group-title="English" tvg-id="" tvg-name="", MBC Variety Plus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/191755.ts
+
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/MBCGROUP/MBCMAX.png" group-title="English" tvg-id="mbcmax.ae" tvg-name="mbcmax.ae", MBC Max
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/37615.ts
