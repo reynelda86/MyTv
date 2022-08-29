@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58
-#EXTINF:-1 tvg-id="HBOXtremeHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO Xtreme HD
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2a2aed17dc6050fb9dee6e65a06b3925&key=bac5818a6e1135db3c9f24fb752f699f
+#EXTINF:-1 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://i.imgur.com/BS16Dmx.png",HBO 2 HD
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
