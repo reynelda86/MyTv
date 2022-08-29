@@ -52,7 +52,7 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/54181.ts
 
 #EXTINF:-1 tvg-logo="http://195.154.156.100:88/Arabic/bein%20series%20(Copy)%20(Copy).png" group-title="English" tvg-id="beinseries2.qa" tvg-name="beinseries2.qa", beIN Series 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/26657.ts
+http://myf-tv.com:8080/live/CN2hmfUXaFzgYd7/DnouHXoh0bYKoVu/97995.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", AMC Movies
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
