@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png", Star Chinese Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
+#EXTINF:-1 tvg-id="203" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png" group-title="Indian",Astro Vellithirai
+http://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_ott.mpd
