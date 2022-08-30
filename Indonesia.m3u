@@ -60,7 +60,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="No group" tvg-id="" tvg-name="", RTV Indonesia
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
