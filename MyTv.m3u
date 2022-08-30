@@ -442,7 +442,7 @@ http://humiptv.live:8080//live/500757885/3356646354/5813.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Indian" tvg-id="" tvg-name="", Star Plus HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080//live/500757885/3356646354/346.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
