@@ -189,10 +189,6 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/184988.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080/live/imran007/imran007/73881.ts
 
-#EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/ayltv.png" group-title="English" tvg-id="" tvg-name="", Action Movies
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://1tv1.net:8080//live/nazha2021/123456/103313.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFo_QeYYLKOJ8B0nksq9xhtsW4buXpqKeHw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Amazon Prime Action HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/500757885/3356646354/73855.ts
