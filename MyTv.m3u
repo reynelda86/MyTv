@@ -1026,7 +1026,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="Indian" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/86178.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
