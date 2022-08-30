@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="No group" tvg-id="214" tvg-name="214", Adithya
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png" group-title="Indian" tvg-id="203" tvg-name="203", Astro Vellithirai
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png" group-title="Indian" tvg-id="203" tvg-name="203", Astro Vellithirai (X)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/380126.ts
 
