@@ -78,7 +78,7 @@ http://starshare.live:8080/live/usman007/usman007/240.ts
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="No group" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
-http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
+http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/86178.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
