@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbKndkW1Y-gm3ynnyxHr7E8JipNfh29Omyg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Anibox Live
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://allanf181.github.io/adaptive-streams/streams/kr/Anibox.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="No group" tvg-id="719" tvg-name="719", Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
