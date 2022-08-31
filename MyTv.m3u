@@ -1108,7 +1108,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle & Documentary" tvg-id="717" tvg-name="717", BBC Lifestyle HD
-http://starshare.live:8080/live/usman007/usman007/18954.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=82c5ba9d6368aa9d36d50e4198177910&key=9161f6debd89e32de98008338f0455b7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
