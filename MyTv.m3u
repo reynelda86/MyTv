@@ -3640,10 +3640,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="Chinese" tvg-id="" tvg-name="", Douyu TV Movies Chinese 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="English" tvg-id="" tvg-name="", FilmRise Free Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139759
