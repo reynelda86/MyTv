@@ -459,6 +459,7 @@ http://51.79.82.208:16021
 http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Chinese" tvg-id="" tvg-name="", Chinese Drama
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://nonton.site:8443/live/mustakim/mustakim/36733.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Chinese" tvg-id="304" tvg-name="304", Astro Xiao Tai Yang HD
