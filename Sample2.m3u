@@ -1,10 +1,10 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="CHINESE",Astro AEC HD (A)
-https://Astro.kpsboyserver.com/AstroAec.mpd
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b99cf66a51cfe4502e73ada5729d9010&key=663541fe51f4c095cd23097730ef7608
+https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
 
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astrox Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-id="306" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="Chinese",ASTRO AEC HD
-http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
+https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
