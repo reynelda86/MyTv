@@ -452,7 +452,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro Aec
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053185
+http://51.79.82.208:16021
 
 #EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", NEXTTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
