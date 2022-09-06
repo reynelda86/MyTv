@@ -1448,6 +1448,7 @@ https://www.googleapis.com/drive/v3/files/1Oylq7WiqqcLsuqRlLLpi8T7ZprlOI53Q?alt=
 https://www.googleapis.com/drive/v3/files/1RBDsRvAOYu8IEZ_bN8ZvNnajATfCZTd9?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BNTZkNWEyZTgtYzJlOS00OWNiLTgwZjMtZGU5NTRhNDNjOTRhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter 20th Anniversary: Return To Hogwarts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/on32kA
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0Wbkdykxij_7ywwfhvWc4PYElouYxFCQIA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Philosophers Stone (2001)
@@ -1526,21 +1527,26 @@ https://www.googleapis.com/drive/v3/files/1TaxwzvCFeAtCYOxUSvsuppf6a_2wdkDh?alt=
 https://www.googleapis.com/drive/v3/files/1SBdTw5uwSomzz_3moZv-tGyXlqqBG0Cj?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 1 (2010)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/PoK2JM
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 2 (2011)
 https://www.googleapis.com/drive/v3/files/1_t07hpXkza3F5QOklu33INO0TkI1Zdnc?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Goblet Of Fire (2005)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/CxWdkW
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//Ag21otqbeynZPGjEbzyr3X5Us0j.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Half-Blood Prince (2009)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/wd9CUW
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Order Of The Phoenix (2007)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/ZxOcAj
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoTRj3jMTv4tg7KdAG3sTRLUgonPU8xeZmA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Chamber of Secrets
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/xRKbVh
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Home Alone
