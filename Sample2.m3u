@@ -1,5 +1,6 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AniPlus.th" tvg-name="Aniplus" group-title="Cartoon" tvg-logo="https://iili.io/1Nc919.jpg",Aniplus
-https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.Disney_Channel_Logo_2019.png.906b4e4941001d36b389f72e4e84d3ec.png" group-title="Infantiles y Familiares", Disney Channel
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
