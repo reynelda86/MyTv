@@ -1298,7 +1298,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", AMBOI FM
-http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
+http://amboifm.iradio.work:8000/stream
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio" tvg-id="875" tvg-name="875", ASYIK FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
