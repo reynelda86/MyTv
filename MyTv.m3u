@@ -478,7 +478,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
-http://jinx@starshare.live:8080/live/imran007/imran007/18943.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="Chinese" tvg-id="" tvg-name="", Star Chinese Movies
 http://pprotv.com:80/97887222/97887222/39516
