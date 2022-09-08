@@ -1,10 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="CHINESE ENTERTAINMENT",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-id="306" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="Malaysia: Astro On The Go",Astro AEC
-https://linears-playback.astro.com.my/vsg/41_JWsOboO1jTXC3y6nYVZMNQepwr0X_nnjpVTwstt8xI=SuRm/dash-wv/jitp-linearwm/2400/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-id="306" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="Malaysia: Astro On The Go",Astro AEC 2
-https://live.astradamy.com/astro/aec/index.mpd
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621
