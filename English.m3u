@@ -128,10 +128,6 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53484
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="No group" tvg-id="FamilyFlix.us" tvg-name="FamilyFlix.us", Family Flix (720p)
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZKR3m2zu_a4WHTfZgZtAQguT5z5VoGpiPQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Flix Movies Adventure
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/184988.ts
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="No group" tvg-id="" tvg-name="", FilmRise Action
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139172
 
