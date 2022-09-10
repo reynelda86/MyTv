@@ -43,9 +43,8 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="No group" tvg-id="Ch U" tvg-name="Ch U", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="No group" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro Aec (X)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro Aec
+http://51.79.82.208:16021
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Chinese" tvg-id="" tvg-name="", Chinese Drama
 https://nonton.site:8443/live/mustakim/mustakim/36733.m3u8
