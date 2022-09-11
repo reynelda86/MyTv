@@ -49,7 +49,7 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="No group" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
-http://starshare.live:8080/live/usman007/usman007/5812.ts
+http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53925.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="No group" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
