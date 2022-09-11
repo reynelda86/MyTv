@@ -52,8 +52,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 http://starshare.live:8080/live/usman007/usman007/6208.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="No group" tvg-id="" tvg-name="", Bollywood HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts?checkedby:iptvcat.com
+http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/181296.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="No group" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Box office Bollywood
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/203361.ts
