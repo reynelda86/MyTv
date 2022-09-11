@@ -79,8 +79,7 @@ http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/86178.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/49379.ts
+http://grl.faststr.com//live/yasstv_920589/onPDgbtP/48937.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="No group" tvg-id="" tvg-name="", Sony Max 2
 http://starshare.live:8080/live/usman007/usman007/973.ts
