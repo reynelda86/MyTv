@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728", Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RbVQjjJ/disneychannel.png" tvg-group="INFANTILES", DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disney.json
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
