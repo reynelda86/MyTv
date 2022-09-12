@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RbVQjjJ/disneychannel.png" tvg-group="INFANTILES", DISNEY CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disney.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RbVQjjJ/disneychannel.png" tvg-group="INFANTILES", DISNEY CHANNEL HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
