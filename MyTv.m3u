@@ -3838,7 +3838,7 @@ https://www.googleapis.com/drive/v3/files/1Byyhz8EKBBzb0Jp5s2UdBV2MGE6qaXNA?alt=
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://212.102.60.80/Eurosport2/index.m3u8
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/117729.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="AstroSuperSport.my" tvg-name="AstroSuperSport.my", Astro SuperSport
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
