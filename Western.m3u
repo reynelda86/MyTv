@@ -13,3 +13,6 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/76977.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="No group" tvg-id="" tvg-name="", STIRR Westerns (720p)
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Western" tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us", Xumo Free Westerns
+http://n2086.securepoint.io:25461/live/q7AVNw2AeL/50CJwDBLeK/171141.ts
