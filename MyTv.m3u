@@ -770,7 +770,7 @@ http://grl.faststr.com//live/yasstv_920589/onPDgbtP/203090.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/21109.ts
+http://humiptv.live:8080//live/500757885/3356646354/98843.ts
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
