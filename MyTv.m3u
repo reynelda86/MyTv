@@ -261,7 +261,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", AMC Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+http://pro.viponetv.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/112003.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad5yP-U2GCSDztOnBiST5nyCqhnys1qYKBA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Movies Now HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
