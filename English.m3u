@@ -132,23 +132,18 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/59463.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/18518
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/30474.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/30473.ts
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="" tvg-name="", Fox Movies Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77017.ts
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/1651.ts
 
 #EXTINF:-1 tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/action-movies-colour-lightbg-1.png" group-title="No group" tvg-id="" tvg-name="", Fox Thriller
@@ -227,7 +222,6 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/5a53b1760d2c1e3aa507fa4bea98fe84.png" group-title="English" tvg-id="" tvg-name="", Lifetime Movies Network
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080//live/Salman007/Salman007/1550.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="No group" tvg-id="" tvg-name="", MNX
@@ -258,7 +252,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="http://hostengine.live:25461/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Black Cinema
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/246776.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Pluto TV Comedy
@@ -367,7 +360,6 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53965.ts
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/138158.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwe3JaBjPWDBNecYCMeLYldH-0JVoP8Kc2A&usqp=CAU" group-title="English" tvg-id="skyscifihorror.uk" tvg-name="skyscifihorror.uk", Sky Cinema Sci-fi Horror
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/138162.ts
 
 #EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/20fb75b908f2ea40ee7f4ccee8aae92f.png" group-title="No group" tvg-id="skythriller.uk" tvg-name="skythriller.uk", Sky Cinema Thriller
@@ -377,7 +369,6 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/138163.ts
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56306
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/340?cb=20200608133037" group-title="English" tvg-id="sonyactionplus1.uk" tvg-name="sonyactionplus1.uk", Sony Movies Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/50396.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="No group" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
@@ -387,8 +378,7 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142744
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="No group" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mag.abcdxyz.one:80//live/mCH7y5C4tZGE/sZGNDQTWqs/21109.ts
+http://humiptv.live:8080//live/500757885/3356646354/98843.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFrX1O8wNGHc12a9qsHKbkIRqZc-sHLABUw&usqp=CAU" group-title="No group" tvg-id="StarWorldHDIndia.hk" tvg-name="StarWorldHDIndia.hk", Star World HD India
 http://starshare.live:8080//live/Salman007/Salman007/9385.ts
