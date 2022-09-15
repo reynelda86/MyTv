@@ -15,7 +15,7 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", MTV 00s
-http://quality-restream.com:8080/live/single-ed8969/6554d47b5f/1533.ts
+http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53923.ts
 
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:80/images/5a03eaa5aabefed79df40270e9ebd250.png" group-title="Entertainment" tvg-id="92news.uk" tvg-name="92news.uk", MTV Club
 http://starshare.live:8080//live/Salman007/Salman007/5815.ts
