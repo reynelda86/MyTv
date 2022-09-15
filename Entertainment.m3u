@@ -18,8 +18,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa90
 http://quality-restream.com:8080/live/single-ed8969/6554d47b5f/1533.ts
 
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:80/images/5a03eaa5aabefed79df40270e9ebd250.png" group-title="Entertainment" tvg-id="92news.uk" tvg-name="92news.uk", MTV Club
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://ky-iptv.com:80//live/zahidkhan123/zahidkhan123/189971.ts
+http://starshare.live:8080//live/Salman007/Salman007/5815.ts
 
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Entertainment" tvg-id="MTV2.ca" tvg-name="MTV2.ca", MTV 2 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
