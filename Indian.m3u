@@ -11,19 +11,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 http://starshare.live:8080//live/Salman007/Salman007/349.ts
 
 #EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg" group-title="Indian" tvg-id="" tvg-name="", Sony Mix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/500757885/3356646354/4079.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="Indian" tvg-id="" tvg-name="", Sony Pal
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080//live/Salman007/Salman007/6627.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="Indian" tvg-id="" tvg-name="", Sony Wah
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/500757885/3356646354/4077.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="No group" tvg-id="" tvg-name="", And Picture HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://grl.faststr.com//live/yasstv_920589/onPDgbtP/86185.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="No group" tvg-id="AstroBollyOneHD.my" tvg-name="AstroBollyOneHD.my", Astro BollyOne HD
