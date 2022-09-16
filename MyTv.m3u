@@ -1750,13 +1750,6 @@ https://is.gd/ZxOcAj
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/xRKbVh
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpt5qrhlwFadTrmzQBFklORboH23YWK860Mw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones and the Raiders of the Lost Ark (1981)
-https://is.gd/m1PvLk
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZwsO0GVnWQHA55ezsLdYCJzYFdJcKt44FA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones and the Kingdom of the Crystal Skull (2008)
-https://is.gd/8xKNaM
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTugaq2ExGlLji-2JbVNCJ5vFkrUmKgyppXA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Iron Man (2008)
 https://www.googleapis.com/drive/v3/files/1nU9EIp4MATtajUFeeSosEAk9zp5ZokCR?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -3483,9 +3476,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Showtime Select
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6TW1WvVMbg9_eKKt5pzXCXZlVWmKHQD10w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones 3 and the Last Crusade (1989)
-https://is.gd/vrmwtp
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHs7jpHVQNTdUfWhAmgsxtd-l4n3o3TTRIoQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Shaft (2019)
 http://starshare.live:8080/movie/usman007/usman007/30085.mp4
 
@@ -3623,9 +3613,6 @@ https://is.gd/ggIqpM
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/qyDWWme.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Mumbai
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961007
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJN9ESavkfvB49AxmtLQ2uz9G4smPydGEpTg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Indiana Jones and the Temple of Doom (1984)
-https://is.gd/AvZdPi
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QO7dlSE.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man (2008)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
