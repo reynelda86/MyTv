@@ -134,6 +134,9 @@ http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/59463.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/18518
 
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="English" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
+http://grl.faststr.com//live/yasstv_920589/onPDgbtP/59460.ts
+
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 1
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/30474.ts
 
