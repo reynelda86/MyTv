@@ -5,6 +5,9 @@ http://starshare.live:8080//live/Salman007/Salman007/253.ts
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/FILM4.png" group-title="English" tvg-id="film4.uk" tvg-name="film4.uk", Film4
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/77385.ts
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="No group" tvg-id="" tvg-name="", FilmRise Action (X)
+http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/139172.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFo_QeYYLKOJ8B0nksq9xhtsW4buXpqKeHw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Amazon Prime Action HD
 http://humiptv.live:8080//live/500757885/3356646354/73855.ts
 
