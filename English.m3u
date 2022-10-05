@@ -375,7 +375,9 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/24688.ts
 http://starshare.live:8080//live/Salman007/Salman007/5033.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="No group" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
-http://103.162.136.235:4500/play/a00m/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="No group" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142744
