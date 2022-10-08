@@ -1,5 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="Movies",SONY PIX HD
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Variedades", SyFy
+https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
