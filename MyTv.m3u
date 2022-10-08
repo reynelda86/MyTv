@@ -635,8 +635,9 @@ http://ky-iptv.com:80//live/zahidkhan123/zahidkhan123/176076.ts
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53574.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4
+https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCl3cFqg6PdVOQw2_POYk8HVK6oNFz26gdQ&usqp=CAU" group-title="English" tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us", MoreMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
