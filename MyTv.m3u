@@ -2061,8 +2061,9 @@ https://lh3.googleusercontent.com/SZHFasXrIOXINeKBU7ywNBN1Yg_Jpus9o5zmfzVZB0iKK3
 https://stream07.emeskyu.workers.dev/0:/Thor.Love.And.Thunder.2022.V2.720p.HDTS.x264.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://grl.faststr.com//live/yasstv_920589/onPDgbtP/69625.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2
+https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
 #EXTINF:-1 tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Thor-The-Dark-World.jpg" group-title="VOD English" tvg-id="" tvg-name="", Thor The Dark World
 https://lh3.googleusercontent.com/tec3O0wr65QYV8syS1v7dJfn1J-2IqSBDunD2Ga45BTiyoGMPR-uK5l1WvSHk9synOkD0uoaF-J_XdxWvg=m22
