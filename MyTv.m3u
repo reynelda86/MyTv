@@ -4766,7 +4766,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Box office Bollywood
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/203361.ts
+http://starshare.live:8080//live/Salman007/Salman007/76193.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
