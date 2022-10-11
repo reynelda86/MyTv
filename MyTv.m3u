@@ -2916,8 +2916,9 @@ https://file.g8qu.me/?redirect=0lIkF2bs52dvRmIsUWdyRHLiAHMycjIsISRt1icsZ3MyZnbUJ
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="SonySABTVIndia.in" tvg-name="SonySABTVIndia.in", Sony SAB TV India
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/49378.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76489
