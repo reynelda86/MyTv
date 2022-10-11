@@ -64,7 +64,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/340746.ts
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="No group" tvg-id="705" tvg-name="705", Polimer TV
-http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/373591.ts
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="No group" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
 http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/86178.ts
