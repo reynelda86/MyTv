@@ -2921,7 +2921,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76489
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40636fba89de95f6d4b5ef63f4f3b510&key=9515d6b00e269cbef3ab6454a96ae63b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn (2003)
 https://www.googleapis.com/drive/v3/files/1oVn2NUVahUBg5-D-yveBFy9_xsb-BFLd?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
