@@ -103,7 +103,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/13229990/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="No group" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/203086.ts
+http://starshare.live:8080//live/Salman007/Salman007/967.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="No group" tvg-id="ZeeBioskop.in" tvg-name="ZeeBioskop.in", Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
