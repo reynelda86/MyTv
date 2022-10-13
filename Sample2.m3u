@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40636fba89de95f6d4b5ef63f4f3b510&key=9515d6b00e269cbef3ab6454a96ae63b
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://assets.rstream.me/images/j/SrfgsZaiQZ.png" tvg-chno="68" group-title="Movies",Zee Bollywood
+#EXTVLCOPT:http-user-agent=KAIOS
+http://rstream.me/j/Zee_Classic/master.m3u8|User-Agent=KAIOS
