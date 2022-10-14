@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://assets.rstream.me/images/j/SrfgsZaiQZ.png" tvg-chno="68" group-title="Movies",Zee Bollywood
-#EXTVLCOPT:http-user-agent=KAIOS
-http://rstream.me/j/Zee_Classic/master.m3u8|User-Agent=KAIOS
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="MOVIES",ZEE CINEMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
