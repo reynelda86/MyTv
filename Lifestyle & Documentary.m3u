@@ -43,7 +43,9 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/11912.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="No group" tvg-id="discoveryscience.us" tvg-name="discoveryscience.us", Discovery Science
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/54946
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="No group" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136557.ts
