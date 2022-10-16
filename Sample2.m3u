@@ -1,5 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c
-#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1960630694_InvestigationDiscovery.png.4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Variedades", ID
-https://cdn.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="A-HD-PELICULAS", INVESTIGATION DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/id.json
+https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
