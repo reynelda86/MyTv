@@ -1158,10 +1158,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/42911.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="Lifestyle & Documentary" tvg-id="CHN" tvg-name="CHN", TV5 MONDE STYLE
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports" tvg-id="801" tvg-name="801", Astro Arena HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
