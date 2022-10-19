@@ -1,5 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/800px-TV5MONDE_logo.png" group-title="Mundo", TV5 Monde Amerique Latine
-https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
+42	#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+43	http://210.210.155.37/qwr9ew/s/s04/index.m3u8
