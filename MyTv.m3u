@@ -82,10 +82,6 @@ http://tv.zonanime.my.id/vidio/citradrama.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://210.210.155.35/qwr9ew/s/s04/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105" tvg-name="105", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
