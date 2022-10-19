@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-42	#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-43	http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
