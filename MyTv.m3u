@@ -78,10 +78,6 @@ http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tv.zonanime.my.id/vidio/citradrama.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxZc0DwpfEs0CS2v1df1llmlEy7CmhWDacw&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", Sinema Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://203.77.246.50:5000/udp/239.1.1.74:5000
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Malay" tvg-id="105" tvg-name="105", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
