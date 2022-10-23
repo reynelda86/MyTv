@@ -2927,7 +2927,7 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 http://key@gcs2.xyz:2052//live/rose/rose12/1192926.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="DaVinci.de" tvg-name="DaVinci.de", Da Vinci
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+http://starshare.live:8080//live/15609478936/46982679863/23971.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
