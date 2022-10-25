@@ -32,7 +32,9 @@ http://starshare.live:8080//live/15609478936/46982679863/23971.ts
 http://pro.viponetv.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30916.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNN1TAtU6ibqIJyEvlZNp2BTdrbprt8a6H7A&usqp=CAU" group-title="No group" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Junior East
-http://grl.faststr.com//live/yasstv_920589/onPDgbtP/49073.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
+https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="No group" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
 http://grl.faststr.com//live/yasstv_920589/onPDgbtP/49074.ts
