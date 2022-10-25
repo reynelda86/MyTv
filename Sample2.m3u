@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroAwani" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="NEWS",Astro Awani AstGO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
+#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Infantiles y Familiares", Disney Junior
+https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" tvg-group="INFANTILES", DISNEY JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disneyjr.json
+https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
