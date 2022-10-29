@@ -45,7 +45,9 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/30035.ts
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="No group" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
-http://starshare.live:8080//live/Salman007/Salman007/4755.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="No group" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53487
