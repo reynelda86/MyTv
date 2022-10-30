@@ -21,7 +21,9 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&exten
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="No group" tvg-id="BeInSports2.qa" tvg-name="BeInSports2.qa", BeIn Sports 3
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="No group" tvg-id="818" tvg-name="818", beIN Sports HD
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142715.m3u8
