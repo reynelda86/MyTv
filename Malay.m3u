@@ -76,9 +76,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="No group" tvg-id="149" tvg-name="149", TV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcU3ZQr28ktqbTGJhcaAQSrFdj3a-iIPrDKrLiFj2dcL)/dm/3/x6qqja6/s/live-3.m3u8
+http://51.79.82.208:16006
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="No group" tvg-id="122" tvg-name="122", TVS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
