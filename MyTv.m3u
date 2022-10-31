@@ -53,8 +53,8 @@ https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcU3ZQr28ktqbTGJhc
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcgDqJCoox0KHe-SWXC2GgWv1LMk5fdlBB6owmHivm2d)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
