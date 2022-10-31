@@ -1,5 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png" group-title="Malaysia 🇲🇾",TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MALAYSIA",TV3
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
