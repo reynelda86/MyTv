@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="MALAYSIA",Astro Aura
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/penang189/penang189/6713
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
+http://shareext@xtv.ooo:8080/demo/demo123/229562
