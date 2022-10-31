@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MYFREEVIEW" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
