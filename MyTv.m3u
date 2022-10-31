@@ -43,9 +43,8 @@ http://51.79.82.208:16003
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malay" tvg-id="109" tvg-name="109", TV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcU3ZQr28ktqbTGJhcaAQSrFdj3a-iIPrDKrLiFj2dcL)/dm/3/x6qqja6/s/live-3.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.82.208:16006
 
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Malay" tvg-id="" tvg-name="", TV6
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
