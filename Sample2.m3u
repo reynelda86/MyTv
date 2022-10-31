@@ -1,22 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MYFREEVIEW" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
+#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA🇲🇾", AWESOME TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
