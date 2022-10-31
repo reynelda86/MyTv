@@ -44,7 +44,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="No group" tvg-id="147" tvg-name="147", NTV7
-#EXTVLCOPT:http-referrer=https://dailymotion.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcgDqJCoox0KHe-SWXC2GgWv1LMk5fdlBB6owmHivm2d)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="No group" tvg-id="Suria" tvg-name="Suria", Suria
