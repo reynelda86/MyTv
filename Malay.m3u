@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="TV3.my" tvg-name="TV3.my", TV 3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+http://51.79.82.208:16003
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="No group" tvg-id="TVAlhijrah.my" tvg-name="TVAlhijrah.my", TV Alhijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
