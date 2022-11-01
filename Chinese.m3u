@@ -12,9 +12,8 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/71048.ts
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/71050.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="No group" tvg-id="308" tvg-name="308", Astro Quan Jia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="No group" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
