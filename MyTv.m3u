@@ -415,7 +415,6 @@ http://n2086.securepoint.io:25461/live/q7AVNw2AeL/50CJwDBLeK/171141.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro Aec
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.82.208:16021
 
 #EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="Chinese" tvg-id="CHN" tvg-name="CHN", NEXTTV
