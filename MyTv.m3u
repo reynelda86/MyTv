@@ -460,9 +460,8 @@ http://203.77.246.50:5000/udp/239.1.2.146:5000
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png" group-title="Malay" tvg-id="GoShopBAARU" tvg-name="GoShopBAARU", Go Shop BAARU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
