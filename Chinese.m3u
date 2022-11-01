@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="No group" tvg-id="148" tvg-name="148", 8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+http://51.79.82.208:16005
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="No group" tvg-id="311" tvg-name="311", Astro AOD 351
 #KODIPROP:inputstream.adaptive.license_type=clearkey
