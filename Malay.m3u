@@ -75,4 +75,4 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 http://51.79.82.208:16006
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="No group" tvg-id="122" tvg-name="122", TVS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
