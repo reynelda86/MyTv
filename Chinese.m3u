@@ -3,9 +3,7 @@
 http://51.79.82.208:16005
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="No group" tvg-id="311" tvg-name="311", Astro AOD 351
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/1724.ts
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="No group" tvg-id="352" tvg-name="352", Astro AOD 352
 https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
