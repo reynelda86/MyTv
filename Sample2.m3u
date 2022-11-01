@@ -1,22 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-2.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-0.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-1.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-3.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="MALAYSIA",Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
+http://51.79.82.208:16021
