@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",Astro Shuang Xing
-#EXT-X-VERSION:3
-#EXT-X-SERVER:IPTV_ID
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:744562
-#EXTINF:10.0,
-https://streaming.useetv.com/joss/134/cctv4/b1004100_sleng_1667385079.ts_iptvid_54f2838541ed64e7402cd0e38924fac9_ip:_172.225.180.169_744562.ts
-#EXTINF:10.0,
-https://streaming.useetv.com/joss/134/cctv4/b1004100_sleng_1667385079.ts_iptvid_54f2838541ed64e7402cd0e38924fac9_ip:_172.225.180.169_744563.ts
-#EXTINF:10.0,
-https://streaming.useetv.com/joss/134/cctv4/b1004100_sleng_1667385079.ts_iptvid_54f2838541ed64e7402cd0e38924fac9
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png" group-title="Entertainment", K+Life
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
