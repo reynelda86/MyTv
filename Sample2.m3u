@@ -1,15 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TV1" group-title="MYFREEVIEW" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=428c1a9941e2570c3e7e5b4973f55010&key=d354bf92d1de1297e92fc2bf14568719
-#EXTINF:-1 tvg-id="TVBJade" ch-number="TVBJade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINESE",310 TVB Jade 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=389baefb18db84b8f62b1bddfda5c810:db6410d5d69b60fb66208f61cd4bef44
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
+#EXTINF:-1 tvg-id="TV2" group-title="MYFREEVIEW" ch-number="102" tvg-logo="https://4fl0.short.gy/TV2.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=428c1a9941e2570c3e7e5b4973f55010&key=d354bf92d1de1297e92fc2bf14568719
-#EXTINF:-1 tvg-id="310" ch-number="TVBJade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINA🇨🇳",TVB Jade HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=9fec54024f42224cb2fd9836d5317510:1e2fec607ad9f3bf36fbca04fcfacc81
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TVBJade" ch-number="310" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD AstGO
+#EXTINF:-1 tvg-id="TV3" group-title="MYFREEVIEW" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (UnifiTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=428c1a9941e2570c3e7e5b4973f55010:d354bf92d1de1297e92fc2bf14568719
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="MYFREEVIEW" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (UnifiTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
