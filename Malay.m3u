@@ -50,7 +50,7 @@ http://23.237.10.66:16405
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="TV3.my" tvg-name="TV3.my", TV 3
-http://51.79.82.208:16003
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="No group" tvg-id="TVAlhijrah.my" tvg-name="TVAlhijrah.my", TV Alhijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
@@ -63,10 +63,10 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="No group" tvg-id="101" tvg-name="101", TV1 HD
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="No group" tvg-id="102" tvg-name="102", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="No group" tvg-id="" tvg-name="", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
