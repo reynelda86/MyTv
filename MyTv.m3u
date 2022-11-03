@@ -4964,8 +4964,8 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/11151.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zO6tHeBi439uHF1USGJuwnM3rmhusjG75g&usqp=CAU" group-title="Chinese" tvg-id="" tvg-name="", TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=9481ab597f06bb7fa40cb2364c126210:f2b4b15da2544303c44d3ca0b16d3de8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6razZZL0UOs8BsGo7OiFdE9ok_PyKlPOFg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Garfield & Friends
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
