@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/71145.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malay" tvg-id="" tvg-name="", Astro Sensasi (X)
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
@@ -9,10 +9,10 @@ http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="No group" tvg-id="108" tvg-name="108", Astro Citra HD
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142671.m3u8
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="No group" tvg-id="106" tvg-name="106", Astro Oasis HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142669.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="No group" tvg-id="AstroPrima.my" tvg-name="AstroPrima.my", Astro Prima HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
@@ -21,10 +21,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="No group" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="No group" tvg-id="107" tvg-name="107", Astro Warna HD
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="No group" tvg-id="" tvg-name="", Awesome TV (X)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
