@@ -3,13 +3,13 @@
 http://51.79.82.208:16005
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="No group" tvg-id="311" tvg-name="311", Astro AOD 351
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/1724.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="No group" tvg-id="352" tvg-name="352", Astro AOD 352
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/71048.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="No group" tvg-id="354" tvg-name="354", Astro AOD 354
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/71050.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="No group" tvg-id="308" tvg-name="308", Astro Quan Jia HD
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/1728.ts
@@ -36,7 +36,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC.my" tvg-name="AstroAEC.my", Astro Aec
-http://51.79.82.208:16021
+https://stream.zeehanzgadget.com/aec
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Chinese" tvg-id="" tvg-name="", Chinese Drama (X)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
