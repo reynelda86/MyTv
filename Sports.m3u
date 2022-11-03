@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="No group" tvg-id="" tvg-name="", Astro Arena 2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="No group" tvg-id="801" tvg-name="801", Astro Arena HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="No group" tvg-id="AstroCricket.my" tvg-name="AstroCricket.my", Astro Cricket
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="No group" tvg-id="812" tvg-name="812", Astro SuperSport 2 HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
@@ -18,11 +18,9 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="No group" tvg-id="BeInSports3.qa" tvg-name="BeInSports3.qa", BeIn Sports 2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="No group" tvg-id="BeInSports2.qa" tvg-name="BeInSports2.qa", BeIn Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="No group" tvg-id="818" tvg-name="818", beIN Sports HD
@@ -38,7 +36,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/22241.ts
 
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="No group" tvg-id="800" tvg-name="800", eGG Network
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="No group" tvg-id="elevensport.ro" tvg-name="elevensport.ro", Eleven 1
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/30035.ts
@@ -60,7 +58,7 @@ https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/117729.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="No group" tvg-id="820" tvg-name="820", Eurosport HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", Fight
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -84,7 +82,7 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/161307
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="No group" tvg-id="822" tvg-name="822", Golf Channel HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -93,7 +91,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="No group" tvg-id="" tvg-name="", SpoTV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="No group" tvg-id="SpoTV2.kr" tvg-name="SpoTV2.kr", SpoTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
@@ -117,4 +115,4 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="No group" tvg-id="821" tvg-name="821", WWE Network HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
