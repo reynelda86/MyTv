@@ -33,3 +33,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",800 eGG Network HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a4758854ddf83f1e8f465a3d3d8910:a464e1f2f904d40f3235a57304e72d78
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
