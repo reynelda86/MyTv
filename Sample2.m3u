@@ -1,4 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="& Flix" tvg-ID="&Flix" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix HD
-#EXTVLCOPT:http-user-agent=zhzsonsznsdd
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/flix
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1fa6a86fd80b6d1425dde74482b5dc9c&key=744c3636d57a651ab444cf9fe5f95b33
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Variedades", AMC
+https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/amc.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="A-HD-PELICULAS", AMC
+https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
