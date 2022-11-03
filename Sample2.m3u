@@ -14,3 +14,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=7d2ba38cc488e535fa42059493357c10:c48de9b1683be561fa63ab547391975d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
+#EXTINF:-1 tvg-id="Eurosport" group-title="SPORTS" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7299bdb9de13b235cda94cd5063ab810:247ed97854d185349998873672294cad
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
