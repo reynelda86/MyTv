@@ -28,3 +28,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS" ch-number="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",BEIN SPORTS 3 HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
