@@ -448,9 +448,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142681
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="Chinese" tvg-id="" tvg-name="", Star Chinese Movies
-http://23.237.10.66:16010
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="Chinese" tvg-id="" tvg-name="", Sony GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
