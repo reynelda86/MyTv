@@ -128,10 +128,10 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/139053.ts
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="No group" tvg-id="FMN.id" tvg-name="FMN.id", FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+https://live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="No group" tvg-id="" tvg-name="", Fox Crime
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/59463.ts
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348061.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
 http://humiptv.live:8080//live/Paresh864357867887/8753478678888/4708.ts
@@ -143,7 +143,7 @@ http://grl.faststr.com//live/yasstv_920589/onPDgbtP/59460.ts
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/7.ts
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/1651.ts
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/348061.ts
 
 #EXTINF:-1 tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/action-movies-colour-lightbg-1.png" group-title="No group" tvg-id="" tvg-name="", Fox Thriller
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
