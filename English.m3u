@@ -139,9 +139,6 @@ http://humiptv.live:8080//live/Paresh864357867887/8753478678888/4708.ts
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="English" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
 http://grl.faststr.com//live/yasstv_920589/onPDgbtP/59460.ts
 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 1
-http://red.ipfox.org:8080//live/osama2022/osama2023/30474.ts
-
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 2
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/30473.ts
 
