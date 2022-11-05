@@ -164,13 +164,6 @@ http://humiptv.live:8080//live/500757885/3356646354/73855.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/500757885/3356646354/73854.ts
 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 1
-http://red.ipfox.org:8080//live/osama2022/osama2023/30474.ts
-
-#EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", Box Action 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://red.ipfox.org:8080/live/Karam2022/Karam2023/30473.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/500757885/3356646354/9564.ts
