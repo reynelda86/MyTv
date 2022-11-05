@@ -470,7 +470,7 @@ http://king-tv.online:8080//live/gisle@/FDPWGufCmY/170483.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="English" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movie Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/170492.ts
+http://lemon.catchmeifyo.com:8000/live/6485419851/6394981750/101922.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -539,7 +539,7 @@ http://ky-iptv.com:80//live/zahidkhan123/zahidkhan123/176079.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs4Eqo0KJ3Ai5Kj2KefcZtsbNt5AV-mjKMQ&usqp=CAU" group-title="English" tvg-id="FXEast.us" tvg-name="FXEast.us", FX East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
+http://pro.viponetv.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/48003.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -665,7 +665,7 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="English" tvg-id="FXXEast.us" tvg-name="FXXEast.us", FXX East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://ky-iptv.com:80//live/zahidkhan123/zahidkhan123/181955.ts
+http://line.365tv.xyz:8060/live/552446887000/ZD4BJE5txc/108858.ts
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
