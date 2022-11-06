@@ -217,9 +217,8 @@ http://starshare.live:8080//live/Salman007/Salman007/98848.ts
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/10001.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNyD5vW11nPzYcwZ768kW3x2c6TLPh4HJfg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", HBO Xtreme
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://clientsportals.com:2095//live/eSN1tfXB/f6QW2ugz/11127.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", AMC Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -692,10 +691,9 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9999.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://clientsportals.com:2095//live/eSN1tfXB/f6QW2ugz/348058.ts
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL0vpeQYBzvSRVvkwCo4Q9SFA8cBe1R396g&usqp=CAU" group-title="English" tvg-id="hbo.ca" tvg-name="hbo.ca", HBO West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/351549.ts
+http://humiptv.live:8080//live/500757885/3356646354/3354.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
