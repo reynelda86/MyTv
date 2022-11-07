@@ -360,12 +360,10 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/202689.ts
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="No group" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/24688.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/340?cb=20200608133037" group-title="English" tvg-id="sonyactionplus1.uk" tvg-name="sonyactionplus1.uk", Sony Movies Action
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/340?cb=20200608133037" group-title="English" tvg-id="sonyactionplus1.uk" tvg-name="sonyactionplus1.uk", Sony Movies Action (X)
 http://starshare.live:8080//live/Salman007/Salman007/5033.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="No group" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="No group" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
