@@ -301,13 +301,13 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="No group" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
-http://203.77.246.50:5000/udp/239.1.2.130:5000
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115628.ts
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="No group" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
-http://203.77.246.50:5000/udp/239.1.2.132:5000
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115630.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="No group" tvg-id="413" tvg-name="413", SHOWCASE MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="No group" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/10877.ts
