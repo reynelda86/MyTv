@@ -484,11 +484,11 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9841.ts
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="English" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://203.77.246.50:5000/udp/239.1.2.132:5000
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115630.ts
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://203.77.246.50:5000/udp/239.1.2.130:5000
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115628.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="English" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/3031.ts
@@ -3331,8 +3331,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="413" tvg-name="413", SHOWCASE MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=e95c72a41b5ea9957b07facd95542410:a5e0de041ca2766754a37952b3468eb2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvrqY9bQr8JTZ0IB-dna-w-dGtDaWDrNwSw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Insidious (2010)
 https://www.googleapis.com/drive/v3/files/10yLrHW5tiL2IHgVS2nirWo_rIz2mlXOS?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
