@@ -36,9 +36,7 @@ http://tribaliptv.com:8080//live/Loren/123456/8799.ts
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/27752.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2
-https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
+http://ku03.wanicelife.com:8880//live/6m470038/67543241/30053.ts
 
 #EXTINF:-1 tvg-logo="http://195.154.156.100:88/Arabic/bein%20series%20(Copy)%20(Copy).png" group-title="English" tvg-id="beinseries2.qa" tvg-name="beinseries2.qa", beIN Series 2
 http://clientsportals.com:2095//live/eSN1tfXB/f6QW2ugz/26657.ts
@@ -418,9 +416,7 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="No group" tvg-id="SyfyEast.us" tvg-name="SyfyEast.us", Syfy East
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4
-https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9659.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="No group" tvg-id="Thrill.hk" tvg-name="Thrill.hk", Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
