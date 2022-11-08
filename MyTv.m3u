@@ -849,9 +849,8 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="Entertainment" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0
-https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/158525.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU" group-title="Entertainment" tvg-id="" tvg-name="", MTV Spankin New
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -877,7 +876,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="Entertainment" tvg-id="MTVEast.us" tvg-name="MTVEast.us", MTV East
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+http://humiptv.live:8080//live/500757885/3356646354/1544.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live HD
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
