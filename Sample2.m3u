@@ -1,5 +1,10 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Xtra Movies",Sony Pix HD
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bX12K0/tcm.png" tvg-group="A-HD-PELICULAS", TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tcm.json
+https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" tvg-group="A-HD-PELICULAS", SYFY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/syfy.json
+https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
