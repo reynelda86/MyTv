@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/71145.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malay" tvg-id="" tvg-name="", Astro Sensasi (X)
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
