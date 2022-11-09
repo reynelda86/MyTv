@@ -23,9 +23,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Malay" tvg-id="112" tvg-name="112", Astro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,7 +84,7 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/1705.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://aqfadtv.xyz/live/warna/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
