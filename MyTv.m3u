@@ -379,7 +379,7 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/158524.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/BBC_Three.svg/1280px-BBC_Three.svg.png" group-title="Entertainment" tvg-id="92news.uk" tvg-name="92news.uk", MTV Omg
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://starshare.live:8080//live/Salman007/Salman007/5813.ts
+http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/28786.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Indian" tvg-id="" tvg-name="", Star Plus HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -502,9 +502,8 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9667.ts
 http://ku03.wanicelife.com:8880//live/6m470038/67543241/29460.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="Entertainment" tvg-id="" tvg-name="", MTV 00s
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1
-https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://clientsportals.com:2095//live/f778W3He/yj7FXRjr/254281.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
