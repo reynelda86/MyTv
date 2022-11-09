@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="MY/SG" group-title="MYSG",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="19" channel-id="19" tvg-group="MY/SG" group-title="MYSG",Astro Naura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
