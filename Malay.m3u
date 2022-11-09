@@ -30,7 +30,7 @@ https://aqfadtv.xyz/live/warna/index.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="No group" tvg-id="404" tvg-name="404", BOO HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="No group" tvg-id="105" tvg-name="105", Drama Sangat (X)
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
