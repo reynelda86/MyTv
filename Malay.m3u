@@ -12,7 +12,7 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="No group" tvg-id="106" tvg-name="106", Astro Oasis HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="No group" tvg-id="AstroPrima.my" tvg-name="AstroPrima.my", Astro Prima HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
