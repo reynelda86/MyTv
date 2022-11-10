@@ -3,3 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431610:376b009796e4ad50ea8f68d796676692
 https://staging-linearjitp-playback.astr0.com.my/dash-wv/linear/1004/manifest.mpd
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601f749ab71f227999bfb098f73359aac10:4f15413f7e4767650c48e19b7f9a2fcc
+https://staging-linearjitp-playback.astr0.com.my/dash-wv/linear/1004/manifest.mpd
