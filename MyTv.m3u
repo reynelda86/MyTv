@@ -427,9 +427,8 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142681
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="Chinese" tvg-id="320" tvg-name="320", TVBS Asia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df3794ff832e6522834dc113e9584d10:b56afec777d088b8b24164274c9c4c46
-https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png" group-title="Malay" tvg-id="GoShopBAARU" tvg-name="GoShopBAARU", Go Shop BAARU
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -788,15 +787,9 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.82.208:16005
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="319" tvg-name="319", TVB Xing He HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd2a2632a196215cc1833487b25b810:c3ebe66b4783f3ea4017b63f6b7efe92
-https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=428c1a9941e2570c3e7e5b4973f55010:d354bf92d1de1297e92fc2bf14568719
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://23.237.10.66:16106
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
@@ -808,10 +801,9 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="Chinese" tvg-id="" tvg-name="", Nhk World Tv
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="Chinese" tvg-id="" tvg-name="", K Puls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddd9708a62b9e2eb44448dd1a6841310:0b248e71fef0c27988fa10049b32f309
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+#EXTINF:-1 tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="Chinese" tvg-id="" tvg-name="", K Plus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://ku03.wanicelife.com:8880//live/6m470038/67543241/71111.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="Chinese" tvg-id="335" tvg-name="335", CCTV4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
