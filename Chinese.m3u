@@ -51,7 +51,7 @@ http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 
 #EXTINF:-1 tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="No group" tvg-id="" tvg-name="", K Plus
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+http://ku03.wanicelife.com:8880//live/6m470038/67543241/71111.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="No group" tvg-id="392" tvg-name="392", KBS World HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -75,13 +75,13 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="No group" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+http://23.237.10.66:16106
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="No group" tvg-id="319" tvg-name="319", TVB Xing He HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="No group" tvg-id="319" tvg-name="319", TVB Xing He HD (X)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="No group" tvg-id="320" tvg-name="320", TVBS Asia HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="No group" tvg-id="395" tvg-name="395", tvN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
