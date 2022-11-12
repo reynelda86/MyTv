@@ -3,13 +3,13 @@
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malay" tvg-id="" tvg-name="", Astro Sensasi (X)
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
+https://4fl0.short.gy/FzTv/sensasi.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="118" tvg-name="118", Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="No group" tvg-id="108" tvg-name="108", Astro Citra HD
-https://aqfadtv.xyz/live/citra/index.mpd
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142671
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="No group" tvg-id="106" tvg-name="106", Astro Oasis HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
@@ -45,8 +45,6 @@ https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 http://23.237.10.66:16405
 
 #EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="No group" tvg-id="Suria" tvg-name="Suria", Suria
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPZFpQMnpoajJEN1BlS1JFelJGMXdET3RSSnYwbndadW50SDhCV0R3VnhDeDVuUUhXN1dyQk9YYkhUSURYb2lsWEQ4b2ZNTEFDOGw0czk1YkktY1ZZdHBnSlY0MTdjOWZ0dW9wT09nYzZueWZoeEhXbWt0V0VwZWdHNlRXNEZaWGxkZDBheXdaZlpLdHMyNmlNUkcza3lIdk1lWUhINk5tRmlDdWcxY0xrNXlCUzdJSkFoXzlsQk1WR0JsczBqQXNQM3F4ZlBmdGt2S0hHZkx2SFhETHd1czRDalZybjkxc1FPSUtPU01JeDZXVnMyU0NRR3I3bzQ5WkZreHZ2UkRXblp0MlZ3NnJybkpHQThVVm5XdE5yQlFnbi1FRGxjOWtMMDEyeFBYZ3dPc250b3JBdlpkaXdtbE1vc09KQlNlT29kZDFqZHVJYTdyUHFnSGdLMDFyT3M9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfMjAyMl9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk9kWlAyemhqMkQ3UGVLUkV6UkYxd0RPdFJKdjBud1p1bnRIOEJXRHdWeEN4NW5RSFc3V3JCT1hiSFRJRFhvaWxYRDhvZk1MQUM4bDRzOTViSS1jVll0cGdKVjQxN2M5ZnR1b3BPT2djNm55Zmh4SFdta3RXRXBlZ0c2VFc0RlpYbGRkMGF5d1pmWkt0czI2aU1SRzNreUh2TWVZSEg2Tm1GaUN1ZzFjTGs1eUJTN0lKQWhfOWxCTVZHQmxzMGpBc1AzcXhmUGZ0a3ZLSEdmTHZIWERMd3VzNENqVnJuOTFzUU9JS09TTUl4NldWczJTQ1FHcjdvNDlaRmt4dnZSRFduWnQyVnc2cnJuSkdBOFVWbld0TnJCUWduLUVEbGM5a0wwMTJ4UFhnd09zbnRvckF2WmRpd21sTW9zT0pCU2VPb2RkMWpkdUlhN3JQcWdIZ0swMXJPcz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=%2fg9Z3%2f5la8smJeRJ9A6NQViZzok%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="TV3.my" tvg-name="TV3.my", TV 3
@@ -75,4 +73,4 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 http://51.79.82.208:16006
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="No group" tvg-id="122" tvg-name="122", TVS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
