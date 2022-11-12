@@ -1,5 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AstroAOD352" ch-number="352" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
-#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
