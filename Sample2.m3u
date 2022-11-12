@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="astro citra" tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="MALAYSIA🇲🇾", ASTRO CITRA (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
-https://aqfadtv.xyz/live/citra/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
