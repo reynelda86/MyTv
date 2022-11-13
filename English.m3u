@@ -78,7 +78,7 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/9999.ts
 http://clientsportals.com:2095//live/eSN1tfXB/f6QW2ugz/348058.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/HD5logobbg.JPG" group-title="No group" tvg-id="Ch 5" tvg-name="Ch 5", Channel 5
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="No group" tvg-id="411" tvg-name="411", CinemaWorld HD
 https://Live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
