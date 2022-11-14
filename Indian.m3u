@@ -29,7 +29,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="No group" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136618.ts
+http://humiptv.live:8080//live/500757885/3356646354/9390.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="Indian" tvg-id="202" tvg-name="202", Astro Vinmeen HD (X)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,12 +50,10 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/2078.ts
 http://humiptv.live:8080//live/500757885/3356646354/76193.ts
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="No group" tvg-id="333" tvg-name="333", Colors Cineplex
-http://humiptv.live:8080//live/500757885/3356646354/18975.ts
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/128176.ts
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="No group" tvg-id="116" tvg-name="116",Colors Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="No group" tvg-id="222" tvg-name="222", Colors Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
