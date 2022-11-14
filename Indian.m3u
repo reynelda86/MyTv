@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="No group" tvg-id="214" tvg-name="214", Adithya
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian" tvg-id="" tvg-name="", Astro Box Office Thangathirai
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian" tvg-id="" tvg-name="", Astro Box Office Thangathirai (X)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
@@ -20,7 +20,7 @@ http://starshare.live:8080//live/Salman007/Salman007/6627.ts
 http://humiptv.live:8080//live/500757885/3356646354/4077.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="No group" tvg-id="" tvg-name="", And Picture HD
-http://starshare.live:8080//live/Salman007/Salman007/98856.ts
+http://humiptv.live:8080//live/500757885/3356646354/231.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="No group" tvg-id="AstroBollyOneHD.my" tvg-name="AstroBollyOneHD.my", Astro BollyOne HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
