@@ -868,7 +868,7 @@ http://starshare.live:8080//live/Salman007/Salman007/973.ts
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="" tvg-name="", Jaya Max
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/340746.ts
+http://humiptv.live:8080//live/500757885/3356646354/240.ts
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
@@ -896,7 +896,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="222" tvg-name="222", Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4e1f571523456cba3d3c5901c43b8d10&key=589b204b1b97b4bf4f4cbe0129fa67e6
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="201" tvg-name="201", Astro Vaanavil HD
@@ -5014,7 +5014,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Indian" tvg-id="705" tvg-name="705", Polimer TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/373591.ts
+http://humiptv.live:8080//live/500757885/3356646354/1617.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Box office Bollywood
 http://humiptv.live:8080//live/500757885/3356646354/76193.ts
