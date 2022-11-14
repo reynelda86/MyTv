@@ -853,7 +853,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzD7OhdSjEvTDVMKq-06O0MUFD-IqY1NoSA&usqp=CAU" group-title="Indian" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://starshare.live:8080//live/Salman007/Salman007/347.ts
+http://humiptv.live:8080//live/500757885/3356646354/347.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -873,7 +873,7 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/128176.ts
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="221" tvg-name="221", Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Indian" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
@@ -3233,8 +3233,8 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manife
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40636fba89de95f6d4b5ef63f4f3b510&key=9515d6b00e269cbef3ab6454a96ae63b
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn (2003)
 https://www.googleapis.com/drive/v3/files/1oVn2NUVahUBg5-D-yveBFy9_xsb-BFLd?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
