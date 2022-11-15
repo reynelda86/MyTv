@@ -3171,7 +3171,7 @@ http://starshare.live:8080//live/24321463/35245125/23971.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://starshare.live:8080//live/Salman007/Salman007/1492.ts
+http://89.187.175.143:80/3016/mpegts
 
 #EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p159729_p_v10_ar.jpg" group-title="VOD English" tvg-id="" tvg-name="", Transformers (2007)
 https://www.googleapis.com/drive/v3/files/1x5--DIrurXO71BclXo3qdWeyVQtfFVwD?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
@@ -3192,7 +3192,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/transfor
 http://srv37.nf21.net/files/19-2020-05-30-0f8170fdde6900eda968ffb274832ff6.mp4
 
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/tom-jerry-2021.jpg" group-title="VOD English" tvg-id="" tvg-name="", Tom & Jerry (2021)
-https://is.gd/wWd1jh
+http://bestsave.ltd:2052//live/AMR2022/12345678/167158.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -3441,12 +3441,11 @@ http://humiptv.live:8080//live/500757885/3356646354/1525.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL0iTavxh_J1FomF7t_ISe0metFOCG5P7og&usqp=CAU" group-title="Kids" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel East
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://pro.viponetv.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30916.ts
+http://185.59.223.102:8080/disney/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNN1TAtU6ibqIJyEvlZNp2BTdrbprt8a6H7A&usqp=CAU" group-title="Kids" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Junior East
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
-https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="English" tvg-id="704" tvg-name="704", PrimeTime Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
