@@ -994,7 +994,7 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/11912.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbnk0AM5dxvMUv4N6pMVy51z1B9mv0dJgCg&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="investigationdiscovery.us" tvg-name="investigationdiscovery.us", Investigation Discovery
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://starshare.live:8080//live/Salman007/Salman007/1556.ts
+http://humiptv.live:8080//live/500757885/3356646354/1556.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1033,7 +1033,7 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="708" tvg-name="708", Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0845d8900e973747e70c9f61ebed2d10&key=4bdb394a43bb955d6d67107620de17db
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
