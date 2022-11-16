@@ -9,9 +9,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="No group" tvg-id="501" tvg-name="501", Astro Awani
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="No group" tvg-id="" tvg-name="", BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
@@ -23,7 +21,7 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="No group" tvg-id="502" tvg-name="502", BERNAMA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="No group" tvg-id="517" tvg-name="517", Bloomberg TV HD
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
