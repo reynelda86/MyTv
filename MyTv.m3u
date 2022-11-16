@@ -384,10 +384,6 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Western" tvg-id="XumoFreeWesterns.us" tvg-name="XumoFreeWesterns.us", Xumo Free Westerns
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://n2086.securepoint.io:25461/live/q7AVNw2AeL/50CJwDBLeK/171141.ts
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinese" tvg-id="316" tvg-name="316", CTI Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5017
@@ -3540,9 +3536,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c362ded581a86051df509
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="English" tvg-id="" tvg-name="", FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="Western" tvg-id="" tvg-name="", FilmRise Western
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139173
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Food TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -4516,7 +4509,7 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/64353.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png" group-title="Western" tvg-id="StarzEncoreWesternsWest.us" tvg-name="StarzEncoreWesternsWest.us", Starz Encore Westerns West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://grl.faststr.com:80/live/yasstv_920589/onPDgbtP/76977.ts
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/25365.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/200px-DIY_Network_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="DIYNetworkEast.us" tvg-name="DIYNetworkEast.us", DIY Network East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
