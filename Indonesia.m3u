@@ -54,7 +54,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", RCTV
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/54232.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="No group" tvg-id="" tvg-name="", RTV Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +62,7 @@ http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="No group" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/32
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="No group" tvg-id="Trans7.id" tvg-name="Trans7.id", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
