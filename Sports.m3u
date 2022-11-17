@@ -84,7 +84,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="No group" tvg-id="823" tvg-name="823", RugbyPass TV HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="No group" tvg-id="" tvg-name="", SpoTV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
