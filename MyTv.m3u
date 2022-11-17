@@ -333,7 +333,7 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/1883.ts
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="Sports" tvg-id="elevensport2.ro" tvg-name="elevensport2.ro", Eleven Sports 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
+http://entrada.top:8080//live/MK6sUdEjlh/RT7rXC10gv/4740.ts
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1073,7 +1073,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="Sports" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/22241.ts
+http://humiptv.live:8080//live/500757885/3356646354/1056.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/1280px-GINX_Esports_TV_Logo_flat.png" group-title="Sports" tvg-id="GinxeSportsTVInternational.uk" tvg-name="GinxeSportsTVInternational.uk", Ginx eSports TV International
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1086,8 +1086,8 @@ https://aqfadtv.xyz/live/arena2/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a4758854ddf83f1e8f465a3d3d8910:a464e1f2f904d40f3235a57304e72d78
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2602
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1136,9 +1136,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="BeInSports3.qa" tvg-name="BeInSports3.qa", BeIn Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d2ba38cc488e535fa42059493357c10:c48de9b1683be561fa63ab547391975d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium92/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="ElevenSportsUSA.uk" tvg-name="ElevenSportsUSA.uk", Eleven Sports USA
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
