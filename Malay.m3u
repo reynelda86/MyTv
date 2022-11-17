@@ -26,8 +26,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="No group" tvg-id="107" tvg-name="107", Astro Warna HD
 http://51.79.82.208:16010
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="No group" tvg-id="" tvg-name="", Awesome TV (X)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="No group" tvg-id="" tvg-name="", Awesome TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="No group" tvg-id="404" tvg-name="404", BOO HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
