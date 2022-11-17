@@ -1122,18 +1122,18 @@ https://aqfadtv.xyz/live/supersport4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports" tvg-id="815" tvg-name="815", Astro Supersport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
+https://aqfadtv.xyz/live/supersport5/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="818" tvg-name="818", beIN Sports HD
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142715.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="BeInSports2.qa" tvg-name="BeInSports2.qa", BeIn Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="BeInSports3.qa" tvg-name="BeInSports3.qa", BeIn Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
