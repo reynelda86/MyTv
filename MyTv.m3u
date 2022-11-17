@@ -1084,11 +1084,6 @@ http://humiptv.live:8080//live/500757885/3356646354/1056.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://humiptv.live:8080//live/biloiptv.eu.com/trading_biloiptv.eu.com/783.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="Sports" tvg-id="" tvg-name="", Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-https://aqfadtv.xyz/live/arena2/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports" tvg-id="800" tvg-name="800", eGG Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2602
@@ -1126,9 +1121,9 @@ https://aqfadtv.xyz/live/supersport3/index.mpd
 https://aqfadtv.xyz/live/supersport4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports" tvg-id="815" tvg-name="815", Astro Supersport 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-https://aqfadtv.xyz/live/supersport5/index.mpd
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="818" tvg-name="818", beIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
