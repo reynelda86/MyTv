@@ -54,7 +54,7 @@ https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/117729.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="No group" tvg-id="820" tvg-name="820", Eurosport HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", Fight
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -69,10 +69,10 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
-http://grl.faststr.com//live/yasstv_920589/onPDgbtP/91623.ts
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/117769.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/1280px-GINX_Esports_TV_Logo_flat.png" group-title="No group" tvg-id="GinxeSportsTVInternational.uk" tvg-name="GinxeSportsTVInternational.uk", Ginx eSports TV International
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/161307
+http://humiptv.live:8080//live/biloiptv.eu.com/trading_biloiptv.eu.com/783.ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", GLORY Kickboxing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
