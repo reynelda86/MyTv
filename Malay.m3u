@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", Astro Aura (X)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malay" tvg-id="" tvg-name="", Astro Sensasi (X)
-https://4fl0.short.gy/FzTv/sensasi.ts
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="No group" tvg-id="118" tvg-name="118", Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="No group" tvg-id="108" tvg-name="108", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="No group" tvg-id="108" tvg-name="108", Astro Citra HD (X)
 https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="No group" tvg-id="106" tvg-name="106", Astro Oasis HD
@@ -17,14 +17,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="No group" tvg-id="AstroPrima.my" tvg-name="AstroPrima.my", Astro Prima HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="No group" tvg-id="112" tvg-name="112", Astro Rania HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="No group" tvg-id="112" tvg-name="112", Astro Rania HD (X)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="No group" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="No group" tvg-id="107" tvg-name="107", Astro Warna HD
-http://51.79.82.208:16010
+https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="No group" tvg-id="" tvg-name="", Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
