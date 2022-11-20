@@ -1130,6 +1130,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/28917.ts
 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN037BeinSport10FHD.png" group-title="Sports" tvg-id="21.junior.al" tvg-name="21.junior.al", Bein Sports Max 3
+http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/59262.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN038BeinSport11FHD.png" group-title="Sports" tvg-id="21.junior.al" tvg-name="21.junior.al", Bein Sports Max 4
+http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/59261.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Sports" tvg-id="ElevenSportsUSA.uk" tvg-name="ElevenSportsUSA.uk", Eleven Sports USA
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/30035.ts
