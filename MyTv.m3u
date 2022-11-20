@@ -780,8 +780,9 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTINF:-1 tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="Chinese" tvg-id="" tvg-name="", K Plus
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://ku03.wanicelife.com:8880//live/6m470038/67543241/71111.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="Chinese" tvg-id="335" tvg-name="335", CCTV4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
