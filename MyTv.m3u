@@ -313,7 +313,7 @@ http://humiptv.live:8080//live/500757885/3356646354/9390.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://humiptv.live:8080//live/500757885/3356646354/231.ts
+https://is.gd/5KRCrT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="Indian" tvg-id="" tvg-name="", Bollywood HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3289,7 +3289,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 https://liveanevia.mncnow.id:443/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_movies_in.png" group-title="Indian" tvg-id="B4UMoviesIndia.in" tvg-name="B4UMoviesIndia.in", B4U Movies India
-http://humiptv.live:8080//live/500757885/3356646354/968.ts
+https://is.gd/a24kIG
 
 #EXTM3U x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg" url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" refresh="3600"
 #EXTM3U x-tvg-url="http://macan.live/xmltv.php?username=epg&password=epg" url-tvg="http://macan.live/xmltv.php?username=epg&password=epg" refresh="3600"
@@ -4997,7 +4997,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 http://humiptv.live:8080//live/500757885/3356646354/1617.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="Indian" tvg-id="zeecinema.in" tvg-name="zeecinema.in", Box office Bollywood
-http://humiptv.live:8080//live/500757885/3356646354/76193.ts
+https://is.gd/LtSb4L
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
