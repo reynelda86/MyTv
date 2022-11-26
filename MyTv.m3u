@@ -301,11 +301,11 @@ http://humiptv.live:8080//live/500757885/3356646354/4077.ts
 
 #EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg" group-title="Indian" tvg-id="" tvg-name="", Sony Mix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://humiptv.live:8080//live/500757885/3356646354/4079.ts
+https://is.gd/NMscEG
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="Indian" tvg-id="" tvg-name="", Sony Pal
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://humiptv.live:8080//live/500757885/3356646354/6627.ts
+https://is.gd/5GnmAf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -847,12 +847,13 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://humiptv.live:8080//live/500757885/3356646354/347.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://humiptv.live:8080//live/500757885/3356646354/98857.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="Indian" tvg-id="" tvg-name="", Sony Max 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://humiptv.live:8080//live/500757885/3356646354/973.ts
+https://is.gd/mAoOdU
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="" tvg-name="", Jaya Max
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
