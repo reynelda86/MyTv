@@ -3,13 +3,13 @@
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5e84f54a82f05300080e6746&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:zaltv.co
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="No group" tvg-id="556" tvg-name="556", Animal Planet HD
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="No group" tvg-id="709" tvg-name="709", Asian Food Network HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" group-title="No group" tvg-id="554" tvg-name="554", Bbc Earth HD
-https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="No group" tvg-id="717" tvg-name="717", BBC Lifestyle HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
@@ -24,7 +24,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8?id=eroz_brebes.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/30156/s30156_h5_aa.png" group-title="No group" tvg-id="CookingChannel.us" tvg-name="CookingChannel.us", Cooking Channel
-http://line.365tv.xyz:8060/live/552446887000/ZD4BJE5txc/108824.ts
+https://is.gd/ORnVPk
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Design Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=616&deviceId=5f4ff8c8bcf3d600078af3eb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -33,13 +33,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="No group" tvg-id="552" tvg-name="552", Discovery Channel HD
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_pl.png" group-title="No group" tvg-id="DiscoveryLifeChannel.us" tvg-name="DiscoveryLifeChannel.us", Discovery Life Channel
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/11912.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="No group" tvg-id="discoveryscience.us" tvg-name="discoveryscience.us", Discovery Science
-http://humiptv.live:8080//live/500757885/3356646354/1525.ts
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="No group" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/14588.ts
