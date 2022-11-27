@@ -1026,15 +1026,15 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="715" tvg-name="715", HGTV HD
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Lifestyle & Documentary" tvg-id="555" tvg-name="555", History HD
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="Lifestyle & Documentary" tvg-id="502" tvg-name="502", Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -3121,7 +3121,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/14588.ts
+https://is.gd/LzjYHr
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eZGTHXup6fB5gjQgak7SLJfo01p.jpg" group-title="VOD English" tvg-id="" tvg-name="", Cruella (2021)
 https://is.gd/WUtzKD
@@ -3521,7 +3521,7 @@ https://is.gd/qD9sUa
 #EXTINF:-1 tvg-logo="https://imgur.com/b83MXKz.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+https://liveaneviadev.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Dj1rsG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
@@ -4497,7 +4497,7 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/25365.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/200px-DIY_Network_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="DIYNetworkEast.us" tvg-name="DIYNetworkEast.us", DIY Network East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.365tv.xyz:8060/live/552446887000/ZD4BJE5txc/108849.ts
+https://is.gd/aye9Go
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqE-XyH1284b-GKsADHYCxSOoblummVKD-Vw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", 12 Years A Slave (2013)
