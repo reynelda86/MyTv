@@ -1135,7 +1135,8 @@ http://s2.famousiptv.com:8080/live/younessmesz234/YOUNESS1988/114679.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tXdTRfGscstEoDmyXId4lnHXUm_Az0NAtw&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", beIN Sports MAX 3 Backup
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webudi.openhd.lol/lb/premium298/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN038BeinSport11FHD.png" group-title="Sports" tvg-id="21.junior.al" tvg-name="21.junior.al", Bein Sports Max 4
 http://s2.famousiptv.com:8080/live/younessmesz234/YOUNESS1988/114680.ts
