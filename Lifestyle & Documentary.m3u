@@ -99,10 +99,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3jrpJA6" group-title="No group" tvg-id="" tvg-name="", Infotainment
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+https://av-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbnk0AM5dxvMUv4N6pMVy51z1B9mv0dJgCg&usqp=CAU" group-title="No group" tvg-id="investigationdiscovery.us" tvg-name="investigationdiscovery.us", Investigation Discovery
-http://humiptv.live:8080//live/500757885/3356646354/1556.ts
+https://is.gd/2Ol5De
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png" group-title="No group" tvg-id="502" tvg-name="502", Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -114,10 +114,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="No group" tvg-id="550" tvg-name="550", Nat Geo Wild HD
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="No group" tvg-id="551" tvg-name="551", National Geographic HD
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHJHqfc/image-3.png" group-title="No group" tvg-id="OutdoorChannel.us" tvg-name="OutdoorChannel.us", Outdoor Channel
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/37947.ts
@@ -144,7 +144,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5bb1ad55268cae539bcedb08&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="No group" tvg-id="707" tvg-name="707", TLC HD
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="No group" tvg-id="521" tvg-name="521", Travel Channel HD
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/42911.ts
