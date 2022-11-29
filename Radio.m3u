@@ -11,9 +11,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aa
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="No group" tvg-id="867" tvg-name="867", BAYU
 https://astro4.rastream.com/bayu
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Catsfmlogo.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", CATS FM
-http://catsfm64.cspixel.com:7111/stream/1/
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="No group" tvg-id="860" tvg-name="860", CLASSIC ROCK
 http://astro4.rastream.com/rock?type=.flv
 
