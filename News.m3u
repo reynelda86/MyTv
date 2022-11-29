@@ -27,16 +27,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 https://liveaneviadev.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png" group-title="No group" tvg-id="503" tvg-name="503", CGTN
-https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="No group" tvg-id="CNA" tvg-name="CNA", CNA
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="No group" tvg-id="CNBCAsiaPacific.us" tvg-name="CNBCAsiaPacific.us", CNBC Asia-Pacific
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="No group" tvg-id="511" tvg-name="511", CNN HD
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
