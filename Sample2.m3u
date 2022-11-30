@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 5 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815_300.png" group-title="SPORTS",ASTRO SUPERSPORT 5 HD
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium43/index.m3u8
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Eleven Sport",Eleven Sport 2 (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=456
+https://webudi.openhd.lol/lb/premium456/index.m3u8
