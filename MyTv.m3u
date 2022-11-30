@@ -327,9 +327,10 @@ https://is.gd/tp92TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/1883.ts
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="Sports" tvg-id="elevensport2.ro" tvg-name="elevensport2.ro", Eleven Sports 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/V5hkM5
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=456
+https://webudi.openhd.lol/lb/premium456/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
