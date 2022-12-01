@@ -1129,6 +1129,10 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=1049168&ext
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tXdTRfGscstEoDmyXId4lnHXUm_Az0NAtw&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", beIN Sports MAX 3 Backup
 https://is.gd/4p735H
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvkc_ebb-XZZxJyCXZUftxzO2tkKhaR2G8w&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", beIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/usWrmQ
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tXdTRfGscstEoDmyXId4lnHXUm_Az0NAtw&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", beIN Sports MAX 3 Backup 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/grB0Et
