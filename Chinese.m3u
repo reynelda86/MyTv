@@ -63,7 +63,7 @@ http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="No group" tvg-id="393" tvg-name="393", ONE HD
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="No group" tvg-id="PhoenixChineseChannel.hk" tvg-name="PhoenixChineseChannel.hk", Phoenix Chinese Channel
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -84,7 +84,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="No group" tvg-id="395" tvg-name="395", tvN HD
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="No group" tvg-id="416" tvg-name="416", tvN Movies HD
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
