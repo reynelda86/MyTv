@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Eleven Sport",Eleven Sport 2 (from web)🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=456
-https://webudi.openhd.lol/lb/premium456/index.m3u8
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="CHINA🇨🇳" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
+https://stream.zeehanzgadget.com/aec.mpd
