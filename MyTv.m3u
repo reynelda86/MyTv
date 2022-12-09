@@ -33,9 +33,17 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFczljTEtnNnV4bmR3eHhnSVYweUw0M0p1OXF0ajZpTjhYcDNyQ0ZEemd4ZUFrYlg3cjZhNTl0TThYOXZWUVhrX2ZVanQ2SnJvakxvV243VGs4akdkajhRMEF2dUJfei1LNHBESENCZXdwUWpJTzNocU1jSFNkRXlYUXNtVDJXX3BxZklWQm9JaFU4RV9ZT1FYeFVzaXNwUFFUT3ZoUGI4a18zcnRxQzJqbDRaTEk0dWNaQXh4NVhNSFdHSlMtVmVTSGZmMGRZaWxJcVRmRWVjSDNMc1FTY3FHWWVIMGhzN19RNU4yMTdLRzVpQWpMdENMSVBZUlczdkdSOGwwWnU4S0diNmI0UTdpZnljX1A0VXRNTXJ0SExwMDhLbGhWYUNZajdDeGcwb2hjTUNyWTYtUlAxOFhMWGFGTk4xOTJYb1dKeE5uNVM0LXJMNFJxaGhKU3VnRU09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFczljTEtnNnV4bmR3eHhnSVYweUw0M0p1OXF0ajZpTjhYcDNyQ0ZEemd4ZUFrYlg3cjZhNTl0TThYOXZWUVhrX2ZVanQ2SnJvakxvV243VGs4akdkajhRMEF2dUJfei1LNHBESENCZXdwUWpJTzNocU1jSFNkRXlYUXNtVDJXX3BxZklWQm9JaFU4RV9ZT1FYeFVzaXNwUFFUT3ZoUGI4a18zcnRxQzJqbDRaTEk0dWNaQXh4NVhNSFdHSlMtVmVTSGZmMGRZaWxJcVRmRWVjSDNMc1FTY3FHWWVIMGhzN19RNU4yMTdLRzVpQWpMdENMSVBZUlczdkdSOGwwWnU4S0diNmI0UTdpZnljX1A0VXRNTXJ0SExwMDhLbGhWYUNZajdDeGcwb2hjTUNyWTYtUlAxOFhMWGFGTk4xOTJYb1dKeE5uNVM0LXJMNFJxaGhKU3VnRU09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=AKCSFnCHGs0d69S%2bJ0OZGgsaJZ8%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="105" tvg-name="105", Drama Sangat
+https://stream.zeehanzgadget.com/dramasangat
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malay" tvg-id="109" tvg-name="109", TV9
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://51.79.82.208:16006
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Malay" tvg-id="" tvg-name="", TV6
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
