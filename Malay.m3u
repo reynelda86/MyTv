@@ -32,8 +32,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="No group" tvg-id="404" tvg-name="404", BOO HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="No group" tvg-id="105" tvg-name="105", Drama Sangat (X)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="No group" tvg-id="105" tvg-name="105", Drama Sangat
+https://stream.zeehanzgadget.com/dramasangat
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png" group-title="No group" tvg-id="GoShopBAARU" tvg-name="GoShopBAARU", Go Shop BAARU
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
@@ -53,7 +53,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="No group" tvg-id="TVAlhijrah.my" tvg-name="TVAlhijrah.my", TV Alhijrah
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="No group" tvg-id="" tvg-name="", TV Ikim (X)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="No group" tvg-id="" tvg-name="", TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="No group" tvg-id="146" tvg-name="146", TV Okey
@@ -70,7 +70,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="No group" tvg-id="149" tvg-name="149", TV9
-http://51.79.82.208:16006
+https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="No group" tvg-id="122" tvg-name="122", TVS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
