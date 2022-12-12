@@ -84,7 +84,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="No group" tvg-id="412" tvg-name="412", CINEMAX HD
-https://Live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Cinemax West
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/64355.ts
@@ -93,19 +93,19 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/64355.ts
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="No group" tvg-id="714" tvg-name="714", Crime and Investigation HD
-https://live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="No group" tvg-id="DreamWorksTVAsia.us" tvg-name="DreamWorksTVAsia.us", DreamWorks TV Asia (X)
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372551.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="No group" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
-http://heroinlive.top:8880//live/7901661551944600/6281661551944600/19345.ts
+https://is.gd/DFHuMK
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="No group" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/59225.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="No group" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
-http://portal.geniptv.com:8080//live/tolgax1x/JNKsdsadsa1a/83558.ts
+https://is.gd/oa24w6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="No group" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/59224.ts
