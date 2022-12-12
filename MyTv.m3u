@@ -311,7 +311,7 @@ https://is.gd/5GnmAf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/9lNf6T
+https://is.gd/S3f1Ax
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -420,7 +420,7 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/29810.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="English" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://heroinlive.top:8880//live/7901661551944600/6281661551944600/19345.ts
+https://is.gd/DFHuMK
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.c-zDjGr4tLGhH6RugS5AogHaDQ&pid=Api&P=0&w=413&h=182" group-title="English" tvg-id="" tvg-name="", Hallmark Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -432,7 +432,7 @@ http://lemon.catchmeifyo.com:8000/live/6485419851/6394981750/101922.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://portal.geniptv.com:8080//live/tolgax1x/JNKsdsadsa1a/83558.ts
+https://is.gd/oa24w6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -547,17 +547,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English" tvg-id="412" tvg-name="412", CINEMAX HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://Live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="English" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime and Investigation HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/571/1021/png-transparent-hallmark-movies-mysteries-hallmark-channel-television-channel-television-film-others-television-text-logo-thumbnail.png" group-title="English" tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us", Hallmark Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
