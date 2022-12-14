@@ -205,7 +205,7 @@ http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/64355.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnoSd1JgLzO-Qc-83SD6H_5XajgG599iKMw&usqp=CAU" group-title="English" tvg-id="zeecafe.in" tvg-name="zeecafe.in", Zee Cafe
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/VbT8nw
+https://is.gd/63ii8f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Movies Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -228,7 +228,7 @@ https://is.gd/F8Gj1z
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.VreLFgtrurjAz8rprdI1lQHaDa&pid=Api&P=0&w=382&h=177" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://heroinlive.top:8880//live/7901661551944600/6281661551944600/20020.ts
+https://is.gd/OMS6Uy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
 http://b1g.one//live/40404040/60606060/161829.ts
@@ -614,10 +614,10 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title=“English" tvg-id="712" tvg-name="712", Warner TV HD
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="English" tvg-id="FXXEast.us" tvg-name="FXXEast.us", FXX East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -2352,7 +2352,7 @@ https://stream07.emeskyu.workers.dev/0:/Thor.Love.And.Thunder.2022.V2.720p.HDTS.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/aOnVEU
+https://is.gd/jRCSnC
 
 #EXTINF:-1 tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Thor-The-Dark-World.jpg" group-title="VOD English" tvg-id="" tvg-name="", Thor The Dark World
 https://lh3.googleusercontent.com/tec3O0wr65QYV8syS1v7dJfn1J-2IqSBDunD2Ga45BTiyoGMPR-uK5l1WvSHk9synOkD0uoaF-J_XdxWvg=m22
