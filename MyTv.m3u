@@ -201,7 +201,7 @@ https://is.gd/sltTrs
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Cinemax West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/64355.ts
+https://is.gd/1FDeLo
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnoSd1JgLzO-Qc-83SD6H_5XajgG599iKMw&usqp=CAU" group-title="English" tvg-id="zeecafe.in" tvg-name="zeecafe.in", Zee Cafe
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -314,8 +314,9 @@ https://is.gd/NMscEG
 https://is.gd/5GnmAf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/S3f1Ax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -634,7 +635,7 @@ https://is.gd/N9anw9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="actionmax.us" tvg-name="actionmax.us", Cinemax Actionmax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/11916.ts
+https://is.gd/sltTrs
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3112,7 +3113,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/HD5logobbg.JPG" group-title="English" tvg-id="Ch 5" tvg-name="Ch 5", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPekV0TUJqekVtWkVsWkxrUWpIbnlyR2VNU1llSnQ4Q1FRRkFjQW1qSjFjb2hVdzY2dlpRcl9NRTQtSndldF9KT3pxYVV5a1pqNlpRcEtlSlV5SzQ4OVBaaldGbkVNX0RxU1BFdl9xVi04cHV1blJWVThDNFk2Z1BwS3o0WkF2cGQ3UDg1Vk42OWpQdjZPVmM2dy03Z09zaE0yNGFwZ0lvT1gwTHYzT2tXWUZrWnVNNUxoSTZSbEpaQ0swVkNNOGxUTVQxOVp5X1JKSkZsXzVpSmFjT2EtSXBFV0xDR3ctOGw2cGQxcHJMeUJrNURpdWJsa3c4bHBGT01FdENxaV9XX2lDQlJzWUhkdVczV1FPMWpmVHhxSlhqSGNDdnhpWFYyQVIyVE9YdmhDSjd3d3dGNGdjNzJ5Z2xYNE9SQjdfMWhhSnVfT0J4Z1pLWkl6R2c4OHl6RHpaSHE1X2dMZkdCZ01fdnlacHA3YUQmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfMjAyMmJfZGFzaF90diIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk96RXRNQmp6RW1aRWxaTGtRakhueXJHZU1TWWVKdDhDUVFGQWNBbWpKMWNvaFV3NjZ2WlFyX01FNC1Kd2V0X0pPenFhVXlrWmo2WlFwS2VKVXlLNDg5UFpqV0ZuRU1fRHFTUEV2X3FWLThwdXVuUlZVOEM0WTZnUHBLejRaQXZwZDdQODVWTjY5alB2Nk9WYzZ3LTdnT3NoTTI0YXBnSW9PWDBMdjNPa1dZRmtadU01TGhJNlJsSlpDSzBWQ004bFRNVDE5WnlfUkpKRmxfNWlKYWNPYS1JcEVXTENHdy04bDZwZDFwckx5Qms1RGl1YmxrdzhscEZPTUV0Q3FpX1dfaUNCUnNZSGR1VzNXUU8xamZUeHFKWGpIY0N2eGlYVjJBUjJUT1h2aENKN3d3d0Y0Z2M3MnlnbFg0T1JCN18xaGFKdV9PQnhnWktaSXpHZzg4eXpEelpIcTVfZ0xmR0JnTV92eVpwcDdhRCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=zPi5n8agzPNy0qE3an49187oRic%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQNHhpa2FQWWFYU0ZtZFFEQzdWQzAxSkVZbTBmYV9TRDJ6MkhERGxEZ1QxLWdYdnpLNWtaQjRhSWhrQ2hGV3ZRaEM5cWJkX3Z1Rk9PV2t3MlZRbWZ0ay12dDZxYk9Uc1FsWV9mRVlQOEJpN0JEQWZuN3gxX2k1TkZWandWRWZhNDg1UmdCQTU5ZWU5STBKbmxEaldHQVJpa2dXbTZ0ZjFsTGZkdTF1T19YZ0U1M3ZWTEVxYnZhQkwwVy1qbkItS3lCSXdHdW1kMkVLekRGb3hHcVlMSEdMX0xXaHJzUHJqZmxJSHZNOHFvWDM5X0JRaWU2d2RMektGTEFOeFgtM1JNenZTX2VlZlN0V2MtblNtazh2MmE4UDM1TjdnU2NFSVBYN0tXdW1aT0JGb1daQ2VpX0hTcWJMRHhXVm1RbnkzN0c0ZUwtVkptR29MV0NnVHV0TU1jU0k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1XzIwMjJiX2Rhc2hfdHYiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZQNHhpa2FQWWFYU0ZtZFFEQzdWQzAxSkVZbTBmYV9TRDJ6MkhERGxEZ1QxLWdYdnpLNWtaQjRhSWhrQ2hGV3ZRaEM5cWJkX3Z1Rk9PV2t3MlZRbWZ0ay12dDZxYk9Uc1FsWV9mRVlQOEJpN0JEQWZuN3gxX2k1TkZWandWRWZhNDg1UmdCQTU5ZWU5STBKbmxEaldHQVJpa2dXbTZ0ZjFsTGZkdTF1T19YZ0U1M3ZWTEVxYnZhQkwwVy1qbkItS3lCSXdHdW1kMkVLekRGb3hHcVlMSEdMX0xXaHJzUHJqZmxJSHZNOHFvWDM5X0JRaWU2d2RMektGTEFOeFgtM1JNenZTX2VlZlN0V2MtblNtazh2MmE4UDM1TjdnU2NFSVBYN0tXdW1aT0JGb1daQ2VpX0hTcWJMRHhXVm1RbnkzN0c0ZUwtVkptR29MV0NnVHV0TU1jU0k9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=2955qKcatQeqzIuNpXsjPguNBp0%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
