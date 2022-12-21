@@ -1,5 +1,3 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/N0SbgYPK/10626649-ico.png" group-title="Movies",FOX CRIME
-https://akm611a-live-cdn.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/N0SbgYPK/10626649-ico.png" group-title="Movies",Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
