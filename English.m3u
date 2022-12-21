@@ -291,10 +291,10 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="No group" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115628.ts
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="No group" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115630.ts
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="No group" tvg-id="413" tvg-name="413", SHOWCASE MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
