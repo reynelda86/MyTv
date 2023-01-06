@@ -825,7 +825,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzD7OhdSjEvTDVMKq-06O0MUFD-IqY1NoSA&usqp=CAU" group-title="Indian" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http:/n2086.securepoint.io:25461//live/jacklynw/6787543015/69320.ts
+http://n2086.securepoint.io:25461//live/jacklynw/6787543015/69320.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
 http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
