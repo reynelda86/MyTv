@@ -18,13 +18,10 @@ https://aqfadtv.xyz/live/supersport3/index.mpd
 https://aqfadtv.xyz/live/supersport4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="No group" tvg-id="BeInSports3.qa" tvg-name="BeInSports3.qa", BeIn Sports 2
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/28917.ts
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN037BeinSport10FHD.png" group-title="Sports" tvg-id="21.junior.al" tvg-name="21.junior.al", Bein Sports Max 3
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/59262.ts
+http://175.107.244.52:4457/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN038BeinSport11FHD.png" group-title="Sports" tvg-id="21.junior.al" tvg-name="21.junior.al", Bein Sports Max 4
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=1049161&extension=ts&play_token=pe0ET8JP3a
+https://is.gd/6B4qHP
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="No group" tvg-id="BeInSports2.qa" tvg-name="BeInSports2.qa", BeIn Sports 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
@@ -38,14 +35,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01dOEJurUXqZ1LzpmGi8arvuUNT0d1uVAOw&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg4you.com/logos/boxnation_uk.png" group-title="No group" tvg-id="boxnation.uk" tvg-name="boxnation.uk", BOX NATION
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/3075.ts
-
 #EXTINF:-1 tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="No group" tvg-id="800" tvg-name="800", eGG Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="No group" tvg-id="elevensport.ro" tvg-name="elevensport.ro", Eleven 1
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/30035.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="No group" tvg-id="elevensport2.ro" tvg-name="elevensport2.ro", Eleven Sports 2
 https://webudi.openhd.lol/lb/premium456/index.m3u8
@@ -57,7 +55,7 @@ https://webudi.openhd.lol/lb/premium44/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/117729.ts
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="No group" tvg-id="820" tvg-name="820", Eurosport HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
@@ -75,10 +73,10 @@ https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Sports" tvg-id="FreeSports.uk" tvg-name="FreeSports.uk", Free Sports
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/117769.ts
+http://sansat.net:25461/live/eVjmHSZqKqsakk9/VyPkwjxEnXvOwgA/102348.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/1280px-GINX_Esports_TV_Logo_flat.png" group-title="No group" tvg-id="GinxeSportsTVInternational.uk" tvg-name="GinxeSportsTVInternational.uk", Ginx eSports TV International
-https://is.gd/EcXRso
+https://is.gd/RdjiPM
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="No group" tvg-id="" tvg-name="", GLORY Kickboxing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -100,9 +98,6 @@ https://is.gd/reQzMp
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="No group" tvg-id="CHN" tvg-name="CHN", T Sports
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="No group" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
