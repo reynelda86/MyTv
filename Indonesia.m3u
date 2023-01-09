@@ -30,39 +30,37 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8|user-agen
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRDbn3tN/jtv-surabaya.png" group-title="No group" tvg-id="" tvg-name="", JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+https://av-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="No group" tvg-id="KompasTV.id" tvg-name="KompasTV.id", Kompas TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="No group" tvg-id="MetroTV.id" tvg-name="MetroTV.id", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="No group" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNC TV
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Muslim TV
 https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="No group" tvg-id="NET.id" tvg-name="NET.id", NET
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+http://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3lxaMz7" group-title="No group" tvg-id="OKTV.id" tvg-name="OKTV.id", OK TV
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/703/19/png-clipart-rcti-television-logo-streaming-media-tv-wall-background-miscellaneous-blue.png" group-title="No group" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", RCTV
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/54232.ts
+https://is.gd/TtgblL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="No group" tvg-id="" tvg-name="", RTV Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="No group" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
-http://tvn.x10.mx/1/master-12.m3u8?dl=1
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="No group" tvg-id="Trans7.id" tvg-name="Trans7.id", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -71,4 +69,4 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3AgRgv5" group-title="No group" tvg-id="VisionPrime.id" tvg-name="VisionPrime.id", Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
