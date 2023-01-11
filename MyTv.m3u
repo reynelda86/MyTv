@@ -149,14 +149,6 @@ https://liveaneviadev.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://starshare.live:8080//live/24321463/35245125/29365.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFo_QeYYLKOJ8B0nksq9xhtsW4buXpqKeHw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Amazon Prime Action HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://starshare.live:8080//live/24321463/35245125/73853.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7SjBSpFzV0nQhutsvDT2jU3tykeFAdDz3A&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Amazon Prime Adventure
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://starshare.live:8080//live/24321463/35245125/73854.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/OJEyud
@@ -183,7 +175,7 @@ https://is.gd/kbzbFz
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/utWfPx
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -407,7 +399,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="English" tvg-id="" tvg-name="", American Heroes Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ljWTCy
+https://is.gd/4IrNKW
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="English" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -419,7 +411,7 @@ https://is.gd/RLZPKc
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="English" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movie Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/uRFlPM
+https://is.gd/7I4NBV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -492,7 +484,7 @@ https://is.gd/LTMxdY
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ySEfEX
+https://is.gd/wVT8Ux
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5XWgiRF9lQonp4lbp3iiv6plXk5LMd0VA&usqp=CAU" group-title="Islam" tvg-id="" tvg-name="", Iqra TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -622,7 +614,7 @@ https://is.gd/N9anw9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="actionmax.us" tvg-name="actionmax.us", Cinemax Actionmax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/sltTrs
+https://is.gd/CII1uF
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3066,8 +3058,8 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/HD5logobbg.JPG" group-title="English" tvg-id="Ch 5" tvg-name="Ch 5", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
-https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
