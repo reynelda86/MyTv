@@ -51,7 +51,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="No group" tvg-id="actionmax.us" tvg-name="actionmax.us", Cinemax Actionmax
-https://is.gd/CII1uF
+https://is.gd/GsYlzo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="No group" tvg-id="" tvg-name="", American Heroes Channel
 https://is.gd/w7ix96
@@ -75,13 +75,13 @@ https://is.gd/ZrYB3c
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="No group" tvg-id="411" tvg-name="411", CinemaWorld HD
-https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+https://alstv.xyz/usee/cinemaworld.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="No group" tvg-id="412" tvg-name="412", CINEMAX HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Cinemax West
-https://is.gd/XJcLrf
+https://is.gd/JYkUuQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="No group" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
@@ -93,16 +93,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372551.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="No group" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
-https://is.gd/g1vzbA
+https://is.gd/gwIDLz
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="No group" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
-https://is.gd/wVT8Ux
+https://is.gd/s8B08S
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="No group" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
-https://is.gd/E2jWap
+https://is.gd/uWk2dx
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="No group" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
-https://is.gd/LTMxdY
+https://is.gd/EpfCZv
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="No group" tvg-id="FamilyFlix.us" tvg-name="FamilyFlix.us", Family Flix (720p)
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
