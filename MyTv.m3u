@@ -154,7 +154,7 @@ http://starshare.live:8080//live/24321463/35245125/29365.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/OJEyud
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20231&extension=ts&play_token=xCq3Gt05EX
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfc325e2a7440d70f0c35b9d263e03c8.png" group-title="English" tvg-id="" tvg-name="", OSN Movies Hollywood
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -206,7 +206,7 @@ https://is.gd/djCXgg
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", AMC Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/rZceyE
+https://is.gd/2mbdOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
 http://b1g.one//live/40404040/60606060/8021.ts
@@ -256,11 +256,11 @@ https://is.gd/CVZ8aM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad5yP-U2GCSDztOnBiST5nyCqhnys1qYKBA&usqp=CAU" group-title="English" tvg-id="HDMoviesNow.in" tvg-name="HDMoviesNow.in", Movies Now HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/b49I7x
+http://103.157.88.1:6500/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/AkWoTl
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="English" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -299,9 +299,8 @@ https://is.gd/8IJxL3
 https://is.gd/zjKtIv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://103.218.25.12:89/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -402,7 +401,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="English" tvg-id="" tvg-name="", American Heroes Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/4IrNKW
+https://is.gd/w7ix96
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="English" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -454,7 +453,7 @@ https://is.gd/huh6Bl
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-https://is.gd/wzYUE0
+http://103.157.88.1:6500/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -517,11 +516,11 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="syfy.us" tvg-name="syfy.us", SYFY HD US
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ySfYLZ
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/syfy.eastern.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCl3cFqg6PdVOQw2_POYk8HVK6oNFz26gdQ&usqp=CAU" group-title="English" tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us", MoreMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/UEP9ob
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="701" tvg-name="701", AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -608,7 +607,7 @@ https://is.gd/SVGL6V
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/vtU9qe
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8257&extension=ts&play_token=TQ6cftyhX8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
@@ -641,7 +640,7 @@ https://is.gd/AIkF2y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="mnx.in" tvg-name="mnx.in", MNX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/1sS0CP
+http://103.157.88.1:6500/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3293,8 +3292,8 @@ https://is.gd/UcEucQ
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="" tvg-name="", Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
+https://akm611a-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFrX1O8wNGHc12a9qsHKbkIRqZc-sHLABUw&usqp=CAU" group-title="English" tvg-id="StarWorldHDIndia.hk" tvg-name="StarWorldHDIndia.hk", Star World HD India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -4612,7 +4611,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e0007
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 2
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English" tvg-id="" tvg-name="", STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
@@ -4623,7 +4622,7 @@ https://is.gd/3mFA1z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="English" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/wpgVdr
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png" group-title="Western" tvg-id="StarzEncoreWesternsWest.us" tvg-name="StarzEncoreWesternsWest.us", Starz Encore Westerns West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -5088,8 +5087,8 @@ http://admin.nf21.net/go/files/19354
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
+https://akm611a-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
