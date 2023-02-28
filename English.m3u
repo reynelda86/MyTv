@@ -120,19 +120,19 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/139053.ts
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="No group" tvg-id="FMN.id" tvg-name="FMN.id", FMN
-https://liveaneviadev.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+https://anevia114.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="No group" tvg-id="" tvg-name="", Fox Crime
-https://is.gd/hwqrHS
+https://is.gd/gNoxJq
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="English" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
-https://is.gd/pscYQa
+https://is.gd/eG1P2T
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
-https://is.gd/uTOebY
+https://is.gd/ZgIyEP
 
 #EXTINF:-1 tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/action-movies-colour-lightbg-1.png" group-title="No group" tvg-id="" tvg-name="", Fox Thriller
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -141,10 +141,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9f
 https://is.gd/bxgOuA
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="No group" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movie Channel
-https://is.gd/7I4NBV
+https://is.gd/VBImC8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="No group" tvg-id="FXXEast.us" tvg-name="FXXEast.us", FXX East
-https://is.gd/SVGL6V
+https://is.gd/Z5lv6P
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="No group" tvg-id="Galaxy.id" tvg-name="Galaxy.id", Galaxy
 https://akm611a-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
