@@ -1,4 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="AMERICAN MUSIC",MTV East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium371/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://leakssh.rocks/logo/MusicTV.id.png" group-title="Entertainment",Music TV
+https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://leakssh.rocks/logo/MusicTV.id.png" group-title="Music",Music TV 2
+https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
