@@ -1,10 +1,3 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://leakssh.rocks/logo/CinemaWorld.my.png" group-title="Movies",Cinema World
-https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=cinemaworld&type=drm
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://images.useetv.com/logo_cinemaworldnew_small.png" group-title="Movies",Cinema World 2
-https://alstv.xyz/usee/cinemaworld.mpd
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://images.useetv.com/logo_cinemaworldnew_small.png" group-title="Movies",MTV 00s
+https://tvup-live.secure.footprint.net/vh1/vh1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
