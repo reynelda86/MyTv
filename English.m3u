@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="No group" tvg-id="flix.in" tvg-name="flix.in", & flix
-http://b1g.one//live/40404040/60606060/8021.ts
+http://103.218.25.12:89/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/FILM4.png" group-title="English" tvg-id="film4.uk" tvg-name="film4.uk", Film4
 https://is.gd/EBeC3M
@@ -54,18 +54,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 https://is.gd/GsYlzo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="No group" tvg-id="" tvg-name="", American Heroes Channel
-https://is.gd/w7ix96
+https://is.gd/JokyFr
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="No group" tvg-id="701" tvg-name="701", AXN HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", beIN Movies Action
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", beIN Movies Action (X)
 https://is.gd/49ipKQ
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="No group" tvg-id="" tvg-name="", beIN Movies Drama
 https://is.gd/cvai5m
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="No group" tvg-id="" tvg-name="", beIN Movies Family
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="No group" tvg-id="" tvg-name="", beIN Movies Family (X)
 https://is.gd/BfujBp
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="No group" tvg-id="" tvg-name="", beIN Movies Premiere
@@ -75,13 +75,13 @@ https://is.gd/ZrYB3c
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="No group" tvg-id="411" tvg-name="411", CinemaWorld HD
-https://alstv.xyz/usee/cinemaworld.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="No group" tvg-id="412" tvg-name="412", CINEMAX HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Cinemax West
-https://is.gd/JYkUuQ
+https://is.gd/zGbAJ1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="No group" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
@@ -162,7 +162,7 @@ https://is.gd/RLZPKc
 https://is.gd/hOMSdQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="No group" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
-https://is.gd/Y2hJtd
+https://is.gd/zaFZan
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThcBZxt-LmW0hTmVOPBmC5ZGDIj-S-dgPhA&usqp=CAU" group-title="No group" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
 https://is.gd/wofCBq
@@ -183,7 +183,7 @@ https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 https://is.gd/qDZDd4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="No group" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
-https://is.gd/esjlNC
+https://is.gd/ApSAUz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="No group" tvg-id="706" tvg-name="706", HITS HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
@@ -297,52 +297,52 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 https://is.gd/YMYuom
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="No group" tvg-id="ShowtimeEast.us" tvg-name="ShowtimeEast.us", Showtime East
-https://is.gd/IyDYz6
+https://is.gd/xHFd7x
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JCBDvZAT0j3JyCKHazDsLgHaDX&pid=Api&P=0&w=418&h=190" group-title="No group" tvg-id="ShowtimeExtremeEast.us" tvg-name="ShowtimeExtremeEast.us", Showtime Extreme East
-https://is.gd/athWM2
+https://is.gd/Ly2gFw
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.siGk_3wwTOIdzMlF606P_wAAAA&pid=Api&P=0&w=257&h=172" group-title="No group" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="ShowtimeFamilyZoneEast.us", Showtime Family Zone East
 https://is.gd/InSb7a
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="No group" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
-https://is.gd/Kc2UwU
+https://is.gd/MaoFij
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="No group" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
 https://is.gd/MY1GR7
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="No group" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
-http://sansat.net:25461//live/SPMNBHGYT67543/RTIqm3YbC5jjSTA/102371.ts
+https://is.gd/BTsNXk
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="No group" tvg-id="0" tvg-name="0", Sky Cinema Comedy
-https://is.gd/aqq6H3
+https://is.gd/L7kIP9
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/skymoviesdrama_uk.png" group-title="No group" tvg-id="SkyCinemaDrama.uk" tvg-name="SkyCinemaDrama.uk", Sky Cinema Drama
 https://is.gd/yaXtmt
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="No group" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
-https://is.gd/rT0Q7a
+https://is.gd/CLkb8y
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesgreats.png" group-title="No group" tvg-id="SkyCinemaGreats.uk" tvg-name="SkyCinemaGreats.uk", Sky Cinema Greats
-https://is.gd/XJFCjZ
+https://is.gd/qealCV
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/skycinemahits_uk.png" group-title="No group" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk", Sky Cinema Hits
-https://is.gd/5Wl5mB
+https://is.gd/VkadHb
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="No group" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
-http://176.57.50.167:25461/live/536416/231244/77468.ts
+https://is.gd/mBF0gn
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="No group" tvg-id="" tvg-name="", Sky Cinema Select
-http://176.57.50.167:25461/live/536416/231244/77470.ts
+https://is.gd/EW1cDQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwe3JaBjPWDBNecYCMeLYldH-0JVoP8Kc2A&usqp=CAU" group-title="English" tvg-id="skyscifihorror.uk" tvg-name="skyscifihorror.uk", Sky Cinema Sci-fi Horror
-http://176.57.50.167:25461/live/536416/231244/77469.ts
+https://is.gd/clHs7N
 
 #EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/20fb75b908f2ea40ee7f4ccee8aae92f.png" group-title="No group" tvg-id="skythriller.uk" tvg-name="skythriller.uk", Sky Cinema Thriller
-http://176.57.50.167:25461/live/536416/231244/77471.ts
+https://is.gd/qY7R7d
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="No group" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
-http://176.57.50.167:25461/live/536416/231244/22917.ts
+https://is.gd/ougZDK
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/340?cb=20200608133037" group-title="English" tvg-id="sonyactionplus1.uk" tvg-name="sonyactionplus1.uk", Sony Movies Action (X)
 http://starshare.live:8080//live/Salman007/Salman007/5033.ts
@@ -382,7 +382,7 @@ http://103.157.88.1:6500/play/a00s/index.m3u8
 http://176.57.50.167:25461/live/536416/231244/22928.ts
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.776UZ-JO-2TPgsTigq-gRQAAAA&pid=Api&P=0&w=211&h=159" group-title="No group" tvg-id="StarzEncoreEast.us" tvg-name="StarzEncoreEast.us", Starz Encore East
-http://176.57.50.167:25461/live/536416/231244/22925.ts
+https://is.gd/vJnASG
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPCafjliE37AEnyMecWxrEN872O6MA0-TYg&usqp=CAU" group-title="No group" tvg-id="" tvg-name="", Starz Encore Family
 http://176.57.50.167:25461/live/536416/231244/22930.ts
@@ -412,7 +412,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/syfy.eastern
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="No group" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
+https://is.gd/iOkd2y
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title="No group" tvg-id="712" tvg-name="712", Warner TV HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
