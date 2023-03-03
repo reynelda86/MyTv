@@ -1,4 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DiscoveryTurboPanRegional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.Discovery_Turbo_2021.png.af37570bb4d51fd577ad49c3974711e5.png" group-title="Deportes",& flix
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4394000,AVERAGE-BANDWIDTH=4070000
-http://103.218.25.12:89/play/a01m/51435275.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="TV NASIONAL",ANTV
+https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
