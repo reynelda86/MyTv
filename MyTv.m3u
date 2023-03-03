@@ -1011,7 +1011,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", Travel Channel HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ePcdY4
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=42911&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports" tvg-id="801" tvg-name="801", Astro Arena HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
