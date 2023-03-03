@@ -1,5 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
-#EXTINF:-1 tvg-id="DiscoveryTurboPanRegional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.Discovery_Turbo_2021.png.af37570bb4d51fd577ad49c3974711e5.png" group-title="Deportes", Discovery Turbo
-https://chromecast.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
+#EXTINF:-1 tvg-id="DiscoveryTurboPanRegional.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.Discovery_Turbo_2021.png.af37570bb4d51fd577ad49c3974711e5.png" group-title="Deportes",& flix
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4394000,AVERAGE-BANDWIDTH=4070000
+http://103.218.25.12:89/play/a01m/51435275.m3u8
