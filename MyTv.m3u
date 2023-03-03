@@ -110,8 +110,8 @@ https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3lxaMz7" group-title="Indonesia" tvg-OKTOKTV.id" tvg-name="OKTV.id", OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://anv-livechannel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
+https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Indonesia" tvg-id="MetroTV.id" tvg-name="MetroTV.id", Metro TV
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
