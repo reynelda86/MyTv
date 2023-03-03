@@ -120,7 +120,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="No group" tvg-id="551" tvg-name="551", National Geographic HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHJHqfc/image-3.png" group-title="No group" tvg-id="OutdoorChannel.us" tvg-name="OutdoorChannel.us", Outdoor Channel
 https://is.gd/8ZPpJf
