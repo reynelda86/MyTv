@@ -3643,7 +3643,7 @@ http://185.59.223.102:8080/disney/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNN1TAtU6ibqIJyEvlZNp2BTdrbprt8a6H7A&usqp=CAU" group-title="Kids" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Junior East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="English" tvg-id="704" tvg-name="704", PrimeTime Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
