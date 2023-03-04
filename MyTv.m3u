@@ -692,10 +692,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="News" tvg-id="CHN" tvg-name="CHN", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png" group-title="News" tvg-id="EuroNewsEnglish.fr" tvg-name="EuroNewsEnglish.fr", EuroNews English
-https://liveaneviadev.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+https://is.gd/oSDmY5
 
 #EXTINF:-1 tvg-logo="https://www.bark.us/blog/wp-content/uploads/2019/04/Fox-news-logo.png" group-title="News" tvg-id="FoxNews.us" tvg-name="FoxNews.us", Fox News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
