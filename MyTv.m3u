@@ -308,8 +308,10 @@ https://webudi.openhd.lol/lb/premium456/index.m3u8
 http://sansat.net:25461/live/eVjmHSZqKqsakk9/VyPkwjxEnXvOwgA/102348.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3mucWhL" group-title="Kids" tvg-id="" tvg-name="", AniPlus
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=ts&play_token
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Entertainment" tvg-id="" tvg-name="", Pluto TV VEVO 90s
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
