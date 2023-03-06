@@ -1,15 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://leakssh.rocks/logo/ArirangWorld.kr.png" group-title="Entertainment",Arirang
-https://nxanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://leakssh.rocks/logo/ArirangWorld.kr.png" group-title="Add-On Connect",Arirang 2
-https://nxanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=arirang&type=drm
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://images.useetv.com/logo_arirang_small.png" group-title="Entertainment",Arirang 3
-https://alstv.xyz/usee/arirang.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="unifysport2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-title="SPORTS",UNIFY SPORT2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
