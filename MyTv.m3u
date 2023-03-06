@@ -4668,10 +4668,7 @@ https://www.googleapis.com/drive/v3/files/1Byyhz8EKBBzb0Jp5s2UdBV2MGE6qaXNA?alt=
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd
+https://is.gd/QwDu9G
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="AstroSuperSport.my" tvg-name="AstroSuperSport.my", Astro SuperSport
 #EXTVLCOPT:http-user-agent=otto-aplikasi
