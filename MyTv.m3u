@@ -1072,9 +1072,7 @@ http://175.107.244.52:4457/play/a06z/index.m3u8
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium44/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://is.gd/Bo5mpa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
 #KODIPROP:inputstream=inputstream.adaptive
