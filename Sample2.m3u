@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Malay" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://aqfadtv.xyz/live/citra/index.mpd
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Malay" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://hotz.vip:2082/ejumjom/ejumjom/28
