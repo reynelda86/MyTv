@@ -63,27 +63,6 @@ https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://aqfadtv.xyz/live/prima/index.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVXlaR05rWVRBdE5XRTJOaTAwTlRGbExUazJOREF0Tm1ObU1HWTVNekk1TXpSayIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjQxMDMyNCwiaWF0IjoxNjgxODA2MzI0fQ.eYVwo4SgXFtHj5jmZGYwY4qKFBHx4lPCEz40NwH8TJI"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-https://speedtrademarket.com/vip/citra.mpd
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="AstroRia.my" tvg-name="AstroRia.my", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVXlaR05rWVRBdE5XRTJOaTAwTlRGbExUazJOREF0Tm1ObU1HWTVNekk1TXpSayIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjQxMDMyNCwiaWF0IjoxNjgxODA2MzI0fQ.eYVwo4SgXFtHj5jmZGYwY4qKFBHx4lPCEz40NwH8TJI"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
-https://speedtrademarket.com/vip/warna.mpd
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png" group-title="Indonesia" tvg-id="" tvg-name="", Bandung Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
