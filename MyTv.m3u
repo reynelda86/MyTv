@@ -189,7 +189,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 http://176.57.50.167:25461/live/536416/231244/22923.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
-http://b1g.one//live/40404040/60606060/161829.ts
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
