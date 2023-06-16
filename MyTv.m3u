@@ -586,7 +586,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8257&extensi
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/hOkYNU
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176010.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="actionmax.us" tvg-name="actionmax.us", Cinemax Actionmax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
