@@ -598,7 +598,7 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/510671.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Premiere
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ZrYB3c
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516055.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL0vpeQYBzvSRVvkwCo4Q9SFA8cBe1R396g&usqp=CAU" group-title="English" tvg-id="hbo.ca" tvg-name="hbo.ca", HBO West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
