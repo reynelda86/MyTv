@@ -272,10 +272,6 @@ https://is.gd/AqyGLS
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/94Rvmq
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="colorsinfinityhd.in" tvg-name="colorsinfinityhd.in", Colors Infinity HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://103.218.25.12:89/play/a028/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/UCJpak
