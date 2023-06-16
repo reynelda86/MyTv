@@ -4012,7 +4012,9 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/7162.mkv
 https://akm611a-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="Chinese" tvg-id="PhoenixChineseChannel.hk" tvg-name="PhoenixChineseChannel.hk", Phoenix Chinese Channel
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
