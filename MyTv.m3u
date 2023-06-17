@@ -210,7 +210,7 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/514920.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="skyselect.uk" tvg-name="skyselect.uk", Sky Cinema Select
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/EW1cDQ
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/516477.ts
 
 #EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/20fb75b908f2ea40ee7f4ccee8aae92f.png" group-title="English" tvg-id="skythriller.uk" tvg-name="skythriller.uk", Sky Cinema Thriller
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
