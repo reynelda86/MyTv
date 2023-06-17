@@ -134,7 +134,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20231&extension=ts&
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfc325e2a7440d70f0c35b9d263e03c8.png" group-title="English" tvg-id="" tvg-name="", OSN Movies Hollywood
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/5tHowr
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265603.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", MBC Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
