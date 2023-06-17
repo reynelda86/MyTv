@@ -229,8 +229,8 @@ https://is.gd/Sh2XxZ
 http://176.57.50.167:25461/live/536416/231244/22928.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad5yP-U2GCSDztOnBiST5nyCqhnys1qYKBA&usqp=CAU" group-title="English" tvg-id="HDMoviesNow.in" tvg-name="HDMoviesNow.in", Movies Now HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://103.157.88.1:6500/play/a00s/index.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
