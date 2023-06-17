@@ -202,7 +202,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extens
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="English" tvg-id="0" tvg-name="0", Sky Cinema Comedy
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/L7kIP9
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/516121.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="English" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
