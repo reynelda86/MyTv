@@ -206,7 +206,7 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/516121.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="English" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/CLkb8y
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/514920.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="skyselect.uk" tvg-name="skyselect.uk", Sky Cinema Select
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
