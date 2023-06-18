@@ -4558,9 +4558,6 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 2
 https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English" tvg-id="" tvg-name="", STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JCBDvZAT0j3JyCKHazDsLgHaDX&pid=Api&P=0&w=418&h=190" group-title="English" tvg-id="ShowtimeExtremeEast.us" tvg-name="ShowtimeExtremeEast.us", Showtime Extreme East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/197
