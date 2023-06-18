@@ -481,7 +481,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="syfy.us" tvg-name="syfy.us", SYFY HD US
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/syfy.eastern.us.m3u8
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/497068.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCl3cFqg6PdVOQw2_POYk8HVK6oNFz26gdQ&usqp=CAU" group-title="English" tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us", MoreMax East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
