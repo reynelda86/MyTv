@@ -427,7 +427,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ougZDK
+http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/516288.ts
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
