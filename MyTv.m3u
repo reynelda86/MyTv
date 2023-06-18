@@ -606,8 +606,8 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/507954.ts
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/175
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/TNfRpT
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="518" tvg-name="518", ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
