@@ -308,7 +308,7 @@ https://is.gd/GwMgaS
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6a9be37123e36e726eb8d071f434654a.png" group-title="Entertainment" tvg-id="" tvg-name="", MTV Classic
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://143.244.60.30/MTVCLASSIC/index.m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/BBC_Three.svg/1280px-BBC_Three.svg.png" group-title="Entertainment" tvg-id="92news.uk" tvg-name="92news.uk", MTV Omg
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
