@@ -5074,7 +5074,7 @@ http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/119032.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwBz7Cw/images-15.png" group-title="Entertainment" tvg-id="" tvg-name="", Vevo HipHop
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/2416949.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="716" tvg-name="716", DMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
