@@ -24,8 +24,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
+https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Malay" tvg-id="Suria" tvg-name="Suria", Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,7 +35,6 @@ https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="Malay" tvg-id="105" tvg-name="105", Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
