@@ -121,8 +121,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://anevia114.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0QauEHqdGgL3LurMrW5LNj9EaE08_GJsqw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Netflix Movies Adventure 1 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -150,7 +150,7 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/516557.ts
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/FILM4.png" group-title="English" tvg-id="film4.uk" tvg-name="film4.uk", Film4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/511337.ts
+http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/30922.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", FOX Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -376,11 +376,11 @@ https://is.gd/RLZPKc
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="English" tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us", FX Movie Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/461939.ts
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217437.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/513772.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176028.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -444,7 +444,7 @@ http://176.57.50.167:25461/live/536416/231244/22931.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs4Eqo0KJ3Ai5Kj2KefcZtsbNt5AV-mjKMQ&usqp=CAU" group-title="English" tvg-id="FXEast.us" tvg-name="FXEast.us", FX East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/432204.ts
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217435.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -452,7 +452,7 @@ http://mxu03.wanicelife.com:8880//live/kg14m3n0410/cvwef2323/59224.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.moarch.xyz:80//live/fe1215384/wVMXUdY7US/508523.ts
+http://pprotv.com:80//live/Abdelaziz/Abdelaziz8/4157.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5XWgiRF9lQonp4lbp3iiv6plXk5LMd0VA&usqp=CAU" group-title="Islam" tvg-id="" tvg-name="", Iqra TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -576,7 +576,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="English" tvg-id="FXXEast.us" tvg-name="FXXEast.us", FXX East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/463211.ts
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213840.ts
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -609,7 +609,7 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516055.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL0vpeQYBzvSRVvkwCo4Q9SFA8cBe1R396g&usqp=CAU" group-title="English" tvg-id="hbo.ca" tvg-name="hbo.ca", HBO West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/507954.ts
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217545.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyNdg7N8M073OImac5TSPomNgBGMIq1RrGg&usqp=CAU" group-title="English" tvg-id="HBOZoneEast.us" tvg-name="HBOZoneEast.us", HBO Zone East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3247,9 +3247,9 @@ https://stream07.emeskyu.workers.dev/0:/The%20Batman%20(2022)/The.Batman.2022.72
 https://is.gd/xHFd7x
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="" tvg-name="", Galaxy
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://akm611a-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw 
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFrX1O8wNGHc12a9qsHKbkIRqZc-sHLABUw&usqp=CAU" group-title="English" tvg-id="StarWorldHDIndia.hk" tvg-name="StarWorldHDIndia.hk", Star World HD India
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -4135,7 +4135,7 @@ https://is.gd/M1AylC
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThcBZxt-LmW0hTmVOPBmC5ZGDIj-S-dgPhA&usqp=CAU" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/515161.ts
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217539.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="AstroCricket.my" tvg-name="AstroCricket.my", Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4678,10 +4678,6 @@ https://is.gd/WvU00s
 https://is.gd/hOMSdQ
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOS8wOS8xOS81ZjQ4ZWIyMS1mMDNmLTQ3OGEtYjY0Zi0yOGU0NjNhNDhhNjBIT0xMWVdPT0RfQlMucG5n.jpg" group-title="English" tvg-id="HollywoodHD.us" tvg-name="HollywoodHD.us", Hollywood HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/coL8O01xtvBTT6KsjGteDNglmKJ_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2011) No Sub
 https://is.gd/efFUBx
 
@@ -5034,8 +5030,8 @@ http://admin.nf21.net/go/files/19354
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://akm611a-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
