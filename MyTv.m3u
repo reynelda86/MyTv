@@ -162,15 +162,15 @@ https://is.gd/ZgIyEP
 
 #EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="English" tvg-id="" tvg-name="", beIN Series 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://dss.theoneip.tv:8080//live/6ey7CNHSXn/1wVqIXRcPJ/98108.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516058.ts
 
 #EXTINF:-1 tvg-logo="http://195.154.156.100:88/Arabic/bein%20series%20(Copy)%20(Copy).png" group-title="English" tvg-id="beinseries2.qa" tvg-name="beinseries2.qa", beIN Series 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://dss.theoneip.tv:8080//live/6ey7CNHSXn/1wVqIXRcPJ/98106.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516059.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Cinemax West
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/515138.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176024.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnoSd1JgLzO-Qc-83SD6H_5XajgG599iKMw&usqp=CAU" group-title="English" tvg-id="zeecafe.in" tvg-name="zeecafe.in", Zee Cafe
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -364,11 +364,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="English" tvg-id="" tvg-name="", American Heroes Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/515124.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/175790.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="English" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176027.ts
+http://pprotv.com:80//live/Abdelaziz/Abdelaziz8/4155.ts
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.c-zDjGr4tLGhH6RugS5AogHaDQ&pid=Api&P=0&w=413&h=182" group-title="English" tvg-id="" tvg-name="", Hallmark Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -448,7 +448,7 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/432204.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/509827.ts
+http://mxu03.wanicelife.com:8880//live/kg14m3n0410/cvwef2323/59224.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -495,7 +495,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English" tvg-id="411" tvg-name="411", CinemaWorld HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165082
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="English" tvg-id="412" tvg-name="412", CINEMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -506,7 +506,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English" tvg-id="DreamWorksTVAsia.us" tvg-name="DreamWorksTVAsia.us", DreamWorks TV Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
@@ -580,7 +580,7 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/463211.ts
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10989/s10989_h5_ba.png" group-title="English" tvg-id="EEast.us" tvg-name="EEast.us", E! East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/124355.ts
+http://mxu03.wanicelife.com:8880//live/kg14m3n0410/cvwef2323/3138.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
@@ -593,15 +593,15 @@ https://is.gd/GsYlzo
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/510671.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516048.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Movies Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/517577.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516046.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Family
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/517579.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516051.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="English" tvg-id="" tvg-name="", beIN Movies Premiere
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
