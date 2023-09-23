@@ -124,10 +124,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0QauEHqdGgL3LurMrW5LNj9EaE08_GJsqw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Netflix Movies Adventure 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/414087.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/93051.ts
@@ -138,15 +134,15 @@ http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265603.ts
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", MBC Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265587.ts
+http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/15737.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR0SheihPNrSTR0-S3kkj812qc8hPkLgJUnC-k=s900-c-k-c0x00ffffff-no-rj" group-title="English" tvg-id="" tvg-name="", MBC Variety Plus
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/265596.ts
+http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/15876.ts
 
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/MBCGROUP/MBCMAX.png" group-title="English" tvg-id="mbcmax.ae" tvg-name="mbcmax.ae", MBC Max
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/516557.ts
+http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/15879.ts
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/FILM4.png" group-title="English" tvg-id="film4.uk" tvg-name="film4.uk", Film4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -4008,7 +4004,7 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/7162.mkv
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="705" tvg-name="705", KIX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://akm611a-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165068
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="Chinese" tvg-id="PhoenixChineseChannel.hk" tvg-name="PhoenixChineseChannel.hk", Phoenix Chinese Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
