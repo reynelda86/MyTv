@@ -317,13 +317,14 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="Entertainment" tvg-id="MTV90s.us" tvg-name="MTV90s.us", MTV 90s
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/517431.ts
+https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Entertainment" tvg-id="MTV2East.us" tvg-name="MTV2East.us", MTV 2 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/350244.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/177084.ts
 
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:80/images/5a03eaa5aabefed79df40270e9ebd250.png" group-title="Entertainment" tvg-id="92news.uk" tvg-name="92news.uk", MTV Club
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -793,7 +794,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title="Entertainment" tvg-id="MusicTV.id" tvg-name="MusicTV.id", Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165108
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="Entertainment" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk", Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
