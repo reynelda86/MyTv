@@ -45,8 +45,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Malay" tvg-id="" tvg-name="", TV6
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
