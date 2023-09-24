@@ -1,10 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="MALAY 886" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT 
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="MALAY 886" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT 2
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1676798386/ei/UpXxY52tI4HVhga2sK7IDQ/ip/20.185.156.80/id/LpSeeRFGa0I.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-p5qddn7r.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/36/mm/44/mn/sn-p5qddn7r/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1676775784/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgdcs_xAdFIhKVm6F7l43T9PDw7tKrIBYM-3-eRs-Fb0YCIQDl3wdlPXytxqcm5NAAiVqEjzZDXlnbXvuQDqIj2yGCOw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgNxIYbUZqnD7YVHgFq8NtNLSUFX-gG7bNwEWPK4XWw9wCIQCP-VE07ZtuVdIEsM3M_9xUiyRYajO6PDIg2BqVR4eLlw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="myFreeview" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
