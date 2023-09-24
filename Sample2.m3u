@@ -1,13 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"padw2I5EA3cvNuIxPo4y0A","kid":"//WSeiJJ8JT6N3PDkClAEA"}],"type":"temporary"} 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network 
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
+#EXTINF:-1 tvg-id="" tvg-chno="129" tvg-name="Astro Prima" radio="false" catchup="default" group-title="MALAY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/dde272d7-53b9-460b-ac02-fcfa0c8798aa
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
