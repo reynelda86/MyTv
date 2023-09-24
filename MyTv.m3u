@@ -587,6 +587,9 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/229025.ts
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="PBSAmerica.us" tvg-name="PBSAmerica.us", PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="Thrill.hk" tvg-name="Thrill.hk", Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -4560,10 +4563,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959736
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="" tvg-name="", Pluto TV Westerns
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="Chinese" tvg-id="" tvg-name="", Douyu TV Movies Chinese 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlXAe2xzx48hxG4xINW8NVliUVhHpR3wuhQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Pluto TV Crime Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
