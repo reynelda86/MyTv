@@ -49,8 +49,9 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -383,8 +384,9 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png" group-title="Malay" tvg-id="GoShopBAARU" tvg-name="GoShopBAARU", Go Shop BAARU
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3236,8 +3238,9 @@ https://www.googleapis.com/drive/v3/files/1VmVA4e7WCNv1-F9S9inwRiFBOLcCQP0f?alt=
 https://www.googleapis.com/drive/v3/files/19Wuh_J9FLx7BqNchAkfW-5JHXSlSMtCA?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-id="146" group-title="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia" tvg-id="NET.id" tvg-name="NET.id", NET
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4558,8 +4561,9 @@ https://is.gd/BWn0ma
 https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="Malay" tvg-id="" tvg-name="", Astro Go Ruuma
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2501/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="TVAlhijrah.my" tvg-name="TVAlhijrah.my", TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
