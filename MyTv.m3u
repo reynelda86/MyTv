@@ -868,7 +868,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="Indian" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://103.218.25.12:89/play/a01n/index.m3u8
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="Indian" tvg-id="ZeeBioskop.in" tvg-name="ZeeBioskop.in", Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
