@@ -1162,11 +1162,6 @@ http://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HOT FM
 https://mediaprima.rastream.com/mediaprima-hotfm.android
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malay" tvg-id="" tvg-name="", Astro Sensasi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" tvg-id="864" tvg-name="864", INDIA BEAT
 http://astro4.rastream.com/india?type=.flv
 
