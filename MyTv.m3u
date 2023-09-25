@@ -3251,8 +3251,8 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/8q6yMp
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eZGTHXup6fB5gjQgak7SLJfo01p.jpg" group-title="VOD English" tvg-id="" tvg-name="", Cruella (2021) Select Sub
 https://is.gd/TaiLag
