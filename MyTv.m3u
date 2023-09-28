@@ -1003,8 +1003,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHJHqfc/image-3.png" group-title="Lifestyle & Documentary" tvg-id="OutdoorChannel.us" tvg-name="OutdoorChannel.us", Outdoor Channel
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/8ZPpJf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Lifestyle & Documentary" tvg-id="707" tvg-name="707", TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
