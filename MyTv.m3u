@@ -3259,7 +3259,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Indonesia" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
