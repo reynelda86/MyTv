@@ -167,6 +167,30 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/1122295.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/2mbdOB
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies 4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies 5
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/6140589
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies 6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies 7
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/4505431
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
