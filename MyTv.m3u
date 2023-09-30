@@ -75,7 +75,7 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3lxaMz7" group-title="Indonesia" tvg-OKTOKTV.id" tvg-name="OKTV.id", OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Indonesia" tvg-id="MetroTV.id" tvg-name="MetroTV.id", Metro TV
