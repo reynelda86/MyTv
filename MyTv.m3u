@@ -52,7 +52,7 @@ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png" group-title="Indonesia" tvg-id="" tvg-name="", Bandung Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
