@@ -83,7 +83,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/382/669/png-transparent-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-television-blue-text.png" group-title="Indonesia" tvg-id="MNCTV.id" tvg-name="MNCTV.id", MNC TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165054
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Indonesia" tvg-id="RTV.id" tvg-name="RTV.id", RTV Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
