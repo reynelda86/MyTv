@@ -928,7 +928,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="Kids" tvg-id="615" tvg-name="615", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
