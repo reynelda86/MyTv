@@ -931,9 +931,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="Kids" tvg-id="615" tvg-name="615", Cartoon Network HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebiesAsia.uk", CBeebies Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
