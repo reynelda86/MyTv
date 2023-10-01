@@ -3643,7 +3643,7 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213870.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL0iTavxh_J1FomF7t_ISe0metFOCG5P7og&usqp=CAU" group-title="Kids" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel East
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://185.59.223.102:8080/disney/index.m3u8
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176248.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNN1TAtU6ibqIJyEvlZNp2BTdrbprt8a6H7A&usqp=CAU" group-title="Kids" tvg-id="DisneyJuniorEast.us" tvg-name="DisneyJuniorEast.us", Disney Junior East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
