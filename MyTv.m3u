@@ -3303,9 +3303,9 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/9912.mkv
 https://is.gd/ZvP8pg
 
 #EXTINF:0 tvg-id="618" tvg-name="618" tvg-logo="https://i.postimg.cc/1RYgwhFb/BabyTV.png" group-title="Kids",Baby TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+http://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/779/170/png-clipart-babyfirst-television-channel-satellite-television-at-t-u-verse-child-television-child-thumbnail.png" group-title="Kids" tvg-id="BabyFirstTV.us" tvg-name="BabyFirstTV.us", Baby First TV
 http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176236.ts
