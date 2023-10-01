@@ -3316,8 +3316,9 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176236.ts
 http://pprotv.com:80//live/Abdelaziz/Abdelaziz8/39470.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://is.gd/TX03oo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=314 
+https://rawcdn.githack.com/broto121/ali/main/dx.m3u8
 
 #EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p159729_p_v10_ar.jpg" group-title="VOD English" tvg-id="" tvg-name="", Transformers (2007)
 https://www.googleapis.com/drive/v3/files/1x5--DIrurXO71BclXo3qdWeyVQtfFVwD?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
