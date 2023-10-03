@@ -686,10 +686,10 @@ https://newtest.webtv1.lol/lb/premium349/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="News" tvg-id="513" tvg-name="513", Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:0 tvg-id="ArirangWorld.kr" tvg-name="ArirangWorld.kr” tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png" group-title="News",Arirang World
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 tvg-logo="http://arirang.com/images/index/arirang.png" group-title="News" tvg-id="ArirangWorld.kr" tvg-name="ArirangWorld.kr", Arirang World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" group-title="News" tvg-id="501" tvg-name="501", Astro Awani
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
