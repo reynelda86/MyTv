@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3 
-#EXTVLCOPT:http-referrer= https://live-xtra-sg1.global.ssl.fastly.net/
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia 🇲🇾" tvg-id="103" tvg-name="103", TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
+https://aqfadtv.xyz/live/tv3/index.mpd
