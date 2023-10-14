@@ -758,7 +758,7 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="514" tvg-name="514", Sky News HD
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/1383051.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="" tvg-name="", TRT World
 https://is.gd/SxQd2h
