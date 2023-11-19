@@ -102,9 +102,9 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="122" tvg-name="122", TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5021
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3AgRgv5" group-title="Indonesia" tvg-id="VisionPrime.id" tvg-name="VisionPrime.id", Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
