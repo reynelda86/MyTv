@@ -5,8 +5,8 @@
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis HD
