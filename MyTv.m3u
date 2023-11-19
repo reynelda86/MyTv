@@ -549,9 +549,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f21
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime and Investigation HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/571/1021/png-transparent-hallmark-movies-mysteries-hallmark-channel-television-channel-television-film-others-television-text-logo-thumbnail.png" group-title="English" tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us", Hallmark Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
