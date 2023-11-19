@@ -630,7 +630,7 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176010.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTM4h4uzkqnB94UfgU9IH1COatkNz6x7alTg&usqp=CAU" group-title="English" tvg-id="actionmax.us" tvg-name="actionmax.us", Cinemax Actionmax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/GsYlzo
+http://opplex.tv:8080/live/03337304070/03337304070/346540.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="English" tvg-id="" tvg-name="", beIN Movies Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
