@@ -147,7 +147,7 @@ http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/1591.ts
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-BEIN-ENT/BEINE.png" group-title="English" tvg-id="fox.qa" tvg-name="fox.qa", Fox HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/ZgIyEP
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="English" tvg-id="" tvg-name="", beIN Series 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
