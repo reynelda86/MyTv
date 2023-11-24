@@ -5045,9 +5045,10 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/2659.mkv
 http://admin.nf21.net/go/files/19354
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
