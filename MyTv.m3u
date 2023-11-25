@@ -419,7 +419,7 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3098.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
+http://opplex.tv:8080/live/03337304070/03337304070/346337.ts
 
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
