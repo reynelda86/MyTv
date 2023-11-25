@@ -739,9 +739,9 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/1383051.ts
 https://is.gd/SxQd2h
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Chinese" tvg-id="108" tvg-name="108", 8TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-https://aqfadtv.xyz/live/8tv/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
