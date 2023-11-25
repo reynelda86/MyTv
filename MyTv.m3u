@@ -642,7 +642,8 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/516055.ts
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3120.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
-http://familyplus.me:8080//live/salim80/1234567/272785.ts
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="518" tvg-name="518", ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
