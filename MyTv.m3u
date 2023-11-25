@@ -421,10 +421,6 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/195
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
 
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S" group-title="English" tvg-id="RockExtreme.sg" tvg-name="RockExtreme.sg", Rock Extreme
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="RockEntertainment.sg" tvg-name="RockEntertainment.sg", Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
