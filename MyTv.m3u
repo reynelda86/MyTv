@@ -119,7 +119,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/93051.ts
+http://opplex.tv:8080/live/03337304070/03337304070/354970.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfc325e2a7440d70f0c35b9d263e03c8.png" group-title="English" tvg-id="" tvg-name="", OSN Movies Hollywood
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
