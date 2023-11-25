@@ -376,9 +376,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Chinese" tvg-id="304" tvg-name="304", Astro Xiao Tai Yang HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/1714.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="Chinese" tvg-id="" tvg-name="", Sony GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
