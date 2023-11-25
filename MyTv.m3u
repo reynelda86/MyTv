@@ -121,10 +121,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://opplex.tv:8080/live/03337304070/03337304070/354970.ts
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfc325e2a7440d70f0c35b9d263e03c8.png" group-title="English" tvg-id="" tvg-name="", OSN Movies Hollywood
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://pprotv.com:80//live/Abdelaziz/Abdelaziz8/67495.ts
-
 #EXTINF:-1 tvg-logo="nologo.png" group-title="English" tvg-id="" tvg-name="", MBC Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/15737.ts
