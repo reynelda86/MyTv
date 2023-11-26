@@ -5083,9 +5083,8 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3221.ts
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29455.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zO6tHeBi439uHF1USGJuwnM3rmhusjG75g&usqp=CAU" group-title="Chinese" tvg-id="" tvg-name="", TVB Classic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1712
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6razZZL0UOs8BsGo7OiFdE9ok_PyKlPOFg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Garfield & Friends
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
