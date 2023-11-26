@@ -834,9 +834,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55297.ts
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Indian" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+http://opplex.tv:8080//live/4176953611/417695361200/244523.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="Indian" tvg-id="Vasantham" tvg-name="Vasantham", Vasantham
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
