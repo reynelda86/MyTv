@@ -5055,9 +5055,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 https://is.gd/PnzFx8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="English" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
