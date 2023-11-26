@@ -947,9 +947,7 @@ https://is.gd/aV07dy
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:0 tvg-id="709" tvg-name="709" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="Lifestyle & Documentary",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
-http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" group-title="Lifestyle & Documentary" tvg-id="554" tvg-name="554", Bbc Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
