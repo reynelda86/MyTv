@@ -3346,9 +3346,7 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71031
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="212" tvg-name="212", Sun Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71029
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn (2003)
 https://www.googleapis.com/drive/v3/files/1oVn2NUVahUBg5-D-yveBFy9_xsb-BFLd?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
