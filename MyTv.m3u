@@ -5049,9 +5049,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 http://line.lemotv.cc:25461//live/Ivica5274/juric4005/2695545.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="716" tvg-name="716", DMAX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
