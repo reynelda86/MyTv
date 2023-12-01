@@ -3673,11 +3673,11 @@ https://is.gd/8KMNov
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/ez1EDULOCUUCySHOZU6tz97qbtM.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Just Go With It (2011) no Sub
 https://is.gd/Z7DhL9
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/b83MXKz.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://imgur.com/b83MXKz.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Lifestyle
+http://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Dj1rsG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
