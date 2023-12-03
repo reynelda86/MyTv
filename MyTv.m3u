@@ -3229,7 +3229,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Indonesia" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+https://mantul.biz.id:443/ekos/748382/32.ts
 
 #EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
