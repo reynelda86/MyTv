@@ -864,7 +864,7 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55249.ts
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="116" tvg-name="116",Colors Hindi HD
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="Indian" tvg-id="ColorsHD" tvg-name="ColorsHD",Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
