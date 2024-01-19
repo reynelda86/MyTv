@@ -856,7 +856,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="Indian" tvg-id="SunTV" tvg-name="SunTV", SUN TV HD
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55249.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="222" tvg-name="222", Colors Tamil HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="ColorsTamilHD" tvg-name="ColorsTamilHD", Colors Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
