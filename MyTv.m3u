@@ -44,7 +44,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Malay" tvg-id="" tvg-name="", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="147" tvg-name="147", NTV7
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM", DidikTV KPM
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0 
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
