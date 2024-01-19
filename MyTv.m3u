@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="101" tvg-name="101", TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="AwesomeTV" tvg-name="AwesomeTV", Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
