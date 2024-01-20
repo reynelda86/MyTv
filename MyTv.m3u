@@ -1058,7 +1058,7 @@ https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_a
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="BeInSports2.qa" tvg-name="BeInSports2.qa", BeIn Sports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
