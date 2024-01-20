@@ -3989,7 +3989,7 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/22945.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUZgZbPWCG9415fWsRQ8yvVgmVE-jTzW5XA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rush Hour 3 (2007) No Sub 
 http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/7162.mkv
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="705" tvg-name="705", KIX HD
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="KIX.id" tvg-name="KIX.id", KIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
