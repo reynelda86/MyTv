@@ -1222,7 +1222,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.a
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s125696q.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", SANDAKAN FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio" tvg-id="857" tvg-name="857", SINAR FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio" tvg-id="SINAR" tvg-name="SINAR", SINAR FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/terengganu-fm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", TERENGGANU FM
