@@ -120,7 +120,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://bit.ly/3AgRgv5" group-title="Indonesia" tvg-id="VisionPrime.id" tvg-name="VisionPrime.id", Vision Prime
+#EXTINF:-1 tvg-logo="https://bit.ly/3AgRgv5" group-title="Indonesia" tvg-id="VisionPrime.id" tvg-name="VisionPrime.id", Vision Prime HD
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
