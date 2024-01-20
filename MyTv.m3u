@@ -5004,7 +5004,7 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/2659.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring The Devil Made Me Do It (2021)
 http://admin.nf21.net/go/files/19354
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GALAXYPremium" tvg-name="GALAXYPremium", GALAXY Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
 #EXTVLCOPT:http-referrer=https://visionplus.id
