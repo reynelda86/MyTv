@@ -987,7 +987,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 
-#EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="715" tvg-name="715", HGTV HD
+#EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="HGTV" tvg-name="HGTV", HGTV HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71096
 
