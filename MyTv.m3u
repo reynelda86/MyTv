@@ -1114,7 +1114,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="874" tvg-name="874", AI FM
+#EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="AIFM" tvg-name="AIFM", AI FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", AMBOI FM
