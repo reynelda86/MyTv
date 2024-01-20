@@ -1159,7 +1159,7 @@ https://mediaprima.rastream.com/mediaprima-hotfm.android
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" tvg-id="INDIA" tvg-name="INDIA", INDIA BEAT
 http://astro4.rastream.com/india?type=.flv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="Radio" tvg-id="865" tvg-name="865", JAZZ
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="Radio" tvg-id="JAZZ" tvg-name="JAZZ", JAZZ
 http://astro4.rastream.com/jazz?type=.flv
 
 #EXTINF:-1 tvg-logo="https://www.jeifm.com/images/jeilogo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", JEI FM
