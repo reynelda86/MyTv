@@ -695,7 +695,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png" group-title="News" tvg-id="503" tvg-name="503", CGTN
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png" group-title="News" tvg-id="CGTN" tvg-name="CGTN", CGTN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5019
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
