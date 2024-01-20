@@ -156,6 +156,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXS6fszK/FMN.png" group-title="English" tvg-id="FMN.id" tvg-name="FMN.id", FMN
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="" tvg-name="", MNX
+http://413994677292339256.of2100.xyz:80//live/hu519885/mVgBWTuhcWX7/767614.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL0vpeQYBzvSRVvkwCo4Q9SFA8cBe1R396g&usqp=CAU" group-title="English" tvg-id="hbo.ca" tvg-name="hbo.ca", HBO West
 http://413994677292339256.of2100.xyz:80//live/hu519885/mVgBWTuhcWX7/751135.ts
 
