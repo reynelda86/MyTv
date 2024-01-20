@@ -1198,7 +1198,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", ONE FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="Radio" tvg-id="862" tvg-name="862", OPUS
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="Radio" tvg-id="OPUS" tvg-name="OPUS", OPUS
 http://astro4.rastream.com/opus?type=.flv
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="Radio" tvg-id="866" tvg-name="866", OSAI
