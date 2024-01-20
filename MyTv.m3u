@@ -1231,7 +1231,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMA
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio" tvg-id="863" tvg-name="863", THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio" tvg-id="859" tvg-name="859", THR RAAGA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio" tvg-id="RAAGA" tvg-name="RAAGA", THR RAAGA
 http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="Radio" tvg-id="872" tvg-name="872", TRAXX FM
