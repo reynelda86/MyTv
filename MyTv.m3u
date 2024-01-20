@@ -410,8 +410,9 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="Chinese" tvg-id="CTIAsia" tvg-name="CTIAsia", CTI Asia HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71042
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rz5829" group-title="Chinese" tvg-id="SGEM.id" tvg-name="SGEM.id", GEM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
