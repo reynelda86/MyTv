@@ -1129,7 +1129,7 @@ https://astro4.rastream.com/bayu
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio" tvg-id="860" tvg-name="860", CLASSIC ROCK
 http://astro4.rastream.com/rock?type=.flv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio" tvg-id="856" tvg-name="856", ERA FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio" tvg-id="ERA" tvg-name="ERA", ERA FM
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/era-fm-sabah.jpg" group-title="Radio" tvg-id="CHN" tvg-name="CHN", ERA SABAH
