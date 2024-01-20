@@ -4999,7 +4999,7 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3219.ts
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5bb1ad55268cae539bcedb08&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/2695545.ts
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=ts&play_token=GV8NUy0FxS
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="DMAX" tvg-name="DMAX", DMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
