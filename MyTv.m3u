@@ -551,7 +551,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f21
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English" tvg-id="Dreamworks" tvg-name="Dreamworks", DreamWorks
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="714" tvg-name="714", Crime and Investigation HD
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="CrimeInvestigation" tvg-name="CrimeInvestigation", Crime & Investigation HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
