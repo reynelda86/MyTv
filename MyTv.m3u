@@ -419,6 +419,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
+http://startv365.com:80//live/D85A79B4/55A7743D/191980.ts
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="AstroQJ" tvg-name="AstroQJ", Astro QJ
 http://startv365.com:80//live/D85A79B4/55A7743D/191974.ts
 
