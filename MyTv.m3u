@@ -593,7 +593,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
-#EXTINF:0 tvg-id="703" tvg-name="703" tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="English",Lifetime HD
+#EXTINF:0 tvg-id="703" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="English",Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
