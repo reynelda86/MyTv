@@ -5014,7 +5014,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPrem
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://line.lemotv.cc:25461//live/Ivica5274/juric4005/1699093.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="SPOTV" tvg-name="SPOTV", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
