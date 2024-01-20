@@ -1201,7 +1201,7 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="Radio" tvg-id="OPUS" tvg-name="OPUS", OPUS
 http://astro4.rastream.com/opus?type=.flv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="Radio" tvg-id="866" tvg-name="866", OSAI
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="Radio" tvg-id="OSAI" tvg-name="OSAI", OSAI
 http://astro4.rastream.com/osai?type=.flv
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157939g.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", PERAK FM
