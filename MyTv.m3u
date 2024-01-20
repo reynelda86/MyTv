@@ -1120,7 +1120,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", AMBOI FM
 http://amboifm.iradio.work:8000/stream
 
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio" tvg-id="875" tvg-name="875", ASYIK FM
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio" tvg-id="ASYIKFM" tvg-name="ASYIKFM", ASYIK FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio" tvg-id="BAYU" tvg-name="BAYU", BAYU
