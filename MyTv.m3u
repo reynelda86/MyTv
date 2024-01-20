@@ -1192,7 +1192,7 @@ http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio" tvg-id="MY" tvg-name="MY", MY FM
 http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
 
-#EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="Radio" tvg-id="869" tvg-name="869", NAS FM
+#EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="Radio" tvg-id="NASFM" tvg-name="NASFM", NAS FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", ONE FM
