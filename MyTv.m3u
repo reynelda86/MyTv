@@ -5044,7 +5044,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
 http://line.lemotv.cc:25461//live/Ivica5274/juric4005/2695545.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="716" tvg-name="716", DMAX HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="DMAX" tvg-name="DMAX", DMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
