@@ -1183,7 +1183,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.a
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="Radio" tvg-id="MELODY" tvg-name="MELODY", MELODY FM
 http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="Radio" tvg-id="873" tvg-name="873", MINNAL FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="Radio" tvg-id="MINNALFM" tvg-name="MINNALFM", MINNAL FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="Radio" tvg-id="MIX" tvg-name="MIX", MIX FM
