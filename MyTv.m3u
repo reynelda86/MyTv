@@ -953,7 +953,7 @@ https://is.gd/aV07dy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://bit.ly/3jrpJA6" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Infotainment
+#EXTINF:-1 tvg-logo="https://bit.ly/3jrpJA6" group-title="Lifestyle & Documentary" tvg-id="Ie.id" tvg-name="Ie.id", Infotainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:0 tvg-id="709" tvg-name="AFN" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="Lifestyle & Documentary",Asian Food Network HD
