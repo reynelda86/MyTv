@@ -1180,7 +1180,7 @@ http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", MELAKA FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="Radio" tvg-id="858" tvg-name="858", MELODY FM
+#EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="Radio" tvg-id="MELODY" tvg-name="MELODY", MELODY FM
 http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="Radio" tvg-id="873" tvg-name="873", MINNAL FM
