@@ -1144,7 +1144,7 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="Radio" tvg-id="861" tvg-name="861", GOLD
 http://astro4.rastream.com/gold?type=.flv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="852" tvg-name="852", HITZ FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ" tvg-name="HITZ", HITZ FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 
 #EXTINF:-1 tvg-logo="https://radiomalaysia.net/radio/thumbs/18193hitz-fm-sabah.jpg" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HITZ SABAH
