@@ -1189,7 +1189,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.a
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="Radio" tvg-id="855" tvg-name="855", MIX FM
 http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio" tvg-id="853" tvg-name="853", MY FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio" tvg-id="MY" tvg-name="MY", MY FM
 http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
 
 #EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="Radio" tvg-id="869" tvg-name="869", NAS FM
