@@ -1174,7 +1174,7 @@ https://astro4.rastream.com/kenyalang
 #EXTINF:-1 tvg-logo="https://assets.koolfm.com.my/2020/04/logo_koolfm_500x500.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", KOOL FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="Radio" tvg-id="854" tvg-name="854", LITE FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="Radio" tvg-id="LITE" tvg-name="LITE", LITE FM
 http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", MELAKA FM
