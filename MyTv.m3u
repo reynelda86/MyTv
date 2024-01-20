@@ -982,7 +982,7 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/57927.ts
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="News" tvg-id="DW" tvg-name="DW", DW English
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="708" tvg-name="708", Food Network HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="FoodNetwork" tvg-name="FoodNetwork", Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
