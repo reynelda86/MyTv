@@ -784,7 +784,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
 
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="Chinese" tvg-id="416" tvg-name="416", tvN Movies HD
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="Chinese" tvg-id="tvNMovies" tvg-name="tvNMovies", tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
