@@ -4121,7 +4121,7 @@ https://is.gd/M1AylC
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3123.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="AstroCricket.my" tvg-name="AstroCricket.my", Astro Cricket
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="AstroCricket" tvg-name="AstroCricket", Astro Cricket HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
