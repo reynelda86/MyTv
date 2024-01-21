@@ -1076,9 +1076,9 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Lifestyle & Documentary" tvg-id="TLC" tvg-name="TLC", TLC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png" group-title="Lifestyle & Documentary" tvg-id="521" tvg-name="521", Travel Channel HD
 #EXTVLCOPT:http-referrer=https://dailymotion.com
