@@ -81,6 +81,9 @@ http://startv365.com:80//live/D85A79B4/55A7743D/13490.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 http://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg9XFhGd/citraentertainment.png" group-title="Indonesia" tvg-id="CitraEntertainment.id" tvg-name="CitraEntertainment.id", Citra Entertainment
+http://startv365.com:80//live/D85A79B4/55A7743D/400200335.ts
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
