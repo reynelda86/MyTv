@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="54" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" tvg-chno="54" group-title="Ayna OTT",Discovery Science
-https://cdn.retosprime.com/ayna.php?id=54&e=.m3u8|User-Agent=bdsajib
+#EXTINF:0 tvg-id="NatGeoWild.Id" tvg-logo="https://cdn.ksa.my.id/natgeowild.png" group-title="Pengetahuan",Nat Geo Wild
+https://melon-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
