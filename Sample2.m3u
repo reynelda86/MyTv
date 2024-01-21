@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="NatGeoWild.Id" tvg-logo="https://cdn.ksa.my.id/natgeowild.png" group-title="Pengetahuan",Nat Geo Wild
-https://melon-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="ENTERTAINMENT", CITRA DRAMA (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
