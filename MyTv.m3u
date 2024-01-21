@@ -3329,7 +3329,9 @@ http://srv37.nf21.net/files/19-2020-05-30-0f8170fdde6900eda968ffb274832ff6.mp4
 http://admin.nf21.net/go/files/17624
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Lifestyle & Documentary" tvg-id="550" tvg-name="550", Nat Geo Wild HD
-https://bit.ly/3u2EHW4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=281340&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyWMG-kMbOgpZVFrj5Tj5mjrLLqIBXrw3Nw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X-Men Origins: Wolverine
 http://www.deadlyblogger.com/NewRelease/origin.mp4
