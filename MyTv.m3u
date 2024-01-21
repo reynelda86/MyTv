@@ -312,6 +312,11 @@ http://103.120.172.74:1140
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="AstroVaanavil" tvg-name="AstroVaanavil", Astro Vaanavil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
+
 #EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg" group-title="Indian" tvg-id="" tvg-name="", Sony Mix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55263.ts
