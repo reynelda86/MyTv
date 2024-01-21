@@ -312,6 +312,9 @@ http://103.120.172.74:1140
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="Indian" tvg-id="" tvg-name="", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Indian" tvg-id="AstroVaanavil" tvg-name="AstroVaanavil", Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
