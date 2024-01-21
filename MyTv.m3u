@@ -3259,7 +3259,7 @@ https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Indonesia" tvg-id="SCTV.id" tvg-name="SCTV.id", SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://mantul.biz.id:443/ekos/748382/32.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/45099.ts
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
