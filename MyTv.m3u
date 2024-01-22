@@ -1146,8 +1146,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="beINSports2" tvg-name="beINSports2", beIN Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
