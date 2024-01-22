@@ -1242,7 +1242,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mp
 https://mediaprima.rastream.com/mediaprima-hotfm.android
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" tvg-id="INDIA" tvg-name="INDIA", INDIA BEAT
-http://astro4.rastream.com/india?type=.flv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="Radio" tvg-id="JAZZ" tvg-name="JAZZ", JAZZ
 http://astro4.rastream.com/jazz?type=.flv
