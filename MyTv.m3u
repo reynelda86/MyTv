@@ -1229,7 +1229,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mp
 https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="Radio" tvg-id="GOLD" tvg-name="GOLD", GOLD
-http://astro4.rastream.com/gold?type=.flv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cVyEAdeCnJp8XWZZIsoT9g", "kid":"j5Ls30zRrFW8jHiPoZWGEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ" tvg-name="HITZ", HITZ FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
