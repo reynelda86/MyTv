@@ -1221,7 +1221,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default_primary.mp
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio" tvg-id="ERA" tvg-name="ERA", ERA FM
-http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/era-fm-sabah.jpg" group-title="Radio" tvg-id="CHN" tvg-name="CHN", ERA SABAH
 http://astro2.rastream.com/amp-era-kk
