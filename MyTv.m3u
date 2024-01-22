@@ -1165,7 +1165,9 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Mani
 https://cdn.retosprime.com/ayna.php?id=114&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2
-https://is.gd/lKh5lQ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.webhd.ru/lb/premium45/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports" tvg-id="Eurosport" tvg-name="Eurosport", Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
