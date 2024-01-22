@@ -1234,13 +1234,9 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ" tvg-name="HITZ", HITZ FM
-http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
-
-#EXTINF:-1 tvg-logo="https://radiomalaysia.net/radio/thumbs/18193hitz-fm-sabah.jpg" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HITZ SABAH
-http://astro1.rastream.com/amp-hitz-kk
-
-#EXTINF:-1 tvg-logo="https://radiomalaysia.net/radio/fb/70458hitz-fm-sarawak.jpg" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HITZ SARAWAK
-http://astro1.rastream.com/amp-hitz-kch
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HOT FM
 https://mediaprima.rastream.com/mediaprima-hotfm.android
