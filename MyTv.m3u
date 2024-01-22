@@ -1259,7 +1259,9 @@ https://usa3.fastcast4u.com/proxy/jeifm?mp=/stream/1/
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="Radio" tvg-id="KENYALANG" tvg-name="KENYALANG", KENYALANG
-https://astro4.rastream.com/kenyalang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://assets.koolfm.com.my/2020/04/logo_koolfm_500x500.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", KOOL FM
 https://mediaprima.rastream.com/mediaprima-koolfm
@@ -1271,16 +1273,17 @@ http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="Radio" tvg-id="MELODY" tvg-name="MELODY", MELODY FM
-http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="Radio" tvg-id="MINNALFM" tvg-name="MINNALFM", MINNAL FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="Radio" tvg-id="MIX" tvg-name="MIX", MIX FM
-http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio" tvg-id="MY" tvg-name="MY", MY FM
-http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://vectorise.net/vectorworks/logos/Radio%20&%20TV/download/Logo%20Radio%20-%20Nasional%20FM.png" group-title="Radio" tvg-id="NASFM" tvg-name="NASFM", NAS FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
@@ -1289,13 +1292,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="Radio" tvg-id="OPUS" tvg-name="OPUS", OPUS
-http://astro4.rastream.com/opus?type=.flv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sLl8yh+eMRoJ0zJlyFog6A", "kid":"oU+aFEUKlgMrEG1O6BgTEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="Radio" tvg-id="OSAI" tvg-name="OSAI", OSAI
-http://astro4.rastream.com/osai?type=.flv
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157939g.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", PERAK FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC.aac
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y4svIZDNhLYuaHb8xr8kvw", "kid":"CC5RY5jF6hXWuc2lciR8EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uzffezhcg5xq.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", PERLIS FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC.aac
@@ -1313,16 +1317,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio" tvg-id="SINAR" tvg-name="SINAR", SINAR FM
-http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/terengganu-fm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", TERENGGANU FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio" tvg-id="GEGAR" tvg-name="GEGAR", THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio" tvg-id="RAAGA" tvg-name="RAAGA", THR RAAGA
-http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="Radio" tvg-id="TRAXXFM" tvg-name="TRAXXFM", TRAXX FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.aac
