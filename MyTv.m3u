@@ -1201,7 +1201,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio" tvg-id="AIFM" tvg-name="AIFM", AI FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 
@@ -1212,7 +1211,9 @@ http://amboifm.iradio.work:8000/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio" tvg-id="BAYU" tvg-name="BAYU", BAYU
-https://astro4.rastream.com/bayu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio" tvg-id="ROCK" tvg-name="ROCK", CLASSIC ROCK
 http://astro4.rastream.com/rock?type=.flv
