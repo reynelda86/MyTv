@@ -3547,32 +3547,14 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Entertainment" tvg-id="" tvg-name="", Live Music Replay
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg" group-title="VOD English" tvg-id="" tvg-name="", Night At The Museum : Secret Of The Tomb 2014 No Sub 
-https://is.gd/PPTXld
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/feIyyWrKTN1FWc3sIz2auHe3AFm.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Never Back Down 2: The Beatdown  (2011) No Sub 
-https://is.gd/k7jl5S
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/4G2FPMqqyh98Vq97VoKBLkhRZ6Z.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Never Back Down (2008) No Sub 
-https://is.gd/TBJZ9s
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/aYZqOjtouDag7EGjRigdr3YEoKC.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Nemesis (2021) No Sub
-https://is.gd/WtwogL
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/icAG01wZyy1ZpS3UEnPReph3jMV.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Never Back Down: Revolt (2021) No Sub
-https://is.gd/tDtTt1
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/5LptNm4xAqcfaJwDiTLksf65JVJ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Never Back Down: No Surrender (2016) No Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/214120.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg" group-title="VOD English" tvg-id="" tvg-name="", Night At The Museum : Secret Of The Tomb 2014 Select Sub
+https://bit.ly/3u7Ia6o
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/7h2ndK3XyaeZJ02HKW1EbcooaaH.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Night of the Sicario (2021) Select Sub
 https://is.gd/t6JAhM
 
 #EXTINF:-1 tvg-logo="http://wayforward.xyz:25461/images/ad47a66aa98d227710cadaeb5739ae1f.jpg" group-title="VOD English" tvg-id="" tvg-name="", Nirvana: Unplugged In New York (1993) Select Sub 
 https://is.gd/9NbOHJ
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/dKL5hZlN8nDrLbYGu8lTRDkG4Id.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Nest of Vampires (2021) No Sub
-https://is.gd/VP7XLA
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/eQdtVLcwloJ1oqVSdfxazZBYHtX.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Ninja Assassin (2009) No Sub 
 http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/5604.mkv
@@ -3592,8 +3574,8 @@ https://is.gd/R9AsT6
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/yP0mfM0MafLVMD36kgbvZpr9gbz.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", No Escape Room (2018) No Sub 
 http://sansat.net:25461/movie/eVjmHSZqKqsakk9/VyPkwjxEnXvOwgA/150336.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg" group-title="VOD English" tvg-id="" tvg-name="", Night At The Museum 2006 No Sub
-https://is.gd/jt0900
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg" group-title="VOD English" tvg-id="" tvg-name="", Night At The Museum 2006 Select Sub
+https://bit.ly/496Pa2a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZvDbKfJiIFfMpy3w86ceZfJiT-85xG9vrg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Now You See Me (2013)
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Now%20You%20See%20Me.mp4
@@ -3869,9 +3851,6 @@ https://www.googleapis.com/drive/v3/files/1no006Kw4vHpFQ3VzE9cUvJore0bmtira?alt=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9uilfA0POJF63eRspiratBn3Ml8gsovafg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Percy Jackson Sea of Monsters (2013)
 https://www.googleapis.com/drive/v3/files/1tdHo7Br3AfjcloUsKF0Zjbq1o98yNoCo?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17F9e10SNhc6v45AKpCGKQ2I-j3Bgau_wbw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", New Police Story (2004) No Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/5516.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hbl7y322mvqz5EVUnhLlXVvEqq7T2ZZAg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Predator 2 (1990) No Sub 
 http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/6846.mp4
