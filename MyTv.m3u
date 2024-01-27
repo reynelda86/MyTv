@@ -3563,13 +3563,6 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" group-title="English" tvg-id="" tvg-name="", My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ep0JodciRWNWHDQ2ODITEdegqUh.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China (1991)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20(1991).mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/32lMbbcr7I9ayirXq8HKTMlWZDj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China II (1992)
-https://is.gd/s7yHTJ
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Kids" tvg-id="" tvg-name="", Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -3939,9 +3932,6 @@ https://bit.ly/48UwPWA
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7WSPc5O2Gt50LptPWVVBgixGRis.jpg" group-title="VOD English" tvg-id="" tvg-name="", Nanny Mcphee (2005)
 https://www.googleapis.com/drive/v3/files/1MYWVKPyF_7j4cXKXe-1PoP8FZ61FhS8X?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJiYTQ4NjctOGEzYy00YWQ1LTkyNDEtNWQ0NTlhZjA2MGU3XkEyXkFqcGdeQXVyNzM3NDU4Njk@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China III (1992)
-https://is.gd/MURp25
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/4xxQq3mHTuPRnEBIqkVDWldq0Sk.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon A Time In China IV (1993)
 https://www.googleapis.com/drive/v3/files/1v6ecHrfti_ROtEiMEtnz9TbLhR8IfMpu?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -4209,9 +4199,6 @@ https://bit.ly/3SvicmO
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ouija: Origin of Evil (2016) No Sub 
 https://is.gd/i284Bc
 
-#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/gKnx04MxnKcf5uOdhHhAAkqcCg.jpg" group-title="VOD English" tvg-id="" tvg-name="", Olympus Has Fallen (2013) No Sub 
-https://is.gd/COMtuw
-
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/5FoczK6tDFzC9OyHiMMNIeNspek.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rings (2017) No Sub 
 http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/6991.mkv
 
@@ -4281,26 +4268,11 @@ https://www.googleapis.com/drive/v3/files/1EN5RE8L_f8hvPVZsoY3WsVGRh34WVK24?alt=
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NjQzNjg2Nl5BMl5BanBnXkFtZTcwNzc3NzA0Mg@@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Orphan (2009) No Sub 
 https://is.gd/Wm2I3T
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Olafs Frozen Adventure (2017) Select Sub 
-http://sansat.net:25461/movie/eVjmHSZqKqsakk9/VyPkwjxEnXvOwgA/127614.mkv
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/9pIvQaQV0sMHx7d3Ys9qTK9YqTZ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", One Missed Call (2008) No Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/5797.mkv
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/5rr7tQfzS0ARqEea3W9SNSFGRzb.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Once Upon A Time In Venice (2017) Select Sub 
-https://is.gd/i343Ln
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/hBDHr3YihnuL46aeyEMhTchXkZP.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in America (1984) Select Sub 
-https://is.gd/uU5Gow
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/vclShucpUmPhdAOmKgf3B3Z4POD.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Old (2021) 
 https://www.googleapis.com/drive/v3/files/1GxlZKEAIITp3BfoJzWQQaQ063xIzC9Qa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Okja (2017) Select Sub 
 https://bit.ly/3SyNd9n
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/8q0XUs50t12CP9Movhb5SkzBPpI.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in London (2019) No Sub 
-https://is.gd/QaUuBm
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/xwqe0tdimorg7Y2dlSPfhFHRKFa.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China II (1992) No Sub
 https://is.gd/Sjjz3u
@@ -4310,9 +4282,6 @@ https://is.gd/2BmvyT
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/6oBrdOS9E1WNPaRKcRDxx7F2df1.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in China (1991)
 https://is.gd/uWCNvx
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/uxq7wbrXe5HEMslewidFMDMA2Bo.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in Mexico (2003) No Sub 
-https://is.gd/IpVPSh
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/iwb54L5lrv4t476jxWLcjt9Ply4.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Ong Bak :The Thai Warrior (2003) Select Sub 
 https://is.gd/tKzQgL
