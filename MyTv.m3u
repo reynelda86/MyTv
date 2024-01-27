@@ -1305,9 +1305,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMA
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="Radio" tvg-id="TRAXXFM" tvg-name="TRAXXFM", TRAXX FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="http://dtv21.org:2082/images/movies/w8CGob5vk8mAJqR2j5FAMDuruWB.jpg" group-title="VOD English" tvg-id="" tvg-name="", RAGE (2021) No Sub
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/7074.mp4
-
 #EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/nj5HmHRZsrYQEYYXyAusFv35erP.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", The Kings Man (2021) No Sub 
 https://is.gd/RsAW5k
 
@@ -1680,11 +1677,8 @@ https://is.gd/y9AaHg
 #EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", The Outsider (2018) No Sub 
 https://is.gd/z4J44d
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/zoKcwyQk8VyWeMsaf8mgHzzWERZ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Race to Witch Mountain (2009) No Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/6853.mkv
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/fQ7CI5zmmhZlHuYBFKgK9w4hwlS.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", R.I.P.D. (2013) No Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/22669.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/zoKcwyQk8VyWeMsaf8mgHzzWERZ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Race to Witch Mountain (2009) Select Sub 
+https://bit.ly/3UhHw0K
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Real Steel (2011) Select Sub 
 http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/7017.mkv
@@ -3498,9 +3492,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Entertainment" tvg-id="PlutoTVVEVORB.us" tvg-name="PlutoTVVEVORB.us", Pluto TV VEVO R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo III (1988) No Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/222480.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo III (1988) Select Sub 
+https://bit.ly/3UhvuEO
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rambo Last Blood (2019) No Sub 
 http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/7090.mkv
@@ -3711,7 +3704,7 @@ https://www.googleapis.com/drive/v3/files/1no006Kw4vHpFQ3VzE9cUvJore0bmtira?alt=
 https://bit.ly/3Hyjc3i
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDY4AeRvpYXCL9IrhXJ-P8ffxBtMckk7IGyQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rambo First Blood Part II (1985) Select Sub 
-http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/214200.mkv
+https://bit.ly/497Sv11
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-La6L-MXfjNGbtftqGeMUWCZVbsPTOEKOsg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin (2012)
 https://www.googleapis.com/drive/v3/files/1KBGWb9Vf8qMfG8K_ABQL6UiYKT0JbxIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
