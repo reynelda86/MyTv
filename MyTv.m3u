@@ -445,9 +445,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="Chinese" tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan", Nhk World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
-http://startv365.com:80//live/D85A79B4/55A7743D/191980.ts
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="AstroAOD354" tvg-name="AstroAOD354", Astro AOD 354
 http://startv365.com:80//live/D85A79B4/55A7743D/29650.ts
 
