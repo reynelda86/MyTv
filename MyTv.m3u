@@ -455,7 +455,9 @@ http://startv365.com:80//live/D85A79B4/55A7743D/191974.ts
 http://startv365.com:80//live/D85A79B4/55A7743D/29650.ts
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Chinese" tvg-id="AstroAOD352" tvg-name="AstroAOD352", Astro AOD 352
-http://startv365.com:80//live/D85A79B4/55A7743D/191848.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0c1f00f14777b3daf4a912c4310f110:e1db5e07a2bfe0fbf94ce56b5e139f48
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default.mpd
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="Chinese" tvg-id="AstroAODHD" tvg-name="AstroAODHD", Astro AOD HD 311
 http://startv365.com:80//live/D85A79B4/55A7743D/191847.ts
