@@ -64,9 +64,6 @@ http://startv365.com:80//live/D85A79B4/55A7743D/400200335.ts
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0 
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malay" tvg-id="" tvg-name="", Astro Sensasi
-http://startv365.com:80//live/D85A79B4/55A7743D/13490.ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
