@@ -385,7 +385,7 @@ http://startv365.com:80//live/D85A79B4/55A7743D/191860.ts
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5128
+#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png" group-title="Malay" tvg-id="AstroPremier" tvg-name="AstroPremier", Astro Premier
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
