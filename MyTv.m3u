@@ -207,7 +207,7 @@ http://50.7.137.106:8080/FOX/index.m3u8?token=test
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/64355.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnoSd1JgLzO-Qc-83SD6H_5XajgG599iKMw&usqp=CAU" group-title="English" tvg-id="zeecafe.in" tvg-name="zeecafe.in", Zee Cafe
-https://mhdtv.co.in/jio/stream.php?id=1319&e=.m3u8|Referer=https://mhdtv.co.in/
+http://185.235.165.5:80/live/Alex2023/Alex2023/282644.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", AMC Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
