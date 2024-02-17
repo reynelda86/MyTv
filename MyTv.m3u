@@ -278,8 +278,7 @@ http://185.235.165.5:80/live/Alex2023/Alex2023/79461.ts
 http://185.235.165.5:80/live/Alex2023/Alex2023/79466.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhKfHaUnhpFJYbjpIt1g7pfgKo6l_M8ldSQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Encore Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29464.ts
+http://185.235.165.5:80/live/Alex2023/Alex2023/45489.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="starzencore.us" tvg-name="starzencore.us", Starz Encore Black
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
