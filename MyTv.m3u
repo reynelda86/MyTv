@@ -3369,9 +3369,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e0007
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 1
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 2
-https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JCBDvZAT0j3JyCKHazDsLgHaDX&pid=Api&P=0&w=418&h=190" group-title="English" tvg-id="ShowtimeExtremeEast.us" tvg-name="ShowtimeExtremeEast.us", Showtime Extreme East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/60145.ts
