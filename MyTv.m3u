@@ -923,7 +923,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Indian" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/alqZQv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="Kids" tvg-id="Animax" tvg-name="Animax", Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
