@@ -881,7 +881,7 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://livevoot.co.in/voot/master.m3u8?id=Colors_Cineplex_Bollywood_voot_MOB
+http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="StarVijay" tvg-name="StarVijay", Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
