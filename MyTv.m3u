@@ -58,7 +58,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="AstroCitra" tvg-name="AstroCitra", Astro Citra HD
-http://startv365.com:80//live/D85A79B4/55A7743D/400200335.ts
+http://metatvpro.com:25461//live/W1808/1109/17.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM", DidikTV KPM
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0 
