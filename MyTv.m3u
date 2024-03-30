@@ -443,8 +443,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default.mpd
 http://metatvpro.com:25461//live/C783388/36785/50.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="Chinese" tvg-id="TVBSAsia" tvg-name="TVBSAsia", TVBS Asia HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
