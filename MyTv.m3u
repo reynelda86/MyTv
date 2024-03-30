@@ -363,10 +363,8 @@ http://startv365.com:80//live/D85A79B4/55A7743D/191860.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="DaVinci.de" tvg-name="DaVinci.de", Da Vinci
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png" group-title="Malay" tvg-id="AstroPremier" tvg-name="AstroPremier", Astro Premier
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+http://metatvpro.com:25461//live/C783388/36785/52.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3mucWhL" group-title="Kids" tvg-id="" tvg-name="", AniPlus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
