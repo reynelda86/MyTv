@@ -1,41 +1,30 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 type="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Agent_Carter_season_1_poster.jpg" group-title="Agent Carter (Season 1) – 2015" tvg-id="" tvg-name="", AGENT CARTER - SEASON 1 EPISODE 3 (2015)
-https://drive.usercontent.google.com/download?id=1xhgXCTfJDfS6kW1MJKyhl_lL4aMDdcsL&export=download&authuser=0&confirm=t&uuid=c79f4bfe-53b5-4256-b99a-941c93b235cc&at=APZUnTXNJwAMfKvKuW6ocbzF2wEf%3A1713680222877
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 type="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Agent_Carter_season_1_poster.jpg" group-title="Agent Carter (Season 1) – 2015" tvg-id="" tvg-name="", AGENT CARTER - SEASON 1 EPISODE 4 (2015)
-https://drive.usercontent.google.com/download?id=1L36Vs6tOxXL7WVizt_VF6O47SmhtnezU&export=download&authuser=0&confirm=t&uuid=044de14e-ddfa-4e90-8b17-75c29326794d&at=APZUnTVXBk9__jx_tWjgG2oxw-KM%3A1713680297870
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
-#EXTINF:-1 type="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Agent_Carter_season_1_poster.jpg" group-title="Agent Carter (Season 1) – 2015" tvg-id="" tvg-name="", AGENT CARTER - SEASON 1 EPISODE 5 (2015)
-https://drive.usercontent.google.com/download?id=12G05JQiXvAN-6lnLufv_UUHIHosXrKs2&export=download&authuser=0&confirm=t&uuid=818eeeeb-5d4e-4ad5-96b7-8f3acbeef680&at=APZUnTWGfhsJ-mlXyadgp-utX7yf%3A1713680505434
+#EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 3
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 type="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Agent_Carter_season_1_poster.jpg" group-title="Agent Carter (Season 1) – 2015" tvg-id="" tvg-name="", AGENT CARTER - SEASON 1 EPISODE 6 (2015)
-https://drive.usercontent.google.com/download?id=1F0p_yqNBny3oZC8kUD9BCWx6NIF0UT7Y&export=download&authuser=0&confirm=t&uuid=a24babc2-b611-4c81-8931-5022609e07f2&at=APZUnTVE-lWCIN76db3TXdBeWugf%3A1713680572957
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 1 (2016)
-https://drive.usercontent.google.com/download?id=1MxbYq6F1HR3OauBeU_Zx07kIMMQUPt2B&export=download&authuser=0&confirm=t&uuid=3f64a004-19bd-408d-90d1-baa64c8881da&at=APZUnTWK-Iu09U1Z0XAsnA2afz2m%3A1713680928218
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 2 (2016)
-https://drive.usercontent.google.com/download?id=1DwRyo2h9BmzkM_Xr5ndIeFUHWw9kMkaB&export=download&authuser=0&confirm=t&uuid=0b62df33-3cd6-42e1-b7d7-208414f77435&at=APZUnTWAHAHo-A-qP_sMafX0hWjx%3A1713680992960
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 4 (2016)
-https://drive.usercontent.google.com/download?id=1eenwS8oJ4kmy8WleheoLgraaEP1T5yEx&export=download&authuser=0&confirm=t&uuid=22c528f7-d084-4a69-b830-c1e852b6812f&at=APZUnTVxU1xHNDPy-uMTeWZIQSEv%3A1713681133617
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 5 (2016)
-https://drive.usercontent.google.com/download?id=1kfhta6q-rMrl3ex4EylcOu9x-go09447&export=download&authuser=0&confirm=t&uuid=e402ed48-c40a-4c82-9cb7-d4bd40603790&at=APZUnTUVV9mYQ2yvNBL885GHBaZA%3A1713681195775
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 6 (2016)
-https://drive.usercontent.google.com/download?id=1FcL9M40rD8913fPK9_CH_dsEt7jdXB05&export=download&authuser=0&confirm=t&uuid=db5cfc76-7eea-49b8-aeca-cadcd1ff3efd&at=APZUnTXtbEbPyVyhrN2vCepy8KVq%3A1713681250086
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 7 (2016)
-https://drive.usercontent.google.com/download?id=1GWz7JZKdZN_PP_iEBbsOvVmOBSFzJAhm&export=download&authuser=0&confirm=t&uuid=ec860e63-b13a-46d6-96f9-c83f2afe3618&at=APZUnTXp8d13yptDSx7Ru-dvYZcw%3A1713681309847
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 8 (2016)
-https://drive.usercontent.google.com/download?id=1M1aYlV4PAx6yglTpbdNZDfnB_nF8CWNB&export=download&authuser=0&confirm=t&uuid=0102ffbe-1d82-48f9-b42f-d042b1f0563c&at=APZUnTWnIPJip5aajX3ie2OEM4BR%3A1713681374457
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 9 (2016)
-https://drive.usercontent.google.com/download?id=1uXBVKvb7bdBCGTHcs837KkCdHxZ-nDsV&export=download&authuser=0&confirm=t&uuid=51277d56-edd7-4cd1-94fe-8a307f8ee148&at=APZUnTVhczB-SKZnnkNDGimh3xwk%3A1713681434579
-
-#EXTINF:-1 type="Series" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0b/Agent-Carter-Season-2-Declassified.jpg/revision/latest?cb=20170315081459" group-title="Agent Carter (Season 2) – 2016" tvg-id="" tvg-name="", AGENT CARTER – SEASON 2 EPISODE 10 (2016)
-https://drive.usercontent.google.com/download?id=1rDsLFm4qYROFYx3hrnk3XlhkIIFHwdn_&export=download&authuser=0&confirm=t&uuid=786fedba-588b-4830-9dcb-e3403e938d12&at=APZUnTUtF4a8HQw6UxwysmjzcMb6%3A1713681493004
+#EXTINF:0 tvg-name="TV3" tvg-ID="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
