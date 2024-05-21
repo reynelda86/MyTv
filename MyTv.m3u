@@ -2510,9 +2510,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Chinese" tvg-id="CelestialMovies" tvg-name="CelestialMovies", Celestial Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default.mpd
+http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/1718.ts
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/b4u_movies_in.png" group-title="Indian" tvg-id="B4UMoviesIndia.in" tvg-name="B4UMoviesIndia.in", B4U Movies India
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
