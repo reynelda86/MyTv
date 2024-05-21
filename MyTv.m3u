@@ -2906,7 +2906,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="Chinese" tvg-id="PhoenixChineseChannel" tvg-name="PhoenixChineseChannel", Phoenix Chinese Channel HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/71088.ts
+http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71088.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
