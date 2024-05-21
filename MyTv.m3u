@@ -740,7 +740,7 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/60367.ts
 http://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" group-title="News" tvg-id="NHKWorldPremium" tvg-name="NHKWorldPremium", NHK World HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="SkyNews" tvg-name="SkyNews", Sky News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
