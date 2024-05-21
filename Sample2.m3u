@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",CCM
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://dreamsmart.me:8080/live/1/0/306423.m3u8?mac=00:1A:79:20:34:1F
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",Kplus
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1731654
+http://210.210.155.37/uq2663/h/h08/01.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0711654
+http://210.210.155.37/uq2663/h/h08/02.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1731654
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0711654
+http://210.210.155.35/uq2663/h/h08/02.m3u8?fluxustv.m3u8
