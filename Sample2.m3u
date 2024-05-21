@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",Kplus
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1731654
-http://210.210.155.37/uq2663/h/h08/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0711654
-http://210.210.155.37/uq2663/h/h08/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1731654
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0711654
-http://210.210.155.35/uq2663/h/h08/02.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",tv3
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=547749&extension=m3u8
