@@ -406,11 +406,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="Chinese" tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan", Nhk World
 http://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="AstroAOD354" tvg-name="AstroAOD354", Astro AOD 354
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=691916164be2b1ae6c852f1990d1fe10:38a68c749898114cf0629d77e246a888
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC" tvg-name="AstroAEC", Astro Aec HD
 http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/1723.ts
 
