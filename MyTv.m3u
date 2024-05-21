@@ -756,9 +756,7 @@ https://is.gd/SxQd2h
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Chinese" tvg-id="TVBJade" tvg-name="TVBJade", TVB Jade
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71040.ts
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Chinese" tvg-id="Ch U" tvg-name="Ch U", Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
