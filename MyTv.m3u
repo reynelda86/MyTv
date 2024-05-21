@@ -121,9 +121,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malay" tvg-id="TVS" tvg-name="TVS", TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71148.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
