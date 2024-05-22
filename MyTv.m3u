@@ -319,9 +319,10 @@ http://opplextv.cyou:8080//live/7262771/7272772/66191.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura" tvg-name="AstroAura", Astro Aura HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71025.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
