@@ -3348,8 +3348,10 @@ https://dl.dropbox.com/s/6o3dyszxv5gqq9n/The.Last.Days.of.American.Crime.2020.%2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Sonic the Hedgehog (2020)
 https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="TVAlhijrah" tvg-name="TVAlhijrah", Al-Hijrah
-http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71024.ts
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RlMjcyMGQtZTU3OC00NGRlLWExMGEtYjU3ZjUyMDc0NWZmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Foreigner (2017)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959736
