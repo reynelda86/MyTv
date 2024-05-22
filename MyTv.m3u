@@ -433,6 +433,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zO6tHeBi439uHF1USGJuwnM3rmhusjG75g&usqp=CAU" group-title="Chinese" tvg-id="TVBClassic" tvg-name="TVBClassic", TVB Classic HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="Chinese" tvg-id="CCTV4" tvg-name="CCTV4", CCTV4 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
