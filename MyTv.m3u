@@ -416,10 +416,10 @@ http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71042.ts
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="TVBXingHe" tvg-name="TVBXingHe", TVB Xing He HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Chinese" tvg-id="TVBXingHe" tvg-name="TVBXingHe", TVB Xing He HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
