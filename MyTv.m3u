@@ -810,10 +810,12 @@ http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71053.ts
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Chinese" tvg-id="tvN" tvg-name="tvN", tvN HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="Chinese" tvg-id="tvNMovies" tvg-name="tvNMovies", tvN Movies HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="Entertainment" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
