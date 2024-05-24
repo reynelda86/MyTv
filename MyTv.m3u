@@ -567,7 +567,7 @@ http://opplextv.cyou:8080//live/7262771/7272772/346580.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="AXN" tvg-name="AXN", AXN HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English" tvg-id="411" tvg-name="411", CinemaWorld HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
