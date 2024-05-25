@@ -607,7 +607,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="HITSMovies" tvg-name="HITSMovies", Hits Movies HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:0 tvg-id="703" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="English",Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
