@@ -160,10 +160,6 @@ http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="English" tvg-id="" tvg-name="", Colors Infinity HD
 http://mixbix.xyz:8080//live/987987654251/987456321451/236900.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="English" tvg-id="" tvg-name="", OSN Movie Action HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://opplex.tv:8080//live/zaheeruddenbabar/6592047/354970.ts
-
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/MBCGROUP/MBCMAX.png" group-title="English" tvg-id="mbcmax.ae" tvg-name="mbcmax.ae", MBC Max
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/15879.ts
