@@ -2645,7 +2645,7 @@ http://startv365.com:80//live/D85A79B4/55A7743D/176819.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="English" tvg-id="Showcase" tvg-name="Showcase", SHOWCASE
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvrqY9bQr8JTZ0IB-dna-w-dGtDaWDrNwSw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Insidious (2010)
 https://www.googleapis.com/drive/v3/files/10yLrHW5tiL2IHgVS2nirWo_rIz2mlXOS?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
