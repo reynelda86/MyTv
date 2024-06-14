@@ -803,7 +803,7 @@ http://103.120.172.74:1150
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="Indian" tvg-id="" tvg-name="", Sony Max 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://opplextv.cyou:8080//live/7262771/7272772/66189.ts
+http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/55264.ts
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="Indian" tvg-id="333" tvg-name="333", Colors Cineplex
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
