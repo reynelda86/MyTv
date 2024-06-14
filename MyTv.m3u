@@ -835,10 +835,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://smart.runtop.xyz:8080//live/Fercarmina/TDUnEGG4dUyQ/852073.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="Indian" tvg-id="ZeeCinema" tvg-name="ZeeCinema", Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="Indian" tvg-id="ZeeCinema" tvg-name="ZeeCinema", Zee Cinema
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Indian" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
