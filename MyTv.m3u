@@ -2431,10 +2431,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="SonySABTVIndia.in" tvg-name="SonySABTVIndia.in", Sony SAB TV India
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/55290.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="SunMusic" tvg-name="SunMusic", Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="Indian" tvg-id="SunMusic" tvg-name="SunMusic", Sun Music HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn (2003)
 https://www.googleapis.com/drive/v3/files/1oVn2NUVahUBg5-D-yveBFy9_xsb-BFLd?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
