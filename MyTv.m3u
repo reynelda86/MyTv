@@ -933,9 +933,8 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/71120.ts
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="DiscoveryChannel" tvg-name="DiscoveryChannel", Discovery Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/eepunx/cancan/main/discoid
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="News" tvg-id="DW" tvg-name="DW", DW English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
