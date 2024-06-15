@@ -2629,12 +2629,6 @@ https://bit.ly/3vMxvyl
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/oGoPWxz4v8HT8ydr2VdAa1OVohS.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Jab Tak Hai Jaan (2012)
 https://bit.ly/48bnTuL
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://imgur.com/b83MXKz.png" group-title="Lifestyle & Documentary" tvg-id="LifestyleandFashion.id" tvg-name="LifestyleandFashion.id", Lifestyle & Fashion
-http://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpV1eAKFr7wPracnhcqROnUqzG-pWL5B_1wg&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion TV Film
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
