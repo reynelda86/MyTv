@@ -941,10 +941,10 @@ https://raw.githubusercontent.com/eepunx/cancan/main/discoid
 #KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="FoodNetwork" tvg-name="FoodNetwork", Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="FoodNetwork" tvg-name="FoodNetwork", Food Network HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="HGTV" tvg-name="HGTV", HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
