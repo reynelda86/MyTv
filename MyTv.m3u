@@ -87,12 +87,6 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/60449.ts
 http://vipkely.xyz:8080//live/pauls/pauls/34326.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Indonesia" tvg-id="RTV.id" tvg-name="RTV.id", RTV Indonesia
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Indonesia" tvg-id="Trans7.id" tvg-name="Trans7.id", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
