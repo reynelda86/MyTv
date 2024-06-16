@@ -62,11 +62,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM", DidikTV KPM
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
-http://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
