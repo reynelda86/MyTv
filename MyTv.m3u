@@ -318,12 +318,6 @@ http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28897.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/55274.ts
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" group-title="Indonesia" tvg-id="MuslimTV.id" tvg-name="MuslimTV.id", Muslim TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="English" tvg-id="" tvg-name="", Rakuten Action Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
