@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="TV_Indonesia" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Dens)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dens/indosiar.m3u8
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NASIONAL",INDOSIAR  (IndihomeTv)
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
