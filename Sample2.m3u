@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NASIONAL",INDOSIAR  (IndihomeTv)
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NASIONAL",AniPlus
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Aniplus.m3u8
