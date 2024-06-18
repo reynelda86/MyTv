@@ -655,7 +655,7 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="" tvg-name="", TRT World
-https://is.gd/SxQd2h
+http://extraott.com:80//live/7921751389/6097373662/400230289.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Chinese" tvg-id="8TV" tvg-name="8TV", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
