@@ -580,9 +580,7 @@ https://tgaadi-web.tech/trex.php?tv=155729
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="News" tvg-id="BBCNews" tvg-name="BBCNews", BBC News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
+http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2946.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
