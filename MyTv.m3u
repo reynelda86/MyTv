@@ -637,7 +637,8 @@ https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" group-title="News" tvg-id="France24" tvg-name="France24", France24
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/60367.ts
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
