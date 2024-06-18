@@ -792,10 +792,10 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="Kids" tvg-id="KidsTV.id" tvg-name="KidsTV.id", Kids TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids" tvg-id="MoonbugKids" tvg-name="MoonbugKids", Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids" tvg-id="619" tvg-name="619", Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
