@@ -958,9 +958,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports" tvg-id="823" tvg-name="823", RugbyPass TV HD
-http://startv365.com:80//live/D85A79B4/55A7743D/191868.ts
-
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="TVSUKAN" tvg-name="TVSUKAN", SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
