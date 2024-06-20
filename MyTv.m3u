@@ -294,6 +294,22 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2897.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://extraott.com:80//live/7921751389/6097373662/181109.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PW6Myl.jpeg" group-title="Entertainment" tvg-id="" tvg-name="", Now 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mP4G7f/now80.png" group-title="Entertainment" tvg-id="" tvg-name="", Now 80
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQmJ3rw/nowrock.png" group-title="Entertainment" tvg-id="" tvg-name="", Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHzfd4V/nagapop.png" group-title="Entertainment" tvg-id="" tvg-name="", Pop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/surautv.png" group-title="Islam" tvg-id="surautv.id" tvg-name="surautv.id", Surau TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6a9be37123e36e726eb8d071f434654a.png" group-title="Entertainment" tvg-id="" tvg-name="", MTV Classic
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/28897.ts
