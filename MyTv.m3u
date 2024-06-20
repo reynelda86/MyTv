@@ -119,6 +119,12 @@ http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71148.ts
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="English" tvg-id="ROCKAction" tvg-name="ROCKAction", ROCK Action
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&s" group-title="English" tvg-id="" tvg-name="", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIEXj12rCp6vUJQntcGcEq6fNyJpEHjq-mQ&s" group-title="English" tvg-id="" tvg-name="", Bounty
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="" tvg-name="", MNX
 http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
 
