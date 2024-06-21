@@ -870,6 +870,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Lifestyle & Documentary" tvg-id="AnimalPlanet" tvg-name="AnimalPlanet", Animal Planet HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Lifestyle & Documentary" tvg-id="551.astro" tvg-name="551.astro", Global Treker
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Design Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=616&deviceId=5f4ff8c8bcf3d600078af3eb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
