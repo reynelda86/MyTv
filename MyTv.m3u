@@ -119,6 +119,9 @@ http://vo01.mohdtv.com:8880//live/smarttv585cde0071c7/89855117/71148.ts
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="English" tvg-id="ROCKAction" tvg-name="ROCKAction", ROCK Action
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnrbG8jn6TVtle2tUhPBgJW8_S7DiY3xxKQ&s" group-title="English" tvg-id="ParamountMovieChannel.us" tvg-name="ParamountMovieChannel.us", Paramount Movie Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/65259a19-a034-4dca-bc49-ed7cf47f756d.jpeg" group-title="English" tvg-id="RakutenTVComedyMovies.uk" tvg-name="RakutenTVComedyMovies.uk", Rakuten Comedy Movies
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
