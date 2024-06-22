@@ -752,7 +752,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 http://extraott.com:80//live/7921751389/6097373662/39732.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" group-title="News" tvg-id="NHKWorldPremium" tvg-name="NHKWorldPremium", NHK World HD
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/nhkworld/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="SkyNews" tvg-name="SkyNews", Sky News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
