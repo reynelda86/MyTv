@@ -1,8 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://skygo-tk.stackstaging.com/dash/key/result.php?keyid=168275b1fa5f769d4342d56231dddf10&amp;key=fad92039dae5171e887099b379ae6940
+#EXTINF:-1 tvg-id=""xx"" tvg-name=""Korban Penunggu Hospital"" type="""" group-title=""VOD"" tvg-logo=""https://iili.io/GSbnWb.jpg"",Korban Penunggu Hospital
+https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/0068368d-4fa5-5c62-97db-2803903e81df/default_ott.mpd
