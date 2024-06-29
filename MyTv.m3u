@@ -603,9 +603,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="HITS" tvg-name="HITS", HITS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+http://filex.tv:8080//live/maazqamar/002450/303517.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
