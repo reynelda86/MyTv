@@ -79,9 +79,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-title="Indonesia" tvg-id="IMC" tvg-name="IMC", IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-title="English" tvg-id="ts210" tvg-name="ts210", MN+
-https://tgaadi-web.tech/jiotv.php?tv=1480
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Malay" tvg-id="141.unifi" tvg-name="141.unifi", Pesona
