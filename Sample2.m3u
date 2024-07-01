@@ -1,5 +1,11 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://skygo-tk.stackstaging.com/dash/key/result.php?keyid=168275b1fa5f769d4342d56231dddf10&amp;key=fad92039dae5171e887099b379ae6940
-#EXTINF:-1 tvg-id=""xx"" tvg-name=""Korban Penunggu Hospital"" type="""" group-title=""VOD"" tvg-logo=""https://iili.io/GSbnWb.jpg"",Korban Penunggu Hospital
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/0068368d-4fa5-5c62-97db-2803903e81df/default_ott.mpd
+#EXTINF:0 tvg-id="ts267" group-title="Movies", And Pictures HD
+http://119.156.26.155:8000/play/a07e
+
+#EXTINF:0 tvg-id="ts267" group-title="Movies", And Pictures HD 2
+#EXTVLCOPT:network-caching=1000
+https://github.com/jack78692/ch/raw/master/andpic.m3u8
+
+#EXTINF:0 tvg-id="ts267" group-title="Movies", And Pictures HD 3
+#EXTVLCOPT:network-caching=1000
+http://45.158.254.15:80/play/live.php?mac=00:1a:79:1d:13:13&stream=155997&extension=ts&play_token=BJ8BlxmJQe
