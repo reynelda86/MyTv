@@ -942,10 +942,8 @@ https://raw.githubusercontent.com/eepunx/cancan/main/discoid
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="News" tvg-id="DW" tvg-name="DW", DW English
 http://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="FoodNetwork" tvg-name="FoodNetwork", Food Network HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
