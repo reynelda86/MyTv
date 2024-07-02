@@ -60,10 +60,8 @@ https://linears-playback.astro.com.my/vsg/418ch3s-mCLbKehZa_hqmvPt3QFsBKGldWgRot
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Sports" tvg-id="803.astro" tvg-name="803.astro", Arena Bola
 http://extraott.com:80//live/5301246455/1849687755/23931.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5100
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports" tvg-id="804.astro" tvg-name="804.astro", Arena Bola 2
-https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6vnvbQC9jXZOJCT_V2wD2yA=ZKQr/dash-wv/jitp-linearwm/5100/default_primary.mpd
+http://extraott.com:80//live/5301246455/1849687755/23930.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
