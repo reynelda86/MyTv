@@ -57,10 +57,8 @@ http://mohdtv.com:8880/live/voby5094/82723927/1705.ts
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="Chinese" tvg-id="311.astro" tvg-name="311.astro", Astro AOD 311
 https://linears-playback.astro.com.my/vsg/418ch3s-mCLbKehZa_hqmvPt3QFsBKGldWgRot0PxfHtM=LPO6/dash-wv/jitp-linearwm/2706/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5099
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Sports" tvg-id="803.astro" tvg-name="803.astro", Arena Bola
-https://linears-playback.astro.com.my/vsg/41Sxt3DWhZdej265n7aXR92HvZuuwUdRhfNTfeQ8Xy9H0=kgv_/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+http://extraott.com:80//live/5301246455/1849687755/23931.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5100
