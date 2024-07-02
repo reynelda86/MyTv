@@ -662,10 +662,8 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/71122.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="News" tvg-id="BernamaTV" tvg-name="BernamaTV", BERNAMA
 http://vo01.mohdtv.com:8880//live/580454cbf22f/580454cbf22f12313/1717.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaBEsw1k9cN+bUXVA8uygA", "kid":"2xNDVFriXd7PjfpEIvNUEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="News" tvg-id="BloombergTV" tvg-name="BloombergTV", Bloomberg TV HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90859fb4-eb20-4022-bd6d-3413a8bf59c2&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png" group-title="News" tvg-id="CGTN" tvg-name="CGTN", CGTN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
