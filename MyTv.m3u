@@ -49,8 +49,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Malay" tvg-id="108.astro" tvg-name="108.astro", Astro Citra HD
 http://filex.tv:8080//live/maazqamar/002450/303499.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malay" tvg-id="104.astro" tvg-name="104.astro", Astro Ria HD
-http://mohdtv.com:8880/live/voby5094/82723927/1705.ts
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i73G0pA7047s4A0A3aPOioQ4=KxuG/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
