@@ -418,7 +418,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC" tvg-name="AstroAEC", Astro Aec HD
-https://linears-playback.astro.com.my/vsg/41J0U2Z_AuaDSPdCY-74gTkEpzJ4HuHtMgVihI0_T6d-M=w-o1/dash-wv/jitp-dashisowm/2400/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41J0U2Z_AuaDSPdCY-74gTkBESm4Ym0m4WC28ZHg7TaMw=_WRo/dash-wv/jitp-dashisowm/2400/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
