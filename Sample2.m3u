@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ts267" group-title="Movies", And Pictures HD
-http://119.156.26.155:8000/play/a07e
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//LEARNING//LR_DMAX.png",716 DMAX
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
-#EXTINF:0 tvg-id="ts267" group-title="Movies", And Pictures HD 2
-#EXTVLCOPT:network-caching=1000
-https://github.com/jack78692/ch/raw/master/andpic.m3u8
-
-#EXTINF:0 tvg-id="ts267" group-title="Movies", And Pictures HD 3
-#EXTVLCOPT:network-caching=1000
-http://45.158.254.15:80/play/live.php?mac=00:1a:79:1d:13:13&stream=155997&extension=ts&play_token=BJ8BlxmJQe
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//LEARNING//LR_DMAX.png",716 DMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
