@@ -52,11 +52,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Malay" tvg-id="108.astro" tvg-name="108.astro", Astro Citra HD
 http://extraott.com:80//live/5301246455/1849687755/400200335.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="Chinese" tvg-id="311.astro" tvg-name="311.astro", Astro AOD 311
-https://linears-playback.astro.com.my/vsg/418ch3s-mCLbKehZa_hqmvPjH9Y42_nCb8Peieoy-hFS0=YLZu/dash-wv/jitp-linearwm/2706/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Sports" tvg-id="803.astro" tvg-name="803.astro", Arena Bola
 http://extraott.com:80//live/5301246455/1849687755/23931.ts
 
