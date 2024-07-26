@@ -48,7 +48,7 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Malay" tvg-id="108.astro" tvg-name="108.astro", Astro Citra HD
-http://filex.tv:8080//live/maazqamar/002450/303499.ts
+http://extraott.com:80//live/5301246455/1849687755/400200335.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
