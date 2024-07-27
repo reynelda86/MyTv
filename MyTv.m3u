@@ -242,7 +242,7 @@ http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29471.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
-http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/1963.ts
+http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
