@@ -685,10 +685,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 #KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News" tvg-id="CNA" tvg-name="CNA", CNA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722204859/ei/W26mZtLfJuexlu8Pr-KiiAE/ip/172.183.36.26/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAYnPvtGMWpSnH4bVCU_9FWNLfXcsH7yVmvNF6xbtY7ALueG_8QW3Q_wHx2o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJcmaLLA2Hu2LbF-QreyrOQIMXbeAccD78wyBp8oQdXgAiBuM-TuMzfqmSi_dlFuhbprvkeH6TXKq0aMn91EOAD9EA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News" tvg-id="CNBCAsia" tvg-name="CNBCAsia", CNBC Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
