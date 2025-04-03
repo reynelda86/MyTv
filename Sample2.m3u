@@ -1,5 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="120" tvg-chno="120" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",120 DEGUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gQyaRkZaI1LZjGhFeEqzag", "kid":"CpKCvtGROFxS/j92p8OYAw" } ], "type":"temporary" }
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
