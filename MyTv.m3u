@@ -339,11 +339,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malay" tvg-id="AstroAura" tvg-name="AstroAura", Astro Aura HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1200?cb=20230119131035" group-title="Malay" tvg-id="" tvg-name="", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
