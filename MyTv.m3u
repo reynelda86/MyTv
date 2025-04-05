@@ -523,10 +523,11 @@ http://smart.runtop.xyz:8080//live/Fercarmina/TDUnEGG4dUyQ/878128.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="syfy.us" tvg-name="syfy.us", SYFY HD US
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="AXN" tvg-name="AXN", AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="English" tvg-id="AXN" tvg-name="AXN", AXN HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English" tvg-id="411" tvg-name="411", CinemaWorld HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
