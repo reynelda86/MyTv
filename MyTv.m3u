@@ -575,11 +575,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="HITS" tvg-name="HITS", HITS HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+https://line.now-ott.xyz//live/451AAD/3f41a2/1505842.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="HITSMovies" tvg-name="HITSMovies", Hits Movies HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
