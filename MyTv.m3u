@@ -3075,7 +3075,10 @@ https://drive.usercontent.google.com/download?id=1jp1ACGlojlAkvIxz2vtTXp_yeK_NES
 https://drive.usercontent.google.com/download?id=1p-XOdtC6qgP2efD9H8WHQDNQ_7TevYNL&export=download&authuser=0&confirm=t&uuid=71ce8fe9-d4af-4aec-ac2e-45b029342796&at=APZUnTWFifsirrHszv89m94BDksg%3A1720920759200
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/kix.png" group-title="English" tvg-id="KIX.id" tvg-name="KIX.id", KIX
-http://iptvtree.net:8080//live/Isidorchait/ea940f8fd1/301295.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
