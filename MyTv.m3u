@@ -85,7 +85,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 http://49.0.64.96:8007/Cinemachi
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
-http://tv.cloudcdn.me/live.ts?channelId=199&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=199&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Vevo_Thumbnail_2013.svg/revision/latest?cb=20210103132455" group-title="Entertainment" tvg-id="" tvg-name="", Vevo 2010s
 https://jmp2.uk/SamsungTVPlus/USBD120002431.m3u8
