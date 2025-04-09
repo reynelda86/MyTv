@@ -424,7 +424,7 @@ http://mytv-extra.com/live/t12mgxyb335/9832948789/187267.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+http://cord-cutter.net:8080//live/25464931/30585186/2214.ts
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
