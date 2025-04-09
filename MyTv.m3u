@@ -201,10 +201,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.VreLFgtrurjAz8rprdI1lQHaDa&pid=Api&P=0&w=382&h=177" group-title="English" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29471.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
 https://line.now-ott.xyz//live/451AAD/3f41a2/63522.ts
 
