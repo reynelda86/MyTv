@@ -233,8 +233,8 @@ http://vo01.mohdtv.com:8880//live/580454cbf22f/580454cbf22f12313/28933.ts
 http://premiumiptvmk.com:8080//live/F19236/516c41c7/1082.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesgreats.png" group-title="English" tvg-id="SkyCinemaGreats.uk" tvg-name="SkyCinemaGreats.uk", Sky Cinema Greats
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://premiumiptvmk.com:8080//live/F19236/516c41c7/1087.ts
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.newkso.ru/wind/premium674/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhKfHaUnhpFJYbjpIt1g7pfgKo6l_M8ldSQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Encore Action
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29464.ts
