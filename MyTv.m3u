@@ -259,8 +259,8 @@ https://zekonew.newkso.ru/zeko/premium793/mono.m3u8|referer=https://pkpakiplay.x
 https://windnew.newkso.ru/wind/premium680/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/skycinemahits_uk.png" group-title="English" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk", Sky Cinema Hits
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://premiumiptvmk.com:8080//live/F19236/516c41c7/1086.ts
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.newkso.ru/wind/premium673/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png" group-title="English" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
