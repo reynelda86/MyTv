@@ -229,8 +229,8 @@ https://windnew.newkso.ru/wind/premium676/mono.m3u8|referer=https://pkpakiplay.x
 https://windnew.newkso.ru/wind/premium672/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/20fb75b908f2ea40ee7f4ccee8aae92f.png" group-title="English" tvg-id="skythriller.uk" tvg-name="skythriller.uk", Sky Cinema Thriller
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://premiumiptvmk.com:8080//live/F19236/516c41c7/1082.ts
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.newkso.ru/wind/premium679/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesgreats.png" group-title="English" tvg-id="SkyCinemaGreats.uk" tvg-name="SkyCinemaGreats.uk", Sky Cinema Greats
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
