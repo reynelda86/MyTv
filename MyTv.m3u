@@ -236,10 +236,6 @@ https://windnew.newkso.ru/wind/premium679/mono.m3u8|referer=https://pkpakiplay.x
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.newkso.ru/wind/premium674/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="English" tvg-id="starzencore.us" tvg-name="starzencore.us", Starz Encore Black
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29463.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad5yP-U2GCSDztOnBiST5nyCqhnys1qYKBA&usqp=CAU" group-title="English" tvg-id="HDMoviesNow.in" tvg-name="HDMoviesNow.in", Movies Now HD
 http://tv.cloudcdn.me:80/live.ts?channelId=162&deviceMac=00:1A:79:0A:3B:2D
 
