@@ -404,10 +404,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://cord-cutter.net:8080//live/25464931/30585186/9816.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPCafjliE37AEnyMecWxrEN872O6MA0-TYg&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Encore Family
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29460.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
 http://xtv.ooo:8080/danyear12/am809100/66213
 
