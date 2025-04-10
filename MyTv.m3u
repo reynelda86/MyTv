@@ -3643,7 +3643,8 @@ http://extraott.com:80//live/5301246455/1849687755/187196.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="iQIYI" tvg-name="iQIYI", iQIYI HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Lifestyle & Documentary" tvg-id="ThePetCollective.us" tvg-name="ThePetCollective.us", The Pet Collective
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
