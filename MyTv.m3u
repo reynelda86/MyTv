@@ -852,7 +852,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 http://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamA0KekJ8ZeUi7ZeKpBqAEwK7GZ4GyOjkMQ&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="FoodNetwork" tvg-name="FoodNetwork", Food Network HD
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Lifestyle & Documentary" tvg-id="HGTV" tvg-name="HGTV", HGTV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
