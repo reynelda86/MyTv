@@ -843,8 +843,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="DiscoveryChannel" tvg-name="DiscoveryChannel", Discovery Channel HD
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/eepunx/cancan/main/discoid
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="News" tvg-id="DW" tvg-name="DW", DW English
 http://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
