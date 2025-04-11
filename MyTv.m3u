@@ -693,7 +693,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://103.120.172.74:5000
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
-http://premiumiptvmk.com:8080//live/F19236/516c41c7/303614.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="Indian" tvg-id="" tvg-name="", Sony Max 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
