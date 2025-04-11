@@ -268,8 +268,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=139&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Indian" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
