@@ -275,7 +275,7 @@ http://xtv.ooo:8080/danyear12/am809100/66191
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Indian" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1200?cb=20230119131035" group-title="Malay" tvg-id="" tvg-name="", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
