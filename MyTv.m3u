@@ -2933,9 +2933,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Kids" tvg-id="" tvg-name="", Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfdDIz-S3iHtgD939VirvqIGSbRC_T_0kyw&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="NASATVPublic.us" tvg-name="NASATVPublic.us", NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/45FLfu74nXjhNHhbsTJ4ROsGLR5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Percy Jackson and The Lightning Thief (2010)
 https://www.googleapis.com/drive/v3/files/1UIC6io_S81L8oYBHbtJqtFg6uusgDOtL?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
