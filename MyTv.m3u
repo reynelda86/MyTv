@@ -556,10 +556,10 @@ https://line.now-ott.xyz//live/451AAD/3f41a2/361441.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://line.now-ott.xyz//live/451AAD/3f41a2/361411.ts
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="ABCAustralia" tvg-name="ABCAustralia", ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default.mpd
+https://streaming.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="News" tvg-id="BBCNews" tvg-name="BBCNews", BBC News HD
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2946.ts
