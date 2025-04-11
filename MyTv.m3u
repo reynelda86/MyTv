@@ -3646,13 +3646,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/60878.ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="DMAX" tvg-name="DMAX", DMAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
