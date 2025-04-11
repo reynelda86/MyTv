@@ -2769,7 +2769,7 @@ https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Lifestyle & Documentary" tvg-id="discoveryscience.us" tvg-name="discoveryscience.us", Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+http://aflaxtv.xyz:8080/Wat068/924a937d/157530
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL0iTavxh_J1FomF7t_ISe0metFOCG5P7og&usqp=CAU" group-title="Kids" tvg-id="DisneyChannelEast.us" tvg-name="DisneyChannelEast.us", Disney Channel East
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
