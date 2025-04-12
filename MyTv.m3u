@@ -632,7 +632,7 @@ https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.m
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="" tvg-name="", TRT World
-http://extraott.com:80//live/7921751389/6097373662/400230289.ts
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Chinese" tvg-id="8TV" tvg-name="8TV", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
