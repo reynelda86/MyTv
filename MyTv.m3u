@@ -594,12 +594,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News" tvg-id="CNA" tvg-name="CNA", CNA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News" tvg-id="CNBCAsia" tvg-name="CNBCAsia", CNBC Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
