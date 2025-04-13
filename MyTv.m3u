@@ -60,7 +60,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports" tvg-id="804.astro" tvg-name="804.astro", Arena Bola 2
-http://extraott.com:80//live/5301246455/1849687755/23930.ts
+http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
