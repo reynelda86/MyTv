@@ -85,7 +85,7 @@ http://49.0.64.96:8007/Cinemachi
 http://tv.cloudcdn.me:80/live.ts?channelId=199&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Vevo_Thumbnail_2013.svg/revision/latest?cb=20210103132455" group-title="Entertainment" tvg-id="" tvg-name="", Vevo 2010s
-https://jmp2.uk/SamsungTVPlus/USBD120002431.m3u8
+https://jmp2.uk/sam-USBD120002431.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
