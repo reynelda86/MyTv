@@ -330,9 +330,6 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQmJ3rw/nowrock.png" group-title="Entertainment" tvg-id="" tvg-name="", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fHzfd4V/nagapop.png" group-title="Entertainment" tvg-id="" tvg-name="", Pop
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/surautv.png" group-title="Islam" tvg-id="surautv.id" tvg-name="surautv.id", Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
