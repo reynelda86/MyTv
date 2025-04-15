@@ -189,9 +189,6 @@ http://epg.112114.xyz/douyu/4332
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupvDGCLzswt-GfD4jzoYHHfgSX-3kSzByEQ&s" group-title="Islam" tvg-id="AlImanTV.id" tvg-name="AlImanTV.id", Al-Iman TV
-https://tv.aliman.id/aliman/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-KjZOz5nluF4/TXH_fuCkXBI/AAAAAAAAAkA/CDrGeSNaiYQ/w1200-h630-p-k-no-nu/DAAI+07.jpg" group-title="Indonesia" tvg-id="DAAITV.id" tvg-name="DAAITV.id", DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
