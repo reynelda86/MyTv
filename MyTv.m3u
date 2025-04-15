@@ -427,7 +427,7 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 
 #EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/11/18/22/zUAWE3Xswh/live-television-medina-dome-of-the-rock-great-mosque-mecca.jpg" group-title="Islam" tvg-id="" tvg-name="", Medina TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vo01.mohdtv.com:8880//live/580454cbf22f/580454cbf22f12313/31687.ts
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="Islam" tvg-id="AlQuranKareem.id" tvg-name="AlQuranKareem.id", AL Quran AL Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
