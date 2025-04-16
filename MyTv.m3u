@@ -965,16 +965,10 @@ https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HOT FM
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" tvg-id="INDIA" tvg-name="INDIA", INDIA BEAT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="Radio" tvg-id="JAZZ" tvg-name="JAZZ", JAZZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
-
 
 #EXTINF:-1 tvg-logo="https://www.jeifm.com/images/jeilogo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", JEI FM
 https://usa3.fastcast4u.com/proxy/jeifm?mp=/stream/1/
