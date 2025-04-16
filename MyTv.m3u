@@ -960,9 +960,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aa
 https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ" tvg-name="HITZ", HITZ FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HOT FM
 https://mediaprima.rastream.com/mediaprima-hotfm.android
