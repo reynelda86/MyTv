@@ -959,11 +959,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aa
 #EXTINF:-1 tvg-logo="https://assets.flyfm.com.my/2020/01/logo_flyfm_1080.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", FLY FM
 https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="Radio" tvg-id="GOLD" tvg-name="GOLD", GOLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cVyEAdeCnJp8XWZZIsoT9g", "kid":"j5Ls30zRrFW8jHiPoZWGEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ" tvg-name="HITZ", HITZ FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
