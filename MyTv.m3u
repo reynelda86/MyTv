@@ -971,11 +971,6 @@ https://usa3.fastcast4u.com/proxy/jeifm?mp=/stream/1/
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/HjyqsyXZge.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", JOHOR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="Radio" tvg-id="KENYALANG" tvg-name="KENYALANG", KENYALANG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://assets.koolfm.com.my/2020/04/logo_koolfm_500x500.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", KOOL FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
