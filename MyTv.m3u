@@ -974,11 +974,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", MELAKA FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/62800melodyfm.png" group-title="Radio" tvg-id="MELODY" tvg-name="MELODY", MELODY FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="Radio" tvg-id="MINNALFM" tvg-name="MINNALFM", MINNAL FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac
 
