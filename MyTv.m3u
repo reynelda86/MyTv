@@ -971,9 +971,6 @@ https://usa3.fastcast4u.com/proxy/jeifm?mp=/stream/1/
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/HjyqsyXZge.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", JOHOR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="Radio" tvg-id="LITE" tvg-name="LITE", LITE FM
-http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Malacca_FM_Logo.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", MELAKA FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.aac
 
