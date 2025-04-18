@@ -999,9 +999,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio" tvg-id="SINAR" tvg-name="SINAR", SINAR FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+https://stream.rcs.revma.com/azatk0tbv4uvv/5_38voejof20x202/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/terengganu-fm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", TERENGGANU FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
