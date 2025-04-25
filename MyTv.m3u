@@ -1387,7 +1387,11 @@ https://drive.usercontent.google.com/download?id=1Emz6rYiB_eYxBEDpMLHgH3aRUvDk6a
 https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/Vl3cBlVODZnUSN0b3djMRlDZClXSmV3bshUYu52SkZWM/Original
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/AI_Poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", A.I. Artificial Intelligence (2001)
-https://drive.usercontent.google.com/download?id=1lKozIxVH_OqLXQLqiMfhl1Q1p0s5rupI&export=download&authuser=0&confirm=t&uuid=38cbff40-4d8f-415d-8eb8-8f5eeb998a20&at=APZUnTV5XOOQPxtBOWHev8FvST88%3A1719885704572
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xBeF/YMRn1melar5/HhCxQ","kid":"YdBwqyniWUSf23wB+yhL4Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e37e65acbea8a6a4eff883e_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoPVhdIx5ZtcqitrOH0Gt_sa5mrx5EzuVbpH8Vv1KpXY-x39E" group-title="VOD English" tvg-id="" tvg-name="", The Girl Who Escaped: The Kara Robinson Story (2023)
 https://drive.usercontent.google.com/download?id=1QJSZzZml-Kx_qiqkURy0vfv4C5y6JXs6&export=download&authuser=0&confirm=t&uuid=a398d66e-fa57-407b-ad19-f3d3e40ee0bb&at=APZUnTW6iexfcUe490n0JFKPMRJP%3A1721221314353
