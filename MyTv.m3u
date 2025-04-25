@@ -1771,7 +1771,11 @@ https://drive.usercontent.google.com/download?id=1MSiDmPtegdGYEQJhV7Gph48BX53OQC
 https://drive.usercontent.google.com/download?id=1iBjaouA7fK4Ld5YlBjYNkmszUvB179KP&export=download&authuser=0&confirm=t&uuid=f9d8fa53-8d3b-48ed-bdad-c9f53e7d21d5&at=APZUnTVY_bSgKuqHo0jox6cAAIo1%3A1720915969644
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg" group-title="VOD English" tvg-id="" tvg-name="", 2 Fast 2 Furious (2003)
-https://drive.usercontent.google.com/download?id=1e5r8omAve8ygDhnUSR4YRP1i3tGe-mgt&export=download&authuser=0&confirm=t&uuid=ef35d276-03c8-4817-86c8-a1cdba50ba77&at=APZUnTWgUC_iIPb_VYj_NvLCV-tY%3A1721200491158
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nG+pS4gXunI5cVia5BXTWA","kid":"bYo4XRGFVx2OSXOIk5Fz3w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fab803ae366782ad9a688_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTk17Ualk-QIAd-0vdwFg-hjOVVlQqtAuhg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Avengers Infinity Wars (2018)
 https://drive.usercontent.google.com/download?id=13Y-OLo8o2N_S93UJ6cKMj_7pIY_s0IBk&export=download&authuser=0&confirm=t&uuid=c361fca4-8984-4a02-938d-19e687f8807b&at=APZUnTWwGYmPLNNmYQb2olKouB46%3A1721046576996
