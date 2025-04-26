@@ -2149,7 +2149,11 @@ https://www.googleapis.com/drive/v3/files/1iAttqmsLPD2t_wFqj8CQ2INr9sdZyNmv?alt=
 https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/w9Vd2hlQ0JXUzMkbwhmYyVmTw5GTDdGTq9FT4FUe51UM/Original
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qmer6G5_pz4o7kZYspfPKlCfJHAOrBgPDA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Aquaman (2018)
-https://drive.usercontent.google.com/download?id=1he4IbbsLnnAWEse-ZNrVcC018KVjF1r4&export=download&authuser=0&confirm=t&uuid=cb972fb8-bd86-4a62-9adc-fb07f001c696&at=APZUnTUG0a8mm2xw9zRDhQqWr9Cb%3A1722528124797
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://124s2.xyz:900/images/7lTnXOy0iNtBAdRP3TZvaKJ77F6_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Aquaman and the Lost Kingdom (2023)
 https://stream.hownetwork.xyz/xxx/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
