@@ -2051,7 +2051,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac51b46d048943f76
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWkaHcX7zW9clJuovA-DKM2xHB2snXW1Iqg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Alvin And The Chipmunks The Squeakquel (2009)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/fpGNNpHT0hnUkZ0Rh9US0l1X2RldxhlU0QXRxkVLEhXM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H3uYZMQiMI4KrRJd8ILiOQ","kid":"50BmP12GUaaerPdwoNgP3g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac63596d048943f7694065_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://line.megacdn.live:80/images/16OcuuW5z509WILR6BmscNdXgw0_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Alvin and the Chipmunks: The Road Chip (2015)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
