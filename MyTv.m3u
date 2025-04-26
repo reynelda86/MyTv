@@ -3434,7 +3434,11 @@ https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
 https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/uNDZ4QnRTJ1ZMFVL0QTNOdVYSRHVxITdN1GaE5WT2RUM/Original
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNTImeEUV-AK4q2ztgqk-lsAFSgYMx6Rg1A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle (2014)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/PdEStQmZT9GcqxkU2g3Uzo3cZlkS5omY3dTa4QzU0lVM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PNX1mVDwOddkKCXJ3+iySw","kid":"Lip4EndCX6aVxYSEet/93Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7736963ae366782ad8d419_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring The Devil Made Me Do It (2021)
 https://drive.usercontent.google.com/download?id=1CtMz5pmmhbF0fzUH5i9Uo-Cyb97itZMt&export=download&authuser=0&confirm=t&uuid=f3123020-febf-42c1-8d8c-1dc0d99530ed&at=APZUnTWa8HRA_U0r5Kzxcldmrav5%3A1721182211370
