@@ -2037,7 +2037,11 @@ https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
 https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/NlnaKhUSplVMYhlWnpXQQ9Ud1BDSal3ZhBnNLFXeQVUM/Original
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2Mf9amwMwxUFer5MQ3B7kHXW2Qm1Ah3Z1g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Alvin And The Chipmunks Chipwrecked (2011)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/kV1MVJTWUFncp1kTXRUZ2llaEJXMshzcORVNpN2UldXM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bd03QgM0XPms4btJ31Hk8g","kid":"cl1f5cS1XA6JASqj0gbI7A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac51b46d048943f7693ebd_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fONOOf3RmWnCKFwSl9e0z61KlZs.jpg" group-title="VOD English" tvg-id="" tvg-name="", Alvin and the Chipmunks (2007)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
