@@ -3335,7 +3335,11 @@ https://drive.usercontent.google.com/download?id=1hOLSPtS5QDvbuBB7nlTQKkRu4hym01
 https://www.googleapis.com/drive/v3/files/1YKzNaFlV9Y_N7UvmZmuhuYCyGrL5mn8e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQtixY562LkuNM6f1HLit0ICGvn2_pgpD5Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle Comes Home (2019)
-https://drive.usercontent.google.com/download?id=1uhMrmZMPzp0AUALsPnsGY95f0WQpYHyp&export=download&authuser=0&confirm=t&uuid=0a545d93-6d5d-4aa3-bd8e-07b0f0ceda68&at=APZUnTXZ8K4aZfamVxzDgOa4YpIr%3A1720510727073
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kfEKwVuRoef9XiJpD0BQhg","kid":"U08nIum5WcO1RinbbU/b2Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="VOD English" tvg-id="" tvg-name="", DRAGON BALL SUPER BROLY (2019)
 https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
