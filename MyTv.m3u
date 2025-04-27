@@ -2241,7 +2241,11 @@ https://drive.usercontent.google.com/download?id=11s2wbZy8_6VcoU5p3evn96nzT9N96P
 https://drive.usercontent.google.com/download?id=1UWVx4vMQFnG68l3D0gRU8aOyEYfaW7LQ&export=download&authuser=0&confirm=t&uuid=95834be5-4b60-47e5-b1fc-cd070948838d&at=APZUnTWHufyr4WpN-iU-MUSN6Mmb%3A1721256581679
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XH4g120.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman The Dark Knight (2008)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/6F1U5UlTHFzcTJGUGZHaxh2Z51ULHZzaDtmcBJnbZZVM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QfbWkr4gRwm3ZhqP7EZ2BQ","kid":"fv2RICtbUhqYeYyzoP0ipw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7786dd3ae366782ad8dcee_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7XF6duZy5ZXmOX7HE3fKGV1WLN.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman (1989)
 https://drive.usercontent.google.com/download?id=1vpkNlsqGmmHuPIQ1Gp9YZ8R3F4j_x0ce&export=download&authuser=0&confirm=t&uuid=99f3e1d7-51d3-484a-82f9-1d91d1c03962&at=APcmpoyx8KHrNKou3nc4FqPvI0z4%3A1745731544928
