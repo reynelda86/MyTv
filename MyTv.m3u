@@ -3820,7 +3820,11 @@ https://drive.usercontent.google.com/download?id=1iaVtI_WvDHLH8GjFl_t1h6MFiwp8FK
 https://storage.dewanonton.online/hls/f2c829bf-fb07-4a14-baf3-f1b66ebed2a1.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxYTU5MzctY2MzNS00MTRhLWEwM2UtY2Q5Mzk3OTAzMzcwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Clifford the Big Red Dog (2021)
-https://drive.usercontent.google.com/download?id=12WDZH-QtzwCIJwfLih0se8hWcrKYzYaa&export=download&authuser=0&confirm=t&uuid=35802130-ff9f-4ec8-a972-8e7f8592676b&at=APZUnTWjc3vA5QwzjcIc1Eu1MYHs%3A1721687363960
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tMnUSAIo15mQDSCyPpJoTQ","kid":"xzQlonBn1aBTgwHK/5DBdg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63173da1d940521074b33525_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Art_of_Racing_in_the_Rain.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Art of Racing in the Rain (2019)
 https://drive.usercontent.google.com/download?id=1kM2NNz0RqrkZf4sYVG7BzBR8LEoIVu52&export=download&authuser=0&confirm=t&uuid=90db7c8a-34b6-4550-a36f-1013c94e37ce&at=APZUnTVy8CZMSY79C9VOPlJHEUEt%3A1721687534174
