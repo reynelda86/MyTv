@@ -3774,7 +3774,11 @@ https://drive.usercontent.google.com/download?id=1uwXrSrm4XYiCM1crGfjtD4W8aFDsNj
 https://drive.usercontent.google.com/download?id=1RANSIopE_8IMEzqeqM_XCj3JXDU44an-&export=download&authuser=0&confirm=t&uuid=cf9b9b98-b4ff-4d20-a98f-0754039c782b&at=APZUnTU5imNc3HfTYOv47sWNPsl3%3A1720962463331
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-dubbing/images/7/77/Birds_of_Prey.png/revision/latest?cb=20210307012533" group-title="VOD English" tvg-id="" tvg-name="", BIRDS OF PREY: AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN (2020)
-https://drive.usercontent.google.com/download?id=1ZT4KXpuR3536yE-71TAMKQUViExzKtB_&export=download&authuser=0&confirm=t&uuid=edfadb51-8dfc-4b39-8296-4d368719610a&at=APZUnTWiJ56XHs12c03NJvQNr1d7%3A1720967106557
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"on9vJ+LTK87M7cT7i3sRgg","kid":"+AYdlEHiUBiXiNTosn9NrA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXR5KAFW2M1_frGfhlQYaxxCMSZZQ4ztHLrw&s" group-title="VOD English" tvg-id="" tvg-name="", The Suicide Squad (2021)
 https://drive.usercontent.google.com/download?id=1RrZQYDhMaeJT2VOOA3tVmIL5fciH5Csg&export=download&authuser=0&confirm=t&uuid=0e854124-01db-4f84-8075-2c4b51c2dd78&at=APZUnTVL_XoJnNn4t503TEnuycsp%3A1720967379390
