@@ -2247,7 +2247,11 @@ https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/
 https://drive.usercontent.google.com/download?id=1vpkNlsqGmmHuPIQ1Gp9YZ8R3F4j_x0ce&export=download&authuser=0&confirm=t&uuid=99f3e1d7-51d3-484a-82f9-1d91d1c03962&at=APcmpoyx8KHrNKou3nc4FqPvI0z4%3A1745731544928
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Batman_Forever_poster.png/220px-Batman_Forever_poster.png" group-title="VOD English" tvg-id="" tvg-name="", Batman Forever (1995)
-https://drive.usercontent.google.com/download?id=1jOGQSX8Gd5jTY80BWjdxu4QfosVfGOLx&export=download&authuser=0&confirm=t&uuid=9cc3cce5-73c1-4f29-8e7e-36c77c1a3ab6&at=APZUnTXvz0SG74Ztari8SvF2Ivi-%3A1720532028044
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0X2iQc3uHt8s8UUxPkPk8Q","kid":"uaC9tGnXUzCsDViGLJE4oA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe83fee59f821aa9e6ef63_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Twilight saga Eclipse (2010)
 https://stream.hownetwork.xyz/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
