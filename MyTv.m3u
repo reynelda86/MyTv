@@ -1014,8 +1014,11 @@ https://storage.dewanonton.online/hls/6aba2852-4909-4e2a-90f9-5485c4851170.mp4/i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Beauty_and_the_Beast_2017_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Beauty and the Beast (2017)
 https://storage.dewanonton.online/hls/8369ed39-f8c4-4e87-bf70-3ac1c50dcab0.mp4/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tTv5nJt/V+vr30vw2Gu9zA", "kid":"X1h21thok06RYRskxUveEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMR2pd8WIgGetnqqHeOhIt4RUm311Wo_uOD4AMN6N8u7sMRSIv" group-title="VOD English" tvg-id="" tvg-name="", DESPICABLE ME 4 (2024)
-https://drive.usercontent.google.com/download?id=1DIzbTGgKPzk4B5PXVkfNQqKyT2bZbyxD&export=download&authuser=0&confirm=t&uuid=a1a2b7cd-b665-4097-9d2d-abd7453385c8&at=APZUnTWFJAJbVK1-78QllSQ70bEQ%3A1722528685051
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/soundeffects/images/4/4c/Madagascar_poster.png/revision/latest?cb=20151219155240" group-title="VOD English" tvg-id="" tvg-name="", Madagascar (2005)
 https://stream.hownetwork.xyz/xxx/madagascar-2005-bluray/3/480.m3u8
