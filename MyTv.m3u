@@ -2352,7 +2352,11 @@ https://www.googleapis.com/drive/v3/files/11SniP8mGMudeIhUVx6QwMP42JgwHihbC?alt=
 https://www.googleapis.com/drive/v3/files/1vOgC8xTOteHlGUFjPr_izOWchBrh783K?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/d3pVfiP.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman Begins (2005)
-https://drive.usercontent.google.com/download?id=1hWq6yFAprKV1qUZp1Qema_WgswPnrhbv&export=download&authuser=0&confirm=t&uuid=cf519c92-7b3c-4a88-bdcb-e0bc32cef1af&at=APZUnTWCrAR1_Qql3SarIpWA0Lak%3A1720532324181
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Luy6zltn4A0Me7wqtqvLyQ","kid":"WuvU+tNXVECHLsTBw6+1JA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9f139f6d048943f7680281_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Tombiruo (2017)
 https://www.googleapis.com/drive/v3/files/1ZJlxKvPUyRErztXJAcE7TpLquvOGTqE1?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
