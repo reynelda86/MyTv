@@ -2336,7 +2336,11 @@ https://www.googleapis.com/drive/v3/files/16JOOVbGvRPxwdjMAruUeAJRb5DmWX0FT?alt=
 https://drive.usercontent.google.com/download?id=1zUGF-Pqtyl5kINfKj-Fq_flFDYKbeLIH&export=download&authuser=0&confirm=t&uuid=f73a3a65-e967-4bc9-a5cc-08a884c0bcc8&at=APcmpoxJ9uG0viYQhuyMuutvv_Pz%3A1745079165738
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Rcv5gXU.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman The Dark Knight Rises (2012)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/qt0VQx2MKRTWMhUZFRFam5mM3FUVYllYLN1N3YjQoVTM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J/b5WzTFbudVpXAl6gifrg","kid":"4joteoMSXiiYIqMEcFaRhQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9ac2526d048943f7679d56_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q5ZTFiMDUtY2RjZi00NGFiLTk4MGUtY2E3YWQ3Zjk5OGY4XkEyXkFqcGdeQXVyMjY1MDkyMzY@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", KL Zombie (2013)
 https://www.googleapis.com/drive/v3/files/1_G3yXeeKeGMHAcySTwLOBwxmAJ1-febt?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
