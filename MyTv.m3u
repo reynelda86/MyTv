@@ -1238,7 +1238,11 @@ https://drive.usercontent.google.com/download?id=1H5DsdfDpJ13iqfy7ben3MEBY4JIJ4s
 https://drive.usercontent.google.com/download?id=1FQW52YuYcrUtfgYpeXbhImEdEIrCOVce&export=download&authuser=0&confirm=t&uuid=02fabe0f-bf34-4e3c-9d80-1aac8f3db2e0&at=APZUnTWZpgpbX0PuucTzF-PetGTu%3A1720367507551
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5mGQDkEgyEgjGeTlm_njFIAfkKiSCloIYCsuYRrbz_0LQNiNO" group-title="VOD English" tvg-id="" tvg-name="", Downton Abbey: A New Era (2022)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/wgVU2AFSNZEWi9VaaFkQZNGcEpnbIh2QRRWdpZWb3gTM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lK1+JsjF3P4soonKgcrrxQ","kid":"a04BStrX+2LzahKEOq3mHQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4d73d940521074c40d1f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSy94s5fb7fPU5MNR_Rp-Ui98QzMz0rkyOoeMbm10hETQMZ8fC1" group-title="VOD English" tvg-id="" tvg-name="", Ultraman: Rising (2024)
 https://drive.usercontent.google.com/download?id=1u4nDAYNYHBTv9GjCdGYEsZ3f_ZwuLWLn&export=download&authuser=0&confirm=t&uuid=59c5ae31-1547-46b3-88b7-a092eaea9db4&at=APZUnTUKGzBXKSBccSWqDk27KbSF%3A1720200367699
