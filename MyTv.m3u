@@ -1243,7 +1243,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4d73d940521074c
 https://drive.usercontent.google.com/download?id=1u4nDAYNYHBTv9GjCdGYEsZ3f_ZwuLWLn&export=download&authuser=0&confirm=t&uuid=59c5ae31-1547-46b3-88b7-a092eaea9db4&at=APZUnTUKGzBXKSBccSWqDk27KbSF%3A1720200367699
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxKaL__Q2qR9RrmBtRFEOkIitISIZfNnsXZ-QFeUcd3gCwiXd" group-title="VOD English" tvg-id="" tvg-name="", Evil Dead Rise (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/JZlZwonb4UjQONWTJ5kaXdHROZWYXRVVGtEZOl1cTlVM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mHyzZBIbiqyI1tM1RMlSaw","kid":"kiHI5nx1bwlPRUICQthWDg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/ZathuraPoster.jpg/220px-ZathuraPoster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Zathura: A Space Adventure (2005)
 https://drive.usercontent.google.com/download?id=1_ueXm6RUEjtOybLXm3O318PHbLtnwUTs&export=download&authuser=0&confirm=t&uuid=e98a5fc3-0ab9-4ca0-83ee-93dc224790c9&at=APZUnTWzf0Q6lPxZp_6HlVJX4xkB%3A1720200652685
