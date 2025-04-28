@@ -1157,7 +1157,11 @@ https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/
 https://storage.dewanonton.online/hls/fe06e52b-c5f6-449f-8d6b-92da1039cc93.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Theatrical_poster_for_Dungeons_and_Dragons%2C_Honor_Among_Thieves.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dungeons & Dragons: Honour Among Thieves (2023)
-https://drive.usercontent.google.com/download?id=1MMYYDwWVkC29Ba5GA7cfPPn1Ke-H3lW8&export=download&authuser=0&confirm=t&uuid=80626102-a5af-4ed4-9ab8-3a1ed4c1454f&at=APZUnTUqVaJASNOI61ykcH45tafV%3A1720443983942
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6ZQIeLQaO+CUB7+GER/DwQ","kid":"ySVsIxm+4RVesasF3bKEjA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVw5TbBto0N605-BV1qfu7c8jdA1K_YL5cYTUfXzMl9_lV6q01" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: The Ballad of Songbirds & Snakes (2023)
 https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/mBlYh91T0EDRMJEU0EUVa5EM4hTOKpnQEZkSvBlMstWM/Original
