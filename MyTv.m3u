@@ -3059,7 +3059,11 @@ https://storage.dewanonton.online/hls/9e142a73-dc98-4cba-ac0e-74b587b7e110.mp4/i
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Constantine.mp4
 
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/1300.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts and Where to Find Them (2016)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/K1keS5GcMJWS6hVMxw2UEBjaxYWVa9UQmVUVuN2T2UVM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"818rDUWSoftLcGimESi32g","kid":"rhqRz1Guk9u6Q51kzADh/A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62283b92d9405210749cb84c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kfpyy1d9ZgUzQ3KV0x2ZfR7Iuek.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman Returns (1992)
 https://www.googleapis.com/drive/v3/files/1_2fZ9iyKagydmuR6mYDmeB_DWeiTX9Tl?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
