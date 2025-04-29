@@ -2400,7 +2400,11 @@ https://drive.usercontent.google.com/download?id=1jgPS2RWYEqlkyXjsqjVvxXV4xXczwF
 https://www.googleapis.com/drive/v3/files/1OQivY3kLR3dqY_FXqbRPGmAguBPJjAGn?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fast & Furious (2009)
-https://drive.usercontent.google.com/download?id=1HNAYoeqMDfB1Oag9yyuuAFFapJzdlFPh&export=download&authuser=0&confirm=t&uuid=693ae3d3-5ab9-42f9-8bf7-856c24f396ee&at=APZUnTUqwtB4k_mZZ9X3r5sdoOA9%3A1720505147921
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j1aAONDBWDt9R4x1ePgUsA","kid":"B52uUWYeao5PNKsCFUo1Yg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636ba122d940521074bb2252_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fast Five (2011)
 https://www.googleapis.com/drive/v3/files/1v_4c-2kfFcdcJdRGC7qAzrOvfweuy4Yg?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
