@@ -2139,7 +2139,11 @@ https://storage.dewanonton.online/hls/1723afac-ac0f-489c-9beb-d9f574620170.mp4/i
 https://drive.usercontent.google.com/download?id=1paM9uomx9nkBPD_Wkhf-Yje7ZQndtmiP&export=download&authuser=0&confirm=t&uuid=b005a2ae-2d6f-4800-b863-1d7019306cb6&at=APZUnTV1mwoXYmX7EFEZisyXF4MN%3A1721406938719
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts The Secrets of Dumbledore 2022
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/adlc54GUmZzZid2XBZUc2J0ckdDU1xGWfNlcaRjY0pUM/Original
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mP0H3MUeXlzgzmqpvE+rAg","kid":"8o2ETfUcoC0xjX3bhH90yA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62792a41d940521074a4530c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1_SY1000_SX649_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", G.I. Joe: Retaliation (2013)
 https://drive.usercontent.google.com/download?id=14xPBgF4OY77eagUxCkZxAC6lbfh5vjff&export=download&authuser=0&confirm=t&uuid=a2ec2b33-0165-4994-9c4e-144ab6ab2ff0&at=APZUnTUT_pziw-Up9QLzPjGH8Ll6%3A1720596403105
