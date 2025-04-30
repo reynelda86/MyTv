@@ -3738,7 +3738,11 @@ https://drive.usercontent.google.com/download?id=1G-wkN9tWJTvDyhzF_FYVKdHSG4-eb2
 https://storage.dewanonton.online/hls/756b95f6-8bb4-4d53-b2bc-71ae4b60dd60.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Godzilla vs Kong (2021)
-https://drive.usercontent.google.com/download?id=1QI7vJEaiQn2ETLG36qaJW0z1fn0WWF4L&export=download&authuser=0&confirm=t&uuid=50f84064-916b-404c-8981-7fafc59cb320&at=APZUnTWnuwjv3J0dNy0LEC0mjI3c%3A1722538340303
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GjbBcsEBErFLJ9TJh3xwRA","kid":"FFurrfX8UIqZ+A+3MYa9Jw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c68224_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcxZGI3NTktNzVjMy00ZWM3LWFlZWMtZThjMDEwNTQ5NjNjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Jarhead: Law of Return (2019)
 https://drive.usercontent.google.com/download?id=14z_7gDaIAX-ho5HfvxydlgLVEZgIGJTF&export=download&authuser=0&confirm=t&uuid=3ab0a1ec-cd8a-4500-a530-19c56ce9f03b&at=APZUnTUx9QHbs7pg9tsCeTRBQnbJ%3A1720681914073
