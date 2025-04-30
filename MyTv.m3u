@@ -2416,7 +2416,11 @@ https://www.googleapis.com/drive/v3/files/1mg32G1imATt90mZJfUCAnKEmzw0fx2q_?alt=
 https://www.googleapis.com/drive/v3/files/1t8RgTc4Wbd2VdUcm8iB7PyXUheqVPaYp?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg" group-title="VOD English" tvg-id="" tvg-name="", Furious 7 (2015)
-https://drive.usercontent.google.com/download?id=1PUe1aEumO4phyrFC3oVsDSML7nezodAu&export=download&authuser=0&confirm=t&uuid=81ea4548-b250-45fa-9455-ce3a92247754&at=APZUnTXtogMC1lom1ScdEEoNrnRZ%3A1721200864155
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3hMKWk7H4/IkTlXS5ZMnZw","kid":"Tubx/OX9L3Td2iFj6RwV+Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bbd45d940521074bb2535_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Fate Of The Furious (2017)
 https://www.googleapis.com/drive/v3/files/1r35Zw5-YmPjC1qiCFKe-I1C9AA5dwufg?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
