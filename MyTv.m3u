@@ -1851,8 +1851,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9046b4cbea8a6a4ee
 https://www.googleapis.com/drive/v3/files/1_t07hpXkza3F5QOklu33INO0TkI1Zdnc?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Goblet Of Fire (2005)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://drive.usercontent.google.com/download?id=1IPIevSO912QYVhMJ68W_5AmLFyWZ-l6j&export=download&authuser=0&confirm=t&uuid=8edbfd36-8575-4834-a9a9-f898191fe3ea&at=APZUnTUvhdJ6of9KZUAKe0K5z0LK%3A1720618627085
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mcn/ElqCP2g+WBcapsbuSg","kid":"XbJMb2dXWL6ZhdsLFuEqtw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904e95cbea8a6a4eef98eb_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//Ag21otqbeynZPGjEbzyr3X5Us0j.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Half-Blood Prince (2009)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
