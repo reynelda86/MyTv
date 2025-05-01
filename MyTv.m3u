@@ -1841,8 +1841,11 @@ https://www.googleapis.com/drive/v3/files/1SBdTw5uwSomzz_3moZv-tGyXlqqBG0Cj?alt=
 https://storage.dewanonton.online/hls/7a5652d4-708a-4c0f-8147-be7700dd1ce9.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 1 (2010)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://drive.usercontent.google.com/download?id=1RQ0ZjBZNyJyNXkWCq-E8HigrEI-qkdy9&export=download&authuser=0&confirm=t&uuid=5ad2d628-e011-4e2a-ba25-41a70cba24c8&at=APZUnTW_6ahzMvkVyMbPcXXQ2wU7%3A1720618999476
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hx+ia1e+rkH+lEBatd32eQ","kid":"dRHmVhkTVZmYcB/9zTi68A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9046b4cbea8a6a4eef9826_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 2 (2011)
 https://www.googleapis.com/drive/v3/files/1_t07hpXkza3F5QOklu33INO0TkI1Zdnc?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
