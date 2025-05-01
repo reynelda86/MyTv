@@ -1860,8 +1860,11 @@ https://drive.usercontent.google.com/download?id=1pCwb_ppP05yT-Qug1YnvXgOqHX3BO3
 https://drive.usercontent.google.com/download?id=13BJbuBdZMAJkVOiHgrGm78YO48X0qiZ-&export=download&authuser=0&confirm=t&uuid=3975689d-1c2c-46af-8f8a-a53d3f9a3790&at=APZUnTVH8IzQ2VzzfC8GMZMZJ2gm%3A1720618760483
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoTRj3jMTv4tg7KdAG3sTRLUgonPU8xeZmA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Chamber of Secrets (2002)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/8vSWM6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oKGwqNr2eblYd6898+2J6Q","kid":"LpIdA38FXlO6Ph+mYhT+AQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9059a6cbea8a6a4eef9a03_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTugaq2ExGlLji-2JbVNCJ5vFkrUmKgyppXA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Iron Man (2008)
 https://www.googleapis.com/drive/v3/files/1nU9EIp4MATtajUFeeSosEAk9zp5ZokCR?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
