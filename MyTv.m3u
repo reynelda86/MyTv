@@ -1858,8 +1858,11 @@ https://www.googleapis.com/drive/v3/files/1_t07hpXkza3F5QOklu33INO0TkI1Zdnc?alt=
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904e95cbea8a6a4eef98eb_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//Ag21otqbeynZPGjEbzyr3X5Us0j.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Half-Blood Prince (2009)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://drive.usercontent.google.com/download?id=1pCwb_ppP05yT-Qug1YnvXgOqHX3BO3hr&export=download&authuser=0&confirm=t&uuid=93701a2d-8e0d-47e2-aaea-bf5a988fec86&at=APZUnTWc3jjaJl4-367KJbMJhQio%3A1720618881743
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rgC+c7DOJ+5+fNGmDEctWQ","kid":"Z04dF4ehVAmNVEZeYP1Uyw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9056b7cbea8a6a4eef99b8_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Order Of The Phoenix (2007)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
