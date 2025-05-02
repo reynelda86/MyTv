@@ -3481,8 +3481,12 @@ https://drive.usercontent.google.com/download?id=1ZT3zHcvxwgi6e9yql_Swo5ZRCQSm6r
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BNDJmMzQyMzAtMzMxMy00NTI3LTgzOGMtZDU3Yzc4MjRjNzkwXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Ice Age: Adventures of Buck Wild (2022)
 https://drive.usercontent.google.com/download?id=1LP0DXK2-2oR6SWSfIuIh0M52UwGUMQBn&export=download&authuser=0&confirm=t&uuid=7a508428-b683-4b54-b356-7cd1635a24ad&at=APZUnTVxFHbo3w2vsJyD7-UEkDhc%3A1720623979980
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+2jw5uWSsHtHStjneUnTjQ", "kid":"x0vHwLZ+SD1AIZUNVJd1EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Transylvania (2012)
-https://drive.usercontent.google.com/download?id=17Ou9IX4thSEQUyVifjIs8QYGn34DKK-I&export=download&authuser=0&confirm=t&uuid=238bb8f2-414b-4c9d-b9c3-655a0f13ddaa&at=APZUnTUOKByXkj-ELzf1hcR0hl1G%3A1720620042294
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-c39c-5d37-b029-c88a4e84e6ae/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/UVOZbW5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Transylvania 2 (2015)
 https://drive.usercontent.google.com/download?id=1vu1AjdLdbrentjXgYugZbTwHMHzyk2RS&export=download&authuser=0&confirm=t&uuid=779bc5c8-a90e-4333-967b-655e7d61e9cc&at=APZUnTW7iqeBDlUHnt0SCn_rcciK%3A1720620200529
