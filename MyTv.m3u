@@ -1669,7 +1669,11 @@ https://drive.usercontent.google.com/download?id=1Eiz2xcDwHalI0EByXKIvAhIQ07fyUr
 https://www.googleapis.com/drive/v3/files/1Oylq7WiqqcLsuqRlLLpi8T7ZprlOI53Q?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//uDQibffYgssdiqx7izO57wdLc6.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Prisoner Of Azkaban (2004)
-https://drive.usercontent.google.com/download?id=14xbPpzeoTXSB38bJjW-ffv4v5o5ZAZ_L&export=download&authuser=0&confirm=t&uuid=8922d79f-c517-48d7-a404-cd4e87de84c6&at=APZUnTUVMCPr3Ielgrz9dovoiz77%3A1720618435369
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gFGf7jhh4EuUK3TNj21k0w","kid":"G+msug+qX3WcPQ8SPVauKw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc19061cbea8a6a4ef447c3_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0Wbkdykxij_7ywwfhvWc4PYElouYxFCQIA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Philosophers Stone (2001)
 https://www.googleapis.com/drive/v3/files/1btrgR_4dVAUbh1mliqSK6Z1Y2L69_Sd8?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
