@@ -1865,8 +1865,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904e95cbea8a6a4ee
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9056b7cbea8a6a4eef99b8_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Order Of The Phoenix (2007)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://drive.usercontent.google.com/download?id=13BJbuBdZMAJkVOiHgrGm78YO48X0qiZ-&export=download&authuser=0&confirm=t&uuid=3975689d-1c2c-46af-8f8a-a53d3f9a3790&at=APZUnTVH8IzQ2VzzfC8GMZMZJ2gm%3A1720618760483
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SilDqzaTX4L/olkPWjqp6g","kid":"CADdqggLWDidAvhkqm+lqQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d905ff3cbea8a6a4eef9a9d_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoTRj3jMTv4tg7KdAG3sTRLUgonPU8xeZmA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Chamber of Secrets (2002)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
