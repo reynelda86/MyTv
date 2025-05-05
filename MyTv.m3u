@@ -2782,7 +2782,11 @@ https://storage.dewanonton.online/hls/2b86eda2-944c-49e3-8ad8-3684a3382574.mp4/i
 https://drive.usercontent.google.com/download?id=1pf3Wzymx8GHHLr3XNmYlYr0Fr8LWSjsP&export=download&authuser=0&confirm=t&uuid=21d22e5f-9968-4d97-911a-f007e8e737cb&at=APcmpoxwqD6pnJlbMNZAssm8HcO_%3A1746453954462
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="VOD English" tvg-id="" tvg-name="", It Chapter Two (2019)
-https://drive.usercontent.google.com/download?id=1uYK0G2fgjOe4Abes7gKC_1BNTMZl39VA&export=download&authuser=0&confirm=t&uuid=9f1a41cb-8ab5-4d24-90c2-efe01edec35e&at=APZUnTXSpI6NAHj-bst0xuKBDDeR%3A1720656164257
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0VbHQDZQKPaiquzvn4SpDg","kid":"RFejpojKWyiUKQ8U6rIIuw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1vhLbigWuIaYMTXk_7Sg37L84jY9tRNk4g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", John Wick Chapter 2 (2017)
 https://www.googleapis.com/drive/v3/files/1BWXOLdlpmezHvDXt09-KntVHuR2BtvEL?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
