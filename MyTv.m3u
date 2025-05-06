@@ -3851,7 +3851,11 @@ https://drive.usercontent.google.com/download?id=1ADE2KuWb2IQExY58Mz8LNdOh0sBgif
 https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/rllcz0WZoJVMvBTUthlePdUYE52X04GN0w0NwVEeL1UM/Original
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bourne/images/4/4d/Jason_Bourne_Movie_Poster_-_In_Theaters_July_29th%21.jpg/revision/latest?cb=20170702105720" group-title="VOD English" tvg-id="" tvg-name="", Jason Bourne (2016)
-https://drive.usercontent.google.com/download?id=1DPkDJ4jMk1YQNGSCQENtLmwRMqE9LZEh&export=download&authuser=0&confirm=t&uuid=e3c0256d-ae12-47b3-903f-bf7ef8f388b0&at=APZUnTWWR_fzAI1Sr3eLciK2Whc3%3A1721086664656
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fw5gVJOwM9I8HYiG3Xiufw","kid":"SO0s1Hd2dheuUCSpy0QWkw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBkMWE1NGItZTgxMi00ZTE0LWIzZjAtNzQ5ZGZlZTQxN2EwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Craft (1996)
 https://drive.usercontent.google.com/download?id=1OmhCpjB6a9tdnesOwJBH7GzULYGVULRu&export=download&authuser=0&confirm=t&uuid=1e9ebd29-35a3-48cc-bc12-fe7aef63a8c8&at=APZUnTVSMfkCKUEOr6t0qacMFerM%3A1721182690906
