@@ -3300,7 +3300,11 @@ https://storage.dewanonton.online/hls/a4e603a7-2006-4ca7-baa6-2d273c283679.mp4/i
 https://drive.usercontent.google.com/download?id=15bPZs0CFDLCzLbSilW57KBtdWdmZsZTH&export=download&authuser=0&confirm=t&uuid=2b7dff12-9f66-4d05-895f-1cb267e1d65a&at=APcmpoxa_RchWw5MkJS86XKqyAr6%3A1746633173492
 
 #EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/fc3c8d6998e065a2ebe1f319b80953f7.jpg" group-title="VOD English" tvg-id="" tvg-name="", Justice League (2017)
-https://drive.usercontent.google.com/download?id=14bAD_d1s7jvqiwYqnKzzjBcamGd0bF8a&export=download&authuser=0&confirm=t&uuid=a73735ca-7497-4248-a082-e5fc751b3c00&at=APZUnTWpGJ7V2nWn_wq0UWzaHWbI%3A1720703143300
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vHS7+0CRB5XlnMOHq/tFCA","kid":"1gmofy2CUD2T75/ywGWfag"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg" group-title="VOD English" tvg-id="" tvg-name="", King Arthur Legend of the Sword (2017) 
 https://drive.usercontent.google.com/download?id=18iX2wFVcckY9sPPpzcEUSIFKLrLt1SN5&export=download&authuser=0&confirm=t&uuid=c20d48e6-803f-4954-a52e-2c4be42220ad&at=APZUnTUuaSiB6BtVdaDaxZdsEDSI%3A1720708012972
