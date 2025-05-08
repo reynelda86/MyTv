@@ -3307,7 +3307,11 @@ https://drive.usercontent.google.com/download?id=15bPZs0CFDLCzLbSilW57KBtdWdmZsZ
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg" group-title="VOD English" tvg-id="" tvg-name="", King Arthur Legend of the Sword (2017) 
-https://drive.usercontent.google.com/download?id=18iX2wFVcckY9sPPpzcEUSIFKLrLt1SN5&export=download&authuser=0&confirm=t&uuid=c20d48e6-803f-4954-a52e-2c4be42220ad&at=APZUnTUuaSiB6BtVdaDaxZdsEDSI%3A1720708012972
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Dbm2onFQ1AhiJXQAJKf1A","kid":"uN+x7febV/Se3+cqW0OZvw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342457dd940521074b73c60_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/z42kyMizgDKetejusZgucSQsQ4l.jpg" group-title="VOD English" tvg-id="" tvg-name="", Need for Speed (2014)
 https://drive.usercontent.google.com/download?id=1Klp-jN6QVOQigwofKRcCto2pDo7GffPX&export=download&authuser=0&confirm=t&uuid=adc0787f-f87e-41bf-b61c-3e01d0b1a4d5&at=APZUnTWckK0M3LMqxf7reYnrVEHx%3A1720795899263
