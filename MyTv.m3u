@@ -2168,7 +2168,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62792a41d940521074a
 https://storage.dewanonton.online/hls/744008f8-8932-4b9c-9c3f-d0c0548b4f96.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcidUFLhunkUlYbslBoEA44pTKaWP3TYHSaQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Jurassic Park (1993)
-https://drive.usercontent.google.com/download?id=1_r3lhuv55RJM5lcfNQYUdsXR1igxNIZ8&export=download&authuser=0&confirm=t&uuid=b00244a4-28ae-491c-90cb-44c4e9efca2a&at=APZUnTXpR1qf4-RRkIzLBCLCQYMz%3A1720701884391
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6bJRLE9bD6iFEcd54YmVQA","kid":"Zc/ioTX/V8a05jCJOPJ+kQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fd9273ae366782ad9ab33_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbB2_YHLxAlBHqFgbZ2sCzniaPofRPiTFGQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Jurassic Park III (2001)
 https://drive.usercontent.google.com/download?id=18TDbGn31Y9tEb9efTGcgSvtXH7jCI2Ng&export=download&authuser=0&confirm=t&uuid=f8fbe4da-a4c2-443e-8144-63b49d1e02c0&at=APZUnTWOaPeMHaRJ4Y_fBZo_Tkr2%3A1720702078674
