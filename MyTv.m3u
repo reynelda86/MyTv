@@ -2182,7 +2182,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fd9273ae366782ad
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61924d9cfbbcc21f45cea7b4_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqicmdaaVv9a6YHBXNpVX5JwREAIyWrWMFaw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Jurassic World: Fallen Kingdom (2018)
-https://drive.usercontent.google.com/download?id=1u2OYXralPjNHWFCpRlTn2A7Ye4f2p4hE&export=download&authuser=0&confirm=t&uuid=f5512216-52ff-4eac-9e2f-cc82f3a4d504&at=APZUnTWKazhyK7Cn6ORtHndhGjAd%3A1721254936933
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"89E5vTKAptvvetzYNINg4w","kid":"WKeotI+TXdm+mkV2dQ02kQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d805be33ae366782ad9b79d_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4Mjk2MjA0NF5BMl5BanBnXkFtZTcwMzMyNjQ3Mw@@._QL50_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Last Exorcism (2010)
 https://www.googleapis.com/drive/v3/files/1iAttqmsLPD2t_wFqj8CQ2INr9sdZyNmv?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
