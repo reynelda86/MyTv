@@ -3194,7 +3194,11 @@ https://drive.usercontent.google.com/download?id=1QvOLAhylxgm5BC7csgg9RCGcLT20dw
 https://drive.usercontent.google.com/download?id=1bqRaeMaY-HsG2tdGWQzm_Jv3Dm9IXQDt&export=download&authuser=0&confirm=t&uuid=b84fcc5d-d38b-4587-8987-0016bb9c82c0&at=ALoNOgmpDBXgESH7vH9w2ZxB2dqA%3A1746714945549
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/qVCZtwBGls866wBb4PAfYtAjyr8.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", King Kong (2005)
-https://drive.usercontent.google.com/download?id=1Vqh3FTnz4OMpaXMlkQFTtGJKhLP-85__&export=download&authuser=0&confirm=t&uuid=ac65ba24-b8ad-4f9a-b10c-523a15fd459d&at=APZUnTVWzJPiKG5wXHQAoP9OkGBt%3A1720708139323
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x+p2kLIkeMG9q2zLG5TxsQ","kid":"mPY+J0BfVa2Kfg8mA7OL+Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80394b3ae366782ad9b44b_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", King Richard (2021) 
 https://drive.usercontent.google.com/download?id=1h4ISPG0FP_kSb1hn3T2tnVZughk5SqFb&export=download&authuser=0&confirm=t&uuid=6e2cad16-8557-4828-956a-7f69e2f4f2ef&at=APZUnTXFH1qmRW9aqVx8r5T3Mhtd%3A1720708324820
