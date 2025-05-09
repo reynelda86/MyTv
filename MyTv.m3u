@@ -2212,7 +2212,11 @@ https://storage.dewanonton.online/hls/cad4820e-8427-4af4-a982-3ec3b56a42d8.mp4/i
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa3a73ae366782ad9a5c4_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HytloH.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 2 (2011)
-https://drive.usercontent.google.com/download?id=1rgKrFYvOSMwARUagfUXJJSKQbzhcN_ID&export=download&authuser=0&confirm=t&uuid=3512b593-e726-47f7-8fa2-0ca4ce838019&at=APZUnTVQaZ3UdTAcCqYFcLtC1uqj%3A1720709086043
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CYBq/DuE+mJuYPGU6dWBpw","kid":"ZEXyLLa/V4KpdXLPi0qNPw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fb2323ae366782ad9a74c_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 3 (2016)
 https://drive.usercontent.google.com/download?id=1yWLjZcq5d4RukbWf5oUcF2_BJRkLvaYw&export=download&authuser=0&confirm=t&uuid=7220f65e-d49c-4038-8ba9-3661a450bcf8&at=APZUnTXmeU_iMMsAKS94vrH3GUE_%3A1720709205027
