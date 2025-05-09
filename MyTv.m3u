@@ -2219,7 +2219,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa3a73ae366782ad
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fb2323ae366782ad9a74c_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 3 (2016)
-https://drive.usercontent.google.com/download?id=1yWLjZcq5d4RukbWf5oUcF2_BJRkLvaYw&export=download&authuser=0&confirm=t&uuid=7220f65e-d49c-4038-8ba9-3661a450bcf8&at=APZUnTXmeU_iMMsAKS94vrH3GUE_%3A1720709205027
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lv5sJymXIp8hs4EgTj893g","kid":"6WYZodkTDkE6iEx2ke3O8g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbc0d2d940521074c2af68_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3uph4WNgvP1GUqf8wmUKWUuO-2zpS_BzMg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Lucy (2014) 
 https://drive.usercontent.google.com/download?id=16t7dFMYsh-A-P3LendyA9vZXrt0BMCFF&export=download&authuser=0&confirm=t&uuid=3c9b1544-a203-4f2d-9b95-2bf666b10a65&at=APZUnTWW1N81P8fnkh1SZmMmbLoE%3A1720742898592
