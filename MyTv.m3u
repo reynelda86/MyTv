@@ -2238,7 +2238,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbc0d2d940521074c
 https://drive.usercontent.google.com/download?id=1xX1yJDvQEDBeVTxsB5VsT-jyspgBSrZG&export=download&authuser=0&confirm=t&uuid=af4d8cf8-9735-4675-8e83-22196723584a&at=ALoNOgmNKBA88FuQ3QAd5s41XC8s%3A1746971920571
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkevr7xNI06Mhty417R8NvgaG-rfH8eRwZJg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Man of Steel (2013) 
-https://drive.usercontent.google.com/download?id=1ffk10rgMxsxp_nSDFAIW-MMnZHo0JTga&export=download&authuser=0&confirm=t&uuid=df2bee94-7bbe-45d2-93fc-a93888eb4e37&at=APZUnTV9lhi6yLzP_loWuq1HpRyr%3A1720702934078
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VobtgETYxHbVn0fVrOK4qg","kid":"I5ZiuwnPWByRUG9o2Iz8bA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f3cfc6d048943f7754cde_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XryfVhW.jpg" group-title="VOD English" tvg-id="" tvg-name="", Master Z: The Ip Man Legacy (2018)
 https://drive.usercontent.google.com/download?id=1RAUyq3lGZvTQPFO_jrAstHUrfrUrc22Q&export=download&authuser=0&confirm=t&uuid=90d1d12c-9d9c-4e76-a592-e0053390b05c&at=APZUnTWTQaCJWtYQe-VKZfJufeot%3A1720625566589
