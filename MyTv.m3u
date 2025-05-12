@@ -1031,7 +1031,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef
 https://stream.hownetwork.xyz/xxx/madagascar-escape-2-africa-2008-bluray_X_bffacf76/21/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81wLmqOPREL._AC_UF894,1000_QL80_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Madagascar 3: Europes Most Wanted (2012)
-https://drive.usercontent.google.com/download?id=1AHuakojnx-xSAzuN4xF9I4hzrnR2Csk0&export=download&authuser=0&confirm=t&uuid=2f3858bf-004c-4982-a95a-8b0df840dc0f&at=APZUnTU4rwOSP8kYvqaAPxyN-lUT%3A1722529905479
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mXv5bUs+K+wma2ug+k7nNQ","kid":"iL+vHPKqX4Clax2KMPzSPw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/bkEpN0CfxnXG-ZmSu9I_k6ikqiQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10800949_p_v10_aa.jpg" group-title="VOD English" tvg-id="" tvg-name="", Penguins of Madagascar (2014)
 https://drive.usercontent.google.com/download?id=1jJ1GAhMpJYIWookhGMT3Zww085NaCgpk&export=download&authuser=0&confirm=t&uuid=82931204-6b2e-4c22-bc5f-6a151f475feb&at=APZUnTXidn4qgeSKJ27gjRCsxfgE%3A1722530350101
