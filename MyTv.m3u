@@ -1028,7 +1028,11 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/071886f2-5
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef4acd7_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91u7jPIei0L._AC_UF894,1000_QL80_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Madagascar: Escape 2 Africa (2008)
-https://stream.hownetwork.xyz/xxx/madagascar-escape-2-africa-2008-bluray_X_bffacf76/21/480.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N6p2P/MoCWjKDrlZmQGAtQ","kid":"CUf9DdgVU0GyWylBhCcdXA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81wLmqOPREL._AC_UF894,1000_QL80_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Madagascar 3: Europes Most Wanted (2012)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
