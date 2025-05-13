@@ -1621,7 +1621,11 @@ https://www.googleapis.com/drive/v3/files/1r1LAc4gIRlIFJAjvOBDvDuPHek7CAOo4?alt=
 https://www.googleapis.com/drive/v3/files/1ejcmKyRCcTRG7khTLThq563yR-SgXsOJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Memory (2022) 
-https://drive.usercontent.google.com/download?id=13d0poAxRdpE14fvuGX3o3BwipyV_HEsK&export=download&authuser=0&confirm=t&uuid=27794d0e-8299-42e6-ba16-2d32124425c3&at=APZUnTVezanyXBuUh8KcDANXPTZ5%3A1720744966912
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dpX4S8UFSWWllHzUTEgPSg","kid":"yxe+xyRPKgPlZEeAr4hIbw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687a2d940521074c9b9f1_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/khlcsYHr7Hi4Tkymc7UGDvcUcx.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible: Ghost Protocol (2011)
 https://cdn.juraganfilm.my.id/media/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/35GaJxmTh92M0cXQyIHdHBnRXRWS5t2NXdXczV2a5hVM/1920x800
