@@ -2163,7 +2163,11 @@ https://drive.usercontent.google.com/download?id=1g-IdBh5_KtA95cCOUwOehVoi2VBT3w
 https://storage.dewanonton.online/hls/4e23c8d9-1ecc-4811-9082-65aeec897775.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._UX185_CR0,0,185,263_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Minions: The Rise Of Gru (2022) 
-https://drive.usercontent.google.com/download?id=1d6S88TY_VXAKe4ZDp13iUtHyZQoFX-i0&export=download&authuser=0&confirm=t&uuid=68c80b7d-ede9-4634-9208-2ed60bc84f8e&at=APZUnTWXX9w0n49TXwBkzsENau3I%3A1722530903851
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XX0z44dh7V9zL8NfzMjjrw","kid":"I3FR6oWZvO1wJCsaYOK9zA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f31649d940521074c7e33c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRt2-73rwMJB6tUSltkYvRRyt68_fARIAyKw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Enola Holmes (2020)
 https://storage.dewanonton.online/hls/c05223f6-ac05-4d29-8890-98c2bad455b6.mp4/index.m3u8
