@@ -1600,7 +1600,11 @@ https://storage.dewanonton.online/hls/22ce81e8-c3b1-444d-a1bf-ef5e88669a7d.mp4/i
 https://storage.dewanonton.online/hls/629db5f8-dcd5-4830-b8ca-f5041f520331.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg" group-title="VOD English" tvg-id="" tvg-name="", Minions (2015)
-https://stream.hownetwork.xyz/xxx/minions-2015-bluray/7/480.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rJSfIEFV0MKJvn2K6EeJVg","kid":"bE+HWFWBV7CUq+OppWqePg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4a81f8caa5a5e0b11f207_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yellow_is_the_New_Black_S-162319392-large.jpg" group-title="VOD English" tvg-id="" tvg-name="", Yellow is the New Black (2018)
 https://be6224.rcr92.lim01.cdn112.com/download/01/02748/es9mowmhn2ch_h/D21%20FUN%20Yellow%20is%20the%20new%20black2018%20mp4?t=45CQvctXe5HmSt8Txm_QOCi9yU2QmEiLs26v0Ru-04U&s=1708872057&e=43200&f=13742154&srv=20&asn=4788&sp=500
