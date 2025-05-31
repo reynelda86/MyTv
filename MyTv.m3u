@@ -1450,8 +1450,11 @@ https://storage.dewanonton.online/hls/a50d055f-8f08-482d-a3c4-20d076028d52.mp4/i
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyOTQzZjgtMDM1OC00MWMxLWI2ZGUtYWUwOTQxNTRmZTU0XkEyXkFqcGdeQXVyNTU1MDIzMzg@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", No Way Up (2024)
 https://storage.dewanonton.online/hls/915d8c64-a132-4183-8d03-20288df59d9e.mp4/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VU10rZRvGZX7VzUza5qj1A", "kid":"CBirmhmOY+EhaHqvrl+DEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg" group-title="VOD English" tvg-id="" tvg-name="", OPPENHEIMER (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/GRGavt0TxQGTQVTY2h0VFJGevlVbuBTMvdnYMhES5QUM/Original
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/799fb676-7a7e-56cc-8c1f-644d85f66168/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/american-fiction-2023/large_american_fiction.jpg" group-title="VOD English" tvg-id="" tvg-name="", American Fiction (2023)
 https://storage.dewanonton.online/hls/805f36b5-8dae-4078-92e4-3ca5d796cad2.mp4/index.m3u8
