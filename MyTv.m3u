@@ -201,7 +201,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
-https://line.now-ott.xyz//live/451AAD/3f41a2/63522.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="English" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
