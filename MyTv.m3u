@@ -511,10 +511,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
-#EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/5a53b1760d2c1e3aa507fa4bea98fe84.png" group-title="English" tvg-id="" tvg-name="", Lifetime Movies Network
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="PBSAmerica.us" tvg-name="PBSAmerica.us", PBS America
 https://line.now-ott.xyz//live/451AAD/3f41a2/100839.ts
 
