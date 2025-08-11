@@ -356,10 +356,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=753280&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeHf0jzLrnmwQh6sz5EL-ILm2F7OM1v-S8Q&usqp=CAU" group-title="English" tvg-id="Showtime2East.us" tvg-name="Showtime2East.us", Showtime 2 East
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134159&extension=m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175469&extension=ts
