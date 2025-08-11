@@ -362,7 +362,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134159&extension=
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.newkso.ru/wind/premium671/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175469&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
