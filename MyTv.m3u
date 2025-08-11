@@ -205,7 +205,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175457&extension=
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="English" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.newkso.ru/wind/premium676/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175464&extension=ts
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="English" tvg-id="skyselect.uk" tvg-name="skyselect.uk", Sky Cinema Select
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
