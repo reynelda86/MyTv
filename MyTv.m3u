@@ -373,8 +373,10 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://cord-cutter.net:8080//live/25464931/30585186/9816.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
-http://xtv.ooo:8080/danyear12/am809100/66213
+https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
