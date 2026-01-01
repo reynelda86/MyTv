@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CINEMACHI MAX HD - [Channel 404].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20MAX%20Square%20(black).png" group-title="movies",TV3
-#EXTVLCOPT:http-user-agent=AppleTV5,3/9.1.1
-https://unifi-live2.secureswiftcontent.com/Content/HLS/Live/channel(TV3)/04.m3u8
-
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TV3_logo.png", TV3 Malaysia
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.23D5089e (iPhone; U; CPU OS 26_3 like Mac OS X; en_gb)
-https://unifi-live2.secureswiftcontent.com/Content/HLS/Live/channel(TV3)/04.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-chno="" ch-number="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500&updatedTime=2025-06-27T04%3A23%3A19Z",TV3
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
