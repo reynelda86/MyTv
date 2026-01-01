@@ -1,7 +1,6 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="Free TV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500",TV3 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 group-title="Free TV" tvg-id="" tvg-chno="" ch-number="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500&updatedTime=2025-06-27T04%3A23%3A19Z",TV3
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.p-p-s.quickplay.com/proxy/widevine/license|Content-Type=application/octet-stream&User-Agent=Mozilla/5.0|R{SSM}|
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
