@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Free TV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500",TV3 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.p-p-s.quickplay.com/proxy/widevine/license|Content-Type=application/octet-stream&User-Agent=Mozilla/5.0|R{SSM}|
+
+#EXTINF:-1 group-title="Free TV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png",TV3
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
+
+#EXTINF:-1 group-title="Free TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/8TV_logo_2022.png",8TV
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd
+
+#EXTINF:-1 group-title="Free TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV9_logo_2021.png",TV9
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master.mpd
+
+#EXTINF:-1 group-title="Free TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/DidikTV_KPM_logo.png",DidikTV KPM
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DidikTV)/master.mpd
