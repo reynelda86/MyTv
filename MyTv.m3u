@@ -170,7 +170,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
+#EXTHTTP:{"Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1767509642~acl=%2f*~id=a102e36b-9d92-45ca-8a4d-4a1f778eb49b~data=hdntl~hmac=778fc3afc1f23be2939a14eee81f7d1b072c98a8e8e017bb8cee62fe73e6b648
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
