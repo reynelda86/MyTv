@@ -382,7 +382,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134118&extension=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBokFnd9M6ELd7QJySsfyCjv0kvM6APWWTw&usqp=CAU" group-title="English" tvg-id="Epix2East.us" tvg-name="Epix2East.us", Epix2 East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://cord-cutter.net:8080//live/25464931/30585186/12730.ts
+http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/12730.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019.png" group-title="English" tvg-id="EpixEast.us" tvg-name="EpixEast.us", Epix East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
