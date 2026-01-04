@@ -345,7 +345,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqwX_gWTtYQPOMH8hMv2YwbzgsIvpWOMACQ&usqp=CAU" group-title="English" tvg-id="EpixHits.us" tvg-name="EpixHits.us", Epix Hits
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=753280&extension=m3u8
+http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/12744.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
