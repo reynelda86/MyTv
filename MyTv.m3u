@@ -2457,8 +2457,12 @@ https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.newkso.ru/wind/premium333/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="English" tvg-id="GALAXY" tvg-name="GALAXY", GALAXY
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1WwhSPFyb4yE5dj9BOS-DliPBclMpFt3vA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Grudge (2020)
 https://drive.usercontent.google.com/download?id=1q97VjbOT6J_b-IPFhCIXKbcHPpHwCbtu&export=download&authuser=0&confirm=t&uuid=e931d510-ca06-497a-b95b-4b942365a078&at=APZUnTX0RZ75oUOTc6ca5rx4S65Q%3A1721222627326
