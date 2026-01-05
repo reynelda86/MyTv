@@ -3531,7 +3531,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7736963ae366782ad
 https://drive.usercontent.google.com/download?id=1CtMz5pmmhbF0fzUH5i9Uo-Cyb97itZMt&export=download&authuser=0&confirm=t&uuid=f3123020-febf-42c1-8d8c-1dc0d99530ed&at=APZUnTWa8HRA_U0r5Kzxcldmrav5%3A1721182211370
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GALAXYPremium" tvg-name="GALAXYPremium", GALAXY Premium
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="SPOTV" tvg-name="SPOTV", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
