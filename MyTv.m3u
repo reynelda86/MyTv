@@ -477,7 +477,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="HITSMovies" tvg-name="HITSMovies", Hits Movies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+https://converse.nathcreqtives.com/astro/2305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY3NDUwNjg3LCJleHAiOjE3Njc4Njk4NjEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2Nzg2OTg2MX0.9puUPiDaydWR5UrF3UH3V1m2ZecC_eJgR9b3o9qZZQI
 
 #EXTINF:0 tvg-id="703" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/zHfHbXZ/image-66.png" group-title="English",Lifetime HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
