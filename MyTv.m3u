@@ -67,10 +67,7 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
+http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/13381.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
 http://tv.cloudcdn.me:80/live.ts?channelId=199&deviceMac=00:1A:79:0A:3B:2D
