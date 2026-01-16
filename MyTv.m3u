@@ -3533,7 +3533,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetwork" tvg-name="ParamountNetwork", Paramount Network
-http://fl5.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
