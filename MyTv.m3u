@@ -459,12 +459,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="English" tvg-id="HITS" tvg-name="HITS", HITS HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="English" tvg-id="HITSMovies" tvg-name="HITSMovies", Hits Movies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
