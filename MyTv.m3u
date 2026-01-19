@@ -209,10 +209,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=162&deviceMac=00:1A:79:0A:3B:2D
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hayv4hgp.rostelekom.xyz/iptv/56VSPXARPUGX6T/6155/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg4you.com/logos/skycinemahits_uk.png" group-title="English" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk", Sky Cinema Hits
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175467&extension=ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png" group-title="English" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema East
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://cord-cutter.net:8080//live/25464931/30585186/17775.ts
