@@ -331,10 +331,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/12744.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="English" tvg-id="SkyCinemaPremiere.uk" tvg-name="SkyCinemaPremiere.uk", Sky Cinema Premiere
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175469&extension=ts
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H" group-title="English" tvg-id="ROCKEntertainment" tvg-name="ROCKEntertainment", ROCK Entertainment
