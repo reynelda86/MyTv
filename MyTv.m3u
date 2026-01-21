@@ -2976,7 +2976,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg" group-title="Chinese" tvg-id="Ch 8" tvg-name="Ch 8", Channel 8
-http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvlbUwrsikCkKR-LWy2nEEmgKWWpS07_Gkg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scream (1996)
 https://drive.usercontent.google.com/download?id=1WMaTWtmDWD2CQjhq6j5cAjRvGf0PiS5Z&export=download&authuser=0&confirm=t&uuid=48667191-2528-4fb5-81ac-c08a2ed028e4&at=APZUnTU6K-G-hU1EDnpyTiUx6l68%3A1720941785327
