@@ -338,8 +338,11 @@ http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/9816.ts
 https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png" group-title="English" tvg-id="SonyMovies.us" tvg-name="SonyMovies.us", Sony Movies
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://cord-cutter.net:8080//live/25464931/30585186/2214.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2 
+https://zap-live1-ott.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4X3wBTZz4KpQAATVeo015AAAAA&pid=Api&P=0&w=300&h=300" group-title="English" tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us", Showtime Next East
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
