@@ -1,12 +1,12 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://mimipipi22.github.io/logo/international/tvbsasia.jpg" group-title="Taiwan|China",TVBS ASIA 2
-https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://mimipipi22.github.io/logo/international/tvbsasia.jpg" group-title="Taiwan|China",TVBS ASIA
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN 2
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
