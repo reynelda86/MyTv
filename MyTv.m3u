@@ -257,12 +257,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="Entertainment" tvg-id="MTV90s" tvg-name="MTV90s", MTV 90s
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PW6Myl.jpeg" group-title="Entertainment" tvg-id="" tvg-name="", Now 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
