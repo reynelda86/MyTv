@@ -211,9 +211,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Indian" tvg-id="" tvg-name="", And Picture HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=139&deviceMac=00:1A:79:0A:3B:2D
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Indian" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
