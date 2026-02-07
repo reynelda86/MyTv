@@ -1,14 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318746'&EntityType='Item'&EntityId='97096'&Width=885&Height=250" group-title="Astro GO", Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="MOVIES",TVN MOVIES
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="MOVIES",TVN MOVIES 2
-https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
