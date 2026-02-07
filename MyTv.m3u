@@ -263,10 +263,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Entertainment" tvg-id="MTV2East.us" tvg-name="MTV2East.us", MTV 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://fl5.moveonjoy.com/MTV_2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PW6Myl.jpeg" group-title="Entertainment" tvg-id="" tvg-name="", Now 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
