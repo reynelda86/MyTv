@@ -72,9 +72,6 @@ http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/13381.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
 http://tv.cloudcdn.me:80/live.ts?channelId=199&deviceMac=00:1A:79:0A:3B:2D
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Vevo_Thumbnail_2013.svg/revision/latest?cb=20210103132455" group-title="Entertainment" tvg-id="" tvg-name="", Vevo 2010s
-https://jmp2.uk/sam-USBD120002431.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Malay" tvg-id="121.unifi" tvg-name="121.unifi", Siar
@@ -269,10 +266,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/surautv.png" group-title="Islam" tvg-id="surautv.id" tvg-name="surautv.id", Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://surautv.siar.us/live/surautv.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6a9be37123e36e726eb8d071f434654a.png" group-title="Entertainment" tvg-id="" tvg-name="", MTV Classic
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00pE-r-j-g_OMotnWvlzQL1feG-gmjwBnMw&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", Fight Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -559,23 +552,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="Chinese" tvg-id="tvNMovies" tvg-name="tvNMovies", tvN Movies HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="Entertainment" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU" group-title="Entertainment" tvg-id="" tvg-name="", MTV Spankin New
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb8ITI5hd_tFhGwNlrfawVQi5oUy8nweAjQ&usqp=CAU" group-title="Entertainment" tvg-id="MTVMusic24.us" tvg-name="MTVMusic24.us", MTV Music 24
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Entertainment" tvg-id="MTVAsia" tvg-name="MTVAsia", MTV Live HD
-http://190.102.246.93:9005/play/a01p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Entertainment" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
