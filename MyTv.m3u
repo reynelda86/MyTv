@@ -2568,9 +2568,6 @@ https://www.googleapis.com/drive/v3/files/1IGykop35Hcrs_CmwItJE5xz2tTAAz_DW?alt=
 #EXTINF:-1 tvg-logo="http://tny.im/oQZ" group-title="VOD English" tvg-id="" tvg-name="", Grown Ups 2 (2013)
 https://www.googleapis.com/drive/v3/files/1YHBVh7tjwKDgU7OBx60l3ZjdI-GXFpY4?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="599375885ceaac3cabccbed7" tvg-name="599375885ceaac3cabccbed7", Cats 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Lifestyle & Documentary" tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary", CGTN Documentary
 https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
