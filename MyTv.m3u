@@ -2568,8 +2568,11 @@ https://www.googleapis.com/drive/v3/files/1IGykop35Hcrs_CmwItJE5xz2tTAAz_DW?alt=
 #EXTINF:-1 tvg-logo="http://tny.im/oQZ" group-title="VOD English" tvg-id="" tvg-name="", Grown Ups 2 (2013)
 https://www.googleapis.com/drive/v3/files/1YHBVh7tjwKDgU7OBx60l3ZjdI-GXFpY4?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Lifestyle & Documentary" tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary", CGTN Documentary
-https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDocumentaryHD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Entertainment" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
